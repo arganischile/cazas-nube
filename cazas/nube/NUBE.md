@@ -19,6 +19,10 @@ navegador; acá no hay navegador y el disco es un clon de git.
 
 ## 2. Arranque obligatorio (antes de cazar)
 
+0. **Trabajá sobre `main`, no sobre la rama que te dio la nube.** El entorno suele dejar el clon en una rama propia
+   (`main-xxxxxx`, `claude/...`): ahí `git push origin main` no empuja nada y el hook de cierre termina subiendo
+   esa rama al repo. Antes de escribir nada: `git fetch origin main && git checkout -B main origin/main`
+   (comprobá con `git branch --show-current` que diga `main`). Nunca empujes otra rama que no sea `main`.
 1. `git pull --rebase origin main` (otra rutina pudo haber escrito hace minutos). Si falla, `git fetch origin
    main && git reset --hard origin/main` **solo si todavía no escribiste nada**.
 2. Hora y fecha en `America/Santiago` (`TZ=America/Santiago date`). El día de la semana decide el modo (§5).
@@ -40,7 +44,7 @@ navegador; acá no hay navegador y el disco es un clon de git.
   ```
   git add -A
   git commit -m "caza <XX> <fecha> <modo> <nodo> → <n> tarjetas"
-  for i in 1 2 3; do git pull --rebase origin main && git push origin main && break; sleep 10; done
+  for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 10; done
   git log --oneline -1 && git status -sb
   ```
   Con un clon shallow, si el push falla con «shallow update not allowed», hacé `git fetch --unshallow origin`
