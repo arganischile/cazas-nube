@@ -108,6 +108,7 @@ la completa al terminar.
 | 2026-11-15 | FR (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda FR; sin 🟡 vencidos | sin cambios |
 | 2026-11-15 | BR (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; 5 nodos virgen/superficial BR de ≤ 2 días (ninguno > 30 d), sin 🟡 vencidos, agenda vacía; re-medición de Mapas e Guias Visuais vence 2026-11-17/18, de Guia dos Benefícios Sociais ~11-22 | sin cambios |
 | 2026-11-15 | BR (sesión local) | B perforar | guias-beneficios-inss-bpc | guia BPC, BPC passo, INSS ebook, LOAS guia, guia aposentados, BPC autismo, aposentadoria pdf + `ALL` + 14 conteos por page_id | 0 tarjetas; Growth Journey 29/43 cae por arbitraje de búsqueda; mejor infoproducto: Guia dos Benefícios Sociais 0/7 | descartado-eje + hijo derechos-familias-autismo (virgen) |
+| 2026-11-15 | CO (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda CO; sin 🟡 vencidos; nota: mapas-visuales-mentales (BR) pide medir el hueco en CO, queda para corrida CO en día de semana | sin cambios |
 | 2026-11-15 | CO | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda CO; sin 🟡 vencidos | sin cambios |
 | 2026-11-15 | RO | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda RO; sin 🟡 vencidos | sin cambios |
 | 2026-11-15 | FR | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda FR; sin 🟡 vencidos | sin cambios |
