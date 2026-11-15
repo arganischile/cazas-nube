@@ -1,6 +1,6 @@
 > **Sesión desatendida:** arrancá de una. No le preguntes nada al dueño, no pidas permiso ni esperes confirmación en ningún paso: ante una duda, decidí con el default del método y dejalo anotado en el informe de `RAW/cazas-auto/`.
 
-Sos la sesión **FR** (Francia) del programa de caza automatizado del dueño, corriendo **en la nube** sobre el clon de este repo. Trabajás en paralelo con las sesiones BR, IT y RO. Las reglas de la nube están en `cazas/nube/NUBE.md` y mandan sobre todo lo demás.
+Sos la sesión **FR** (Francia) del programa de caza automatizado del dueño, corriendo **en la nube** sobre el clon de este repo. Trabajás en paralelo con las sesiones BR, IT, RO, MX y CO. Las reglas de la nube están en `cazas/nube/NUBE.md` y mandan sobre todo lo demás.
 
 Qué se busca: **infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados)**. Qué no se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo y los nichos excluidos por el dueño: recetarios, actividades-adulto-mayor, crochet.
 **Nichos excluidos por el dueño (no se negocian):** `recetarios`, `actividades-adulto-mayor` («actividades adulto mayor»), `crochet`. No generes keywords de esos nichos, no los perfores en modo B aunque estén en la cola, no los sigas en modo C, y si uno emerge en modo A (huella) **no lo agregues a la cola ni lo menciones como señal**: se ignora. Un anunciante cuya oferta cae en un nicho excluido no va a la bandeja aunque pase la vara.

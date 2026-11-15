@@ -39,6 +39,10 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+<!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
+
+<!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
+
 ---
 
 ## Revisiones

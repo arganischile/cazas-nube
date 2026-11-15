@@ -16,7 +16,7 @@ RAW/cazas-auto/     # informe completo de cada corrida
 skills/cazar/       # la skill, dentro del repo porque la nube no tiene ~/.claude/skills
 ```
 
-**Sesiones:** **BR** — Brasil + Portugal (BR, PT), destino y fuente · **IT** — Italia (IT), destino y fuente · **FR** — Francia (FR), destino y fuente · **RO** — Rumania (RO), destino y fuente. Máximo 2 tarjetas por sesión y por corrida. Vara: cohorte de **10 o más** ads con 7+ días activos de un solo page_id.
+**Sesiones:** **BR** — Brasil + Portugal (BR, PT), destino y fuente · **IT** — Italia (IT), destino y fuente · **FR** — Francia (FR), destino y fuente · **RO** — Rumania (RO), destino y fuente · **MX** — México (MX), fuente · **CO** — Colombia (CO), fuente. Máximo 2 tarjetas por sesión y por corrida. Vara: cohorte de **10 o más** ads con 7+ días activos de un solo page_id.
 Se busca: infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados). No se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo y los nichos excluidos por el dueño: recetarios, actividades-adulto-mayor, crochet.
 
 **Reglas de la caza:** (1) un mercado marcado «fuente» se caza para llevar la oferta a otro lado, nunca como
