@@ -64,6 +64,7 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
 RO 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda RO vencidos; nada que pase la vara.
+RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda RO; nada que pase la vara.
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
