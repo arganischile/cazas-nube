@@ -92,4 +92,5 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | BR | A huella (sáb: C agenda sin operadores ni agenda → cola vacía → A) | — | en curso | en curso | — |
 | | | | | | | |
