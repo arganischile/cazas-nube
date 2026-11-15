@@ -14,3 +14,4 @@
 ## [2026-11-15] caza-auto | BR lint de la cola (tarde) → 0 candidatos a bandeja
 ## [2026-11-15] caza-auto | FR lint de la cola (tarde) → 0 candidatos a bandeja
 ## [2026-11-15] caza-auto | RO lint de la cola (tarde) → 0 candidatos a bandeja
+## [2026-11-15] caza-auto | MX lint de la cola (tarde) → 0 candidatos a bandeja
