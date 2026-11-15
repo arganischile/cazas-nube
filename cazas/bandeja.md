@@ -26,6 +26,13 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pronta, mapas mentais, ebook completo, acesso vitalício, material digital (16 páginas contadas; la mejor, Riscos para Bordar 7/16).
+
+**Señales del día BR**
+- Riscos para Bordar (moldes de bordado, page_id 396283016894466): cohorte 7/16 en BR, a 3 de la vara; re-medir en unos días. Embudo no verificado desde la nube.
+- Red de «mapas visuales/mentais» (SharkAprova R$ 27,90, Mapa Mestre, Francês do Zero à Fluência, Tudo sobre unhas con 36 ads y 8+ SKU): nicho emergente, ninguna pasa 10 todavía.
+- Mapas e Guias Visuais (127 ads est. en una sola tanda de hace ~22 h): cohorte no medible aún; re-medir en 3-4 días.
+
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->

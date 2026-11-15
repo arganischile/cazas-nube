@@ -38,6 +38,10 @@ los nichos que emergen.
 | recetarios | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | actividades-adulto-mayor | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | crochet | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
+| mapas-visuales-mentales | — | BR | virgen | 2026-11-14 huella: 8 páginas (SharkAprova, Mapa Mestre, Saber digital, Tudo sobre unhas…); ninguna con cohorte ≥ 10 | modo B: perforar por avatar (concursos, idiomas, salud) · apareció por huella el 2026-11-14 |
+| moldes-bordado-riscos | — | BR | virgen | 2026-11-14 huella: Riscos para Bordar 7/16 | modo B: re-medir y perforar subnichos (bordado, moldes de Natal) · apareció por huella el 2026-11-14 |
+| guias-beneficios-inss-bpc | — | BR | virgen | 2026-11-14 huella: Guia Prático do BPC 0/4 | modo B · apareció por huella el 2026-11-14 |
+| habito-parar-de-fumar-corrida-5k | — | BR | virgen | 2026-11-14 huella: Parar de Fumar de Vez 0/6, Nasce um corredor 0/10 | modo B · apareció por huella el 2026-11-14 |
 
 ---
 
@@ -63,6 +67,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | landing de operador 🇧🇷 | geo-redirige por idioma | el precio del mercado cazado se mira desde el checkout |
 | página que devuelve **0 con `ALL`** | no está pausada: ya no existe | anotarla como desaparecida |
 | un whale migra de página sin apagar el negocio | contar solo la página madre lo da por muerto | contar también las páginas hermanas de su ficha |
+| página «cáscara» con nombre ajeno (Tudo sobre unhas vende mapas, moldes, proyectos) | el page_name no dice el nicho | leer el título del ad |
+| página con tanda masiva de ayer (Mapas e Guias Visuais, 127 est.) y `limit:50` | los 50 son de hace ~22 h: cohorte no medible, no es 0 | reportar «≥50, cohorte no medible» y re-medir en 3-4 días |
 
 ## Operadores a seguir (modo C)
 
@@ -71,7 +77,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 
 | Operador | page_id | País | Por qué se lo sigue |
 |---|---|---|---|
-| | | | |
+| Tudo sobre unhas (multi-SKU) | 106958424923732 | BR | 36 ads activos, 8+ SKU (mapas, moldes, proyectos); seguir SKUs nuevos |
+| Riscos para Bordar | 396283016894466 | BR | 7/16 el 2026-11-14; re-medir |
+| Mapas e Guias Visuais | 1394868680373327 | BR | 127 est. activos en una sola tanda; medir cohorte en 3-4 días |
 
 ## Rotación vigente
 
@@ -92,5 +100,5 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-14 | BR | A huella (sáb: C agenda sin operadores ni agenda → cola vacía → A) | — | en curso | en curso | — |
+| 2026-11-14 | BR | A huella (sáb: C agenda sin operadores ni agenda → cola vacía → A; corrida de noche) | — | 6 huellas (guia prático pdf, planilha pronta, mapas mentais, ebook completo, acesso vitalício, material digital) + 16 conteos por page_id | 0 tarjetas; mejor: Riscos para Bordar 7/16 | 4 nodos virgen nuevos, 3 operadores |
 | | | | | | | |
