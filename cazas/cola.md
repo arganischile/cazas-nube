@@ -100,5 +100,6 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | MX | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda MX | sin cambios |
 | 2026-11-14 | BR | A huella (sáb: C agenda sin operadores ni agenda → cola vacía → A; corrida de noche) | — | 6 huellas (guia prático pdf, planilha pronta, mapas mentais, ebook completo, acesso vitalício, material digital) + 16 conteos por page_id | 0 tarjetas; mejor: Riscos para Bordar 7/16 | 4 nodos virgen nuevos, 3 operadores |
 | | | | | | | |
