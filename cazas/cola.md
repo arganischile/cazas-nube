@@ -40,7 +40,8 @@ los nichos que emergen.
 | crochet | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | mapas-visuales-mentales | — | BR | superficial | 2026-11-14 huella: 8 páginas, ninguna ≥ 10. 2026-11-15 (sesión local): Fluente com Legenda 170/240 y Educa Visual Digital 75/75 pasan la vara (2 tarjetas en bandeja); 4 jugadores en el formato | modo B: perforar avatares sin jugador (concursos PRF/TRT, enfermería, español para brasileños) y medir el hueco en MX/CO/AR/PE/CL |
 | moldes-bordado-riscos | — | BR | virgen | 2026-11-14 huella: Riscos para Bordar 7/16 | modo B: re-medir y perforar subnichos (bordado, moldes de Natal) · apareció por huella el 2026-11-14 |
-| guias-beneficios-inss-bpc | — | BR | virgen | 2026-11-14 huella: Guia Prático do BPC 0/4 | modo B · apareció por huella el 2026-11-14 |
+| guias-beneficios-inss-bpc | — | BR | descartado-eje | 2026-11-15 (sesión local, modo B): 7 keywords (guia BPC, BPC passo, INSS ebook, LOAS guia, guia aposentados, BPC autismo, aposentadoria pdf) + `ALL`; subnichos autismo, aposentados, salário-maternidade, Bolsa Família. Nadie ≥ 10: el gasto es de abogados (servicio) y la red «Implantes pelo SUS» (Growth Journey 29/43) es arbitraje de búsqueda. Único tester real: Guia dos Benefícios Sociais 0/7 a R$ 19,90 | eje «guía de trámite INSS/BPC» cerrado en BR; queda el hijo de autismo |
+| guias-beneficios-inss-bpc/derechos-familias-autismo | guias-beneficios-inss-bpc | BR | virgen | 2026-11-15: «BPC autismo» da ~3.285 ads activos, casi todos de abogados; ningún infoproducto para familias visto | modo B: guía de derechos y trámites para padres de hijos con TEA (BPC, IPVA, IR, escuela); keywords sin «advogado» |
 | habito-parar-de-fumar-corrida-5k | — | BR | virgen | 2026-11-14 huella: Parar de Fumar de Vez 0/6, Nasce um corredor 0/10 | modo B · apareció por huella el 2026-11-14 |
 
 ---
@@ -69,6 +70,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | un whale migra de página sin apagar el negocio | contar solo la página madre lo da por muerto | contar también las páginas hermanas de su ficha |
 | página «cáscara» con nombre ajeno (Tudo sobre unhas vende mapas, moldes, proyectos) | el page_name no dice el nicho | leer el título del ad |
 | página con tanda masiva de ayer (Mapas e Guias Visuais, 127 est.) y `limit:50` | los 50 son de hace ~22 h: cohorte no medible, no es 0 | reportar «≥50, cohorte no medible» y re-medir en 3-4 días |
+| «Guia prático: …» de páginas genéricas en inglés (Growth Journey, Winning Mindset, Driven Forward, Goal Summit, Home Style) que pagan en **USD/PLN** | arbitraje de búsqueda (RSOC): el clic va a `track.*` → artículo gratis (`financeply.com`, `utm_medium=gs`); la longevidad es real pero no vende nada | descartar por embudo; si el título trae «Guia prático» y la moneda no es la local, abrir el destino antes de contar |
 
 ## Operadores a seguir (modo C)
 
@@ -80,6 +82,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Tudo sobre unhas (multi-SKU) | 106958424923732 | BR | 36 ads activos, 8+ SKU (mapas, moldes, proyectos); seguir SKUs nuevos |
 | Riscos para Bordar | 396283016894466 | BR | 7/16 el 2026-11-14; re-medir |
 | Mapas e Guias Visuais | 1394868680373327 | BR | 127 est. activos en una sola tanda; medir cohorte en 3-4 días |
+| Guia dos Benefícios Sociais | 1415031105033080 | BR | 0/7 el 2026-11-15, guía a R$ 19,90, página nueva; re-medir ~2026-11-22 |
 
 ## Rotación vigente
 
@@ -100,6 +103,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | BR (sesión local) | B perforar | guias-beneficios-inss-bpc | guia BPC, BPC passo, INSS ebook, LOAS guia, guia aposentados, BPC autismo, aposentadoria pdf + `ALL` + 14 conteos por page_id | 0 tarjetas; Growth Journey 29/43 cae por arbitraje de búsqueda; mejor infoproducto: Guia dos Benefícios Sociais 0/7 | descartado-eje + hijo derechos-familias-autismo (virgen) |
 | 2026-11-15 | CO | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda CO; sin 🟡 vencidos | sin cambios |
 | 2026-11-15 | RO | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda RO; sin 🟡 vencidos | sin cambios |
 | 2026-11-15 | FR | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda FR; sin 🟡 vencidos | sin cambios |
