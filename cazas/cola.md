@@ -100,6 +100,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | FR | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda FR; sin 🟡 vencidos | sin cambios |
 | 2026-11-15 | IT | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda IT | sin cambios |
 | 2026-11-15 | BR | lint de la cola (dom) | — | ninguna | 0 tarjetas; 4 nodos virgen BR de 1 día (ninguno > 30 d), sin 🟡 vencidos, agenda vacía; re-medición de Mapas e Guias Visuais (127 est.) vence 2026-11-17/18, de Riscos para Bordar y Tudo sobre unhas toca en la quincena (~11-28) | sin cambios |
 | 2026-11-15 | MX | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda MX | sin cambios |
