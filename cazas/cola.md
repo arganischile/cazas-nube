@@ -38,7 +38,7 @@ los nichos que emergen.
 | recetarios | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | actividades-adulto-mayor | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | crochet | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
-| mapas-visuales-mentales | — | BR | virgen | 2026-11-14 huella: 8 páginas (SharkAprova, Mapa Mestre, Saber digital, Tudo sobre unhas…); ninguna con cohorte ≥ 10 | modo B: perforar por avatar (concursos, idiomas, salud) · apareció por huella el 2026-11-14 |
+| mapas-visuales-mentales | — | BR | superficial | 2026-11-14 huella: 8 páginas, ninguna ≥ 10. 2026-11-15 (sesión local): Fluente com Legenda 170/240 y Educa Visual Digital 75/75 pasan la vara (2 tarjetas en bandeja); 4 jugadores en el formato | modo B: perforar avatares sin jugador (concursos PRF/TRT, enfermería, español para brasileños) y medir el hueco en MX/CO/AR/PE/CL |
 | moldes-bordado-riscos | — | BR | virgen | 2026-11-14 huella: Riscos para Bordar 7/16 | modo B: re-medir y perforar subnichos (bordado, moldes de Natal) · apareció por huella el 2026-11-14 |
 | guias-beneficios-inss-bpc | — | BR | virgen | 2026-11-14 huella: Guia Prático do BPC 0/4 | modo B · apareció por huella el 2026-11-14 |
 | habito-parar-de-fumar-corrida-5k | — | BR | virgen | 2026-11-14 huella: Parar de Fumar de Vez 0/6, Nasce um corredor 0/10 | modo B · apareció por huella el 2026-11-14 |

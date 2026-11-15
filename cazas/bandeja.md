@@ -26,6 +26,26 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+**BR 2026-11-15 · Kit +300 Mapas Mentais de Inglês — Fluente com Legenda** · `sin-revisar`
+- Por qué gana: 170 de 240 anuncios en BR con 7+ días, sobre una sola oferta; campaña apilada de jul a oct.
+- Qué vende: kit digital de +300 mapas mentales de inglés imprimibles, R$ 47–97, bonos y garantía 7 días.
+- Embudo: directo a landing con precio y checkout, sin marca personal. Escalera n/e.
+- Gancho: «Aprenda e revise inglês sem complicação com +300 mapas mentais imprimíveis.»
+- Qué se puede hacer: mismo molde en otro idioma o avatar (el inglés lo domina esta página, con una versión en español de pocos anuncios); hueco de arbitraje sin medir.
+- Biblioteca: <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=837003542818622> · Snapshot: https://www.facebook.com/ads/library/?id=1407719990900998
+- Evidencia: `RAW/cazas-auto/2026-11-15-br-A-huella-mapas-visuales.md`
+
+**BR 2026-11-15 · Mapa Fácil da Reforma Tributária — Educa Visual Digital** · `sin-revisar`
+- Por qué gana: 75 de 75 anuncios en BR con 7+ días, una oferta en 3 dominios; jul–oct escalonado.
+- Qué vende: mapas mentales de IBS, CBS e Imposto Seletivo, R$ 27, archivos digitales.
+- Embudo: página de producto con precio. Sin marca personal. Escalera n/e.
+- Gancho: «A Reforma Tributária já está trazendo novas regras, siglas, cálculos e mudanças nos documentos fiscais.»
+- Qué se puede hacer: mismo molde en otro nicho profesional con comprador urgente. Atada a una ley brasileña: no se exporta y vence.
+- Biblioteca: <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1125950840608312> · Snapshot: https://www.facebook.com/ads/library/?id=2077451369528717
+- Evidencia: `RAW/cazas-auto/2026-11-15-br-A-huella-mapas-visuales.md`
+
+**Señales BR 2026-11-15:** Carla Figurinhas (973418882530327) 51/54, pack de stickers a R$ 5,99, piso de precio. Inglês Fluente (1477324255655344) 310/380, descartada por formato (curso de 8 semanas con plataforma).
+
 BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pronta, mapas mentais, ebook completo, acesso vitalício, material digital (16 páginas contadas; la mejor, Riscos para Bordar 7/16).
 
 **Señales del día BR**
