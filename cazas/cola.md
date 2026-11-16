@@ -101,7 +101,6 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `guida pdf`, `accesso immediato`, `ebook completo` en IT | solo ads de las últimas 48 h (estimado 1.471-5.041), tandas masivas de páginas cáscara (Digital Skill, Online Packages, learndigital.shop) | barrer para leer nombres de página y contar con `page_ids` + `countries`; el API no trae cuerpo ni URL, el producto sale del título |
 | `ebook complet`, `descarcă ghidul`, `acces imediat` en RO | editoriales y ficción (Corola, Editura ACT), lead magnets gratis de clínicas/ONG/ROCKWOOL, hoteles y tandas de hoy de páginas cáscara en USD | `caiet exerciții`, `ghid pdf` rinden (Studio Facile, Contador en Acción); contar con `page_ids` + `countries`; `planner imprimabil` y `fișe imprimabile` casi vacíos |
 | `acceso inmediato pdf`, `ebook completo`, `kit digital` en CO | tandas de las últimas 48 h y ruido de coaches con reseñas «4.9/5», suplementos, recetas fit, short-dramas | rinden `cuaderno ejercicios pdf` y `fichas imprimibles` (Acordes en Claro, Formula dg); contar siempre con `page_ids` + `countries`, los ads viejos quedan fuera de los 50 de la keyword |
-
 | `apuntes enfermería`, `fichas anatomía` en MX | short-dramas («Seguir viendo», «Dramas Cortos Gratis») y la red Aprendia (≥ 8 fanpages con tandas diarias) ocupan los 50 primeros | contar con `page_ids` + `countries`; en una red con tandas diarias los 50 más nuevos no alcanzan 7 d: reportar «cohorte no medible», no cero, y re-medir en 3-4 días |
 
 ## Operadores a seguir (modo C)
