@@ -103,6 +103,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-16 | BR | A huella (lun) | — | en curso | en curso | — |
 | 2026-11-15 | MX (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda MX; sin 🟡 vencidos; nota: el nodo mapas-visuales-mentales (BR) pide medir el hueco en MX, queda para una corrida MX en día de semana | sin cambios |
 | 2026-11-15 | RO (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda RO; sin 🟡 vencidos | sin cambios |
 | 2026-11-15 | FR (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda FR; sin 🟡 vencidos | sin cambios |
