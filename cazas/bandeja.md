@@ -141,6 +141,21 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Atlas Terapeutic Vizual — Atlas Terapeutic Vizual RO · `libros-visuales-en-imagenes-ro` · 2026-11-16 (tarde) · sesión RO
+- **Qué es:** atlas visual para psicoterapeutas en rumano (12 enfoques terapéuticos, 32 metáforas visuales, índice y flujogramas para sesión, búsqueda de tema); probablemente PDF/atlas digital; precio no visto.
+- **Por qué es ganador:** 11 de 50 ads activos en RO con 7+ días (50 = piso del API, estimado 55), un solo page_id y un solo producto con ≥ 6 fechas de creación (11-05 a 11-15); longevidad máx. ≈ 11,7 días por API; nombre de página = producto, sin cara. Cuenta en ARS (operador que traduce al rumano). Misma familia que los atlas visuales de MX/IT.
+- **Qué hacer:** modelar el molde «atlas visual de herramientas para profesionales» en psicología/terapia; el RO ya lo corre, destinos a medir: IT, FR, PT/BR; la cohorte está en el borde (11) y crece: re-medir ~2026-11-20.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1408033785736088>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1139477258580093
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-ro-B-libros-visuales-en-imagenes-ro-tarde.md`
+
+**Señales del día RO (tarde) 2026-11-16**
+- Studio Facile (1232011766670582 y 1272162682644374): 39/48 y 15/50 piso con 7+ días desde 10-28, pero ~25 temas y ninguno ≥ 10; si es catálogo único, la lectura cambia: verificar en la PC.
+- Pagina de Nursing (340055433511635): ≈ 20/21 con 7+ días en RON («ghiduri ilustrate» de nursing, Black Friday −70 %), pero mezcla clipboards, insignias y paquetes físicos: verificar si el guion es PDF o libro impreso.
+- Ready Resources (1440348585824077): «Biologie clasa a IX-a – noua programă», 5/30 con 7+ días, ~20 ads de hoy (USD, «gata de proiectat»): re-medir ~2026-11-20.
+- Impulso Digital (1339782509218557): «300 de hărți mentale de asistent medical» (BRL), 5 ads de hoy, 0 de cohorte; misma oferta de 300 Mapas Mentales (MX): re-medir ~2026-11-21.
+
 RO 2026-11-16: nada que pase la vara; se barrió ghid pdf, acces imediat, planner imprimabil, fișe imprimabile, ebook complet, caiet exerciții, șabloane gata, descarcă ghidul (14 páginas contadas; la mejor, Studio Facile ≥17/54 y 38/48 pero repartido en ~20 temas). Informe: `RAW/cazas-auto/2026-11-16-ro-A-huella.md`
 
 **Señales del día RO 2026-11-16**
