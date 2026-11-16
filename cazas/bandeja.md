@@ -128,6 +128,30 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 +300 Mapas Mentales para Aprender Inglés — 300 Mapas Mentales MX · `mapas-visuales-mentales` · 2026-11-16 · sesión MX
+- **Qué es:** kit digital de +300 mapas mentales de inglés (versión en español de la oferta de Fluente com Legenda, BR); precio no visto (cuenta en USD).
+- **Por qué es ganador:** 20 de 28 ads activos en MX con 7+ días (11 con el título «+300 Mapas Mentales para Aprender Inglés»), un solo page_id y una sola oferta; 8 fechas de creación entre ~10-18 y 11-13, longevidad máx. ≈ 29 días; página sin marca personal.
+- **Qué hacer:** llevar el molde «+300 mapas mentales de inglés» a otro idioma de destino: inglés para italianos, franceses y rumanos (y PT); BR ya lo corre Fluente com Legenda (tarjeta del 11-15). Ángulo: kit imprimible + bonos; el hueco en MX está ocupado (hay jugador).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1276104028925482>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1109796221531893
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-mx-A-huella.md`
+
+### 🎯 Planner Hoy Solo 3 + 5 bonos de regalo — Planner Hoy Solo 3 MX · `planner-hoy-solo-3` · 2026-11-16 · sesión MX
+- **Qué es:** planner imprimible de «3 prioridades del día» («Planner para vaciar la cabeza», «la lista eterna de tu cabeza cabe en una hoja») con 5 bonos; precio no visto (cuenta en USD).
+- **Por qué es ganador:** 30 de 40 ads activos en MX con 7+ días (no truncado), un solo page_id y una sola oferta; 8+ fechas de creación, longevidad máx. ≈ 25 días, 4 ads nuevos de hace ~5 días; sin cara en los títulos.
+- **Qué hacer:** modelar tal cual (planner de una hoja + bonos) en BR, PT, IT, FR y RO; evergreen, ángulo «vaciar la cabeza / elegir 3 de hoy».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1280820831792286>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1625984888978251
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-mx-A-huella.md`
+
+**Señales del día MX 2026-11-16**
+- Guías Técnicas Aprendia (1329947873543136): ≥12 verificados de ~80 (piso) en MX, «54 fichas / mapas mentales» repartido en ≥15 temas técnicos (ninguno ≥10); hermana Aprende Ya: Guías Aprendia (1288181344388955) ~120 ads en tandas de 1-6 d. Mismo molde multi-SKU que Studio Facile (RO); verificar en la PC si es catálogo único.
+- Red «<tema> en Mapas» en MX, todas con tandas de hoy (0/6 c/u): Marta Aguirre Oratoria (1375259149015217, 60 mapas + 6 bonos), Aprenda Com Mapas (109742714002269), Isadora Martínez L. (1437086639485044), Central Criativa 4/8 (779654345226206); re-medir en 5 días.
+- Lúmina: Digital Books & More (1272565179279345) 0/6 y Lo Quiero YA (1291890607347857) 1/6 / Digital By Dafne (1462894430233402) 1/4: «videos y PDF's», tandas chicas.
+- Mujer con Valor (1369557812915882) 0/9: cuaderno de 62-110 páginas de ejercicios (autoestima), tanda de hace ~3 d; re-medir.
+
 MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX vencidos; nada que pase la vara.
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->

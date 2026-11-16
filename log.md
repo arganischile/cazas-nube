@@ -20,3 +20,4 @@
 ## [2026-11-16] caza-auto | IT A huella → 1 candidatos a bandeja
 ## [2026-11-16] caza-auto | FR A huella → 2 candidatos a bandeja
 ## [2026-11-16] caza-auto | RO A huella → 0 candidatos a bandeja
+## [2026-11-16] caza-auto | MX A huella → 2 candidatos a bandeja

@@ -56,6 +56,8 @@ los nichos que emergen.
 | cricut-guides-visuels | — | FR | virgen | 2026-11-16 huella FR: Bibliothèque Créative 0/15 («+100 Guides Visuels Cricut», BRL) | modo B: re-medir en 3-4 días · apareció por huella el 2026-11-16 |
 | ressources-neuro-imprimables | — | FR | virgen | 2026-11-16 huella FR: Boîte à Ressources Neuro 0/6 («+1 300 ressources à imprimer») | modo B: re-medir en 5 días, identificar el nicho (neurodiversidad/TDAH) · apareció por huella el 2026-11-16 |
 | art-therapie-fiches-pdf | — | FR | virgen | 2026-11-16 huella FR: Manual de Arte Terapia 5/17 | modo B: re-medir y perforar · apareció por huella el 2026-11-16 |
+| fichas-mapas-multitema-aprendia | — | MX | virgen | 2026-11-16 huella MX: Guías Técnicas Aprendia ≥12/~80 (piso), Aprende Ya 0/50 de ~120; «54 fichas» en ≥15 temas, ninguno ≥10 | modo B: identificar si es catálogo único o SKUs por tema (verificar en la PC); ligar con Studio Facile (RO) · apareció por huella el 2026-11-16 |
+| red-x-en-mapas-mx | — | MX | virgen | 2026-11-16 huella MX: Marta Aguirre Oratoria 0/6, Aprenda Com Mapas 0/6, Isadora Martínez 0/6, Central Criativa 4/8 (tandas de hoy) | modo B: re-medir en 5 días; ligar con mapas-visuales-mentales (BR) · apareció por huella el 2026-11-16 |
 | libros-visuales-en-imagenes-ro | — | RO | virgen | 2026-11-16 huella RO: Studio Facile ≥17/54 (p. 1272162682644374) y 38/48 (p. 1232011766670582), ~20 temas «X în imagini», ninguno ≥10 | modo B: identificar si es catálogo/bundle o libros por tema (verificar en la PC); ligar con red de mapas/atlas visuales BR/IT/FR · apareció por huella el 2026-11-16 |
 | contabilidad-cuadernos-ro | — | RO | virgen | 2026-11-16 huella RO: Contador en Acción 2/18, MARCO MEDIA 0/11 (mismo molde que kit-comptable-cahiers-2027 de FR) | modo B: re-medir en 5 días (lotes de ≤ 4 d); medir IT/PT · apareció por huella el 2026-11-16 |
 | libros-regalo-diagram-books | — | RO | virgen | 2026-11-16 huella RO: Diagram Books 0/30 («+ 2 cărți cadou», tandas de 2-4 d); Imago Studiu 5/5 | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
@@ -108,6 +110,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Amélie Boissieu (Kit Comptable 2027) | 1363004406903385 | FR | ≥32/50 piso el 2026-11-16; seguir si se apaga o cambia de SKU; re-medir ~2026-11-23 |
 | Hugo Jean (300 jeux & dynamiques) | 1382251738298675 | FR | 24/27, ≈45 d el 2026-11-16 (moneda BRL); re-medir ~2026-11-23 |
 | Bibliothèque Créative (Cricut) | 1501332446389326 | FR | 0/15 el 2026-11-16 (tandas de 2-7 d); re-medir ~2026-11-19 |
+| 300 Mapas Mentales | 1276104028925482 | MX | 20/28 el 2026-11-16 (tarjeta en bandeja); versión ES del kit de Fluente com Legenda; re-medir ~2026-11-30 |
+| Planner Hoy Solo 3 | 1280820831792286 | MX | 30/40 el 2026-11-16 (tarjeta en bandeja); ver si cambia de SKU; re-medir ~2026-11-30 |
 
 ## Rotación vigente
 
@@ -128,7 +132,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-16 | MX | A huella (lun: B perforar sin nodos MX → A) + hueco mapas-visuales-mentales en MX | — | en curso | en curso | en curso |
+| 2026-11-16 | MX | A huella (lun: B perforar sin nodos MX → A) + hueco mapas-visuales-mentales en MX | — | guía pdf, plantillas editables, mapas mentales, planner imprimible, cuaderno ejercicios pdf + 12 conteos por page_id | 2 tarjetas (300 Mapas Mentales 20/28; Planner Hoy Solo 3 30/40); señales: Guías Técnicas Aprendia ≥12/~80 multi-tema, red «X en Mapas» 0/6 | 2 nodos virgen MX nuevos, 2 operadores |
 | 2026-11-16 | RO | A huella (lun) | — | ghid pdf, acces imediat, planner imprimabil (0), fișe imprimabile, ebook complet, caiet exerciții, șabloane gata, descarcă ghidul + 14 conteos por page_id | 0 tarjetas; mejor: Studio Facile ≥17/54 y 38/48 pero en ~20 temas (ninguno ≥10); señales: kit contable RO (Contador en Acción 2/18, MARCO MEDIA 0/11), Diagram Books 0/30, Neuralforkids 0/46 | 5 nodos virgen RO nuevos |
 | 2026-11-16 | FR | A huella (lun: C operadores sin operadores ni agenda FR → cola vacía → A) | — | guide pdf, planner imprimable, ebook complet, accès immédiat, fiches imprimables, modèles Notion, paiement unique, cahier d'exercices, bonus offerts guide + 10 conteos por page_id | 2 tarjetas (Kit Comptable 2027 ≥32/50 piso; 300 jeux & dynamiques 24/27); señales: Bibliothèque Créative 0/15, Boîte à Ressources Neuro 0/6 | 5 nodos virgen FR nuevos, 2 operadores |
 | 2026-11-16 | IT | A huella (lun: B perforar sin nodos IT en la cola → A) | — | guida pdf, accesso immediato, planner stampabile, ebook completo + 12 conteos por page_id | 1 tarjeta (Natale a punto ~41/50); señales: Studio Quadri ≥13/≥50 oferta no identificada, Crescere Giocando 8/8 | 5 nodos virgen/superficial IT nuevos |
