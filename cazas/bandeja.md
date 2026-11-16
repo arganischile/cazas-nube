@@ -156,6 +156,24 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+**CO 2026-11-16 · Guías visuales de teoría musical (guitarra / teclado / bajo) — Acordes en Claro** · `sin-revisar`
+- Qué es: guías en PDF de teoría musical «dibujada» en 3 SKUs (guitarra, teclado, bajo); en FR el mismo operador habla de «340 pages, 148 exercices corrigés». Precio no visible por API. Copy con voseo argentino, ads en USD: el operador parece venir de AR y corre también en CO.
+- Por qué es ganador: cohorte 27/50 en CO (piso; est. 354 activos) de un solo page_id (p. 1205940002609789); por oferta: guitarra 16, teclado 11. Creación en ≥4 tandas (≈10-26 oct, 11-06/07, 11-12, 11-14/15) y 4 ads más viejos (~31 d) fuera de los 50; ad nuevo hoy = operador vivo. Corre también en FR.
+- Qué hacer: modelar tal cual (cuaderno visual de teoría para un instrumento) · destino sugerido: IT o PT/BR (ya corre en FR, no entrar ahí a ciegas) · ángulo «teoría de guitarra, pero dibujada», un SKU por instrumento.
+- Ads Library CO: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1205940002609789 · ads viejos: https://www.facebook.com/ads/library/?id=1173748248947176 · https://www.facebook.com/ads/library/?id=1151250634106441
+- Landing: no verificada (la API no trae URL); precio y tipo de embudo por confirmar en la PC.
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (≥9 d dentro de los 50; ~31 d según la búsqueda por keyword), snapshot no verificado.
+- Score —/4 · escalera n/e · Decisión: —
+
+**Señales del día CO 2026-11-16**
+- Formula dg (p. 1365224956675289): 10/42 pero mezcla manuales PDF de PLC, acústica, iluminación y recetas (excluido); ninguna oferta sola llega a 10, no es tarjeta.
+- Learning Online (p. 1007333979127805, cierre WhatsApp «recibe todo primero, aporta después»): 5/13, oferta no identificada; re-medir.
+- Paquete De Diseños (p. 107416171593294): 3/20 (plantillas de velas y moldes MDF); 6 ads más cruzan los 7 d en ~8 h, re-medir mañana.
+- Universo Pestanas (p. 783046031564048): 6/6 «$7», material de extensiones de pestañas, producto no confirmado.
+- Talleres Listos (p. 1423115024221032): 4/17, «+150 dinámicas grupales»; Valentina Ríos 3/10 («+3000 ya lo descargaron»); Central Criativa 4/10; Los Resúmenes 2/6.
+- Lectoescritura ya (p. 1294940880380557): 0/50 piso (est. 85), gancho «RECÍBELO GRATIS» (lead magnet); Maestro del Temario 0/18 (CNSC 2027, tanda de hoy-ayer); Click Inteligente 0/5.
+- Hueco mapas mentales en CO: operadores ya presentes (300 Mapas Mentales, Marta Aguirre Oratoria, Isadora Martínez, Aprenda Com Mapas, Visión de águila 0/2, Inglés Con Mucho Vocabulario 0/3), todos en tandas de <4 días: ninguno con cohorte.
+
 ---
 
 ## Revisiones

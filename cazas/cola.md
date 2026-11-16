@@ -63,6 +63,7 @@ los nichos que emergen.
 | libros-regalo-diagram-books | — | RO | virgen | 2026-11-16 huella RO: Diagram Books 0/30 («+ 2 cărți cadou», tandas de 2-4 d); Imago Studiu 5/5 | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
 | creativo-resenas-neuralforkids-digitalbooks | — | RO | virgen | 2026-11-16 huella RO: Neuralforkids 0/46 y Digital Books 0/20, mismo creativo «⭐ 4,9/5,0» en USD, producto no identificado | modo B: re-medir ~2026-11-20 e identificar qué venden · apareció por huella el 2026-11-16 |
 | fise-tulburari-psihice-pdf | — | RO | virgen | 2026-11-16 huella RO: Harta Tulburărilor 1/23 («210 fișe, 40 de perechi, 1 PDF», EUR) | modo B: re-medir en 5 días; juzgar nicho · apareció por huella el 2026-11-16 |
+| teoria-musical-visual-guias | — | CO | virgen | 2026-11-16 huella CO: Acordes en Claro 27/50 piso (guitarra 16, teclado 11, bajo; tarjeta en bandeja) | modo B: perforar otros instrumentos (piano, ukelele, canto, batería) y medir AR/MX/FR/IT/PT · apareció por huella el 2026-11-16 |
 
 ---
 
@@ -95,6 +96,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `guide pdf`, `accès immédiat`, `paiement unique`, `bonus offerts guide` en FR | tandas de hoy de páginas cáscara en USD (Digital Skill, Online Packages, learndigital.shop, Download Studio) y ruido de coaches y short-dramas (PulseDrama, ReelyGo) | barrer para leer nombres y contar con `page_ids` + `countries`; rinden `fiches imprimables` y `cahier d'exercices` |
 | `guida pdf`, `accesso immediato`, `ebook completo` en IT | solo ads de las últimas 48 h (estimado 1.471-5.041), tandas masivas de páginas cáscara (Digital Skill, Online Packages, learndigital.shop) | barrer para leer nombres de página y contar con `page_ids` + `countries`; el API no trae cuerpo ni URL, el producto sale del título |
 | `ebook complet`, `descarcă ghidul`, `acces imediat` en RO | editoriales y ficción (Corola, Editura ACT), lead magnets gratis de clínicas/ONG/ROCKWOOL, hoteles y tandas de hoy de páginas cáscara en USD | `caiet exerciții`, `ghid pdf` rinden (Studio Facile, Contador en Acción); contar con `page_ids` + `countries`; `planner imprimabil` y `fișe imprimabile` casi vacíos |
+| `acceso inmediato pdf`, `ebook completo`, `kit digital` en CO | tandas de las últimas 48 h y ruido de coaches con reseñas «4.9/5», suplementos, recetas fit, short-dramas | rinden `cuaderno ejercicios pdf` y `fichas imprimibles` (Acordes en Claro, Formula dg); contar siempre con `page_ids` + `countries`, los ads viejos quedan fuera de los 50 de la keyword |
 
 ## Operadores a seguir (modo C)
 
@@ -112,6 +114,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Bibliothèque Créative (Cricut) | 1501332446389326 | FR | 0/15 el 2026-11-16 (tandas de 2-7 d); re-medir ~2026-11-19 |
 | 300 Mapas Mentales | 1276104028925482 | MX | 20/28 el 2026-11-16 (tarjeta en bandeja); versión ES del kit de Fluente com Legenda; re-medir ~2026-11-30 |
 | Planner Hoy Solo 3 | 1280820831792286 | MX | 30/40 el 2026-11-16 (tarjeta en bandeja); ver si cambia de SKU; re-medir ~2026-11-30 |
+| Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
 
 ## Rotación vigente
 
@@ -132,7 +135,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-16 | CO | A huella (lun: C operadores sin operadores ni agenda CO → cola vacía → A) + hueco mapas-visuales-mentales en CO | — | en curso | en curso | — |
+| 2026-11-16 | CO | A huella (lun: C operadores sin operadores ni agenda CO → cola vacía → A) + hueco mapas-visuales-mentales en CO | — | guía pdf, mapas mentales, plantillas editables, planner imprimible, cuadernillo pdf, fichas imprimibles, acceso inmediato pdf, ebook completo, kit digital, guía práctica pdf, pack de plantillas, cuaderno ejercicios pdf + ~35 conteos por page_id | 1 tarjeta (Acordes en Claro 27/50 piso); señales: Formula dg 10/42 multi-tema, Learning Online 5/13, Paquete De Diseños 3/20 | 1 nodo virgen CO nuevo, 1 operador |
 | 2026-11-16 | MX | A huella (lun: B perforar sin nodos MX → A) + hueco mapas-visuales-mentales en MX | — | guía pdf, plantillas editables, mapas mentales, planner imprimible, cuaderno ejercicios pdf + 12 conteos por page_id | 2 tarjetas (300 Mapas Mentales 20/28; Planner Hoy Solo 3 30/40); señales: Guías Técnicas Aprendia ≥12/~80 multi-tema, red «X en Mapas» 0/6 | 2 nodos virgen MX nuevos, 2 operadores |
 | 2026-11-16 | RO | A huella (lun) | — | ghid pdf, acces imediat, planner imprimabil (0), fișe imprimabile, ebook complet, caiet exerciții, șabloane gata, descarcă ghidul + 14 conteos por page_id | 0 tarjetas; mejor: Studio Facile ≥17/54 y 38/48 pero en ~20 temas (ninguno ≥10); señales: kit contable RO (Contador en Acción 2/18, MARCO MEDIA 0/11), Diagram Books 0/30, Neuralforkids 0/46 | 5 nodos virgen RO nuevos |
 | 2026-11-16 | FR | A huella (lun: C operadores sin operadores ni agenda FR → cola vacía → A) | — | guide pdf, planner imprimable, ebook complet, accès immédiat, fiches imprimables, modèles Notion, paiement unique, cahier d'exercices, bonus offerts guide + 10 conteos por page_id | 2 tarjetas (Kit Comptable 2027 ≥32/50 piso; 300 jeux & dynamiques 24/27); señales: Bibliothèque Créative 0/15, Boîte à Ressources Neuro 0/6 | 5 nodos virgen FR nuevos, 2 operadores |
