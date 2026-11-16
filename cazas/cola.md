@@ -140,6 +140,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-16 | RO (tarde) | B perforar | libros-visuales-en-imagenes-ro | en curso | en curso | en curso |
 | 2026-11-16 | FR (tarde) | B perforar | kit-comptable-cahiers-2027 | comptabilité auto-entrepreneur, cahier comptabilité association, budget familial tableur, facture devis modèle, budget mensuel pdf, cahiers de gestion bonus + 1 conteo por page_id | 0 tarjetas nuevas; Boissieu sube a 41/50 piso (ya tiene tarjeta); señal: Mon Mois en Clair 0/2 | kit-comptable-cahiers-2027 pasa a superficial |
 | 2026-11-16 | MX (tarde) | B perforar | fichas-mapas-multitema-aprendia | fichas anatomía, apuntes enfermería, fichas estudio pdf + 5 conteos por page_id (Guías Técnicas Aprendia, Aprende Ya, Enf. Valentina Rojas, Atlas Visual Academy, Ciencia Del Cuerpo) | 0 tarjetas; Aprendia = red de ≥ 8 fanpages hermanas, cohorte no medible (≤ 4 d en los 50 más nuevos); mejor: Enf. Valentina Rojas 2/15 | nodo pasa a superficial; nuevo hijo mapas-enfermeria-mx |
 | 2026-11-16 | IT (tarde) | B perforar | cuadros-diseno-quadri | quadri stampabili, quadri da stampare, poster stampabili casa, arredare parete, stampe digitali arredamento + 3 conteos por page_id | 1 tarjeta (Studio Quadri 10/50 piso, oferta no identificada); señales: Quadri Facili apagó 0 activos, Wallify Studio físico | cuadros-diseno-quadri pasa a superficial |
