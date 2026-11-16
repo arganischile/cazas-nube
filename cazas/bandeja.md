@@ -77,6 +77,19 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Progetta i tuoi quadri in 15 minuti — Studio Quadri IT · `cuadros-diseno-quadri` · 2026-11-16 (tarde) · sesión IT
+- **Qué es:** herramienta/plantilla para diseñar cuadros de pared en 15 minutos; formato y precio no vistos (cuenta en USD); podría ser físico: verificar.
+- **Por qué es ganador:** 10 de 50 ads activos en IT con 7+ días (50 = piso del API, estimado 170), un solo page_id y un solo título; 3 tandas de creación (11-09, 11-12/13 y ~22 ads hoy); longevidad máx. ≈ 7,9 días, sin marca personal en el nombre de página.
+- **Qué hacer:** identificar primero qué vende (plantilla digital vs producto físico); si es digital, modelar como kit de plantillas/arte imprimible; destinos a medir: FR, PT/BR, RO; en el borde de la vara (10 justos, longevidad corta): re-medir en 5 días antes de decidir.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=721617357705716>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1090851587283215
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-it-B-cuadros-diseno-quadri-tarde.md`
+
+**Señales del día IT (tarde) 2026-11-16**
+- Quadri Facili (1361523357050535): «Atlante Visivo della Strumentazione», BRL, ~22 ads de 11-08 a 11-10 y hoy 0 activos: apagó todo; ligado a red-atlante-visivo.
+- Wallify Studio (571188336087784): tienda ecommerce multi-producto (ropa, posters 29-34 € «Download Immediato»); físico, no es infoproducto.
+
 ### 🎯 Natale a Punto Croce · 300 schemi da stampare — Natale a punto IT · `punto-croce-natale` · 2026-11-16 · sesión IT
 - **Qué es:** PDF imprimible de 300 patrones de punto de cruz navideño; precio no visto (cuenta en USD).
 - **Por qué es ganador:** ~41 de 50 ads activos en IT con 7+ días (50 = piso del API), una sola oferta, 4 tandas de creación desde ~11-02 y 5 ads nuevos ayer; longevidad máx. ≈ 14 días; sin marca personal.
