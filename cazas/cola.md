@@ -46,6 +46,11 @@ los nichos que emergen.
 | organizacao-casa-metodo | — | BR | virgen | 2026-11-16 huella: Organize com Ju 13/14 | modo B: perforar subnichos (limpieza, rutina, plantillas) y medir PT/IT · apareció por huella el 2026-11-16 |
 | preparacion-72h-apagon | — | BR | virgen | 2026-11-16 huella: red de 4 páginas, todas < 7 días | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
 | concursos-material-baixar | — | BR | virgen | 2026-11-16 huella: Lacuna Concursos ≥13/50 «Baixe Agora» | modo B: identificar qué vende · apareció por huella el 2026-11-16 |
+| punto-croce-natale | — | IT | superficial | 2026-11-16 huella IT: Natale a punto ~41/50 (tarjeta en bandeja) | modo B: perforar punto de cruz por temas (animales, nombres, bordado) y medir FR/RO/PT · apareció por huella el 2026-11-16 |
+| cuadros-diseno-quadri | — | IT | virgen | 2026-11-16 huella IT: Studio Quadri ≥13/≥50, oferta no identificada | modo B: identificar qué vende (plantilla vs físico) · apareció por huella el 2026-11-16 |
+| red-atlante-visivo | — | IT | virgen | 2026-11-16 huella IT: learndigital.shop 0/50, Atlante Visivo del Cantiere 2/7 (atlas visuales profesionales, mezcla EN/IT) | modo B: re-medir en 5 días; ligar con red de mapas visuales de BR · apareció por huella el 2026-11-16 |
+| musicogrammi-docenti | — | IT | virgen | 2026-11-16 huella IT: Silvia Moretti 0/39 (25 videos a 6,90) | modo B: re-medir en 5 días; juzgar marca personal · apareció por huella el 2026-11-16 |
+| dime-falegnameria | — | IT | virgen | 2026-11-16 huella IT: Digital Corner 0/27 («80 progetti di dime») | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
 
 ---
 
@@ -75,6 +80,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | página «cáscara» con nombre ajeno (Tudo sobre unhas vende mapas, moldes, proyectos) | el page_name no dice el nicho | leer el título del ad |
 | página con tanda masiva de ayer (Mapas e Guias Visuais, 127 est.) y `limit:50` | los 50 son de hace ~22 h: cohorte no medible, no es 0 | reportar «≥50, cohorte no medible» y re-medir en 3-4 días |
 | «Guia prático: …» de páginas genéricas en inglés (Growth Journey, Winning Mindset, Driven Forward, Goal Summit, Home Style) que pagan en **USD/PLN** | arbitraje de búsqueda (RSOC): el clic va a `track.*` → artículo gratis (`financeply.com`, `utm_medium=gs`); la longevidad es real pero no vende nada | descartar por embudo; si el título trae «Guia prático» y la moneda no es la local, abrir el destino antes de contar |
+| `guida pdf`, `accesso immediato`, `ebook completo` en IT | solo ads de las últimas 48 h (estimado 1.471-5.041), tandas masivas de páginas cáscara (Digital Skill, Online Packages, learndigital.shop) | barrer para leer nombres de página y contar con `page_ids` + `countries`; el API no trae cuerpo ni URL, el producto sale del título |
 
 ## Operadores a seguir (modo C)
 
@@ -107,7 +113,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-16 | IT | A huella (lun: B perforar sin nodos IT en la cola → A) | — | en curso | en curso | — |
+| 2026-11-16 | IT | A huella (lun: B perforar sin nodos IT en la cola → A) | — | guida pdf, accesso immediato, planner stampabile, ebook completo + 12 conteos por page_id | 1 tarjeta (Natale a punto ~41/50); señales: Studio Quadri ≥13/≥50 oferta no identificada, Crescere Giocando 8/8 | 5 nodos virgen/superficial IT nuevos |
 | 2026-11-16 | BR | A huella (lun) | — | planner imprimível, checklist pdf, kit digital completo, guia prático pdf, planilha pronta + 32 conteos por page_id | 1 tarjeta (Organize com Ju 13/14); señales: Lacuna Concursos ≥13/50 oferta no identificada, Cristina Maria 17/32 en 3 ofertas | 3 nodos virgen nuevos |
 | 2026-11-15 | MX (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda MX; sin 🟡 vencidos; nota: el nodo mapas-visuales-mentales (BR) pide medir el hueco en MX, queda para una corrida MX en día de semana | sin cambios |
 | 2026-11-15 | RO (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda RO; sin 🟡 vencidos | sin cambios |

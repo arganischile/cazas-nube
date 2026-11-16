@@ -66,6 +66,22 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Natale a Punto Croce · 300 schemi da stampare — Natale a punto IT · `punto-croce-natale` · 2026-11-16 · sesión IT
+- **Qué es:** PDF imprimible de 300 patrones de punto de cruz navideño; precio no visto (cuenta en USD).
+- **Por qué es ganador:** ~41 de 50 ads activos en IT con 7+ días (50 = piso del API), una sola oferta, 4 tandas de creación desde ~11-02 y 5 ads nuevos ayer; longevidad máx. ≈ 14 días; sin marca personal.
+- **Qué hacer:** modelar tal cual (kit de patrones imprimibles); destinos: FR (Noël point de croix), RO, PT/BR; es estacional (Navidad), ventana hasta ~mediados de dic; ángulo «patrones listos para imprimir», bonos.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1288220937718528>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1168752989131371
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-it-A-huella.md`
+
+**Señales del día IT 2026-11-16**
+- Studio Quadri (721617357705716): ≥13/≥50 piso en IT, tanda de 13 ads de ~11-08 aún activos; título «Progetta i tuoi quadri in 15 minuti»; no se sabe si vende plantillas digitales o producto físico: verificar en la PC.
+- Crescere Giocando (1009883552206401): 8/8 en IT, «300 attività per crescere giocando» (a 2 de la vara); re-medir.
+- Edukhair academy (255071511012533): 6/28, «garanzia soddisfatti o rimborsati», oferta no identificada.
+- Digital Corner (1358074294058687, «80 progetti di dime», plantillas de carpintería) 0/27 y Silvia Moretti (1519553207903758, 25 musicogrammi a 6,90) 0/39: lanzamientos de 2-5 días; re-medir en 5 días. Silvia Moretti: posible marca personal, a juzgar en el snapshot.
+- Redes de páginas cáscara con tandas masivas de hoy (Digital Skill 0/36, learndigital.shop «Visual Atlas» 0/50, Online Packages 0/19, Digital Master 1/11): sin cohorte aún.
+
 IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda IT vencidos; nada que pase la vara.
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
