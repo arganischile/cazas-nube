@@ -138,6 +138,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-16 | MX (tarde) | B perforar | fichas-mapas-multitema-aprendia | en curso | — | — |
 | 2026-11-16 | IT (tarde) | B perforar | cuadros-diseno-quadri | quadri stampabili, quadri da stampare, poster stampabili casa, arredare parete, stampe digitali arredamento + 3 conteos por page_id | 1 tarjeta (Studio Quadri 10/50 piso, oferta no identificada); señales: Quadri Facili apagó 0 activos, Wallify Studio físico | cuadros-diseno-quadri pasa a superficial |
 | 2026-11-16 | BR (tarde) | B perforar | moldes-bordado-riscos | moldes bordado, bordado papel, riscos bordar (ALL) + 8 conteos por page_id | 1 tarjeta (Nannyvarie 39/43); señales: Riscos para Bordar 0/4, Bordado Criativo 4/20, Mariana Duarte 0/12 | moldes-bordado-riscos pasa a superficial; nuevo nodo bordado-papel-natal-nannyvarie |
 | 2026-11-16 | CO | A huella (lun: C operadores sin operadores ni agenda CO → cola vacía → A) + hueco mapas-visuales-mentales en CO | — | guía pdf, mapas mentales, plantillas editables, planner imprimible, cuadernillo pdf, fichas imprimibles, acceso inmediato pdf, ebook completo, kit digital, guía práctica pdf, pack de plantillas, cuaderno ejercicios pdf + ~35 conteos por page_id | 1 tarjeta (Acordes en Claro 27/50 piso); señales: Formula dg 10/42 multi-tema, Learning Online 5/13, Paquete De Diseños 3/20 | 1 nodo virgen CO nuevo, 1 operador |
