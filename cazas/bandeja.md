@@ -212,6 +212,15 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+**CO 2026-11-16 (tarde) · Pack de +2.000 partituras para piano/teclado — Rafael Piano Fácil** · `sin-revisar`
+- Qué es: pack digital de «+2.000 Partituras para Piano/Teclado» (el segundo gancho: «Toque Piano/Teclado em 7 Dias»). Precio no visible por API; ads en USD. Nombre de página con nombre propio («Rafael»), pero los títulos venden el pack, no una cara: verificar en la PC.
+- Por qué es ganador: cohorte 29/42 en CO (exacto, 42 < 50) de un solo page_id (p. 1109073548949200); 9 tandas de creación distintas (≈10-11 oct a hoy), ad más viejo ~34 d, 10 ads nuevos de hoy = operador vivo. El mismo operador corre la misma oferta en BR (≥50, en portugués) y en IT (≥49, «+1.000 Spartiti per Pianoforte/Tastiera»), señal de molde probado en 3 idiomas.
+- Qué hacer: modelar tal cual (pack de partituras por nivel/género + guía de 7 días) · destino sugerido: FR o RO (en BR e IT el mismo operador ya está; en PT/FR/RO no se vio en los primeros 50, sin medir a fondo) · ángulo «+2.000 partituras, empezá hoy».
+- Ads Library CO: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1109073548949200
+- Landing: no verificada (la API no trae URL); precio y tipo de embudo por confirmar en la PC.
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (~34 d en el ad más viejo), snapshot no verificado.
+- Score —/4 · escalera n/e · Decisión: —
+
 **CO 2026-11-16 · Guías visuales de teoría musical (guitarra / teclado / bajo) — Acordes en Claro** · `sin-revisar`
 - Qué es: guías en PDF de teoría musical «dibujada» en 3 SKUs (guitarra, teclado, bajo); en FR el mismo operador habla de «340 pages, 148 exercices corrigés». Precio no visible por API. Copy con voseo argentino, ads en USD: el operador parece venir de AR y corre también en CO.
 - Por qué es ganador: cohorte 27/50 en CO (piso; est. 354 activos) de un solo page_id (p. 1205940002609789); por oferta: guitarra 16, teclado 11. Creación en ≥4 tandas (≈10-26 oct, 11-06/07, 11-12, 11-14/15) y 4 ads más viejos (~31 d) fuera de los 50; ad nuevo hoy = operador vivo. Corre también en FR.
@@ -221,7 +230,14 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 - Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (≥9 d dentro de los 50; ~31 d según la búsqueda por keyword), snapshot no verificado.
 - Score —/4 · escalera n/e · Decisión: —
 
-**Señales del día CO 2026-11-16**
+**Señales del día CO 2026-11-16 (tarde)**
+- Prisma Piano (p. 1437920272732095): 0/5, los 5 ads son de hoy («La teoría del piano, en colores», «Los 7 acordes, con una regla»): el mismo molde visual de Acordes en Claro llevado a piano; re-medir ~2026-11-21.
+- Sofia Rivas (p. 1207708585751063): ≥25 ads con 7+ d (de 101 activos; 50 visibles) con el creativo «(4,8/5) ⭐» en USD, aparece en ukelele/batería; oferta no identificada y nombre de persona, patrón de reseñas: no es tarjeta; verificar en la PC.
+- Academia Visual de la Voz (p. 104143501451584): 0/7 (BRL, «¡Solo por hoy!», canto); 2 ads cruzan 7 d en ~4 h, re-medir mañana.
+- Tamas Bodzsar (p. 198569693331735): 0/9, «El Código Rítmico» y «Escribe melodías», cuenta HUF, tanda de hace 2 d, marca personal probable.
+- Nico Violín (p. 1427782124115740): 3 ads de hace ~4 d, «29,90 USD pago único», cuenta EUR; Ana Julia Mello (Setlist Sax) 3 ads de hoy. Sin cohorte.
+
+**Señales del día CO 2026-11-16 (mañana)**
 - Formula dg (p. 1365224956675289): 10/42 pero mezcla manuales PDF de PLC, acústica, iluminación y recetas (excluido); ninguna oferta sola llega a 10, no es tarjeta.
 - Learning Online (p. 1007333979127805, cierre WhatsApp «recibe todo primero, aporta después»): 5/13, oferta no identificada; re-medir.
 - Paquete De Diseños (p. 107416171593294): 3/20 (plantillas de velas y moldes MDF); 6 ads más cruzan los 7 d en ~8 h, re-medir mañana.

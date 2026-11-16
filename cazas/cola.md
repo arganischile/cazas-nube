@@ -70,7 +70,9 @@ los nichos que emergen.
 | libros-regalo-diagram-books | — | RO | virgen | 2026-11-16 huella RO: Diagram Books 0/30 («+ 2 cărți cadou», tandas de 2-4 d); Imago Studiu 5/5 | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
 | creativo-resenas-neuralforkids-digitalbooks | — | RO | virgen | 2026-11-16 huella RO: Neuralforkids 0/46 y Digital Books 0/20, mismo creativo «⭐ 4,9/5,0» en USD, producto no identificado | modo B: re-medir ~2026-11-20 e identificar qué venden · apareció por huella el 2026-11-16 |
 | fise-tulburari-psihice-pdf | — | RO | virgen | 2026-11-16 huella RO: Harta Tulburărilor 1/23 («210 fișe, 40 de perechi, 1 PDF», EUR) | modo B: re-medir en 5 días; juzgar nicho · apareció por huella el 2026-11-16 |
-| teoria-musical-visual-guias | — | CO | virgen | 2026-11-16 huella CO: Acordes en Claro 27/50 piso (guitarra 16, teclado 11, bajo; tarjeta en bandeja) | modo B: perforar otros instrumentos (piano, ukelele, canto, batería) y medir AR/MX/FR/IT/PT · apareció por huella el 2026-11-16 |
+| teoria-musical-visual-guias | — | CO | virgen | 2026-11-16 huella CO: Acordes en Claro 27/50 piso (guitarra 16, teclado 11, bajo; tarjeta en bandeja). 2026-11-16 modo B tarde: 7 keywords nativas (piano, ukelele, canto, batería, partituras, flauta, violín); ukelele/canto/batería/violín sin cohorte ≥10 de infoproducto | modo B: perforar guitarra-clásica/saxofón/trompeta y medir AR/MX/FR/IT/PT; re-medir ~2026-11-21 |
+| partituras-piano-teclado-co | teoria-musical-visual-guias | CO | superficial | 2026-11-16 modo B tarde: Rafael Piano Fácil 29/42 en CO (tarjeta en bandeja), misma oferta en BR e IT | modo B: medir FR/RO/PT por separado, perforar partituras por género (pop, religioso, infantil) · apareció el 2026-11-16 |
+| piano-teoria-visual-prisma | teoria-musical-visual-guias | CO | virgen | 2026-11-16 modo B tarde: Prisma Piano 0/5, 5 ads de hoy, «teoría del piano, en colores» (clon del molde Acordes en Claro) | modo B: re-medir ~2026-11-21 · apareció el 2026-11-16 |
 
 ---
 
@@ -107,6 +109,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `ebook complet`, `descarcă ghidul`, `acces imediat` en RO | editoriales y ficción (Corola, Editura ACT), lead magnets gratis de clínicas/ONG/ROCKWOOL, hoteles y tandas de hoy de páginas cáscara en USD | `caiet exerciții`, `ghid pdf` rinden (Studio Facile, Contador en Acción); contar con `page_ids` + `countries`; `planner imprimabil` y `fișe imprimabile` casi vacíos |
 | `acceso inmediato pdf`, `ebook completo`, `kit digital` en CO | tandas de las últimas 48 h y ruido de coaches con reseñas «4.9/5», suplementos, recetas fit, short-dramas | rinden `cuaderno ejercicios pdf` y `fichas imprimibles` (Acordes en Claro, Formula dg); contar siempre con `page_ids` + `countries`, los ads viejos quedan fuera de los 50 de la keyword |
 | `apuntes enfermería`, `fichas anatomía` en MX | short-dramas («Seguir viendo», «Dramas Cortos Gratis») y la red Aprendia (≥ 8 fanpages con tandas diarias) ocupan los 50 primeros | contar con `page_ids` + `countries`; en una red con tandas diarias los 50 más nuevos no alcanzan 7 d: reportar «cohorte no medible», no cero, y re-medir en 3-4 días |
+| `piano acordes`, `partituras pdf`, `técnica vocal ejercicios` en CO | academias con sede/cupos, coaches con reseñas «4,8/5» (Sofia Rivas) y talleres en vivo ocupan los primeros 50 | contar con `page_ids` + `countries`; el hallazgo (Rafael Piano Fácil) sale del conteo, no de la keyword |
 | `explicat prin desene` en RO | da 0 aunque Studio Facile lo usa en el título: el matcher mira el texto del ad, no el título | `în imagini`, `ghid ilustrat`, `hărți mentale` descubren atlas/mapas; contar con `page_ids` + `countries` |
 
 
@@ -127,6 +130,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | 300 Mapas Mentales | 1276104028925482 | MX | 20/28 el 2026-11-16 (tarjeta en bandeja); versión ES del kit de Fluente com Legenda; re-medir ~2026-11-30 |
 | Planner Hoy Solo 3 | 1280820831792286 | MX | 30/40 el 2026-11-16 (tarjeta en bandeja); ver si cambia de SKU; re-medir ~2026-11-30 |
 | Vida Práctica (manuales visuales) | 1472534742604591 | MX | 0/12 el 2026-11-16, 3 ads cruzan 7 d el 11-17; re-medir ~2026-11-19 |
+| Rafael Piano Fácil (partituras piano/teclado) | 1109073548949200 | CO | 29/42 el 2026-11-16 (tarjeta en bandeja); corre también en BR e IT; re-medir ~2026-11-30 |
+| Prisma Piano (teoría piano en colores) | 1437920272732095 | CO | 0/5 el 2026-11-16 (5 ads de hoy); re-medir ~2026-11-21 |
 | Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
 
 ## Rotación vigente
@@ -148,7 +153,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-16 | CO (tarde) | B perforar | teoria-musical-visual-guias | en curso | en curso | en curso |
+| 2026-11-16 | CO (tarde) | B perforar | teoria-musical-visual-guias | piano acordes, ukelele acordes, técnica vocal ejercicios, batería ritmos, partituras pdf, partituras flauta, violín partituras + 8 conteos por page_id + Rafael Piano Fácil en BR e IT/FR/RO/PT | 1 tarjeta (Rafael Piano Fácil 29/42); señales: Prisma Piano 0/5 (clon del molde), Sofia Rivas ≥25/101 oferta no identificada, Academia Visual de la Voz 0/7, Tamas Bodzsar 0/9 | nodo pasa a superficial; 2 hijos nuevos |
 | 2026-11-16 | RO (tarde) | B perforar | libros-visuales-en-imagenes-ro | ghid ilustrat, hărți mentale, în imagini pdf, explicat prin desene (0) + 5 conteos por page_id (Studio Facile ×2, Pagina de Nursing, Ready Resources, Atlas Terapeutic Vizual) | 1 tarjeta (Atlas Terapeutic Vizual 11/50 piso); señales: Studio Facile 39/48 y 15/50 en ~25 temas, Pagina de Nursing ≈20/21 mezcla física, Ready Resources 5/30, Impulso Digital 0/5 | nodo pasa a superficial; 3 hijos nuevos |
 | 2026-11-16 | FR (tarde) | B perforar | kit-comptable-cahiers-2027 | comptabilité auto-entrepreneur, cahier comptabilité association, budget familial tableur, facture devis modèle, budget mensuel pdf, cahiers de gestion bonus + 1 conteo por page_id | 0 tarjetas nuevas; Boissieu sube a 41/50 piso (ya tiene tarjeta); señal: Mon Mois en Clair 0/2 | kit-comptable-cahiers-2027 pasa a superficial |
 | 2026-11-16 | MX (tarde 2) | B perforar (todos los nodos MX tocados hoy → huellas nuevas) | nodos nuevos | cuaderno imprimible, plantillas excel, guía paso, pack editable, formatos listos, hojas trabajo + 10 conteos por page_id | 0 tarjetas; Estrategia Clara 4/13, Kits Profesionales 3/9, Tus Clases Online 9/50 piso (ofertas reales ≤ 6 d), Vida Práctica 0/12 (3 ads cruzan 7 d el 11-17) | 2 nodos virgen MX nuevos |
