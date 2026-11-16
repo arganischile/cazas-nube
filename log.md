@@ -24,3 +24,4 @@
 ## [2026-11-16] caza-auto | CO A huella → 1 candidato a bandeja (Acordes en Claro 27/50 piso)
 ## [2026-11-16] caza-auto | BR B perforar moldes-bordado-riscos (tarde) → 1 candidato a bandeja
 ## [2026-11-16] caza-auto | IT B perforar cuadros-diseno-quadri (tarde) → 1 candidato a bandeja (Studio Quadri 10/50 piso)
+## [2026-11-16] caza-auto | MX B perforar fichas-mapas-multitema-aprendia (tarde) → 0 candidatos a bandeja

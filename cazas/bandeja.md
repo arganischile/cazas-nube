@@ -176,6 +176,13 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 - Lúmina: Digital Books & More (1272565179279345) 0/6 y Lo Quiero YA (1291890607347857) 1/6 / Digital By Dafne (1462894430233402) 1/4: «videos y PDF's», tandas chicas.
 - Mujer con Valor (1369557812915882) 0/9: cuaderno de 62-110 páginas de ejercicios (autoestima), tanda de hace ~3 d; re-medir.
 
+MX 2026-11-16 (tarde): nada que pase la vara; se barrió fichas anatomía, apuntes enfermería, fichas estudio pdf y 5 conteos por page_id (la mejor, Enf. Valentina Rojas 2/15). Informe: `RAW/cazas-auto/2026-11-16-mx-B-fichas-mapas-multitema-aprendia-tarde.md`
+
+**Señales del día MX (tarde) 2026-11-16**
+- Aprendia (Guías Técnicas 1329947873543136, Aprende Ya 1288181344388955, Paso a Paso 1381808071689792, Guías y Manuales 1300212443175450 + 4 hermanas): red de ≥ 8 fanpages con la plantilla «54 FICHAS PARA <tema>» en decenas de temas; los 50 ads más nuevos de cada página tienen ≤ 4 d, cohorte no medible (no es cero); fábrica de SKUs, no un SKU ganador; re-medir ~11-20.
+- Enf. Valentina Rojas (1419232917932388): 2/15, «200 Mapas Mentales de Enfermería» a USD 3,99; 10 ads de ~6 d cruzan 7 d el 11-17/18 (llegaría a ~12); nombre de página = persona: juzgar marca personal en la PC; re-medir ~11-19.
+- Atlas Visual Academy (1542154965638151) 0/5 «+250 fichas de Auxiliar de Enfermería» (EUR) y Ciencia Del Cuerpo (1231987839993612) 0/3 «+200 hojas de fisioterapia»: tandas de hoy.
+
 MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX vencidos; nada que pase la vara.
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
