@@ -25,3 +25,4 @@
 ## [2026-11-16] caza-auto | BR B perforar moldes-bordado-riscos (tarde) → 1 candidato a bandeja
 ## [2026-11-16] caza-auto | IT B perforar cuadros-diseno-quadri (tarde) → 1 candidato a bandeja (Studio Quadri 10/50 piso)
 ## [2026-11-16] caza-auto | MX B perforar fichas-mapas-multitema-aprendia (tarde) → 0 candidatos a bandeja
+## [2026-11-16] caza-auto | FR B kit-comptable-cahiers-2027 (tarde) → 0 candidatos a bandeja

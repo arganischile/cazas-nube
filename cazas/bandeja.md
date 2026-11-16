@@ -128,6 +128,8 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 - Score n/4 (1/4 provisorio: longevidad ≈ 45 d; hueco sin medir) · Decisión: —
 - Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-fr-A-huella.md`
 
+**FR 2026-11-16 (tarde):** nada que pase la vara; se barrió comptabilité auto-entrepreneur, cahier comptabilité association, budget familial tableur, facture devis modèle, budget mensuel pdf. Señales: Kit Comptable (Boissieu) sube a 41/50 piso, sigue siendo el único infoproducto de gestión en FR; Mon Mois en Clair (1443595892171798) 0/2, planner mensual en USD, tanda de hoy: re-medir ~11-21. Informe: `RAW/cazas-auto/2026-11-16-fr-B-kit-comptable-cahiers-2027-tarde.md`
+
 **Señales del día FR 2026-11-16**
 - Bibliothèque Créative (1501332446389326): 0/15 en FR, «+100 Guides Visuels pour Cricut Design Space» (moneda BRL, molde BR traducido); tandas de hace 2-7 días; re-medir en 3-4 días.
 - Boîte à Ressources Neuro (1345809441959313): 0/6 en FR, tanda de hoy, «+1 300 ressources prêtes à imprimer», pago único; re-medir en 5 días.
