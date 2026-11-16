@@ -18,3 +18,4 @@
 ## [2026-11-15] caza-auto | CO lint de la cola (tarde) → 0 candidatos a bandeja
 ## [2026-11-16] caza-auto | BR A huella → 1 candidatos a bandeja
 ## [2026-11-16] caza-auto | IT A huella → 1 candidatos a bandeja
+## [2026-11-16] caza-auto | FR A huella → 2 candidatos a bandeja

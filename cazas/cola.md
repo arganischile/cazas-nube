@@ -51,6 +51,11 @@ los nichos que emergen.
 | red-atlante-visivo | — | IT | virgen | 2026-11-16 huella IT: learndigital.shop 0/50, Atlante Visivo del Cantiere 2/7 (atlas visuales profesionales, mezcla EN/IT) | modo B: re-medir en 5 días; ligar con red de mapas visuales de BR · apareció por huella el 2026-11-16 |
 | musicogrammi-docenti | — | IT | virgen | 2026-11-16 huella IT: Silvia Moretti 0/39 (25 videos a 6,90) | modo B: re-medir en 5 días; juzgar marca personal · apareció por huella el 2026-11-16 |
 | dime-falegnameria | — | IT | virgen | 2026-11-16 huella IT: Digital Corner 0/27 («80 progetti di dime») | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
+| kit-comptable-cahiers-2027 | — | FR | virgen | 2026-11-16 huella FR: Amélie Boissieu ≥32/50 piso (tarjeta en bandeja) | modo B: perforar contabilidad/gestión para autónomos por avatar (micro-empresa, asociación, hogar) y medir IT/PT/RO · apareció por huella el 2026-11-16 |
+| jeux-dynamiques-300-pret-a-utiliser | — | FR | virgen | 2026-11-16 huella FR: Hugo Jean 24/27, ≈45 d (tarjeta en bandeja) | modo B: identificar el público (¡si es adulto mayor, excluido!) y medir IT/RO/PT · apareció por huella el 2026-11-16 |
+| cricut-guides-visuels | — | FR | virgen | 2026-11-16 huella FR: Bibliothèque Créative 0/15 («+100 Guides Visuels Cricut», BRL) | modo B: re-medir en 3-4 días · apareció por huella el 2026-11-16 |
+| ressources-neuro-imprimables | — | FR | virgen | 2026-11-16 huella FR: Boîte à Ressources Neuro 0/6 («+1 300 ressources à imprimer») | modo B: re-medir en 5 días, identificar el nicho (neurodiversidad/TDAH) · apareció por huella el 2026-11-16 |
+| art-therapie-fiches-pdf | — | FR | virgen | 2026-11-16 huella FR: Manual de Arte Terapia 5/17 | modo B: re-medir y perforar · apareció por huella el 2026-11-16 |
 
 ---
 
@@ -80,6 +85,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | página «cáscara» con nombre ajeno (Tudo sobre unhas vende mapas, moldes, proyectos) | el page_name no dice el nicho | leer el título del ad |
 | página con tanda masiva de ayer (Mapas e Guias Visuais, 127 est.) y `limit:50` | los 50 son de hace ~22 h: cohorte no medible, no es 0 | reportar «≥50, cohorte no medible» y re-medir en 3-4 días |
 | «Guia prático: …» de páginas genéricas en inglés (Growth Journey, Winning Mindset, Driven Forward, Goal Summit, Home Style) que pagan en **USD/PLN** | arbitraje de búsqueda (RSOC): el clic va a `track.*` → artículo gratis (`financeply.com`, `utm_medium=gs`); la longevidad es real pero no vende nada | descartar por embudo; si el título trae «Guia prático» y la moneda no es la local, abrir el destino antes de contar |
+| `guide pdf`, `accès immédiat`, `paiement unique`, `bonus offerts guide` en FR | tandas de hoy de páginas cáscara en USD (Digital Skill, Online Packages, learndigital.shop, Download Studio) y ruido de coaches y short-dramas (PulseDrama, ReelyGo) | barrer para leer nombres y contar con `page_ids` + `countries`; rinden `fiches imprimables` y `cahier d'exercices` |
 | `guida pdf`, `accesso immediato`, `ebook completo` en IT | solo ads de las últimas 48 h (estimado 1.471-5.041), tandas masivas de páginas cáscara (Digital Skill, Online Packages, learndigital.shop) | barrer para leer nombres de página y contar con `page_ids` + `countries`; el API no trae cuerpo ni URL, el producto sale del título |
 
 ## Operadores a seguir (modo C)
@@ -93,6 +99,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Riscos para Bordar | 396283016894466 | BR | 7/16 el 2026-11-14; re-medir |
 | Mapas e Guias Visuais | 1394868680373327 | BR | 127 est. activos en una sola tanda; medir cohorte en 3-4 días |
 | Guia dos Benefícios Sociais | 1415031105033080 | BR | 0/7 el 2026-11-15, guía a R$ 19,90, página nueva; re-medir ~2026-11-22 |
+| Amélie Boissieu (Kit Comptable 2027) | 1363004406903385 | FR | ≥32/50 piso el 2026-11-16; seguir si se apaga o cambia de SKU; re-medir ~2026-11-23 |
+| Hugo Jean (300 jeux & dynamiques) | 1382251738298675 | FR | 24/27, ≈45 d el 2026-11-16 (moneda BRL); re-medir ~2026-11-23 |
+| Bibliothèque Créative (Cricut) | 1501332446389326 | FR | 0/15 el 2026-11-16 (tandas de 2-7 d); re-medir ~2026-11-19 |
 
 ## Rotación vigente
 
@@ -113,7 +122,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-16 | FR | en curso — A huella (lun: C operadores sin operadores ni agenda FR → cola vacía → A) | — | — | — | — |
+| 2026-11-16 | FR | A huella (lun: C operadores sin operadores ni agenda FR → cola vacía → A) | — | guide pdf, planner imprimable, ebook complet, accès immédiat, fiches imprimables, modèles Notion, paiement unique, cahier d'exercices, bonus offerts guide + 10 conteos por page_id | 2 tarjetas (Kit Comptable 2027 ≥32/50 piso; 300 jeux & dynamiques 24/27); señales: Bibliothèque Créative 0/15, Boîte à Ressources Neuro 0/6 | 5 nodos virgen FR nuevos, 2 operadores |
 | 2026-11-16 | IT | A huella (lun: B perforar sin nodos IT en la cola → A) | — | guida pdf, accesso immediato, planner stampabile, ebook completo + 12 conteos por page_id | 1 tarjeta (Natale a punto ~41/50); señales: Studio Quadri ≥13/≥50 oferta no identificada, Crescere Giocando 8/8 | 5 nodos virgen/superficial IT nuevos |
 | 2026-11-16 | BR | A huella (lun) | — | planner imprimível, checklist pdf, kit digital completo, guia prático pdf, planilha pronta + 32 conteos por page_id | 1 tarjeta (Organize com Ju 13/14); señales: Lacuna Concursos ≥13/50 oferta no identificada, Cristina Maria 17/32 en 3 ofertas | 3 nodos virgen nuevos |
 | 2026-11-15 | MX (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda MX; sin 🟡 vencidos; nota: el nodo mapas-visuales-mentales (BR) pide medir el hueco en MX, queda para una corrida MX en día de semana | sin cambios |

@@ -86,6 +86,31 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Kit Comptable Pratique 2027 · 7 cahiers + 6 bonus — Amélie Boissieu FR · `kit-comptable-cahiers-2027` · 2026-11-16 · sesión FR
+- **Qué es:** kit de 7 cuadernos de contabilidad práctica 2027 + 6 bonus, presumiblemente PDF imprimible; precio no visto (cuenta en USD, operador no francés).
+- **Por qué es ganador:** ≥32 de 50 ads activos en FR con 7+ días (50 = piso del API, estimado 70), un solo page_id y una sola oferta; tandas de creación escalonadas desde hace ~21 días y 2 ads nuevos hoy; copy de producto sin cara visible en los títulos (nombre de página = persona: juzgar en el snapshot).
+- **Qué hacer:** modelar el molde «cuadernos de gestión/contabilidad para autónomos y pymes» (el contenido fiscal es local: se reescribe por país); destinos a medir: IT, PT, RO; ángulo «kit del año nuevo 2027», bonus apilados; estacional (cierre/inicio de año).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1363004406903385>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=2058595798877775
+- Score n/4 (≤ 1/4 provisorio, hueco de arbitraje sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-fr-A-huella.md`
+
+### 🎯 300 jeux & dynamiques prêts à utiliser — Hugo Jean FR · `jeux-dynamiques-300-pret-a-utiliser` · 2026-11-16 · sesión FR
+- **Qué es:** pack de 300 juegos y dinámicas listos para usar (público exacto no identificado: ¿animadores, profesores, entrenadores?); precio no visto (cuenta en BRL: molde brasileño traducido al francés).
+- **Por qué es ganador:** 24 de 27 ads activos en FR con 7+ días (no truncado), un solo page_id y una sola oferta; 8+ fechas de creación distintas, longevidad máx. ≈ 45 días, 3 ads de hace ~5 días; sin cara en los títulos (nombre de página = persona: juzgar en el snapshot).
+- **Qué hacer:** modelar tal cual (pack de fichas/juegos imprimibles); destinos a medir: IT, RO, PT; ⚠ si el público resulta ser animadores de adultos mayores cae en un nicho excluido: verificar en la PC antes de decidir.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1382251738298675>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=2005025430179720
+- Score n/4 (1/4 provisorio: longevidad ≈ 45 d; hueco sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-fr-A-huella.md`
+
+**Señales del día FR 2026-11-16**
+- Bibliothèque Créative (1501332446389326): 0/15 en FR, «+100 Guides Visuels pour Cricut Design Space» (moneda BRL, molde BR traducido); tandas de hace 2-7 días; re-medir en 3-4 días.
+- Boîte à Ressources Neuro (1345809441959313): 0/6 en FR, tanda de hoy, «+1 300 ressources prêtes à imprimer», pago único; re-medir en 5 días.
+- Manual de Arte Terapia (1213147361873813): 5/17 y Elena Martin (1058993513953988, +2 000 modelos de tricot): 5/16; a 5 de la vara; re-medir.
+- PathoFiches (1368093956386045, fiches de enfermería) 4/8; Studio Quadri 0/8 en FR (tanda de hoy; en IT ≥13/≥50).
+- Tandas de hoy de páginas cáscara sin cohorte: Acordes en Claro (19+), Download Studio (13+), Digital Skill, learndigital.shop, Online Packages, Atelio Guides.
+
 FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR vencidos; nada que pase la vara.
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
