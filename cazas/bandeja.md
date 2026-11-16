@@ -200,6 +200,14 @@ MX 2026-11-16 (tarde): nada que pase la vara; se barrió fichas anatomía, apunt
 - Enf. Valentina Rojas (1419232917932388): 2/15, «200 Mapas Mentales de Enfermería» a USD 3,99; 10 ads de ~6 d cruzan 7 d el 11-17/18 (llegaría a ~12); nombre de página = persona: juzgar marca personal en la PC; re-medir ~11-19.
 - Atlas Visual Academy (1542154965638151) 0/5 «+250 fichas de Auxiliar de Enfermería» (EUR) y Ciencia Del Cuerpo (1231987839993612) 0/3 «+200 hojas de fisioterapia»: tandas de hoy.
 
+MX 2026-11-16 (tarde 2): nada que pase la vara; se barrió cuaderno imprimible, plantillas excel, guía paso, pack editable, formatos listos, hojas trabajo y 10 conteos por page_id. Informe: `RAW/cazas-auto/2026-11-16-mx-B-huellas-nuevas-tarde2.md`
+
+**Señales del día MX (tarde 2) 2026-11-16**
+- Vida Práctica (1472534742604591): 0/12, «Manual Visual del Ingeniero Industrial / del Maestro de Obra» a $199 MXN; 3 ads de ~6 d cruzan 7 d el 11-17 (llegaría a 3); re-medir ~11-19.
+- Tus Clases Online (103959345113295): 9/50 piso, multi-SKU (moldes navideños, cajitas, farmacología visual, mapas); los 9 con 7+ d son «Chatea con nosotros» genéricos, las ofertas reales tienen ≤ 6 d; el amigurumi cae en crochet (excluido); re-medir ~11-20.
+- Estrategia Clara (1397477393443437) 4/13 («48 herramientas + 4 bonos», US$ 19,99, producto no identificado) y Kits Profesionales (692615883936217) 3/9 (kits documentales de salud/NOM en MXN): bajo la vara.
+- Mente Ordenada (1084424138077543) 0/15 «vacía tu cabeza en 10 minutos», mismo ángulo que Planner Hoy Solo 3; tanda de hoy.
+
 MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX vencidos; nada que pase la vara.
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->

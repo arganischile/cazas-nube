@@ -27,3 +27,4 @@
 ## [2026-11-16] caza-auto | MX B perforar fichas-mapas-multitema-aprendia (tarde) → 0 candidatos a bandeja
 ## [2026-11-16] caza-auto | FR B kit-comptable-cahiers-2027 (tarde) → 0 candidatos a bandeja
 ## [2026-11-16] caza-auto | RO B perforar libros-visuales-en-imagenes-ro (tarde) → 1 candidato a bandeja (Atlas Terapeutic Vizual 11/50 piso)
+## [2026-11-16] caza-auto | MX B perforar huellas-nuevas (tarde 2) → 0 candidatos a bandeja
