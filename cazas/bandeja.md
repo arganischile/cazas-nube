@@ -26,6 +26,17 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+**BR 2026-11-16 · Método Casa Leve 60 — Organize com Ju** · `sin-revisar`
+- Por qué gana: 13 de 14 anuncios activos en BR con 7+ días, un solo page_id y una sola oferta («Casa Leve 60»); 3 tandas de creación (11-06, 11-07, 11-15). Longevidad máx. ≈ 9 días: oferta joven.
+- Qué vende: método de organización del hogar con plantillas «v6» y «aulas rápidas y 100 % prácticas» (¿mini-curso grabado?). Precio no visto.
+- Embudo: no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, y si «Ju» pone la cara).
+- Gancho: «Método Casa Leve 60» · «Aulas Rápidas e 100% Práticas».
+- Qué se puede hacer: llevar el molde a Portugal e Italia (orden y limpieza del hogar, evergreen); mismo formato de plan de 60 días.
+- Biblioteca: <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1022767074413574> · Snapshot: https://www.facebook.com/ads/library/?id=1889373632059546
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-br-A-huella.md`
+
+**Señales BR 2026-11-16:** Lacuna Concursos (1173569735845788) ≥13/50 piso, 12 fechas desde 10-06, todos «Baixe Agora»: no se sabe qué vende. Cristina Maria (914677635067969) 17/32 pero en 3 ofertas de umbanda (sabonetes 9, estampas 4, oferendas 4): ninguna llega a 10. Lanzamientos < 7 días a re-medir: Reescrevendo seu Caminho (numerología, 50+ piso), Fernando Contador (22, USD), Tchau Fralda (9), Cadu Oliveira (16), Família Preparada (13, USD, tema apagón 72 h).
+
 **BR 2026-11-15 · Kit +300 Mapas Mentais de Inglês — Fluente com Legenda** · `sin-revisar`
 - Por qué gana: 170 de 240 anuncios en BR con 7+ días, sobre una sola oferta; campaña apilada de jul a oct.
 - Qué vende: kit digital de +300 mapas mentales de inglés imprimibles, R$ 47–97, bonos y garantía 7 días.

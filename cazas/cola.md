@@ -43,6 +43,9 @@ los nichos que emergen.
 | guias-beneficios-inss-bpc | — | BR | descartado-eje | 2026-11-15 (sesión local, modo B): 7 keywords (guia BPC, BPC passo, INSS ebook, LOAS guia, guia aposentados, BPC autismo, aposentadoria pdf) + `ALL`; subnichos autismo, aposentados, salário-maternidade, Bolsa Família. Nadie ≥ 10: el gasto es de abogados (servicio) y la red «Implantes pelo SUS» (Growth Journey 29/43) es arbitraje de búsqueda. Único tester real: Guia dos Benefícios Sociais 0/7 a R$ 19,90 | eje «guía de trámite INSS/BPC» cerrado en BR; queda el hijo de autismo |
 | guias-beneficios-inss-bpc/derechos-familias-autismo | guias-beneficios-inss-bpc | BR | virgen | 2026-11-15: «BPC autismo» da ~3.285 ads activos, casi todos de abogados; ningún infoproducto para familias visto | modo B: guía de derechos y trámites para padres de hijos con TEA (BPC, IPVA, IR, escuela); keywords sin «advogado» |
 | habito-parar-de-fumar-corrida-5k | — | BR | virgen | 2026-11-14 huella: Parar de Fumar de Vez 0/6, Nasce um corredor 0/10 | modo B · apareció por huella el 2026-11-14 |
+| organizacao-casa-metodo | — | BR | virgen | 2026-11-16 huella: Organize com Ju 13/14 | modo B: perforar subnichos (limpieza, rutina, plantillas) y medir PT/IT · apareció por huella el 2026-11-16 |
+| preparacion-72h-apagon | — | BR | virgen | 2026-11-16 huella: red de 4 páginas, todas < 7 días | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
+| concursos-material-baixar | — | BR | virgen | 2026-11-16 huella: Lacuna Concursos ≥13/50 «Baixe Agora» | modo B: identificar qué vende · apareció por huella el 2026-11-16 |
 
 ---
 
@@ -63,6 +66,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | bloque `es` sin BO / EC / GT | subcuenta a los operadores andinos | `countries: ["MX","CO","AR","PE","CL","BO","EC","GT","ES"]` |
 | `ad_creation_time` viejo sin impresiones | ads zombis | abrir el snapshot: «isn't in the Ad Library / no impressions» no cuenta |
 | follow ads («Visit Instagram profile») | infl an la longevidad | la longevidad se lee **sobre el ad que vende** |
+| `checklist pdf`, `kit digital completo` en BR | solo ads de las últimas 48 h; los lunes casi todo es tanda del fin de semana (cohorte 0) | contar por page_id y re-medir a los 4-5 días |
 | `limit: 50` que devuelve 50 ads de hoy | cohorte truncada | reportar como piso, repetir con `page_ids` + `countries` |
 | snapshot sin espera | `get_page_text` devuelve solo el encabezado | `wait` 4 s antes de leer |
 | landing de operador 🇧🇷 | geo-redirige por idioma | el precio del mercado cazado se mira desde el checkout |
@@ -103,7 +107,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-16 | BR | A huella (lun) | — | en curso | en curso | — |
+| 2026-11-16 | BR | A huella (lun) | — | planner imprimível, checklist pdf, kit digital completo, guia prático pdf, planilha pronta + 32 conteos por page_id | 1 tarjeta (Organize com Ju 13/14); señales: Lacuna Concursos ≥13/50 oferta no identificada, Cristina Maria 17/32 en 3 ofertas | 3 nodos virgen nuevos |
 | 2026-11-15 | MX (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda MX; sin 🟡 vencidos; nota: el nodo mapas-visuales-mentales (BR) pide medir el hueco en MX, queda para una corrida MX en día de semana | sin cambios |
 | 2026-11-15 | RO (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda RO; sin 🟡 vencidos | sin cambios |
 | 2026-11-15 | FR (tarde) | lint de la cola (dom) | — | ninguna | 0 tarjetas; la cola no tiene nodos, operadores ni agenda FR; sin 🟡 vencidos | sin cambios |
