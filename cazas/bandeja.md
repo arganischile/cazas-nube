@@ -26,6 +26,17 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Bordado en papel · presentes de Natal — Nannyvarie BR · `moldes-bordado-riscos` · 2026-11-16 · sesión BR (tarde)
+- **Qué es:** oferta de bordado en papel para regalos navideños hechos a mano (¿moldes/riscos + guía o mini-curso?); producto exacto y precio no vistos (BRL).
+- **Por qué es ganador:** 39 de 43 anuncios activos en BR con 7+ días, un solo page_id y un solo creativo repetido; tandas de creación 10-21, 10-26 y 11-15/16; longevidad máx. ≈ 25 días; nombre de página no es una persona.
+- **Qué hacer:** observar y verificar el embudo en la PC; si es digital, modelar el molde «bordado en papel + Navidad» en PT, IT, FR, RO; estacional, ventana hasta ~mediados de dic.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=101372751885586>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, marca personal). Snapshot: https://www.facebook.com/ads/library/?id=1110083021863954
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-16-br-B-moldes-bordado-riscos-tarde.md`
+
+**Señales BR 2026-11-16 (tarde):** Riscos para Bordar cayó de 7/16 a 0/4 (se apagó la tanda vieja). Bordado Criativo (1289620830901567) 4/20, dos tandas de 8-9 ads de hace 1-3 días («Crie peças lindas em 15 minutos»): re-medir ~11-20. Mariana Duarte (1277206485465907) 0/12, «Bordado no Papel + 500 riscos», tanda de hace 3-4 días: re-medir ~11-20. Terapia das Cores (110206475291825) ~23 ads de hace 2 días en USD, 0 de cohorte. Rabelo Arte (321796351025395) tanda de hoy, «100 riscos por R$ 47».
+
 **BR 2026-11-16 · Método Casa Leve 60 — Organize com Ju** · `sin-revisar`
 - Por qué gana: 13 de 14 anuncios activos en BR con 7+ días, un solo page_id y una sola oferta («Casa Leve 60»); 3 tandas de creación (11-06, 11-07, 11-15). Longevidad máx. ≈ 9 días: oferta joven.
 - Qué vende: método de organización del hogar con plantillas «v6» y «aulas rápidas y 100 % prácticas» (¿mini-curso grabado?). Precio no visto.
