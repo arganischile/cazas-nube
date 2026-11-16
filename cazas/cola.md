@@ -56,6 +56,11 @@ los nichos que emergen.
 | cricut-guides-visuels | — | FR | virgen | 2026-11-16 huella FR: Bibliothèque Créative 0/15 («+100 Guides Visuels Cricut», BRL) | modo B: re-medir en 3-4 días · apareció por huella el 2026-11-16 |
 | ressources-neuro-imprimables | — | FR | virgen | 2026-11-16 huella FR: Boîte à Ressources Neuro 0/6 («+1 300 ressources à imprimer») | modo B: re-medir en 5 días, identificar el nicho (neurodiversidad/TDAH) · apareció por huella el 2026-11-16 |
 | art-therapie-fiches-pdf | — | FR | virgen | 2026-11-16 huella FR: Manual de Arte Terapia 5/17 | modo B: re-medir y perforar · apareció por huella el 2026-11-16 |
+| libros-visuales-en-imagenes-ro | — | RO | virgen | 2026-11-16 huella RO: Studio Facile ≥17/54 (p. 1272162682644374) y 38/48 (p. 1232011766670582), ~20 temas «X în imagini», ninguno ≥10 | modo B: identificar si es catálogo/bundle o libros por tema (verificar en la PC); ligar con red de mapas/atlas visuales BR/IT/FR · apareció por huella el 2026-11-16 |
+| contabilidad-cuadernos-ro | — | RO | virgen | 2026-11-16 huella RO: Contador en Acción 2/18, MARCO MEDIA 0/11 (mismo molde que kit-comptable-cahiers-2027 de FR) | modo B: re-medir en 5 días (lotes de ≤ 4 d); medir IT/PT · apareció por huella el 2026-11-16 |
+| libros-regalo-diagram-books | — | RO | virgen | 2026-11-16 huella RO: Diagram Books 0/30 («+ 2 cărți cadou», tandas de 2-4 d); Imago Studiu 5/5 | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
+| creativo-resenas-neuralforkids-digitalbooks | — | RO | virgen | 2026-11-16 huella RO: Neuralforkids 0/46 y Digital Books 0/20, mismo creativo «⭐ 4,9/5,0» en USD, producto no identificado | modo B: re-medir ~2026-11-20 e identificar qué venden · apareció por huella el 2026-11-16 |
+| fise-tulburari-psihice-pdf | — | RO | virgen | 2026-11-16 huella RO: Harta Tulburărilor 1/23 («210 fișe, 40 de perechi, 1 PDF», EUR) | modo B: re-medir en 5 días; juzgar nicho · apareció por huella el 2026-11-16 |
 
 ---
 
@@ -87,6 +92,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | «Guia prático: …» de páginas genéricas en inglés (Growth Journey, Winning Mindset, Driven Forward, Goal Summit, Home Style) que pagan en **USD/PLN** | arbitraje de búsqueda (RSOC): el clic va a `track.*` → artículo gratis (`financeply.com`, `utm_medium=gs`); la longevidad es real pero no vende nada | descartar por embudo; si el título trae «Guia prático» y la moneda no es la local, abrir el destino antes de contar |
 | `guide pdf`, `accès immédiat`, `paiement unique`, `bonus offerts guide` en FR | tandas de hoy de páginas cáscara en USD (Digital Skill, Online Packages, learndigital.shop, Download Studio) y ruido de coaches y short-dramas (PulseDrama, ReelyGo) | barrer para leer nombres y contar con `page_ids` + `countries`; rinden `fiches imprimables` y `cahier d'exercices` |
 | `guida pdf`, `accesso immediato`, `ebook completo` en IT | solo ads de las últimas 48 h (estimado 1.471-5.041), tandas masivas de páginas cáscara (Digital Skill, Online Packages, learndigital.shop) | barrer para leer nombres de página y contar con `page_ids` + `countries`; el API no trae cuerpo ni URL, el producto sale del título |
+| `ebook complet`, `descarcă ghidul`, `acces imediat` en RO | editoriales y ficción (Corola, Editura ACT), lead magnets gratis de clínicas/ONG/ROCKWOOL, hoteles y tandas de hoy de páginas cáscara en USD | `caiet exerciții`, `ghid pdf` rinden (Studio Facile, Contador en Acción); contar con `page_ids` + `countries`; `planner imprimabil` y `fișe imprimabile` casi vacíos |
 
 ## Operadores a seguir (modo C)
 
@@ -122,7 +128,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-16 | RO | A huella (lun) | — | en curso | en curso | — |
+| 2026-11-16 | RO | A huella (lun) | — | ghid pdf, acces imediat, planner imprimabil (0), fișe imprimabile, ebook complet, caiet exerciții, șabloane gata, descarcă ghidul + 14 conteos por page_id | 0 tarjetas; mejor: Studio Facile ≥17/54 y 38/48 pero en ~20 temas (ninguno ≥10); señales: kit contable RO (Contador en Acción 2/18, MARCO MEDIA 0/11), Diagram Books 0/30, Neuralforkids 0/46 | 5 nodos virgen RO nuevos |
 | 2026-11-16 | FR | A huella (lun: C operadores sin operadores ni agenda FR → cola vacía → A) | — | guide pdf, planner imprimable, ebook complet, accès immédiat, fiches imprimables, modèles Notion, paiement unique, cahier d'exercices, bonus offerts guide + 10 conteos por page_id | 2 tarjetas (Kit Comptable 2027 ≥32/50 piso; 300 jeux & dynamiques 24/27); señales: Bibliothèque Créative 0/15, Boîte à Ressources Neuro 0/6 | 5 nodos virgen FR nuevos, 2 operadores |
 | 2026-11-16 | IT | A huella (lun: B perforar sin nodos IT en la cola → A) | — | guida pdf, accesso immediato, planner stampabile, ebook completo + 12 conteos por page_id | 1 tarjeta (Natale a punto ~41/50); señales: Studio Quadri ≥13/≥50 oferta no identificada, Crescere Giocando 8/8 | 5 nodos virgen/superficial IT nuevos |
 | 2026-11-16 | BR | A huella (lun) | — | planner imprimível, checklist pdf, kit digital completo, guia prático pdf, planilha pronta + 32 conteos por page_id | 1 tarjeta (Organize com Ju 13/14); señales: Lacuna Concursos ≥13/50 oferta no identificada, Cristina Maria 17/32 en 3 ofertas | 3 nodos virgen nuevos |

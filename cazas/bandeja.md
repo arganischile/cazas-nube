@@ -115,6 +115,14 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-16: nada que pase la vara; se barrió ghid pdf, acces imediat, planner imprimabil, fișe imprimabile, ebook complet, caiet exerciții, șabloane gata, descarcă ghidul (14 páginas contadas; la mejor, Studio Facile ≥17/54 y 38/48 pero repartido en ~20 temas). Informe: `RAW/cazas-auto/2026-11-16-ro-A-huella.md`
+
+**Señales del día RO 2026-11-16**
+- Studio Facile (1272162682644374 y 1232011766670582): libros «X în imagini» (USD), 38/48 y ≥17/54 con 7+ días, pero ningún tema ≥10 (Sudura, Contabilitatea, Teoria muzicii 5 c/u); si es un catálogo único la lectura cambia: verificar en la PC. Misma red que los atlas/mapas visuales de BR, IT y FR.
+- Kit contable en RO: Contador en Acción (1418159758044206) 2/18 y MARCO MEDIA (1350956431432254) 0/11 «7 caiete + 6 bonusuri», mismo molde que Kit Comptable FR; lotes de ≤ 4 días, re-medir en 5 días.
+- Diagram Books (1499263639932513) 0/30 y Neuralforkids (1336343509566915) 0/46 / Digital Books (1460770633775833) 0/20 con el mismo creativo «⭐ 4,9/5,0»: tandas de hoy, re-medir ~2026-11-20.
+- Nota Maximă (147891488418749) ~25/48 en RON, pero libros escolares físicos («Asigurare Colet»): no entra.
+
 RO 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda RO vencidos; nada que pase la vara.
 RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda RO; nada que pase la vara.
 
