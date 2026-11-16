@@ -148,6 +148,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-16 | CO (tarde) | B perforar | teoria-musical-visual-guias | en curso | en curso | en curso |
 | 2026-11-16 | RO (tarde) | B perforar | libros-visuales-en-imagenes-ro | ghid ilustrat, hărți mentale, în imagini pdf, explicat prin desene (0) + 5 conteos por page_id (Studio Facile ×2, Pagina de Nursing, Ready Resources, Atlas Terapeutic Vizual) | 1 tarjeta (Atlas Terapeutic Vizual 11/50 piso); señales: Studio Facile 39/48 y 15/50 en ~25 temas, Pagina de Nursing ≈20/21 mezcla física, Ready Resources 5/30, Impulso Digital 0/5 | nodo pasa a superficial; 3 hijos nuevos |
 | 2026-11-16 | FR (tarde) | B perforar | kit-comptable-cahiers-2027 | comptabilité auto-entrepreneur, cahier comptabilité association, budget familial tableur, facture devis modèle, budget mensuel pdf, cahiers de gestion bonus + 1 conteo por page_id | 0 tarjetas nuevas; Boissieu sube a 41/50 piso (ya tiene tarjeta); señal: Mon Mois en Clair 0/2 | kit-comptable-cahiers-2027 pasa a superficial |
 | 2026-11-16 | MX (tarde 2) | B perforar (todos los nodos MX tocados hoy → huellas nuevas) | nodos nuevos | cuaderno imprimible, plantillas excel, guía paso, pack editable, formatos listos, hojas trabajo + 10 conteos por page_id | 0 tarjetas; Estrategia Clara 4/13, Kits Profesionales 3/9, Tus Clases Online 9/50 piso (ofertas reales ≤ 6 d), Vida Práctica 0/12 (3 ads cruzan 7 d el 11-17) | 2 nodos virgen MX nuevos |
