@@ -31,3 +31,4 @@
 ## [2026-11-16] caza-auto | CO B perforar teoria-musical-visual-guias (tarde) → 1 candidato a bandeja (Rafael Piano Fácil 29/42)
 ## [2026-11-17] caza-auto | BR B perforar habito-parar-de-fumar-corrida-5k → 0 candidatos a bandeja
 ## [2026-11-17] caza-auto | IT C operadores → 1 candidato a bandeja (Rafael Piano Fácil 34/45; cohorte italiano 10)
+## [2026-11-17] caza-auto | FR A huella → 2 candidatos a bandeja (Espagnol Illustré 15/26; PsiOS atlas 10/33 FR, borde)

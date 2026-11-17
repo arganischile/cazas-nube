@@ -52,6 +52,9 @@ los nichos que emergen.
 | red-atlante-visivo | — | IT | virgen | 2026-11-16 huella IT: learndigital.shop 0/50, Atlante Visivo del Cantiere 2/7 (atlas visuales profesionales, mezcla EN/IT) | modo B: re-medir en 5 días; ligar con red de mapas visuales de BR · apareció por huella el 2026-11-16 |
 | musicogrammi-docenti | — | IT | virgen | 2026-11-16 huella IT: Silvia Moretti 0/39 (25 videos a 6,90) | modo B: re-medir en 5 días; juzgar marca personal · apareció por huella el 2026-11-16 |
 | dime-falegnameria | — | IT | virgen | 2026-11-16 huella IT: Digital Corner 0/27 («80 progetti di dime») | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
+| idiomas-cartes-mentales-a1-c2 | — | FR | virgen | 2026-11-17 huella FR: Espagnol Illustré 15/26 (tarjeta en bandeja); Céline Moreau 3/10 (A1-C2); 0 en IT/PT/RO | modo B: perforar otros idiomas (inglés, alemán, italiano para francófonos) y medir IT/PT/RO · apareció por huella el 2026-11-17 |
+| manuels-illustres-concours-fr | — | FR | virgen | 2026-11-17 huella FR: Manuels Illustrés 0/21 (CRPE, CRFPA, VTC, finances publiques; todo ≤ 5 d) | modo B: re-medir ~2026-11-20; ligar con red de mapas/atlas visuales · apareció por huella el 2026-11-17 |
+| classeur-antiseche-mixage | — | FR | virgen | 2026-11-17 huella FR: Biblioteca Práctica 8/24 («72 fiches de mixage», COP; operador CO) | modo B: re-medir ~2026-11-20; medir CO/MX/IT · apareció por huella el 2026-11-17 |
 | kit-comptable-cahiers-2027 | — | FR | superficial | 2026-11-16 huella FR: Amélie Boissieu ≥32/50 piso (tarjeta en bandeja); modo B tarde: 41/50 piso, 6 keywords nativas (autónomo, asociación, hogar) sin otro anunciante de infoproducto; solo Mon Mois en Clair 0/2 | modo B: perforar contabilidad/gestión para autónomos por avatar (micro-empresa, asociación, hogar) y medir IT/PT/RO · apareció por huella el 2026-11-16 |
 | jeux-dynamiques-300-pret-a-utiliser | — | FR | virgen | 2026-11-16 huella FR: Hugo Jean 24/27, ≈45 d (tarjeta en bandeja) | modo B: identificar el público (¡si es adulto mayor, excluido!) y medir IT/RO/PT · apareció por huella el 2026-11-16 |
 | cricut-guides-visuels | — | FR | virgen | 2026-11-16 huella FR: Bibliothèque Créative 0/15 («+100 Guides Visuels Cricut», BRL) | modo B: re-medir en 3-4 días · apareció por huella el 2026-11-16 |
@@ -111,6 +114,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `apuntes enfermería`, `fichas anatomía` en MX | short-dramas («Seguir viendo», «Dramas Cortos Gratis») y la red Aprendia (≥ 8 fanpages con tandas diarias) ocupan los 50 primeros | contar con `page_ids` + `countries`; en una red con tandas diarias los 50 más nuevos no alcanzan 7 d: reportar «cohorte no medible», no cero, y re-medir en 3-4 días |
 | `piano acordes`, `partituras pdf`, `técnica vocal ejercicios` en CO | academias con sede/cupos, coaches con reseñas «4,8/5» (Sofia Rivas) y talleres en vivo ocupan los primeros 50 | contar con `page_ids` + `countries`; el hallazgo (Rafael Piano Fácil) sale del conteo, no de la keyword |
 | `explicat prin desene` en RO | da 0 aunque Studio Facile lo usa en el título: el matcher mira el texto del ad, no el título | `în imagini`, `ghid ilustrat`, `hărți mentale` descubren atlas/mapas; contar con `page_ids` + `countries` |
+| `cartes mentales`, `fiches pratiques` en FR | `cartes mentales` trae hardware (Pocket AI, Plaud); `pack modèles` ecommerce, Black Friday y crochet (excluido) | rinden como huella para leer nombres; contar con `page_ids` + `countries`; descontar los creativos en inglés (The Horsemanship Club: 6 FR de 43, el resto EN) |
 | páginas operadoras de otro mercado que «llegan» a IT con creativos en español o francés | fuga de segmentación: 300 Mapas Mentales 18/22 y Hugo Jean 5/5 en IT eran todo ES/FR; inflan la cohorte | contar solo los creativos en italiano (leer el título de cada ad) |
 
 
@@ -126,6 +130,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Mapas e Guias Visuais | 1394868680373327 | BR | 127 est. activos en una sola tanda; medir cohorte en 3-4 días |
 | Guia dos Benefícios Sociais | 1415031105033080 | BR | 0/7 el 2026-11-15, guía a R$ 19,90, página nueva; re-medir ~2026-11-22 |
 | Amélie Boissieu (Kit Comptable 2027) | 1363004406903385 | FR | ≥32/50 piso el 2026-11-16; seguir si se apaga o cambia de SKU; re-medir ~2026-11-23 |
+| Espagnol Illustré | 1435820002945205 | FR | 15/26 el 2026-11-17 (tarjeta en bandeja); 0 en IT/PT/RO; re-medir ~2026-11-24 |
+| PsiOS (atlas terapéutico) | 111707335304926 | FR | 10/33 FR el 2026-11-17 (tarjeta, borde); multilingüe IT/ES/EN; re-medir ~2026-11-21 |
+| Biblioteca Práctica (Classeur Antisèche) | 1415895891603865 | FR | 8/24 el 2026-11-17; re-medir ~2026-11-20 |
 | Hugo Jean (300 jeux & dynamiques) | 1382251738298675 | FR | 24/27, ≈45 d el 2026-11-16 (moneda BRL); re-medir ~2026-11-23 |
 | Bibliothèque Créative (Cricut) | 1501332446389326 | FR | 0/15 el 2026-11-16 (tandas de 2-7 d); re-medir ~2026-11-19 |
 | 300 Mapas Mentales | 1276104028925482 | MX | 20/28 el 2026-11-16 (tarjeta en bandeja); versión ES del kit de Fluente com Legenda; re-medir ~2026-11-30 |
@@ -159,7 +166,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-17 | FR | A huella (mar) | — | en curso | en curso | — | — |
+| 2026-11-17 | FR | A huella (mar) | — | cartes mentales, carnet imprimable, fiches pratiques, pack modèles + 15 conteos por page_id + cruce IT/PT/RO | 2 tarjetas (Espagnol Illustré 15/26; PsiOS Atlas thérapeutique 10/33 FR, borde); señales: Biblioteca Práctica 8/24, Manuels Illustrés 0/21 (multi-SKU), Céline Moreau 3/10, Horsemanship Club 6/43 FR | 3 nodos virgen FR nuevos, 3 operadores |
 | 2026-11-17 | IT | C operadores (sin operadores IT en la tabla: se miden en IT los de otros mercados y las re-mediciones IT) | operadores + nodos IT | ninguna (modo C) + 13 conteos por page_id en IT | 1 tarjeta (Rafael Piano Fácil 34/45; cohorte italiano 10); señales: Studio Quadri 11/50 piso, Natale a punto 40/50 piso, Crescere Giocando 7/8, Silvia Moretti 0/50 y Digital Corner 0/36 (cruzan 7 d ~11-20), Acordes en Claro cohorte no medible | 5 operadores IT agregados; nodos IT sin cambio de estado |
 | 2026-11-17 | BR | B perforar | habito-parar-de-fumar-corrida-5k | parar de fumar (+ebook, guia ALL), deixar de fumar método, vício cigarro ebook, largar cigarro, plano de treino corrida 5k, planilha treino corrida, correr 5km iniciante + 9 conteos por page_id | 0 tarjetas; Maria Eduarda 1/50 piso (Kit Corredores R$ 5, tandas diarias, cruza 10 ~11-19/20), Parar de Fumar de Vez 0/6, Nasce um corredor 0/12, Corrida em Evolução 0/36 (todo de hoy); Vivendo Saudável y Marcelo Lopes posibles zombis | habito-parar-de-fumar-corrida-5k pasa a superficial; re-medir ~11-20 |
 | 2026-11-16 | CO (tarde) | B perforar | teoria-musical-visual-guias | piano acordes, ukelele acordes, técnica vocal ejercicios, batería ritmos, partituras pdf, partituras flauta, violín partituras + 8 conteos por page_id + Rafael Piano Fácil en BR e IT/FR/RO/PT | 1 tarjeta (Rafael Piano Fácil 29/42); señales: Prisma Piano 0/5 (clon del molde), Sofia Rivas ≥25/101 oferta no identificada, Academia Visual de la Voz 0/7, Tamas Bodzsar 0/9 | nodo pasa a superficial; 2 hijos nuevos |

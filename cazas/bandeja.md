@@ -129,6 +129,31 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 520+ cartes mentales pour parler espagnol — Espagnol Illustré FR · `idiomas-cartes-mentales-a1-c2` · 2026-11-17 · sesión FR
+- **Qué es:** pack de 520+ mapas mentales/fichas de español para francófonos (6 recorridos A1→C2, «una regla = una página»), PDF o impreso, con 3 bonus (diccionario de falsos amigos, guía de pronunciación, planner 30 días); precio no visto (cuenta en USD, operador no francés).
+- **Por qué es ganador:** 15 de 26 ads activos en FR con 7+ días (no truncado), un solo page_id y una sola oferta; creaciones en 3 tandas (11-01, 11-05, 11-12) y longevidad máx. ≈ 17 días por API; nombre de página = producto, sin cara. Hay un segundo jugador en el molde: Céline Moreau «+300 cartes mentales · A1 à C2» 3/10. 0 ads de esta página en IT/PT/RO.
+- **Qué hacer:** modelar el molde «mapas mentales de idiomas por nivel A1-C2»; destinos a medir y llevar: IT (español para italianos), PT/BR (español para brasileños), RO; conecta con la red de mapas visuales de BR/MX. Un ad apunta a «espagnol à 60 ans» (solo un ángulo, el producto no es actividad de adulto mayor).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1435820002945205>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1020762231046294
+- Score n/4 (1/4 provisorio: longevidad ≈ 17 d; hueco IT/PT/RO sin medir a fondo) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-17-fr-A-huella.md`
+
+### 🎯 Atlas thérapeutique visuel — PsiOS FR · `atlas-psicoterapia-ro` (familia) · 2026-11-17 · sesión FR
+- **Qué es:** atlas visual / mapas mentales terapéuticos para psicoterapeutas (también «Mappe mentali terapeutiche» en IT, «Mapas mentales terapéuticos» en ES y «250+ therapeutic mind maps» en EN, más «100 mapas visuales de neurociencia del trauma»); probablemente PDF; precio no visto (cuenta en USD).
+- **Por qué es ganador:** 10 de 33 ads activos en FR con 7+ días **contando solo los creativos en francés** (el resto es IT/ES/EN), un solo page_id; longevidad por API ≈ 8 d; la cohorte es **borde** (10 exactos) y 9 de los 10 son de una misma tanda (11-08), página con ≥ 6 fechas de creación entre todos los idiomas y ads desde hace 54 días; sin cara, nombre = producto. Misma familia que Atlas Terapeutic Vizual (RO, tarjeta del 11-16).
+- **Qué hacer:** modelar «atlas visual de herramientas para terapeutas»; el molde ya corre en RO y FR (y PsiOS lo prueba en IT/ES/EN): destinos a medir IT, PT/BR; re-medir ~2026-11-21 para ver si la tanda sigue viva.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=111707335304926>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=2189842628635708
+- Score n/4 (no evaluado; cohorte en el borde) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-17-fr-A-huella.md`
+
+**Señales del día FR 2026-11-17**
+- Biblioteca Práctica (1415895891603865): 8/24 en FR, «Le Classeur Antisèche · 72 fiches de mixage» (mezcla de audio, COP); a 2 de la vara, re-medir ~11-20.
+- Manuels Illustrés (1412630685262258): 0/21, fábrica multi-SKU de «manuels illustrés» (CRPE, CRFPA, VTC, Contrôleur finances publiques, Obligations); todo ≤ 5 d; re-medir ~11-20.
+- Céline Moreau (1367953336410558): 3/10, «+300 cartes mentales A1-C2» (segundo jugador del molde de idiomas).
+- The Horsemanship Club (1303084746212441): 6/43 en creativos FR (≈ 36 en inglés = fuga), curso de equitación «220 leçons»; no cuenta como cohorte FR.
+- Simone Longo Infirmière 5/10 (BRL), Laura Martin 13/28 repartido en 3 ofertas (no una sola), Atelio Guides 0/18, Les Carnets Pratiques 0/8, Atelier Nova 0/5 (Atlas Biomécanique), tandas de hoy.
+
 ### 🎯 Kit Comptable Pratique 2027 · 7 cahiers + 6 bonus — Amélie Boissieu FR · `kit-comptable-cahiers-2027` · 2026-11-16 · sesión FR
 - **Qué es:** kit de 7 cuadernos de contabilidad práctica 2027 + 6 bonus, presumiblemente PDF imprimible; precio no visto (cuenta en USD, operador no francés).
 - **Por qué es ganador:** ≥32 de 50 ads activos en FR con 7+ días (50 = piso del API, estimado 70), un solo page_id y una sola oferta; tandas de creación escalonadas desde hace ~21 días y 2 ads nuevos hoy; copy de producto sin cara visible en los títulos (nombre de página = persona: juzgar en el snapshot).
