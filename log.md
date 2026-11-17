@@ -42,3 +42,5 @@
 ## [2026-11-17] caza-auto | RO B perforar nodos nuevos (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-17] caza-auto | MX B perforar (tarde, huellas nuevas) → 2 candidatos a bandeja
+
+## [2026-11-17] caza-auto | CO B perforar salud-estudiantes (tarde) → 0 candidatos a bandeja
