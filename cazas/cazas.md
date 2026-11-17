@@ -18,6 +18,7 @@ dentro de la semana.
 
 | Fecha | Qué | Mercado | Por qué se re-mira |
 |---|---|---|---|
+| 2026-11-21 | Pflegelernzettel (DE, page_id 111313235043678, Lernzettel de enfermería) y sus destinos: L'Antisèche Infirmière y Pharmacologie Simplifiée (FR), Mesa Ligera (PT), Martina Rossi (IT) | DE fuente → FR · PT · IT | 20/29 con 7+ d en DE (tanda del 13-07), 1.144 reseñas, productos de 10-23 €; destinos con clones en prueba sin cohorte. Si alguno llega a 10 anuncios con 7+ d, el hueco se cierra. Informe: `RAW/cazas-auto/2026-11-17-local-B-enfermeria-pflegelernzettel.md` |
 | | | | |
 
 ## Territorios descartados
