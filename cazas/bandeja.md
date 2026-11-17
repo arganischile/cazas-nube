@@ -79,6 +79,23 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 +1.000 Spartiti per Pianoforte/Tastiera — Rafael Piano Fácil IT · `partituras-piano-teclado-co` · 2026-11-17 · sesión IT
+- **Qué es:** pack de +1.000 partituras en PDF para piano/teclado (en español «+2.000 Partituras»); precio no visto (cuenta en USD).
+- **Por qué es ganador:** 34 de 45 ads activos en IT con 7+ días (45 = total, no truncado), un solo page_id; solo los ads con título en italiano son 10 de ≈14 (el resto es creatividad en español que también llega a IT); 9+ fechas de creación, 5 ads nuevos ayer; longevidad máx. ≈ 34 días; nombre de página = nombre de pila (sin cara en los títulos).
+- **Qué hacer:** modelar tal cual (kit de partituras para piano/teclado por género); es la misma oferta que corre en CO (tarjeta del 2026-11-16) y en BR, así que ya hay molde en tres mercados; destinos a medir: FR, RO, PT; en IT el cohorte italiano está en el borde (10): re-medir ~11-24.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1109073548949200>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1471667681591285
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-17-it-C-operadores.md`
+
+**Señales del día IT 2026-11-17**
+- Studio Quadri (721617357705716): re-medido, sube a 11/50 piso en IT (tarjeta ya en bandeja; tandas 11-09, 11-12, 11-16); oferta aún sin identificar.
+- Natale a punto (1288220937718528): 40/50 piso, longevidad ≈ 15 d, sigue activa (tarjeta ya en bandeja).
+- Crescere Giocando (1009883552206401): 7/8 (a 3 de la vara; «300 attività + 5 bonus», EUR); re-medir.
+- Silvia Moretti (1519553207903758) 0/50 piso y Digital Corner (1358074294058687) 0/36: lanzamientos de 1-5 días; cruzan 7 d desde ~11-20; Silvia Moretti: 25 musicogrammi a 6,90 € y pack 12,90 €, mucho test de copy.
+- Acordes en Claro (1205940002609789): ≥50 ads en italiano en IT (est. 672), todos ≤ 6 d: cohorte no medible; ya tiene tarjeta en CO.
+- 300 Mapas Mentales (18/22) y Hugo Jean (5/5) aparecen en IT con creativos en español/francés: fuga de segmentación, no cuentan como evidencia IT.
+
 ### 🎯 Progetta i tuoi quadri in 15 minuti — Studio Quadri IT · `cuadros-diseno-quadri` · 2026-11-16 (tarde) · sesión IT
 - **Qué es:** herramienta/plantilla para diseñar cuadros de pared en 15 minutos; formato y precio no vistos (cuenta en USD); podría ser físico: verificar.
 - **Por qué es ganador:** 10 de 50 ads activos en IT con 7+ días (50 = piso del API, estimado 170), un solo page_id y un solo título; 3 tandas de creación (11-09, 11-12/13 y ~22 ads hoy); longevidad máx. ≈ 7,9 días, sin marca personal en el nombre de página.

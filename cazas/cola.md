@@ -111,6 +111,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `apuntes enfermería`, `fichas anatomía` en MX | short-dramas («Seguir viendo», «Dramas Cortos Gratis») y la red Aprendia (≥ 8 fanpages con tandas diarias) ocupan los 50 primeros | contar con `page_ids` + `countries`; en una red con tandas diarias los 50 más nuevos no alcanzan 7 d: reportar «cohorte no medible», no cero, y re-medir en 3-4 días |
 | `piano acordes`, `partituras pdf`, `técnica vocal ejercicios` en CO | academias con sede/cupos, coaches con reseñas «4,8/5» (Sofia Rivas) y talleres en vivo ocupan los primeros 50 | contar con `page_ids` + `countries`; el hallazgo (Rafael Piano Fácil) sale del conteo, no de la keyword |
 | `explicat prin desene` en RO | da 0 aunque Studio Facile lo usa en el título: el matcher mira el texto del ad, no el título | `în imagini`, `ghid ilustrat`, `hărți mentale` descubren atlas/mapas; contar con `page_ids` + `countries` |
+| páginas operadoras de otro mercado que «llegan» a IT con creativos en español o francés | fuga de segmentación: 300 Mapas Mentales 18/22 y Hugo Jean 5/5 en IT eran todo ES/FR; inflan la cohorte | contar solo los creativos en italiano (leer el título de cada ad) |
 
 
 ## Operadores a seguir (modo C)
@@ -131,6 +132,11 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Planner Hoy Solo 3 | 1280820831792286 | MX | 30/40 el 2026-11-16 (tarjeta en bandeja); ver si cambia de SKU; re-medir ~2026-11-30 |
 | Vida Práctica (manuales visuales) | 1472534742604591 | MX | 0/12 el 2026-11-16, 3 ads cruzan 7 d el 11-17; re-medir ~2026-11-19 |
 | Rafael Piano Fácil (partituras piano/teclado) | 1109073548949200 | CO | 29/42 el 2026-11-16 (tarjeta en bandeja); corre también en BR e IT; re-medir ~2026-11-30 |
+| Studio Quadri | 721617357705716 | IT | 11/50 piso el 2026-11-17 (tarjeta en bandeja); oferta sin identificar; re-medir ~2026-11-21 |
+| Silvia Moretti (musicogrammi) | 1519553207903758 | IT | 0/50 piso el 2026-11-17, tandas de 2-4 d; 25 musicogrammi 6,90 €; re-medir ~2026-11-20 |
+| Digital Corner (dime) | 1358074294058687 | IT | 0/36 el 2026-11-17, tandas de 1-4 d; re-medir ~2026-11-20 |
+| Acordes en Claro (IT) | 1205940002609789 | IT | ≥50 ads en italiano, todos ≤ 6 d el 2026-11-17 (est. 672); re-medir ~2026-11-20 con page_ids |
+| Crescere Giocando | 1009883552206401 | IT | 7/8 el 2026-11-17 («300 attività + 5 bonus», EUR); re-medir ~2026-11-21 |
 | Prisma Piano (teoría piano en colores) | 1437920272732095 | CO | 0/5 el 2026-11-16 (5 ads de hoy); re-medir ~2026-11-21 |
 | Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
 
@@ -153,7 +159,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-17 | IT | C operadores (sin operadores IT en la tabla: se miden en IT los operadores de otros mercados y las re-mediciones IT vencidas) | en curso | — | en curso | — |
+| 2026-11-17 | IT | C operadores (sin operadores IT en la tabla: se miden en IT los de otros mercados y las re-mediciones IT) | operadores + nodos IT | ninguna (modo C) + 13 conteos por page_id en IT | 1 tarjeta (Rafael Piano Fácil 34/45; cohorte italiano 10); señales: Studio Quadri 11/50 piso, Natale a punto 40/50 piso, Crescere Giocando 7/8, Silvia Moretti 0/50 y Digital Corner 0/36 (cruzan 7 d ~11-20), Acordes en Claro cohorte no medible | 5 operadores IT agregados; nodos IT sin cambio de estado |
 | 2026-11-17 | BR | B perforar | habito-parar-de-fumar-corrida-5k | parar de fumar (+ebook, guia ALL), deixar de fumar método, vício cigarro ebook, largar cigarro, plano de treino corrida 5k, planilha treino corrida, correr 5km iniciante + 9 conteos por page_id | 0 tarjetas; Maria Eduarda 1/50 piso (Kit Corredores R$ 5, tandas diarias, cruza 10 ~11-19/20), Parar de Fumar de Vez 0/6, Nasce um corredor 0/12, Corrida em Evolução 0/36 (todo de hoy); Vivendo Saudável y Marcelo Lopes posibles zombis | habito-parar-de-fumar-corrida-5k pasa a superficial; re-medir ~11-20 |
 | 2026-11-16 | CO (tarde) | B perforar | teoria-musical-visual-guias | piano acordes, ukelele acordes, técnica vocal ejercicios, batería ritmos, partituras pdf, partituras flauta, violín partituras + 8 conteos por page_id + Rafael Piano Fácil en BR e IT/FR/RO/PT | 1 tarjeta (Rafael Piano Fácil 29/42); señales: Prisma Piano 0/5 (clon del molde), Sofia Rivas ≥25/101 oferta no identificada, Academia Visual de la Voz 0/7, Tamas Bodzsar 0/9 | nodo pasa a superficial; 2 hijos nuevos |
 | 2026-11-16 | RO (tarde) | B perforar | libros-visuales-en-imagenes-ro | ghid ilustrat, hărți mentale, în imagini pdf, explicat prin desene (0) + 5 conteos por page_id (Studio Facile ×2, Pagina de Nursing, Ready Resources, Atlas Terapeutic Vizual) | 1 tarjeta (Atlas Terapeutic Vizual 11/50 piso); señales: Studio Facile 39/48 y 15/50 en ~25 temas, Pagina de Nursing ≈20/21 mezcla física, Ready Resources 5/30, Impulso Digital 0/5 | nodo pasa a superficial; 3 hijos nuevos |
