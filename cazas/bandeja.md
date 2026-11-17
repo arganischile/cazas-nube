@@ -26,6 +26,29 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Apostilas digitales por concurso — Edital Master BR · `concursos-material-baixar` · 2026-11-17 · sesión BR (tarde)
+- **Qué es:** apostilas digitales por concurso y cargo (EBSERH, TRT, CRP-RJ, Saquarema, IBGE…) a R$ 57-67, más cursos completos de R$ 127-257 como upsell visible; multi-SKU, una oferta por concurso.
+- **Por qué es ganador:** 16 de 50 anuncios activos con 7+ días (piso, la API topa en 50), un solo page_id, 6 tandas de creación entre sep y nov, ≥1 ad de los últimos 30 días; nombre de página no es persona; titulares con precio en el ad.
+- **Qué hacer:** verificar el embudo en la PC (checkout, precio real, cuánto es PDF y cuánto video); si cierra, modelar «apostila + simulado por concurso/cargo» en Italia (concorsi pubblici) y Portugal; en BR es un molde muy copiado (Tutoria EAD, Certiva, S.S Simulados).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=125481670646964>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, marca personal). Snapshot: https://www.facebook.com/ads/library/?id=29431519586480208
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-17-br-B-concursos-material-baixar-tarde.md`
+
+### 🎯 Mapas de revisión para concursos TJSP — Camila Maia BR · `concursos-material-baixar` · 2026-11-17 · sesión BR (tarde)
+- **Qué es:** pack de mapas mentales de revisión por concurso («221 Mapas de Revisão para Oficial de Justiça TJSP», «465 Mapas… Escrevente TJSP»); PDF presumible, precio no visto (BRL).
+- **Por qué es ganador:** 13 de 36 anuncios activos con 7+ días (1 en el borde), un solo page_id, un solo titular repetido por SKU, creados de sep a nov (≥ 8 fechas), ≥1 ad de los últimos 30 días.
+- **Qué hacer:** verificar en la PC si la cara de la dueña vende (nombre de página = persona → posible marca personal) y el embudo; si es producto sin cara, es el hueco «concursos» del nodo mapas-visuales-mentales: modelar «N mapas por cargo» para concorsi (IT) o PT.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=582679418253715>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, marca personal). Snapshot: https://www.facebook.com/ads/library/?id=29966344776283690
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-17-br-B-concursos-material-baixar-tarde.md`
+
+**Señales del día BR (tarde):**
+- Lacuna Concursos (1173569735845788) 10/22, todos «Baixe Agora»: oferta sigue sin identificarse.
+- Tutoria EAD (113895654244531) 6/50 piso y Apostilas Digitais (104515792564994) 5/33: apostila por municipio, embudo WhatsApp «Converse conosco»; S.S Simulados (698360183366595) 9/50 piso: re-medir ~11-19.
+- Certiva Concursos (1312360308622118) 0/50 piso, todo de 1-2 días, apostilas R$ 27,90: re-medir ~11-24.
+
 BR 2026-11-17: nada que pase la vara; se barrió parar de fumar, deixar de fumar, tabagismo, plano de treino corrida 5k, planilha treino corrida, correr 5km iniciante. Señales: Maria Eduarda (1389112280954409) 1/50 piso, «Kit Completo para Corredores por R$ 5», tandas diarias de creación: re-medir ~11-20 (juzgar marca personal). Parar de Fumar de Vez (1436509976219606) 0/6, guía 30 días Hotmart, hace ~3 d: re-medir ~11-20. Nasce um corredor 0/12 y Corrida em Evolução 0/36 (todo de hoy). Informe: `RAW/cazas-auto/2026-11-17-br-B-habito-parar-de-fumar-corrida-5k.md`
 
 ### 🎯 Bordado en papel · presentes de Natal — Nannyvarie BR · `moldes-bordado-riscos` · 2026-11-16 · sesión BR (tarde)
