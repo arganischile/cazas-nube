@@ -87,6 +87,7 @@ los nichos que emergen.
 | piano-teoria-visual-prisma | teoria-musical-visual-guias | CO | virgen | 2026-11-16 modo B tarde: Prisma Piano 0/5, 5 ads de hoy, «teoría del piano, en colores» (clon del molde Acordes en Claro) | modo B: re-medir ~2026-11-21 · apareció el 2026-11-16 |
 | cuadernos-contabilidad-atril-co | — | CO | virgen | 2026-11-17 huella CO: Atril Estudio 0/50 piso (est. 309, ads de 2-4 d, «⭐ 4.9/5», USD) | modo B: identificar qué vende; re-medir ~2026-11-21 · apareció el 2026-11-17 |
 | plantillas-excel-gestion-co | — | CO | virgen | 2026-11-17 huella CO: Gestión Profesional con Excel 5/7 (ads de 31-47 d) | modo B: re-medir ~2026-11-24 · apareció el 2026-11-17 |
+| cuaderno-medicina-app-co | — | CO | virgen | 2026-11-17 tarde: Cuaderno de Medicina - APP (1372929795909878) ≥50/160 activos en CO, USD, «4.9/5», parece app de resúmenes | modo B: verificar en la PC si vende PDF o app/suscripción; medir MX/PE/BR · apareció el 2026-11-17 |
 
 ---
 
@@ -184,7 +185,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-17 | CO (tarde) | B perforar (todos los nodos CO tocados <7 d → huellas nuevas) | nodos nuevos | en curso | en curso | — |
+| 2026-11-17 | CO (tarde) | B perforar (todos los nodos CO tocados <7 d → huellas nuevas) | salud-estudiantes (nodo nuevo) | guía pdf descarga inmediata, tarjetas estudio medicina, apuntes enfermería, apuntes veterinaria, resúmenes odontología pdf, plantillas psicología pdf + 1 conteo por page_id | 0 tarjetas; Cuaderno de Medicina - APP ≥50/160 (¿app?, embudo no verificado), Vetsemestresse 2/5 | nodo virgen nuevo cuaderno-medicina-app-co |
 | 2026-11-17 | MX (tarde) | B perforar (todos los nodos MX tocados <7 d → huellas nuevas) | nodos nuevos | planeaciones maestros, fichas didácticas, guía examen + 5 conteos por page_id | 2 tarjetas (Editorial MD 14/14; Axo y Yo 12/26); señales: Recursos Digitales Mx 10/10 posible zombi, Soluciones Educativas IA 0/8 | 2 nodos virgen MX nuevos, 2 operadores |
 | 2026-11-17 | FR (tarde) | A huella (todos los nodos FR tocados <7 d → huellas nuevas) | — | méthode illustrée pdf, tableur Excel modèle, cahier d'activités enfants, formation en ligne vidéos, fiches de révision pdf, guide complet débutant, manuel réparation boîte auto + 5 conteos por page_id | 1 tarjeta (Car Station 24/37); señales: Belle Plume 16/18 en 4 SKUs, Gavin Campbell 28/28 oferta no identificada, Pharmacologie Simplifiée 0/4 | 1 nodo virgen FR nuevo, 1 operador |
 | 2026-11-17 | IT (tarde) | B perforar (todos los nodos IT tocados <7 d → huellas nuevas) | red-atlante-visivo / dime-falegnameria | atlante visivo, mappe mentali, schede didattiche pdf (2), progetti legno pdf + 4 conteos por page_id | 0 tarjetas; ninguna página con ads de 7+ d (todo desde 11-13): Tecnica Visiva 0/100 (atlas técnicos, 11-16), Shop Plans 0/40, Lorenzo Santoro 0/44 (3 libri €18,90), Oriana Viscontii 0/20, Inglese Visuale 0/10 | red-atlante-visivo y dime-falegnameria siguen virgen; re-medir ~11-21 (Tecnica Visiva, Shop Plans, Santoro) |

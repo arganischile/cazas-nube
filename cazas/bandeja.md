@@ -344,6 +344,10 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-17 (tarde): nada que pase la vara; se barrió guía pdf descarga inmediata, tarjetas estudio medicina, apuntes enfermería, apuntes veterinaria, resúmenes odontología pdf, plantillas psicología pdf (mejor: Cuaderno de Medicina - APP ≥50/160 activos, pero vende una APP y el embudo no se pudo verificar → no pasa el gate).
+
+**Señales CO 2026-11-17 (tarde):** Cuaderno de Medicina - APP (1372929795909878) 160 activos en CO, ≥50 con 7+ d (piso), creativos «26 materias de Medicina», «¿Cuarenta PDFs sueltos?», «Recorre la app por dentro», «4.9/5», USD; parece app/suscripción de resúmenes, no PDF: verificar en la PC qué vende y a qué precio antes de decidir. Vetsemestresse 2/5 («Anatomía Vet para Colorear», ads de hoy). NeuroBits (flashcards inglés médico) 0/2.
+
 CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, plantillas excel editables, cuadernillo imprimible, kit digital COP, planner imprimible, guía práctica descarga inmediata, megapack pdf, formatos SG-SST (mejor: Gestión Profesional con Excel 5/7; Atril Estudio 0/50 piso, operador nuevo).
 
 **Señales CO 2026-11-17:** Atril Estudio (1282575998279080) 0/50 piso, ads de 2-4 d, re-medir ~11-21. Gestión Profesional con Excel (961233043748737) 5/7. Digital Markett 3/7, Growing 3/14 (servicio contable mezclado).
