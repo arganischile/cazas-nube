@@ -226,6 +226,15 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-17 (tarde): nada que pase la vara; se barrió jurnal pdf, șabloane Canva, limba engleză pdf, pachet digital, metodă pas cu pas, Metoda Genius, curs video înregistrat (+ 7 conteos por page_id). Informe: `RAW/cazas-auto/2026-11-17-ro-B-nodos-nuevos-tarde.md`
+
+**Señales del día RO (tarde) 2026-11-17**
+- Genius Mentor (1202927619580444): 22/50 piso con 7+ días, pero 19 son promos «Black Friday −50 %» y el anuncio base «Învață de 5x Mai Rapid prin Metoda Genius» solo tiene 3 de 7+ d (el resto 5-8 d); página hermana Genius Bac (878536441990147) 10/37. RON. Oferta no identificada (el nombre sugiere mentoría/curso): verificar en la PC si es curso grabado/PDF; si lo es, es el candidato más cerca de la vara.
+- Rowan House Press (103448682074390): 0/50 piso, tanda del 11-16 (~19 h) de ~25 libros «explicat prin desene» (Istoria artei, Biologie 108 pagini, Matematica, Psihologie, Frigotehnist, Electrician), USD, «Preț de lansare» y vista previa de páginas antes de descargar: mismo molde que Studio Facile y Atlas Terapeutic Vizual; re-medir ~2026-11-21.
+- Mesa Ligera (1219245414615500): 4/38, multi-SKU en EUR («Psihiatria pe fișe F00–F98» ≈ 10 ads de ayer, SSM, «Un an la grădiniță: 36 de săptămâni», raport descriptiv); ningún SKU ≥ 10 con 7+ d; re-medir ~2026-11-21.
+- Ioana Dumitrescu (1202173556320802): 5/10, pachete de postări para redes («Un an de postări într-un singur pachet», EUR); re-medir ~2026-11-21.
+- Ioana Radu (1357933167412610): 0/20, «50 de instrumente pentru dislexie» imprimibles (CLP), todo del 11-16/17.
+
 RO 2026-11-17: nada que pase la vara; se barrió contabilitate caiete, fișe de lucru pdf, gata de predat, șabloane Excel, ghid practic pas cu pas (+ PFA y buget familie dan 0). Informe: `RAW/cazas-auto/2026-11-17-ro-B-contabilidad-cuadernos-ro.md`
 
 **Señales del día RO 2026-11-17**
