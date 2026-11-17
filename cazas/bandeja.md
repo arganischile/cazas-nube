@@ -185,6 +185,14 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-17: nada que pase la vara; se barrió contabilitate caiete, fișe de lucru pdf, gata de predat, șabloane Excel, ghid practic pas cu pas (+ PFA y buget familie dan 0). Informe: `RAW/cazas-auto/2026-11-17-ro-B-contabilidad-cuadernos-ro.md`
+
+**Señales del día RO 2026-11-17**
+- Edulabs Resources (1057793390758198): 15/48 con 7+ días por API, pero ≈ 8 son creativos en inglés y los de rumano (Religie «6 volume + 5 bonusuri») ≤ 7; multi-SKU «gata de predat» para profesores, USD; re-medir ~2026-11-21 contando solo rumano.
+- Contador en Acción (1418159758044206) 3/21 y MARCO MEDIA (1350956431432254) 0/8: kit contable RO aún sin cohorte; re-medir ~2026-11-22.
+- Diagram Books (1499263639932513) 0/31 y Learning Fast (1469659026222538) 0/15: cuadernos de oficios «+ 2 cărți cadou», tandas ≤ 6 d.
+- Liveno by Iva Milan (1259209043938308): 0/50 piso, el más viejo ≈ 6,2 d, multi-SKU de proyectos lemn/metal; re-medir ~2026-11-20.
+
 ### 🎯 Atlas Terapeutic Vizual — Atlas Terapeutic Vizual RO · `libros-visuales-en-imagenes-ro` · 2026-11-16 (tarde) · sesión RO
 - **Qué es:** atlas visual para psicoterapeutas en rumano (12 enfoques terapéuticos, 32 metáforas visuales, índice y flujogramas para sesión, búsqueda de tema); probablemente PDF/atlas digital; precio no visto.
 - **Por qué es ganador:** 11 de 50 ads activos en RO con 7+ días (50 = piso del API, estimado 55), un solo page_id y un solo producto con ≥ 6 fechas de creación (11-05 a 11-15); longevidad máx. ≈ 11,7 días por API; nombre de página = producto, sin cara. Cuenta en ARS (operador que traduce al rumano). Misma familia que los atlas visuales de MX/IT.

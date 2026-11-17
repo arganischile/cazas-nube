@@ -69,7 +69,11 @@ los nichos que emergen.
 | atlas-psicoterapia-ro | libros-visuales-en-imagenes-ro | RO | virgen | 2026-11-16 modo B tarde: Atlas Terapeutic Vizual (p. 1408033785736088) 11/50 piso, ≥ 6 fechas, inicio 11-05 (tarjeta en bandeja); cuenta ARS | modo B: re-medir ~2026-11-20; perforar otros profesionales (nutrición, enfermería, odontología) y medir IT/FR/PT · apareció el 2026-11-16 |
 | nursing-ghiduri-ro | libros-visuales-en-imagenes-ro | RO | virgen | 2026-11-16 modo B tarde: Pagina de Nursing (p. 340055433511635) ≈ 20/21 en RON, ghiduri ilustrate + clipboards/insignias/paquetes (físico) | modo B: verificar en la PC si el guion es PDF o impreso; cruzar con mapas-enfermeria-mx · apareció el 2026-11-16 |
 | biologie-liceu-ready-resources | — | RO | virgen | 2026-11-16 modo B tarde: Ready Resources (p. 1440348585824077) 5/30, «Biologie clasa a IX-a», ~20 ads de hoy, USD, también «Socio-umane IX–XII» | modo B: re-medir ~2026-11-20 · apareció el 2026-11-16 |
-| contabilidad-cuadernos-ro | — | RO | virgen | 2026-11-16 huella RO: Contador en Acción 2/18, MARCO MEDIA 0/11 (mismo molde que kit-comptable-cahiers-2027 de FR) | modo B: re-medir en 5 días (lotes de ≤ 4 d); medir IT/PT · apareció por huella el 2026-11-16 |
+| contabilidad-cuadernos-ro | — | RO | superficial | 2026-11-16 huella RO: Contador en Acción 2/18, MARCO MEDIA 0/11 (mismo molde que kit-comptable-cahiers-2027 de FR). 2026-11-17 modo B: 3 keywords nativas (contabilitate caiete, PFA, buget familie; 2 dan 0) + Contador en Acción 3/21 y MARCO MEDIA 0/8; nadie ≥ 10 | modo B: re-medir ~2026-11-22 (lotes de ≤ 6 d); medir IT/PT |
+| plantillas-profesori-gata-de-predat-ro | — | RO | virgen | 2026-11-17: Edulabs Resources 15/48 (≈8 en inglés, RO ≤ 7; «Religie Gata de Predat™ 6 volume + 5 bonusuri», multi-SKU, USD); red hermana Ready Resources 0/20, Trade Pro Kit 0/5, Easy Notes Studio 0/4, Teach Luma, Skills Illustrated 0/5, Edulabs Risorse 0/6, Clasa Vie | modo B: re-medir ~2026-11-21 contando solo creativos en rumano; ligar con Ready Resources (biologie-liceu) · apareció el 2026-11-17 |
+| cuadernos-ofici-diagram-learning-ro | — | RO | virgen | 2026-11-17: Diagram Books 0/31 (radioamator, șef serviciu voluntar, PSI; «+ 2 cărți cadou»), Learning Fast 0/15 (ANRE, fochist, manager transport), mismo molde | modo B: re-medir ~2026-11-22 · apareció el 2026-11-17 |
+| proiecte-lemn-metal-liveno-ro | — | RO | virgen | 2026-11-17: Liveno by Iva Milan 0/50 piso (el más viejo ≈6,2 d; 200+ proiecte lemn și metal, afumare BBQ, 3 cărți de desen; crochet excluido) | modo B: re-medir ~2026-11-19/20; juzgar marca personal (nombre de página) · apareció el 2026-11-17 |
+
 | libros-regalo-diagram-books | — | RO | virgen | 2026-11-16 huella RO: Diagram Books 0/30 («+ 2 cărți cadou», tandas de 2-4 d); Imago Studiu 5/5 | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
 | creativo-resenas-neuralforkids-digitalbooks | — | RO | virgen | 2026-11-16 huella RO: Neuralforkids 0/46 y Digital Books 0/20, mismo creativo «⭐ 4,9/5,0» en USD, producto no identificado | modo B: re-medir ~2026-11-20 e identificar qué venden · apareció por huella el 2026-11-16 |
 | fise-tulburari-psihice-pdf | — | RO | virgen | 2026-11-16 huella RO: Harta Tulburărilor 1/23 («210 fișe, 40 de perechi, 1 PDF», EUR) | modo B: re-medir en 5 días; juzgar nicho · apareció por huella el 2026-11-16 |
@@ -117,6 +121,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `cartes mentales`, `fiches pratiques` en FR | `cartes mentales` trae hardware (Pocket AI, Plaud); `pack modèles` ecommerce, Black Friday y crochet (excluido) | rinden como huella para leer nombres; contar con `page_ids` + `countries`; descontar los creativos en inglés (The Horsemanship Club: 6 FR de 43, el resto EN) |
 | páginas operadoras de otro mercado que «llegan» a IT con creativos en español o francés | fuga de segmentación: 300 Mapas Mentales 18/22 y Hugo Jean 5/5 en IT eran todo ES/FR; inflan la cohorte | contar solo los creativos en italiano (leer el título de cada ad) |
 
+| `ghid practic pas cu pas`, `șabloane Excel`, `planificări profesori` en RO | ruido de editoriales, coaches, software y 0 resultados | `fișe de lucru pdf` y `gata de predat` rinden para leer la red de plantillas de profesores; contar con `page_ids` + `countries`; descontar creativos en inglés (Edulabs Resources: ~8 de 15) |
 
 ## Operadores a seguir (modo C)
 
@@ -146,6 +151,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Crescere Giocando | 1009883552206401 | IT | 7/8 el 2026-11-17 («300 attività + 5 bonus», EUR); re-medir ~2026-11-21 |
 | Prisma Piano (teoría piano en colores) | 1437920272732095 | CO | 0/5 el 2026-11-16 (5 ads de hoy); re-medir ~2026-11-21 |
 | Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
+| Edulabs Resources (plantillas «gata de predat») | 1057793390758198 | RO | 15/48 el 2026-11-17 (≈8 en inglés); multi-SKU para profesores; re-medir ~2026-11-21 solo creativos en rumano |
 
 ## Rotación vigente
 
@@ -166,7 +172,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-17 | RO | B perforar (mar) | contabilidad-cuadernos-ro (todos los nodos RO tocados el 11-16: el virgen más viejo) | en curso | en curso | en curso |
+| 2026-11-17 | RO | B perforar (mar) | contabilidad-cuadernos-ro (todos los nodos RO tocados el 11-16: el virgen más viejo) | contabilitate caiete, PFA contabilitate ghid (0), buget familie caiet (0), fișe de lucru pdf, șabloane Excel, ghid practic pas cu pas, gata de predat, planificări profesori (0) + ~16 conteos por page_id | 0 tarjetas; Edulabs Resources 15/48 mixto EN/RO (RO ≤ 7); Contador en Acción 3/21, MARCO MEDIA 0/8, Diagram Books 0/31, Liveno 0/50 piso | contabilidad-cuadernos-ro pasa a superficial; 3 nodos virgen RO nuevos |
 | 2026-11-17 | FR | A huella (mar) | — | cartes mentales, carnet imprimable, fiches pratiques, pack modèles + 15 conteos por page_id + cruce IT/PT/RO | 2 tarjetas (Espagnol Illustré 15/26; PsiOS Atlas thérapeutique 10/33 FR, borde); señales: Biblioteca Práctica 8/24, Manuels Illustrés 0/21 (multi-SKU), Céline Moreau 3/10, Horsemanship Club 6/43 FR | 3 nodos virgen FR nuevos, 3 operadores |
 | 2026-11-17 | IT | C operadores (sin operadores IT en la tabla: se miden en IT los de otros mercados y las re-mediciones IT) | operadores + nodos IT | ninguna (modo C) + 13 conteos por page_id en IT | 1 tarjeta (Rafael Piano Fácil 34/45; cohorte italiano 10); señales: Studio Quadri 11/50 piso, Natale a punto 40/50 piso, Crescere Giocando 7/8, Silvia Moretti 0/50 y Digital Corner 0/36 (cruzan 7 d ~11-20), Acordes en Claro cohorte no medible | 5 operadores IT agregados; nodos IT sin cambio de estado |
 | 2026-11-17 | BR | B perforar | habito-parar-de-fumar-corrida-5k | parar de fumar (+ebook, guia ALL), deixar de fumar método, vício cigarro ebook, largar cigarro, plano de treino corrida 5k, planilha treino corrida, correr 5km iniciante + 9 conteos por page_id | 0 tarjetas; Maria Eduarda 1/50 piso (Kit Corredores R$ 5, tandas diarias, cruza 10 ~11-19/20), Parar de Fumar de Vez 0/6, Nasce um corredor 0/12, Corrida em Evolução 0/36 (todo de hoy); Vivendo Saudável y Marcelo Lopes posibles zombis | habito-parar-de-fumar-corrida-5k pasa a superficial; re-medir ~11-20 |
