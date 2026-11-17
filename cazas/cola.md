@@ -174,6 +174,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-17 | BR (tarde) | B perforar (todos los virgen BR tocados <7 d → huellas nuevas) | concursos-material-baixar | en curso | en curso | en curso |
 | 2026-11-17 | CO | A huella (mar) | — | guía pdf acceso inmediato, plantillas excel editables, cuadernillo imprimible niños, kit digital COP, planner imprimible pdf, guía práctica descarga inmediata, megapack pdf, formatos SG-SST + 9 conteos por page_id | 0 tarjetas; Atril Estudio 0/50 piso (operador nuevo, ads de 2-4 d, est. 309), Gestión Profesional con Excel 5/7, Digital Markett 3/7, Growing 3/14 | 2 nodos virgen CO nuevos |
 | 2026-11-17 | MX | C operadores (mar) | operadores MX (4) | ninguna (modo C) + 4 conteos por page_id (Enf. Valentina Rojas 2/16, Vida Práctica 0/6, 300 Mapas 18/24, Planner 35/40) | 0 tarjetas nuevas; Valentina Rojas llegaría a ~10 el 11-18 | re-medir Valentina Rojas ~11-19 |
 | 2026-11-17 | RO | B perforar (mar) | contabilidad-cuadernos-ro (todos los nodos RO tocados el 11-16: el virgen más viejo) | contabilitate caiete, PFA contabilitate ghid (0), buget familie caiet (0), fișe de lucru pdf, șabloane Excel, ghid practic pas cu pas, gata de predat, planificări profesori (0) + ~16 conteos por page_id | 0 tarjetas; Edulabs Resources 15/48 mixto EN/RO (RO ≤ 7); Contador en Acción 3/21, MARCO MEDIA 0/8, Diagram Books 0/31, Liveno 0/50 piso | contabilidad-cuadernos-ro pasa a superficial; 3 nodos virgen RO nuevos |
