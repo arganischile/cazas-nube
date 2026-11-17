@@ -77,6 +77,8 @@ los nichos que emergen.
 | cuadernos-ofici-diagram-learning-ro | — | RO | virgen | 2026-11-17: Diagram Books 0/31 (radioamator, șef serviciu voluntar, PSI; «+ 2 cărți cadou»), Learning Fast 0/15 (ANRE, fochist, manager transport), mismo molde | modo B: re-medir ~2026-11-22 · apareció el 2026-11-17 |
 | proiecte-lemn-metal-liveno-ro | — | RO | virgen | 2026-11-17: Liveno by Iva Milan 0/50 piso (el más viejo ≈6,2 d; 200+ proiecte lemn și metal, afumare BBQ, 3 cărți de desen; crochet excluido) | modo B: re-medir ~2026-11-19/20; juzgar marca personal (nombre de página) · apareció el 2026-11-17 |
 
+| material-docentes-planeaciones-mx | — | MX | virgen | 2026-11-17 modo B tarde: Editorial MD 14/14 (planeaciones desde $99/mes, tarjeta en bandeja); otras páginas de planeaciones con 1 ad | modo B: verificar en la PC si es suscripción o pack; perforar por nivel (primaria, secundaria) y medir BR/PT/IT/FR · apareció el 2026-11-17 |
+| cuadernillo-personalizado-ninos-mx | — | MX | virgen | 2026-11-17 modo B tarde: Axo y Yo 12/26 (cuadernillo con su nombre $99-149, tarjeta en bandeja); 14 ads nuevos <7 d | modo B: verificar digital vs impreso; re-medir ~2026-11-21 y medir BR/IT/FR/RO · apareció el 2026-11-17 |
 | libros-regalo-diagram-books | — | RO | virgen | 2026-11-16 huella RO: Diagram Books 0/30 («+ 2 cărți cadou», tandas de 2-4 d); Imago Studiu 5/5 | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
 | creativo-resenas-neuralforkids-digitalbooks | — | RO | virgen | 2026-11-16 huella RO: Neuralforkids 0/46 y Digital Books 0/20, mismo creativo «⭐ 4,9/5,0» en USD, producto no identificado | modo B: re-medir ~2026-11-20 e identificar qué venden · apareció por huella el 2026-11-16 |
 | fise-tulburari-psihice-pdf | — | RO | virgen | 2026-11-16 huella RO: Harta Tulburărilor 1/23 («210 fișe, 40 de perechi, 1 PDF», EUR) | modo B: re-medir en 5 días; juzgar nicho · apareció por huella el 2026-11-16 |
@@ -128,6 +130,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 
 | `pachet digital`, `limba engleză pdf`, `metodă pas cu pas` en RO | autos/ecommerce (pachet digital: 202 resultados de concesionarios), academias y lead magnets de clínicas, coaches «ganar dinero» en USD y recetas (excluido) | `jurnal pdf`, `șabloane Canva`, `Metoda Genius` rinden; contar con `page_ids` + `countries` |
 | `ghid practic pas cu pas`, `șabloane Excel`, `planificări profesori` en RO | ruido de editoriales, coaches, software y 0 resultados | `fișe de lucru pdf` y `gata de predat` rinden para leer la red de plantillas de profesores; contar con `page_ids` + `countries`; descontar creativos en inglés (Edulabs Resources: ~8 de 15) |
+| `planeaciones maestros`, `guía examen` en MX | `guía examen` trae short-dramas (870 est.: «Seguir viendo», Short film collection); `planeaciones` mezcla gobierno/sindicatos y apps de IA | rinde `planeaciones maestros` y `fichas didácticas`; contar con `page_ids` + `countries`; descartar páginas con último ad creado hace >30 d (Recursos Digitales Mx) |
 
 ## Operadores a seguir (modo C)
 
@@ -150,6 +153,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | 300 Mapas Mentales | 1276104028925482 | MX | 20/28 el 2026-11-16 (tarjeta en bandeja); versión ES del kit de Fluente com Legenda; re-medir ~2026-11-30 |
 | Planner Hoy Solo 3 | 1280820831792286 | MX | 30/40 el 2026-11-16 (tarjeta en bandeja); ver si cambia de SKU; re-medir ~2026-11-30 |
 | Vida Práctica (manuales visuales) | 1472534742604591 | MX | 0/12 el 2026-11-16, 3 ads cruzan 7 d el 11-17; re-medir ~2026-11-19 |
+| Editorial MD (planeaciones docentes) | 328781457261320 | MX | 14/14 el 2026-11-17 (tarjeta en bandeja); re-medir ~2026-11-30 |
+| Axo y Yo (cuadernillo con su nombre) | 1358953320636772 | MX | 12/26 el 2026-11-17 (tarjeta en bandeja); 14 ads nuevos, debería subir; re-medir ~2026-11-24 |
 | Rafael Piano Fácil (partituras piano/teclado) | 1109073548949200 | CO | 29/42 el 2026-11-16 (tarjeta en bandeja); corre también en BR e IT; re-medir ~2026-11-30 |
 | Studio Quadri | 721617357705716 | IT | 11/50 piso el 2026-11-17 (tarjeta en bandeja); oferta sin identificar; re-medir ~2026-11-21 |
 | Silvia Moretti (musicogrammi) | 1519553207903758 | IT | 0/50 piso el 2026-11-17, tandas de 2-4 d; 25 musicogrammi 6,90 €; re-medir ~2026-11-20 |
@@ -179,7 +184,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-17 | MX (tarde) | B perforar (todos los nodos MX tocados <7 d → huellas nuevas) | nodos nuevos | en curso | en curso | — |
+| 2026-11-17 | MX (tarde) | B perforar (todos los nodos MX tocados <7 d → huellas nuevas) | nodos nuevos | planeaciones maestros, fichas didácticas, guía examen + 5 conteos por page_id | 2 tarjetas (Editorial MD 14/14; Axo y Yo 12/26); señales: Recursos Digitales Mx 10/10 posible zombi, Soluciones Educativas IA 0/8 | 2 nodos virgen MX nuevos, 2 operadores |
 | 2026-11-17 | FR (tarde) | A huella (todos los nodos FR tocados <7 d → huellas nuevas) | — | méthode illustrée pdf, tableur Excel modèle, cahier d'activités enfants, formation en ligne vidéos, fiches de révision pdf, guide complet débutant, manuel réparation boîte auto + 5 conteos por page_id | 1 tarjeta (Car Station 24/37); señales: Belle Plume 16/18 en 4 SKUs, Gavin Campbell 28/28 oferta no identificada, Pharmacologie Simplifiée 0/4 | 1 nodo virgen FR nuevo, 1 operador |
 | 2026-11-17 | IT (tarde) | B perforar (todos los nodos IT tocados <7 d → huellas nuevas) | red-atlante-visivo / dime-falegnameria | atlante visivo, mappe mentali, schede didattiche pdf (2), progetti legno pdf + 4 conteos por page_id | 0 tarjetas; ninguna página con ads de 7+ d (todo desde 11-13): Tecnica Visiva 0/100 (atlas técnicos, 11-16), Shop Plans 0/40, Lorenzo Santoro 0/44 (3 libri €18,90), Oriana Viscontii 0/20, Inglese Visuale 0/10 | red-atlante-visivo y dime-falegnameria siguen virgen; re-medir ~11-21 (Tecnica Visiva, Shop Plans, Santoro) |
 | 2026-11-17 | BR (tarde) | B perforar (todos los virgen BR tocados <7 d → huellas nuevas) | concursos-material-baixar | apostila concurso pdf, mapas mentais concurso + concorso pubblico guida pdf (IT, 0) + 10 conteos por page_id | 2 tarjetas (Edital Master 16/50 piso; Camila Maia 13/36); señales: Lacuna 10/22 oferta no identificada, S.S Simulados 9/50, Tutoria EAD 6/50, Certiva 0/50 | concursos-material-baixar pasa a superficial |

@@ -271,6 +271,29 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Planeaciones y material para docentes (desde $99 MXN/mes) — Editorial MD MX · `material-docentes-planeaciones-mx` · 2026-11-17 · sesión MX
+- **Qué es:** biblioteca digital editable (Word/PDF) de planeaciones didácticas, cuadernillos, listas de cotejo y carpeta CTE para maestros de preescolar a telesecundaria, «desde $99 al mes» / membresía VIP; también abre marketplace («vende tu material y gana 60 %»).
+- **Por qué es ganador:** 14 de 14 ads activos en MX con 7+ días, un solo page_id; 10+ fechas de creación del 10-20 al 11-11, longevidad máx. ≈ 28 d, ad creado hace ~8 d; copy «la planeación que usan +3,800 maestras»; página sin cara ni marca personal.
+- **Qué hacer:** llevar el molde «planeaciones listas por grado y mes + membresía» a BR (planejamentos BNCC para professores), PT, IT (programmazioni per docenti) y FR; en RO ya hay red de plantillas para profesores (Edulabs). Ojo: es suscripción y depende del currículo SEP; modelar como pack por grado con ticket único.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=328781457261320>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=28902328189398643
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-17-mx-B-huellas-nuevas-tarde.md`
+
+### 🎯 Cuadernillo infantil personalizado con su nombre ($99-149 MXN) — Axo y Yo MX · `cuadernillo-personalizado-ninos-mx` · 2026-11-17 · sesión MX
+- **Qué es:** cuadernillo de repaso por grado (kínder a 6°) con el nombre del niño («98 hojas con su nombre», tabla del 9 con las manos), $149 MXN (kínder $99); no se sabe si es PDF o impreso.
+- **Por qué es ganador:** 12 de 26 ads activos en MX con 7+ días, un solo page_id y una sola oferta declinada por grado; 10+ fechas de creación, longevidad máx. ≈ 12 d y 14 ads nuevos <7 d (escalando); sin cara en los títulos.
+- **Qué hacer:** modelar el molde «cuadernillo con el nombre de tu hijo» por grado en BR (caderno personalizado), PT, IT, FR y RO; ángulo: el niño es el protagonista. Verificar primero que sea entrega digital (si es impreso a domicilio, no entra).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1358953320636772>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (digital vs físico, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1117729777330281
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-17-mx-B-huellas-nuevas-tarde.md`
+
+**Señales del día MX (tarde) 2026-11-17**
+- Recursos Digitales Mx (758343707354463): 10/10 pero todos de ~70+ d y último ad creado ≈ 09-10: posible zombi, no pasa.
+- Soluciones Educativas IA (709050228962169) 0/8 y Edugui Guías Educativas (907995442402809) 0/1: tandas de hoy; Alejandro Martínez (1461426360386692) «60 fichas visuales» de electrónica (BRL), ads de ~2 d: re-medir ~11-20.
+- Nombres de docentes sin medir (1 ad en los 50): Planeaciones GM, Planeaciones Secundaria, Planeaciones Flor, Agenda del Profe.
+
 MX 2026-11-17: nada que pase la vara; se midieron los 4 operadores MX por page_id (Enf. Valentina Rojas 2/16, Vida Práctica 0/6, 300 Mapas Mentales 18/24, Planner Hoy Solo 3 35/40). Informe: `RAW/cazas-auto/2026-11-17-mx-C-operadores.md`
 
 **Señales del día MX 2026-11-17**
