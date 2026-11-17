@@ -155,6 +155,21 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 12 manuels + 5 outils pour l'atelier — Car Station FR · `manuels-atelier-mecanique-fr` · 2026-11-17 (tarde) · sesión FR
+- **Qué es:** pack de 12 manuales de reparación (cajas automáticas y averías «cada avería tiene su capítulo») + 5 herramientas para talleres mecánicos; probablemente PDF; precio no visto (cuenta en USD, operador no francés).
+- **Por qué es ganador:** 24 de 37 ads activos en FR con 7+ días (no truncado), un solo page_id; 17 llevan el título exacto «12 manuels + 5 outils» y el resto son ángulos de la misma oferta; ≥ 6 fechas de creación (10-30 → 11-14), 8 ads nuevos en los últimos 4 d, longevidad máx. ≈ 17 d por API; página sin cara.
+- **Qué hacer:** modelar «manuales técnicos de reparación + herramientas para talleres» (conocimiento, no objeto); destinos a medir: IT, PT/BR, RO (talleres/mecánicos); el contenido técnico se reescribe por mercado.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1124004904129860>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1508479801149051
+- Score n/4 (1/4 provisorio: longevidad ≈ 17 d; hueco IT/PT/RO sin medir; ⚠ verificar que no sea producto físico) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-17-fr-A-huella-tarde.md`
+
+**Señales del día FR tarde 2026-11-17**
+- Belle Plume (1521932121003975): 16/18 con 7+ d pero en 4 SKUs («40 fiches CRPE», «40 séquences d'images CP-CM2», «40 séances d'arts plastiques», «Éveil musical 30 activités»); ninguno ≥ 10; molde «40 X prêtes à l'emploi».
+- Gavin Campbell (1167821096418693): 28/28 con 7+ d (≈ 118 d), solo «Contactez-nous», oferta no identificable (¿servicio/lead-gen?); no pasa el gate.
+- Pharmacologie Simplifiée (1391162887408497): 0/4, «Top 200 des médicaments en images» (tanda de hoy, multilingüe).
+- Solutions Numériques en Ligne 0/7 («+170 activités d'attention CP-CM2»), Nara Costa 0/6 («150+ cartes de colorimétrie», BRL), Sunday Budget 0/1 (plantilla Google Sheets).
+
 ### 🎯 520+ cartes mentales pour parler espagnol — Espagnol Illustré FR · `idiomas-cartes-mentales-a1-c2` · 2026-11-17 · sesión FR
 - **Qué es:** pack de 520+ mapas mentales/fichas de español para francófonos (6 recorridos A1→C2, «una regla = una página»), PDF o impreso, con 3 bonus (diccionario de falsos amigos, guía de pronunciación, planner 30 días); precio no visto (cuenta en USD, operador no francés).
 - **Por qué es ganador:** 15 de 26 ads activos en FR con 7+ días (no truncado), un solo page_id y una sola oferta; creaciones en 3 tandas (11-01, 11-05, 11-12) y longevidad máx. ≈ 17 días por API; nombre de página = producto, sin cara. Hay un segundo jugador en el molde: Céline Moreau «+300 cartes mentales · A1 à C2» 3/10. 0 ads de esta página en IT/PT/RO.

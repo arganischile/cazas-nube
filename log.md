@@ -37,3 +37,4 @@
 ## [2026-11-17] caza-auto | CO A huella → 0 candidatos a bandeja
 ## [2026-11-17] caza-auto | BR B perforar concursos-material-baixar (tarde) → 2 candidatos a bandeja
 ## [2026-11-17] caza-auto | IT B perforar red-atlante-visivo (tarde) → 0 candidatos a bandeja
+## [2026-11-17] caza-auto | FR A huella (tarde) → 1 candidato a bandeja
