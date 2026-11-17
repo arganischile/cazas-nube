@@ -221,6 +221,13 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+MX 2026-11-17: nada que pase la vara; se midieron los 4 operadores MX por page_id (Enf. Valentina Rojas 2/16, Vida Práctica 0/6, 300 Mapas Mentales 18/24, Planner Hoy Solo 3 35/40). Informe: `RAW/cazas-auto/2026-11-17-mx-C-operadores.md`
+
+**Señales del día MX 2026-11-17**
+- Enf. Valentina Rojas (1419232917932388): 2/16; 8 ads de ~6-7 d cruzan 7 d entre hoy y 11-18 (llegaría a ~10); juzgar marca personal; re-medir ~11-19.
+- Vida Práctica (1472534742604591): 0/6; techo 6, no llega a 10 salvo tandas nuevas.
+- 300 Mapas Mentales 18/24 y Planner Hoy Solo 3 35/40: siguen vivos (tarjetas del 11-16).
+
 ### 🎯 +300 Mapas Mentales para Aprender Inglés — 300 Mapas Mentales MX · `mapas-visuales-mentales` · 2026-11-16 · sesión MX
 - **Qué es:** kit digital de +300 mapas mentales de inglés (versión en español de la oferta de Fluente com Legenda, BR); precio no visto (cuenta en USD).
 - **Por qué es ganador:** 20 de 28 ads activos en MX con 7+ días (11 con el título «+300 Mapas Mentales para Aprender Inglés»), un solo page_id y una sola oferta; 8 fechas de creación entre ~10-18 y 11-13, longevidad máx. ≈ 29 días; página sin marca personal.
