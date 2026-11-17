@@ -102,6 +102,9 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-17 (tarde): nada que pase la vara; se barrió atlante visivo, mappe mentali, schede didattiche pdf, progetti legno pdf (ninguna página con cohorte de 7+ d: todo empezó desde el 11-13).
+- Señales tarde IT: Tecnica Visiva (1417504704779124) 0/100, red de atlas técnicos visuales «+300 mappe» desde 11-16, re-medir ~11-21; Shop Plans (1354104621129963) 0/40 planos de casas/pérgolas desde 11-13, re-medir ~11-20; Lorenzo Santoro / Luiggi Totti «3 libri a €18,90» 0/44 y ≥20, páginas hermanas, producto sin identificar; Oriana Viscontii «inglese con mappe mentali» 0/20; Inglese Visuale 0/10.
+
 ### 🎯 +1.000 Spartiti per Pianoforte/Tastiera — Rafael Piano Fácil IT · `partituras-piano-teclado-co` · 2026-11-17 · sesión IT
 - **Qué es:** pack de +1.000 partituras en PDF para piano/teclado (en español «+2.000 Partituras»); precio no visto (cuenta en USD).
 - **Por qué es ganador:** 34 de 45 ads activos en IT con 7+ días (45 = total, no truncado), un solo page_id; solo los ads con título en italiano son 10 de ≈14 (el resto es creatividad en español que también llega a IT); 9+ fechas de creación, 5 ads nuevos ayer; longevidad máx. ≈ 34 días; nombre de página = nombre de pila (sin cara en los títulos).
