@@ -26,6 +26,8 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-17: nada que pase la vara; se barrió parar de fumar, deixar de fumar, tabagismo, plano de treino corrida 5k, planilha treino corrida, correr 5km iniciante. Señales: Maria Eduarda (1389112280954409) 1/50 piso, «Kit Completo para Corredores por R$ 5», tandas diarias de creación: re-medir ~11-20 (juzgar marca personal). Parar de Fumar de Vez (1436509976219606) 0/6, guía 30 días Hotmart, hace ~3 d: re-medir ~11-20. Nasce um corredor 0/12 y Corrida em Evolução 0/36 (todo de hoy). Informe: `RAW/cazas-auto/2026-11-17-br-B-habito-parar-de-fumar-corrida-5k.md`
+
 ### 🎯 Bordado en papel · presentes de Natal — Nannyvarie BR · `moldes-bordado-riscos` · 2026-11-16 · sesión BR (tarde)
 - **Qué es:** oferta de bordado en papel para regalos navideños hechos a mano (¿moldes/riscos + guía o mini-curso?); producto exacto y precio no vistos (BRL).
 - **Por qué es ganador:** 39 de 43 anuncios activos en BR con 7+ días, un solo page_id y un solo creativo repetido; tandas de creación 10-21, 10-26 y 11-15/16; longevidad máx. ≈ 25 días; nombre de página no es una persona.
