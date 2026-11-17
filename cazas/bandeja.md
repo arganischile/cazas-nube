@@ -271,6 +271,10 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, plantillas excel editables, cuadernillo imprimible, kit digital COP, planner imprimible, guía práctica descarga inmediata, megapack pdf, formatos SG-SST (mejor: Gestión Profesional con Excel 5/7; Atril Estudio 0/50 piso, operador nuevo).
+
+**Señales CO 2026-11-17:** Atril Estudio (1282575998279080) 0/50 piso, ads de 2-4 d, re-medir ~11-21. Gestión Profesional con Excel (961233043748737) 5/7. Digital Markett 3/7, Growing 3/14 (servicio contable mezclado).
+
 **CO 2026-11-16 (tarde) · Pack de +2.000 partituras para piano/teclado — Rafael Piano Fácil** · `sin-revisar`
 - Qué es: pack digital de «+2.000 Partituras para Piano/Teclado» (el segundo gancho: «Toque Piano/Teclado em 7 Dias»). Precio no visible por API; ads en USD. Nombre de página con nombre propio («Rafael»), pero los títulos venden el pack, no una cara: verificar en la PC.
 - Por qué es ganador: cohorte 29/42 en CO (exacto, 42 < 50) de un solo page_id (p. 1109073548949200); 9 tandas de creación distintas (≈10-11 oct a hoy), ad más viejo ~34 d, 10 ads nuevos de hoy = operador vivo. El mismo operador corre la misma oferta en BR (≥50, en portugués) y en IT (≥49, «+1.000 Spartiti per Pianoforte/Tastiera»), señal de molde probado en 3 idiomas.

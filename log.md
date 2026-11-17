@@ -34,3 +34,4 @@
 ## [2026-11-17] caza-auto | FR A huella → 2 candidatos a bandeja (Espagnol Illustré 15/26; PsiOS atlas 10/33 FR, borde)
 ## [2026-11-17] caza-auto | RO B perforar contabilidad-cuadernos-ro → 0 candidatos a bandeja
 ## [2026-11-17] caza-auto | MX C operadores → 0 candidatos a bandeja
+## [2026-11-17] caza-auto | CO A huella → 0 candidatos a bandeja
