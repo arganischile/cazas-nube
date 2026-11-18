@@ -185,6 +185,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-18 | BR | C operadores (mié) | operadores BR + agenda (Ryu Nakamura) + re-mediciones | en curso | en curso | en curso |
 | 2026-11-17 | CO (tarde) | B perforar (todos los nodos CO tocados <7 d → huellas nuevas) | salud-estudiantes (nodo nuevo) | guía pdf descarga inmediata, tarjetas estudio medicina, apuntes enfermería, apuntes veterinaria, resúmenes odontología pdf, plantillas psicología pdf + 1 conteo por page_id | 0 tarjetas; Cuaderno de Medicina - APP ≥50/160 (¿app?, embudo no verificado), Vetsemestresse 2/5 | nodo virgen nuevo cuaderno-medicina-app-co |
 | 2026-11-17 | MX (tarde) | B perforar (todos los nodos MX tocados <7 d → huellas nuevas) | nodos nuevos | planeaciones maestros, fichas didácticas, guía examen + 5 conteos por page_id | 2 tarjetas (Editorial MD 14/14; Axo y Yo 12/26); señales: Recursos Digitales Mx 10/10 posible zombi, Soluciones Educativas IA 0/8 | 2 nodos virgen MX nuevos, 2 operadores |
 | 2026-11-17 | FR (tarde) | A huella (todos los nodos FR tocados <7 d → huellas nuevas) | — | méthode illustrée pdf, tableur Excel modèle, cahier d'activités enfants, formation en ligne vidéos, fiches de révision pdf, guide complet débutant, manuel réparation boîte auto + 5 conteos por page_id | 1 tarjeta (Car Station 24/37); señales: Belle Plume 16/18 en 4 SKUs, Gavin Campbell 28/28 oferta no identificada, Pharmacologie Simplifiée 0/4 | 1 nodo virgen FR nuevo, 1 operador |
