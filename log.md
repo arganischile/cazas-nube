@@ -46,3 +46,5 @@
 ## [2026-11-17] caza-auto | CO B perforar salud-estudiantes (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-17] caza-local | BR+Europa «problema real» (modo B, 7 nichos) → 1 candidato; Pflegelernzettel (DE) 20/29, decisión del dueño: re-cazar 2026-11-21 (agenda del hub); los otros 6 nichos sin candidato, informe en RAW
+
+## [2026-11-17] caza-local | salud y cuerpo (destino Europa, buscá ofertas) → 0 candidatas a bandeja; Calistenia Asiática (Ryu Nakamura BR) 2/4, subnicho mujeres 50+ sin fuente; decisión del dueño: re-cazar 2026-11-24 (agenda del hub)
