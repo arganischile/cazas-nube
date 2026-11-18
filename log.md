@@ -50,3 +50,5 @@
 ## [2026-11-17] caza-local | salud y cuerpo (destino Europa, buscá ofertas) → 0 candidatas a bandeja; Calistenia Asiática (Ryu Nakamura BR) 2/4, subnicho mujeres 50+ sin fuente; decisión del dueño: re-cazar 2026-11-24 (agenda del hub)
 
 ## [2026-11-18] caza-auto | BR C operadores → 1 candidato a bandeja
+
+## [2026-11-18] caza-auto | IT A huella → 1 candidato a bandeja

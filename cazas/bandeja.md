@@ -121,6 +121,22 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Kit Contabile Pratico 2027 · 7 quaderni + 8 bonus — Giulia Ferraresi IT · `kit-contabile-pratico-2027-it` · 2026-11-18 · sesión IT
+- **Qué es:** kit digital de 7 cuadernos de contabilidad/gestión práctica «2027» con 8 bonus apilados; precio no visible por API (cuenta en USD). Es el mismo molde de Kit Comptable 2027 (FR, tarjeta en bandeja) y del nodo contabilidad RO.
+- **Por qué es ganador:** 11 de 50 ads activos en IT con 7+ días (50 = piso del API, estimado 146; 6 ads más cruzan 7 d hoy → ≥ 17), un solo page_id y un solo título; 6 tandas de creación del 11-09 al 11-17 (≥ 3 fechas y ads de los últimos 30 días); longevidad máx. ≈ 8,7 d por API; mismo molde corriendo en IT + FR + RO = oferta validada en 3 mercados.
+- **Qué hacer:** verificar en la PC el embudo, el precio real y si «Giulia Ferraresi» es cara que vende (el nombre de página es de persona, pero los títulos venden el kit sin cara); si limpia, modelar el kit de cuadernos de gestión para autónomos/pymes con contenido fiscal italiano (partita IVA, regime forfettario); destinos a medir: PT; estacional (cierre/inicio de año 2027).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1299765756564104>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL).
+- Score 2/4 provisorio (cohorte en el borde y creciendo; longevidad ≈ 8,7 d; marca personal sin confirmar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+**Señales del día IT 2026-11-18**
+- Digital solutions (1406571882531997): 12/50 (50 = total) pero repartido en 3 ofertas (Kit Formazione Sicurezza 2026 a 17,90 € + «+1.200 slide in 46 corsi» ≈ 8, «Dal corso all'ambulanza» ≈ 4, «120 prompt per ingegneri» ≈ 1); ninguna oferta sola llega a 10; re-medir ~11-21.
+- Camille Dubois (1435613592973828): 9/9 «L'IA pronta per chi lavora nell'HR» (USD), a 1 de la vara, sin ads nuevos desde el 11-11.
+- Studio Facile (1232011766670582): 648 est. activos en IT con tandas diarias de ≈ 50 (concorsi, mappe, ayurveda, razze, nail art); cohorte no medible; ya con tarjeta/señal en RO.
+- InventaLab (1304016149454926): 153 est., «Oltre 120 progetti con materiali di casa» en IT/PL/CZ/RO; 0/50 (todo ≤ 1,5 d en los 50 más nuevos); re-medir ~11-21.
+- Salud Didáctica (1060368773817749): manuales clínicos para médicos, 5/52, tandas diarias; Editorial Atlas 0/23 y Nova Skills 0/5 (todo ≤ 3 d).
+
 IT 2026-11-17 (tarde): nada que pase la vara; se barrió atlante visivo, mappe mentali, schede didattiche pdf, progetti legno pdf (ninguna página con cohorte de 7+ d: todo empezó desde el 11-13).
 - Señales tarde IT: Tecnica Visiva (1417504704779124) 0/100, red de atlas técnicos visuales «+300 mappe» desde 11-16, re-medir ~11-21; Shop Plans (1354104621129963) 0/40 planos de casas/pérgolas desde 11-13, re-medir ~11-20; Lorenzo Santoro / Luiggi Totti «3 libri a €18,90» 0/44 y ≥20, páginas hermanas, producto sin identificar; Oriana Viscontii «inglese con mappe mentali» 0/20; Inglese Visuale 0/10.
 
