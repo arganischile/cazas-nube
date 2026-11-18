@@ -329,6 +329,14 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+MX 2026-11-18: nada que pase la vara; se barrió `te lo enviamos por WhatsApp pdf`, `pago único acceso inmediato`, `hotmart curso grabado`, `kit psicólogos plantillas`, `ebook descargable pdf`, `guía imprimible descarga` + 9 conteos por page_id.
+
+**Señales del día MX 2026-11-18**
+- Psique y Ciencia (382519355660997): 10/12 con «Kit de Plantillas para Psicólogos» (MXN) pero último ad creado hace ~48 d → posible zombi, no pasa a tarjeta.
+- Sector Digital (1122535934265327): 0/50 piso (130 est.), kits para psicólogos/counselors en USD, ads de 1-5 d; re-medir ~11-21.
+- Inglés en Mapas (1349240448283092): 0/35, «+310 mapas mentales de inglés» (USD), todo ≤ 1,6 d; clon del molde 300 Mapas Mentales; re-medir ~11-21.
+- Lumen Sistémica 2/10 (Atlas de Mesa para terapeutas), Swan Digital 0/8, Método Juega Conmigo 0/4 (516 actividades autismo PDF, nuevo hoy).
+
 ### 🎯 Planeaciones y material para docentes (desde $99 MXN/mes) — Editorial MD MX · `material-docentes-planeaciones-mx` · 2026-11-17 · sesión MX
 - **Qué es:** biblioteca digital editable (Word/PDF) de planeaciones didácticas, cuadernillos, listas de cotejo y carpeta CTE para maestros de preescolar a telesecundaria, «desde $99 al mes» / membresía VIP; también abre marketplace («vende tu material y gana 60 %»).
 - **Por qué es ganador:** 14 de 14 ads activos en MX con 7+ días, un solo page_id; 10+ fechas de creación del 10-20 al 11-11, longevidad máx. ≈ 28 d, ad creado hace ~8 d; copy «la planeación que usan +3,800 maestras»; página sin cara ni marca personal.
