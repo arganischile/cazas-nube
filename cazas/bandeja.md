@@ -331,6 +331,13 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-18 (tarde): nada que pase la vara; se barrió checklist pdf, logopedie / fișe logopedie, subiecte bacalaureat, plan de masă, caiet de vacanță, ghid mămici, program antrenament, model contract, anxietate ghid, matematică caiet, stimulare cognitivă + 3 conteos por page_id. Informe: `RAW/cazas-auto/2026-11-18-ro-B-huellas-nuevas-tarde.md`
+
+**Señales del día RO (tarde) 2026-11-18**
+- Fișe de patologie (1392176430652979): 8/14 con 7+ días por API (4 de ~11,8 d, 4 de ~14 d), USD, multi-SKU en rumano (tenis 200 ejercicios, CogniFișe 144, Voce & Rezonanță 60+66 fișe, odontología, nutrición); ningún SKU ≥ 10; mismo molde «fișe» que Harta Tulburărilor. Re-medir ~2026-11-23.
+- Smart Digital (1383014634885117): 0/50 piso (118 est.), el más viejo ≈ 4 d, USD, creativos en inglés («6 Volumes + 5 Bonuses», «Professional Edition»): la misma red inglesa que Edulabs/Central Pack, no es oferta rumana.
+- The Hoord «Dosarul cabinetului» 0/2 y Psiholog în Ordine 0/3 (EUR, plantillas para cabinete de psicología): lanzamientos chicos, sin cohorte.
+
 RO 2026-11-18: nada que pase la vara; se midieron por page_id los operadores Edulabs Resources, Genius Mentor, Rowan House Press y Mesa Ligera (modo C). Informe: `RAW/cazas-auto/2026-11-18-ro-C-operadores.md`
 
 **Señales del día RO 2026-11-18**

@@ -66,3 +66,5 @@
 ## [2026-11-18] caza-auto | IT B huellas nuevas (tarde) → 1 candidato a bandeja
 
 ## [2026-11-18] caza-auto | FR B huellas nuevas planner-budget-fr (tarde) → 1 candidato a bandeja
+
+## [2026-11-18] caza-auto | RO B huellas nuevas (tarde) → 0 candidatos a bandeja
