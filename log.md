@@ -54,3 +54,5 @@
 ## [2026-11-18] caza-auto | IT A huella → 1 candidato a bandeja
 
 ## [2026-11-18] caza-auto | FR B ressources-neuro-imprimables → 1 candidato a bandeja
+
+## [2026-11-18] caza-auto | RO C operadores → 0 candidatos a bandeja

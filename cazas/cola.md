@@ -176,7 +176,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Giulia Ferraresi (Kit Contabile Pratico 2027) | 1299765756564104 | IT | 11/50 piso el 2026-11-18 (tarjeta en bandeja); 6 ads cruzan 7 d hoy; re-medir ~2026-11-25 |
 | Prisma Piano (teoría piano en colores) | 1437920272732095 | CO | 0/5 el 2026-11-16 (5 ads de hoy); re-medir ~2026-11-21 |
 | Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
-| Edulabs Resources (plantillas «gata de predat») | 1057793390758198 | RO | 15/48 el 2026-11-17 (≈8 en inglés); multi-SKU para profesores; re-medir ~2026-11-21 solo creativos en rumano |
+| Edulabs Resources (plantillas «gata de predat») | 1057793390758198 | RO | 21/42 el 2026-11-18 (6 en inglés, 9 rumano verificado, 6 sin título); multi-SKU para profesores; re-medir ~2026-11-22 solo creativos en rumano |
 | Fluente com Legenda (USD) | 837003542818622 | BR | ≥22/50 piso el 2026-11-18 (236 est.; tarjeta local); página gemela BRL 996556976874285 0/2; clon Academia da legenda 1521661844353417 0/7; re-medir ~2026-11-30 |
 | Nannyvarie | 101372751885586 | BR | 39/46 el 2026-11-18 (tarjeta en bandeja); re-medir ~2026-11-30 |
 | Organize com Ju | 1022767074413574 | BR | 11/16 el 2026-11-18 (tarjeta); juzgar marca personal; re-medir ~2026-11-30 |
@@ -201,7 +201,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-18 | RO | C operadores | Edulabs, Genius Mentor, Rowan House, Liveno, Ready Resources, Mesa Ligera | en curso | — | en curso |
+| 2026-11-18 | RO | C operadores (mié) | operadores RO | ninguna (modo C) + 4 conteos por page_id en RO | 0 tarjetas; Edulabs 21/42 (9 rumano verificado), Genius Mentor 3/50, Rowan House 5/44, Mesa Ligera 3/37 | sin cambios; Liveno y Ready Resources sin medir |
 | 2026-11-18 | FR | B perforar (mié) | ressources-neuro-imprimables + art-therapie-fiches-pdf + cricut-guides-visuels | ressources imprimables TDAH (0), autisme fiches visuelles, émotions enfants cartes, art-thérapie fiches, dyslexie fiches, guides visuels cricut, fiches visuelles troubles + IT/PT/RO cruce + ~12 conteos por page_id | 1 tarjeta (Esprit Académique, 210 fiches psicopatología, ≥50/95 piso); señales: Inspiracion Studio 8/10, Manual de Arte Terapia 4/16, Boîte à Ressources Neuro 0/6, red de 3 clones 0/5-7, IT 3 testers ≤ 4 d, RO Materiale Gata 0/3 | ressources-neuro-imprimables pasa a superficial; 1 nodo virgen FR nuevo |
 | 2026-11-18 | IT | A huella (mié) | — | schede stampabili, quaderno esercizi, modelli editabili, guida pratica scaricabile, schemi pdf, pacchetto digitale bonus, fogli di lavoro bambini, checklist pronta + 14 conteos por page_id | 1 tarjeta (Giulia Ferraresi, Kit Contabile Pratico 2027, 11/50 piso); señales: Digital solutions 12/50 multi-SKU, Camille Dubois 9/9, Studio Facile 648 est. cohorte no medible, InventaLab 0/50, Salud Didáctica 5/52 | 3 nodos virgen IT nuevos, 1 operador |
 | 2026-11-18 | BR | C operadores (mié) | operadores BR + re-mediciones (agenda Ryu Nakamura = marca personal, del dueño) | ninguna (modo C) + 14 conteos por page_id en BR | 1 tarjeta (Rafael Piano Fácil BR 31/50 piso); señales: Mapas e Guias Visuais bajó de 127 a 6, Guia Benefícios 7/7, Edital Master 12/50, Camila Maia 13/45, Fluente ≥22/50, clon Academia da legenda 0/7, Maria Eduarda 0/6 | nodos BR sin cambio de estado; 4 operadores agregados |

@@ -276,6 +276,14 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-18: nada que pase la vara; se midieron por page_id los operadores Edulabs Resources, Genius Mentor, Rowan House Press y Mesa Ligera (modo C). Informe: `RAW/cazas-auto/2026-11-18-ro-C-operadores.md`
+
+**Señales del día RO 2026-11-18**
+- Edulabs Resources (1057793390758198): 21/42 con 7+ días por API, pero 6 son creativos en inglés y solo 9 llevan título rumano inequívoco (Religie «6 volume + 5 bonusuri» ×6, primar ×2, română ×1) + 6 sin título; multi-SKU «gata de predat» (USD), ningún SKU ≥ 10; es el operador RO más cerca de la vara: verificar en la PC si el catálogo es un solo producto; re-medir ~2026-11-22.
+- Genius Mentor (1202927619580444): baja a 3/50 piso con 7+ días (los 22 del 11-17 contaban por inicio de entrega); casi todo creado en los últimos 6 días, RON, oferta sin identificar.
+- Rowan House Press (103448682074390): 5/44 (solo «Pâinea, cu desene», ~21 d); el resto es la tanda del 11-16/17; re-medir ~2026-11-22.
+- Mesa Ligera (1219245414615500): 3/37 en EUR, «Un an la grădiniță» ≈ 11 ads pero todos de ≤ 7 d; re-medir ~2026-11-22.
+
 RO 2026-11-17 (tarde): nada que pase la vara; se barrió jurnal pdf, șabloane Canva, limba engleză pdf, pachet digital, metodă pas cu pas, Metoda Genius, curs video înregistrat (+ 7 conteos por page_id). Informe: `RAW/cazas-auto/2026-11-17-ro-B-nodos-nuevos-tarde.md`
 
 **Señales del día RO (tarde) 2026-11-17**
