@@ -229,6 +229,22 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Planner budget «accès immédiat» 37 € — La fée du budget FR · `planner-budget-fr` (nodo nuevo) · 2026-11-18 (tarde) · sesión FR
+- **Qué es:** planner/herramienta de presupuesto personal de entrega inmediata («Accès immédiat à ton Planner», probablemente plantilla digital tipo hoja de cálculo; formato exacto no visto); precio 37 € (subió desde 27 € en los ads de septiembre-octubre).
+- **Por qué es ganador:** 23 de 23 ads activos en FR con 7+ días (ALL = 94 históricos en la página; estimado de activos 23, no truncado), un solo page_id y una sola oferta repetida (21 con el título «Accès immédiat à ton Planner (37 €)»); creación 11-01 y 11-09, delivery desde 11-01/11-08/11-09; página con ads desde agosto (≈ 3 meses, 4 tandas); subió el precio 27 → 37 € sin apagar: señal de que convierte; 1 operador.
+- **Qué hacer:** modelar «planner/tablero de presupuesto de entrega inmediata (plantilla Excel/Sheets/Notion)»; destinos a medir: IT (Getnicoway «Budget Planner in italiano» 0/2, recién nacido, hueco abierto), PT/BR, RO (planificator buget = 0); ángulo: «outil Budget» + acceso inmediato; precio ancla 27-37 €.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=387445394447918>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, formato, escalera n/e; ¿marca personal detrás de «la fée»? no visto en títulos). Snapshot: https://www.facebook.com/ads/library/?id=2222000068364793
+- Score n/4 (3/4 provisorio: cohorte 23 ≥ 10, longevidad ≈ 17 d el lote vigente pero página de ≈ 3 meses, EUR; embudo y formato sin verificar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-18-fr-B-tarde-planner-budget.md`
+
+**Señales del día FR tarde 2026-11-18**
+- Sunday Budget (1378372592023348): plantilla Google Sheets «budget 2027» (USD), 4/9 con 7+ d; a 6 de la vara; re-medir ~11-25.
+- Inkiloo (1467171936472219): 2/6 (cahier d'activités de Noël, mots mêlés, facture Excel; −25 % Black Friday); multi-SKU, sin cohorte.
+- CoursesPlanner (150189548181876): 0/11 (tanda de 11-16/17, «Moins de gaspi, plus de budget»); re-medir ~11-24. Bonapro 0/2 (Planner Ramadan 57 p.). Previa 0/2, CreaRocket 0/1 («13 tableurs de gestion»).
+- IT: Getnicoway «Budget Planner in italiano» 0/2 (hoy). RO `planificator buget` = 0; PT `planner financeiro` = 0 infoproducto (Herramientas Terapeuticas 0/2, BRL).
+- Descartados por físico: Lâche ce qui te détruit (libro con envío, ≈ 77 ads), Les Zoogotos (juegos físicos, 47 ads), Caaly (cuadernos físicos).
+
 ### 🎯 210 fiches visuelles sur les troubles mentaux — Esprit Académique FR · `psicopatologia-fichas-visuales-fr` (nodo nuevo, hijo de `ressources-neuro-imprimables`) · 2026-11-18 · sesión FR
 - **Qué es:** pack de 210 fichas visuales de psicopatología / trastornos mentales para estudiantes de psicología (probablemente PDF); precio no visto (cuenta en BRL: operador brasileño, creativo traducido al francés).
 - **Por qué es ganador:** ≥ 50 de 95 ads activos en FR con 7+ días (50 = piso del API; los 50 devueltos tienen ≥ 11,6 d), un solo page_id y una sola oferta repetida en todos; ≥ 5 tandas de creación (10-11, 10-12, 10-26, 11-01, 11-06), longevidad máx. ≈ 37 d; sin cara, nombre = marca. La misma oferta corre en 3 páginas más (Atlas Visuel de Psychopathologie 0/7 con «+2100 personnes ont acheté», Bienestar Consciente 0/5, Psyacademy 0/5, todos ≤ 6 d). Ojo: sin tanda nueva desde el 11-06.
