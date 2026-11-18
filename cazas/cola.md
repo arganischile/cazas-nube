@@ -101,6 +101,8 @@ los nichos que emergen.
 | cuadernos-contabilidad-atril-co | — | CO | virgen | 2026-11-17 huella CO: Atril Estudio 0/50 piso (est. 309, ads de 2-4 d, «⭐ 4.9/5», USD) | modo B: identificar qué vende; re-medir ~2026-11-21 · apareció el 2026-11-17 |
 | plantillas-excel-gestion-co | — | CO | virgen | 2026-11-17 huella CO: Gestión Profesional con Excel 5/7 (ads de 31-47 d) | modo B: re-medir ~2026-11-24 · apareció el 2026-11-17 |
 | comunidade-musico-oido-co | teoria-musical-visual-guias | CO | virgen | 2026-11-18 modo B: Comunidade do Músico (p. 374108552781289) 0/18, «Quiero tocar de oído», BRL, tanda de ayer; Improvisación Mastery 0/5 (piano para iglesia, «4,9/5»); Edukla Guitarra Fácil 9/21 (COP, ~16 d, probable curso) | modo B: re-medir ~2026-11-22 e identificar qué venden (¿curso o PDF?) · apareció el 2026-11-18 |
+| plantillas-gestion-profesiones-co | — | CO | virgen | 2026-11-18 tarde CO: Claridad y Acción 40/43 (freelance 21, obras 10, abogados 10; USD; tarjeta en bandeja); 0 en BR/PT/IT/FR/RO; `plantilla notion` en BR/IT/FR/RO casi vacío | modo B: verificar en la PC herramienta/precio; perforar otros oficios (contadores, psicólogos, médicos) y medir PT/IT/FR/RO por separado · apareció el 2026-11-18 |
+| plantillas-canva-eventos-co | — | CO | virgen | 2026-11-18 tarde CO: Magia Cursos y Plantillas 18/18 (75 ALL; ~184 d; Canva para baby shower/bautizos/recordatorios/navideñas; multi-SKU, tarjeta en bandeja); magiatienda.com no resuelve desde la nube | modo B: re-medir ~11-25 (última tanda 11-08); medir BR/IT/FR/RO con otras nativas · apareció el 2026-11-18 |
 | cuaderno-medicina-app-co | — | CO | virgen | 2026-11-17 tarde: Cuaderno de Medicina - APP (1372929795909878) ≥50/160 activos en CO, USD, «4.9/5», parece app de resúmenes | modo B: verificar en la PC si vende PDF o app/suscripción; medir MX/PE/BR · apareció el 2026-11-17 |
 
 ---
@@ -158,6 +160,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 
 | `mapas mentales enfermería` en MX (ACTIVE) | los 50 más nuevos de page_ids tapan tandas viejas de la misma página (Mente Académica: 34 ads de ~33 d solo salen con `search_terms` + `page_ids`) | contar con la palabra del título + `page_ids` + `countries` |
 
+| `cuaderno caligrafía`, `dibujos colorear niños`, `rutina ejercicios pdf` en CO | caligrafía: tiendas físicas (kits con lapicero, Elevatec, cuaderno mágico); colorear: kits navideños/bíblicos de tandas de hoy y ecommerce; ejercicios: gyms, coaches y suplementos | contar con `page_ids` + `countries`; `plantilla presupuesto` rindió (Claridad y Acción, plantillas por profesión) |
+
 ## Operadores a seguir (modo C)
 
 Fábricas multi-SKU y whales que muestran el próximo producto antes de que aparezca por keyword. Se
@@ -196,6 +200,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Martina Rossi (multi-SKU Office/enfermería) | 782531528270117 | IT | 0/44 el 2026-11-18 (≤ 5,1 d, USD); re-medir ~2026-11-21 |
 | Giulia Ferraresi (Kit Contabile Pratico 2027) | 1299765756564104 | IT | 11/50 piso el 2026-11-18 (tarjeta en bandeja); 6 ads cruzan 7 d hoy; re-medir ~2026-11-25 |
 | Prisma Piano (teoría piano en colores) | 1437920272732095 | CO | 0/5 el 2026-11-16 (5 ads de hoy); re-medir ~2026-11-21 |
+| Claridad y Acción (plantillas de gestión por profesión) | 771123896085843 | CO | 40/43 el 2026-11-18 (tarjeta en bandeja); 3 SKUs (freelance, obras, abogados); re-medir ~2026-11-30 |
+| Magia Cursos y Plantillas (Canva eventos) | 681374695056562 | CO | 18/18 el 2026-11-18 (tarjeta en bandeja); última tanda 11-08; re-medir ~2026-11-30 |
+| Con Dios camino (WhatsApp, material cristiano) | 1185760311285849 | CO | 0/16 el 2026-11-18 (tandas de 4-5 d); re-medir ~2026-11-22 |
+| Mini Genios (+1000 ebooks) | 739087692611672 | CO | 0/26 el 2026-11-18 (tandas de 4-5 d, USD); re-medir ~2026-11-22 |
 | Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
 | Edulabs Resources (plantillas «gata de predat») | 1057793390758198 | RO | 21/42 el 2026-11-18 (6 en inglés, 9 rumano verificado, 6 sin título); multi-SKU para profesores; re-medir ~2026-11-22 solo creativos en rumano |
 | Mente Académica (mapas mentales por materia) | 1239880759219492 | MX | ≥34/≥84 el 2026-11-18 (354 est.; BRL; tarjeta en bandeja); contar con `search_terms` del título + page_ids; re-medir ~2026-11-23 |
@@ -227,7 +235,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-18 | CO (tarde) | B perforar (todos los nodos CO tocados <7 d → huellas nuevas) — en curso | nodos nuevos | en curso | en curso | en curso |
+| 2026-11-18 | CO (tarde) | B perforar (todos los nodos CO tocados <7 d → huellas nuevas) | plantillas-gestion-profesiones-co + plantillas-canva-eventos-co (nodos nuevos) | cuaderno caligrafía, plantilla presupuesto, rutina ejercicios pdf, dibujos colorear niños + 14 conteos por page_id (Claridad y Acción ×3, Magia ×3, Mente Creativa, Mini Genios, Con Dios camino, Semillitas de Fe, Cree - Ser, Osiris, Domina tus finanzas, Aprende Finanzas, Moveveryday) | 2 tarjetas (Claridad y Acción 40/43; Magia Cursos y Plantillas 18/18, multi-SKU); señales: Con Dios camino 0/16 (WA), Mini Genios 0/26, Mente Creativa 7/19 (¿físico?) | 2 nodos virgen CO nuevos |
 | 2026-11-18 | MX (tarde) | B perforar (nodos MX tocados <7 d → manuales-visuales-oficios-mx + mapas-enfermeria-mx por re-medición vencida) | manuales-visuales-oficios-mx / mapas-enfermeria-mx | mapas mentales enfermería, manual visual oficios + 5 conteos por page_id (Vida Práctica, Valentina Rojas, Mente Académica ×2) | 1 tarjeta (Mente Académica ≥34/≥84 en MX, BRL, tanda única, flag); señales: Valentina Rojas 7/7, Vida Práctica 3/7, Sofía Gómez/Mundo Bili/Bela IA clones | mapas-enfermeria-mx y manuales-visuales-oficios-mx siguen virgen; 1 nodo virgen MX nuevo |
 | 2026-11-18 | RO (tarde) | B perforar (todos los nodos RO tocados <7 d → huellas nuevas) | nodos nuevos | checklist pdf, fișe logopedie (0), logopedie (ALL), subiecte bacalaureat (0), plan de masă (0), caiet de vacanță (0), ghid mămici (0), program antrenament (0), model contract (0), anxietate ghid (0), matematică caiet (1), stimulare cognitivă + 3 conteos por page_id (Fișe de patologie, Smart Digital, The Hoord, Psiholog în Ordine) | 0 tarjetas; Fișe de patologie 8/14 multi-SKU, Smart Digital 0/50 piso (inglés), The Hoord 0/2, Psiholog în Ordine 0/3 | sin cambios de estado; nodo virgen nuevo fise-patologie-multi-sku-ro |
 | 2026-11-18 | FR (tarde) | B perforar (todos los nodos FR tocados <7 d → huellas nuevas) | planner-budget-fr (nodo nuevo) | planificateur mariage, fiches permis, cahier vacances, planner budget, budget tableur + cruce IT/RO/PT + 6 conteos por page_id | 1 tarjeta (La fée du budget 23/23, planner 37 €); señales: Sunday Budget 4/9, Inkiloo 2/6, CoursesPlanner 0/11, Getnicoway IT 0/2; físicos descartados (Lâche ce qui te détruit, Zoogotos, Caaly) | 1 nodo virgen FR nuevo |

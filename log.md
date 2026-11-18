@@ -70,3 +70,5 @@
 ## [2026-11-18] caza-auto | RO B huellas nuevas (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-18] caza-auto | MX B perforar mapas-mentales-salud (tarde) → 1 candidato a bandeja
+
+## [2026-11-18] caza-auto | CO B perforar nodos-nuevos (tarde) → 2 candidatos a bandeja

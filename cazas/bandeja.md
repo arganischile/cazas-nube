@@ -486,6 +486,30 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+**CO 2026-11-18 (tarde) · Plantillas «sistema de gestión» por profesión (freelancers, arquitectos/obras, abogados) — Claridad y Acción** · `sin-revisar`
+- Qué es: plantillas digitales de gestión (clientes, presupuestos, proyectos/obras, cobros, tareas, vencimientos) en 3 SKUs por profesión: freelancers, estudio de arquitectura/obras y estudio jurídico; hablan de «workspace», «panel», «instructivo paso a paso incluido» y piden comentar «FREELANCER» (cierre por mensaje). Precio no visible por API; ads en USD, copy neutro/rioplatense: operador probablemente de otro país corriendo también en CO.
+- Por qué es ganador: cohorte 40/43 en CO (exacto, 43 < 50) de un solo page_id (p. 771123896085843); por oferta: freelance 21, obras/arquitectos 10, abogados 10 (cada SKU solo ya pasa 10). 10 tandas de creación distintas (≈5 oct → 16 nov), ad más viejo ~44 d, 3 ads de hace ~2 d = operador vivo. Sin marca personal (nombre de página de marca). 0 ads activos en BR/PT/IT/FR/RO.
+- Qué hacer: modelar tal cual (plantilla de gestión de clientes/proyectos/cobros por profesión, un SKU por oficio) · destino sugerido: BR primero (Notion/planilhas de gestão para freelancers y arquitetos), luego IT/FR; PT/RO sin medir a fondo · ángulo «tu negocio en una sola pantalla; del WhatsApp y el Excel a un solo panel».
+- Ads Library CO: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=771123896085843
+- Landing: no verificada (la API no trae URL); herramienta base (¿Notion/Airtable/Sheets?), precio y cierre (¿DM por comentario?) por confirmar en la PC.
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (~44 d en el ad más viejo; ≥ 3 fechas distintas y 3 ads de los últimos 30 d), snapshot no verificado.
+- Score —/4 · escalera n/e · Decisión: —
+
+**CO 2026-11-18 (tarde) · Plantillas editables en Canva para eventos (baby shower, bautizos, recordatorios, navideñas) — Magia Cursos y Plantillas** · `sin-revisar` · ⚠ multi-SKU, creativos casi sin título
+- Qué es: plantillas «100 % editables» (Canva) para recordatorios/souvenirs y eventos (BabyShower, BabyRevelación, BabyCumple, Bautizos), colecciones «Bonita», «Candy» (navideña) y «celestial» (magiatienda.com/celestial en el título de un ad). Precio no visible por API; ads en COP.
+- Por qué es ganador: cohorte 18/18 activos en CO (todos con 7+ d) de un solo page_id (p. 681374695056562); 5 tandas de creación (≈ 05-18, 05-27, 10-18/19 y 11-08 según API) y el más viejo ~184 d todavía activo; 75 ALL. Por oferta ninguna llega sola a 10 (celestial ≈ 9, recordatorios/plantillas ≈ 5): pasa la vara por page_id, no por SKU. Última tanda hace ~10 d (operador vivo pero sin ads nuevos esta semana).
+- Qué hacer: modelar tal cual (packs de plantillas Canva para eventos familiares) · destino sugerido: BR (festa/lembrancinhas en Canva) o IT/FR; sin medir fuera de CO · ángulo «invitaciones y recordatorios listos para editar».
+- Ads Library CO: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=681374695056562
+- Landing: no verificada (magiatienda.com no resuelve desde la nube: habría que permitir el dominio); precio y embudo por confirmar en la PC.
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (~184 d en el ad más viejo), snapshot no verificado.
+- Score —/4 · escalera n/e · Decisión: —
+
+**Señales del día CO 2026-11-18 (tarde)**
+- Con Dios camino (p. 1185760311285849): 0/16, cierre WhatsApp («Recibe ya», «Directo a tu WhatsApp», «Más de 1.000 familias»), COP, ads de 4-5 d; producto no identificado (material cristiano familiar); re-medir ~11-22.
+- Mini Genios (p. 739087692611672): 0/26, «+1000 ebooks vendidos ⭐», kit de caligrafía para imprimir, USD, tandas de 4-5 d; re-medir ~11-22.
+- Mente Creativa (p. 1133150633220108): 7/19, «5/5 ⭐» y «¡Primero recibes luego pagas!» (pago contra entrega: probable físico); 4 ads más cruzan 7 d esta noche; no pasa el gate si es físico.
+- Semillitas de Fe (p. 1397072310165768) 0/5 y Cree - Ser (p. 1315494771649094) 0/2: kits bíblicos para imprimir a US$ 7, tanda de hoy; Osiris (p. 1420159887853772): mezcla PDF «Novena de Aguinaldos» ($24.900) con bálsamo físico, 0/7. Moveveryday (pilates 60 ejercicios) 0/4; Domina tus finanzas 0/4; Aprende Finanzas 0/6.
+
 CO 2026-11-18: nada que pase la vara; se barrió partituras piano, piano iglesia, partituras alabanza, guitarra acordes pdf, cancionero guitarra, villancicos partituras, saxofón partituras, trompeta partituras, lectura musical pdf (mejor: Edukla «Guitarra Fácil» 9/21, 9 < 10 y plataforma de cursos).
 
 **Señales del día CO 2026-11-18**
