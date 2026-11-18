@@ -391,6 +391,20 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Mapas mentales de salud/ingeniería «150-300 mapas por materia» — Mente Académica MX · `mapas-mentales-salud-mente-academica-mx` · 2026-11-18 (tarde) · sesión MX
+- **Qué es:** packs de mapas mentales visuales por materia (Anatomía Cardiovascular 150, Ingeniería Civil 200, TI +300, Neuroanatomía 150, 210 Trastornos Mentales) para estudiantes; moneda BRL, creativos en español; precio no visible (el molde en MX/CO ronda $99 MXN / USD 3,99).
+- **Por qué es ganador:** ≥ 34 de ≥ 84 ads activos en MX con 7+ días, un solo page_id (34 de «Anatomía Cardiovascular» a ~33 d + ~36 de «Ingeniería Civil» recién en 7,0 d); creados en ≥ 6 fechas, un ad de ≤ 1,5 d, 354 est. activos; sin cara ni marca personal. **Flag:** son dos tandas de un solo creativo repetido: podría ser un ad que nadie apagó; el único otro ancla es el molde ya ganador de `mapas-visuales-mentales`.
+- **Qué hacer:** modelar el molde «N mapas mentales por materia» (PDF) para BR (enfermagem/concursos), PT, IT, FR y RO; MX es fuente. Ángulo: una materia = un pack (anatomía, civil, TI) en vez de un solo catálogo. Ya hay tarjetas del mismo molde (300 Mapas Mentales MX, Fluente BR, Educa Visual): antes de decidir, mirar si es el mismo operador/oferta.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1239880759219492>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (precio, formato PDF, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=2316459125425611
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-18-mx-B-mapas-mentales-salud-tarde.md`
+
+**Señales del día MX (tarde) 2026-11-18**
+- Enf. Valentina Rojas (1419232917932388): 7/7 todos 7+ d, USD 3,99 «200 Mapas de Enfermería»; < 10, no pasa; juzgar marca personal por el nombre.
+- Vida Práctica (1472534742604591): 3/7 (3 ads de 7,5 d; 4 de ≤ 1,3 d), «Manual Visual del Ingeniero Industrial» $199 MXN; re-medir ~11-22.
+- Red de clones del molde enfermería: Sofía Gómez 2 ads de hoy (BRL), Mundo Bili 5 de ≤ 2 d (USD), Bela IA Studio 2 (anatomía $99 MXN), Los Resúmenes 1 ad.
+
 MX 2026-11-18: nada que pase la vara; se barrió `te lo enviamos por WhatsApp pdf`, `pago único acceso inmediato`, `hotmart curso grabado`, `kit psicólogos plantillas`, `ebook descargable pdf`, `guía imprimible descarga` + 9 conteos por page_id.
 
 **Señales del día MX 2026-11-18**

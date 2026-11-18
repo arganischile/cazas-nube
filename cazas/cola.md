@@ -91,6 +91,7 @@ los nichos que emergen.
 | cuadernillo-personalizado-ninos-mx | — | MX | virgen | 2026-11-17 modo B tarde: Axo y Yo 12/26 (cuadernillo con su nombre $99-149, tarjeta en bandeja); 14 ads nuevos <7 d | modo B: verificar digital vs impreso; re-medir ~2026-11-21 y medir BR/IT/FR/RO · apareció el 2026-11-17 |
 | kits-psicologos-plantillas-mx | — | MX | virgen | 2026-11-18 huella MX: Sector Digital 0/50 piso (130 est., kits counselors/adicciones/deportivo, USD), Psique y Ciencia 10/12 posible zombi (último ad ~48 d), Lumen Sistémica 2/10 | modo B: re-medir Sector Digital ~2026-11-21; medir CO (Psicología & Recursos) y BR/IT/FR/RO · apareció por huella el 2026-11-18 |
 | ingles-en-mapas-mx | mapas-visuales-mentales | MX | virgen | 2026-11-18 huella MX: Inglés en Mapas 0/35 («+310 mapas mentales de inglés», USD, todo ≤ 1,6 d) | modo B: re-medir ~2026-11-21; clon del molde 300 Mapas Mentales · apareció el 2026-11-18 |
+| mapas-mentales-salud-mente-academica-mx | mapas-visuales-mentales | MX | virgen | 2026-11-18 tarde MX: Mente Académica ≥34/≥84 (34 «Anatomía Cardiovascular» a ~33 d + ~36 «Ingeniería Civil» a 7,0 d; BRL; tarjeta en bandeja, flag de tanda única); clones Sofía Gómez, Mundo Bili, Bela IA Studio, Los Resúmenes | modo B: verificar en la PC precio/PDF; medir BR/PT/IT/FR/RO; re-medir ~11-23 · apareció el 2026-11-18 |
 | libros-regalo-diagram-books | — | RO | virgen | 2026-11-16 huella RO: Diagram Books 0/30 («+ 2 cărți cadou», tandas de 2-4 d); Imago Studiu 5/5 | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
 | creativo-resenas-neuralforkids-digitalbooks | — | RO | virgen | 2026-11-16 huella RO: Neuralforkids 0/46 y Digital Books 0/20, mismo creativo «⭐ 4,9/5,0» en USD, producto no identificado | modo B: re-medir ~2026-11-20 e identificar qué venden · apareció por huella el 2026-11-16 |
 | fise-tulburari-psihice-pdf | — | RO | virgen | 2026-11-16 huella RO: Harta Tulburărilor 1/23 («210 fișe, 40 de perechi, 1 PDF», EUR) | modo B: re-medir en 5 días; juzgar nicho · apareció por huella el 2026-11-16 |
@@ -155,6 +156,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 
 | `bilancio familiare`, `tecniche di studio` (ALL), `metodo di studio università` en IT | préstamos/energía/periódicos; `studio` = consultorio (57.854 est. de clínicas); universidades y tutores IA | contar con `page_ids` + `countries`; `riassunti concorso` y `dispense pdf` rinden para leer redes de mapas |
 
+| `mapas mentales enfermería` en MX (ACTIVE) | los 50 más nuevos de page_ids tapan tandas viejas de la misma página (Mente Académica: 34 ads de ~33 d solo salen con `search_terms` + `page_ids`) | contar con la palabra del título + `page_ids` + `countries` |
+
 ## Operadores a seguir (modo C)
 
 Fábricas multi-SKU y whales que muestran el próximo producto antes de que aparezca por keyword. Se
@@ -195,6 +198,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Prisma Piano (teoría piano en colores) | 1437920272732095 | CO | 0/5 el 2026-11-16 (5 ads de hoy); re-medir ~2026-11-21 |
 | Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
 | Edulabs Resources (plantillas «gata de predat») | 1057793390758198 | RO | 21/42 el 2026-11-18 (6 en inglés, 9 rumano verificado, 6 sin título); multi-SKU para profesores; re-medir ~2026-11-22 solo creativos en rumano |
+| Mente Académica (mapas mentales por materia) | 1239880759219492 | MX | ≥34/≥84 el 2026-11-18 (354 est.; BRL; tarjeta en bandeja); contar con `search_terms` del título + page_ids; re-medir ~2026-11-23 |
 | Fluente com Legenda (USD) | 837003542818622 | BR | ≥22/50 piso el 2026-11-18 (236 est.; tarjeta local); página gemela BRL 996556976874285 0/2; clon Academia da legenda 1521661844353417 0/7; re-medir ~2026-11-30 |
 | Nannyvarie | 101372751885586 | BR | 39/46 el 2026-11-18 (tarjeta en bandeja); re-medir ~2026-11-30 |
 | Organize com Ju | 1022767074413574 | BR | 11/16 el 2026-11-18 (tarjeta); juzgar marca personal; re-medir ~2026-11-30 |
@@ -223,7 +227,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-18 | MX (tarde) | B perforar (en curso; nodos MX tocados <7 d → manuales-visuales-oficios-mx + mapas-enfermeria-mx por re-medición vencida) | manuales-visuales-oficios-mx / mapas-enfermeria-mx | en curso | en curso | en curso |
+| 2026-11-18 | MX (tarde) | B perforar (nodos MX tocados <7 d → manuales-visuales-oficios-mx + mapas-enfermeria-mx por re-medición vencida) | manuales-visuales-oficios-mx / mapas-enfermeria-mx | mapas mentales enfermería, manual visual oficios + 5 conteos por page_id (Vida Práctica, Valentina Rojas, Mente Académica ×2) | 1 tarjeta (Mente Académica ≥34/≥84 en MX, BRL, tanda única, flag); señales: Valentina Rojas 7/7, Vida Práctica 3/7, Sofía Gómez/Mundo Bili/Bela IA clones | mapas-enfermeria-mx y manuales-visuales-oficios-mx siguen virgen; 1 nodo virgen MX nuevo |
 | 2026-11-18 | RO (tarde) | B perforar (todos los nodos RO tocados <7 d → huellas nuevas) | nodos nuevos | checklist pdf, fișe logopedie (0), logopedie (ALL), subiecte bacalaureat (0), plan de masă (0), caiet de vacanță (0), ghid mămici (0), program antrenament (0), model contract (0), anxietate ghid (0), matematică caiet (1), stimulare cognitivă + 3 conteos por page_id (Fișe de patologie, Smart Digital, The Hoord, Psiholog în Ordine) | 0 tarjetas; Fișe de patologie 8/14 multi-SKU, Smart Digital 0/50 piso (inglés), The Hoord 0/2, Psiholog în Ordine 0/3 | sin cambios de estado; nodo virgen nuevo fise-patologie-multi-sku-ro |
 | 2026-11-18 | FR (tarde) | B perforar (todos los nodos FR tocados <7 d → huellas nuevas) | planner-budget-fr (nodo nuevo) | planificateur mariage, fiches permis, cahier vacances, planner budget, budget tableur + cruce IT/RO/PT + 6 conteos por page_id | 1 tarjeta (La fée du budget 23/23, planner 37 €); señales: Sunday Budget 4/9, Inkiloo 2/6, CoursesPlanner 0/11, Getnicoway IT 0/2; físicos descartados (Lâche ce qui te détruit, Zoogotos, Caaly) | 1 nodo virgen FR nuevo |
 | 2026-11-18 | IT (tarde) | B perforar (todos los nodos IT tocados <7 d → huellas nuevas) | metodo-studio-universitario-it (nodo nuevo) + red-la-mappa-concorsi-it | dispense pdf, riassunti concorso, bilancio familiare, schede allenamento pdf, quaderno allenamento, metodo di studio università, tecniche di studio (ALL) + 9 conteos por page_id | 1 tarjeta (Metodo Universitario ≥33/50 piso); señales: Martina Rossi 0/44 multi-SKU, red La Mappa <concorso> 0/50 y 0/39, Powerful Students 0/13 | 2 nodos virgen IT nuevos |
