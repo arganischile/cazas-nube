@@ -26,6 +26,25 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 +2.000 Partituras para Piano e Teclado — Rafael Piano Fácil BR · `partituras-piano-teclado-co` · 2026-11-18 · sesión BR
+- **Qué es:** pack digital «+2.000 Partituras para Piano e Teclado» y segundo gancho «Toque Piano/Teclado em 7 Dias»; ads en USD, precio no visible por API. Es la misma oferta de las tarjetas CO (11-16) e IT (11-17).
+- **Por qué es ganador:** 31 de 50 anuncios activos con 7+ días (piso, la API topa en 50; 68 est. activos), un solo page_id, ≥20 con título en portugués inequívoco («e Teclado», «em 7 Dias»), 7 tandas de creación del 10-27 al 11-17 (≥ 3 fechas y ads de los últimos 30 días); mismo operador corriendo en BR + CO + IT = oferta validada en 3 mercados, BR el de mayor volumen.
+- **Qué hacer:** verificar en la PC el embudo, el precio real y si «Rafael» es cara que vende (nombre de pila en la página; los títulos venden el pack, no una persona); si limpia, modelar «pack de partituras por instrumento» como producto propio para Portugal y Rumania (FR/IT ya tienen clones por medir); BR sirve como fuente del molde.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1109073548949200>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, marca personal). Snapshot: https://www.facebook.com/ads/library/?id=2293628624512404
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-18-br-C-operadores.md`
+
+**Señales del día BR (2026-11-18, C operadores):**
+- Tudo sobre unhas (106958424923732): 92 est. activos, los 50 visibles son de 11-15 a 11-18 (cohorte 0/50 piso, no medible); SKUs nuevos de la semana: Atividades Matemáticas 1º-5º ano, Fichas de Diagnóstico de Motos, Mini Livrinhos de Colorir +800, Moldes de Caixas, Megapack Moldes Infantis, 100 Artes para Copos 360°, Fichas de Treinos Femininos, 100 Instrumentais Cirúrgicos, Tabuada, Desenvolvimento Infantil. Re-medir ~11-22.
+- Mapas e Guias Visuais (1394868680373327): se desinfló de 127 a 6 activos, todos 7+ d (6/6) y un solo SKU en USD («Teste antes de trocar a peça»); no pasa la vara.
+- Guia dos Benefícios Sociais (1415031105033080): 7/7 (subió de 0/7 al cruzar 7 d); sigue < 10, eje INSS/BPC ya cerrado en BR.
+- Camila Maia (582679418253715) 13/45 y Edital Master (125481670646964) 12/50 piso (16 el 11-17: los ads de SESAB/Saquarema del 11-10 cruzan 7 d hoy-mañana): ya con tarjeta.
+- Fluente com Legenda (837003542818622) ≥22/50 piso, 236 est. (ya con tarjeta); su página gemela 996556976874285 0/2. Clon nuevo «Academia da legenda» (1521661844353417) 0/7, todo de 11-16/17, mismas reseñas «4,9/5».
+- Nannyvarie (101372751885586) 39/46 estable, tarjeta vigente. Organize com Ju (1022767074413574) 11/16, tarjeta vigente; nombre de página + «Ju Saippa» en el título → juzgar marca personal en la PC.
+- Riscos para Bordar 0/4 (ads de 11-15). Maria Eduarda (1389112280954409) apagó la tanda vieja: 0/6, todo de hoy.
+- Ryu Nakamura (1237334109469401): ~1.229 est. activos, los 20 visibles de ≤ 2 d; marca personal (nombre = persona), no va a tarjeta; la re-caza del 11-24 es del dueño.
+
 ### 🎯 Apostilas digitales por concurso — Edital Master BR · `concursos-material-baixar` · 2026-11-17 · sesión BR (tarde)
 - **Qué es:** apostilas digitales por concurso y cargo (EBSERH, TRT, CRP-RJ, Saquarema, IBGE…) a R$ 57-67, más cursos completos de R$ 127-257 como upsell visible; multi-SKU, una oferta por concurso.
 - **Por qué es ganador:** 16 de 50 anuncios activos con 7+ días (piso, la API topa en 50), un solo page_id, 6 tandas de creación entre sep y nov, ≥1 ad de los últimos 30 días; nombre de página no es persona; titulares con precio en el ad.

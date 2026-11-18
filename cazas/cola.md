@@ -133,6 +133,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `ghid practic pas cu pas`, `șabloane Excel`, `planificări profesori` en RO | ruido de editoriales, coaches, software y 0 resultados | `fișe de lucru pdf` y `gata de predat` rinden para leer la red de plantillas de profesores; contar con `page_ids` + `countries`; descontar creativos en inglés (Edulabs Resources: ~8 de 15) |
 | `planeaciones maestros`, `guía examen` en MX | `guía examen` trae short-dramas (870 est.: «Seguir viendo», Short film collection); `planeaciones` mezcla gobierno/sindicatos y apps de IA | rinde `planeaciones maestros` y `fichas didácticas`; contar con `page_ids` + `countries`; descartar páginas con último ad creado hace >30 d (Recursos Digitales Mx) |
 
+| `fluente legenda mapas` en BR | tres page_id distintos con el nombre «Fluente com Legenda» / «Academia da legenda» (BRL, USD, clon) | contar cada page_id por separado con `page_ids` + `countries` |
+
 ## Operadores a seguir (modo C)
 
 Fábricas multi-SKU y whales que muestran el próximo producto antes de que aparezca por keyword. Se
@@ -156,6 +158,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Vida Práctica (manuales visuales) | 1472534742604591 | MX | 0/12 el 2026-11-16, 3 ads cruzan 7 d el 11-17; re-medir ~2026-11-19 |
 | Editorial MD (planeaciones docentes) | 328781457261320 | MX | 14/14 el 2026-11-17 (tarjeta en bandeja); re-medir ~2026-11-30 |
 | Axo y Yo (cuadernillo con su nombre) | 1358953320636772 | MX | 12/26 el 2026-11-17 (tarjeta en bandeja); 14 ads nuevos, debería subir; re-medir ~2026-11-24 |
+| Rafael Piano Fácil (partituras piano/teclado) | 1109073548949200 | BR | 31/50 piso el 2026-11-18 (68 est., ≥20 en portugués inequívoco; tarjeta en bandeja); mismo operador que CO e IT; re-medir ~2026-11-30 |
 | Rafael Piano Fácil (partituras piano/teclado) | 1109073548949200 | CO | 29/42 el 2026-11-16 (tarjeta en bandeja); corre también en BR e IT; re-medir ~2026-11-30 |
 | Studio Quadri | 721617357705716 | IT | 11/50 piso el 2026-11-17 (tarjeta en bandeja); oferta sin identificar; re-medir ~2026-11-21 |
 | Silvia Moretti (musicogrammi) | 1519553207903758 | IT | 0/50 piso el 2026-11-17, tandas de 2-4 d; 25 musicogrammi 6,90 €; re-medir ~2026-11-20 |
@@ -165,6 +168,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Prisma Piano (teoría piano en colores) | 1437920272732095 | CO | 0/5 el 2026-11-16 (5 ads de hoy); re-medir ~2026-11-21 |
 | Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
 | Edulabs Resources (plantillas «gata de predat») | 1057793390758198 | RO | 15/48 el 2026-11-17 (≈8 en inglés); multi-SKU para profesores; re-medir ~2026-11-21 solo creativos en rumano |
+| Fluente com Legenda (USD) | 837003542818622 | BR | ≥22/50 piso el 2026-11-18 (236 est.; tarjeta local); página gemela BRL 996556976874285 0/2; clon Academia da legenda 1521661844353417 0/7; re-medir ~2026-11-30 |
+| Nannyvarie | 101372751885586 | BR | 39/46 el 2026-11-18 (tarjeta en bandeja); re-medir ~2026-11-30 |
+| Organize com Ju | 1022767074413574 | BR | 11/16 el 2026-11-18 (tarjeta); juzgar marca personal; re-medir ~2026-11-30 |
+| Edital Master / Camila Maia | 125481670646964 / 582679418253715 | BR | 12/50 piso y 13/45 el 2026-11-18 (tarjetas); re-medir ~2026-11-24 |
 
 ## Rotación vigente
 
@@ -185,7 +192,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-18 | BR | C operadores (mié) | operadores BR + agenda (Ryu Nakamura) + re-mediciones | en curso | en curso | en curso |
+| 2026-11-18 | BR | C operadores (mié) | operadores BR + re-mediciones (agenda Ryu Nakamura = marca personal, del dueño) | ninguna (modo C) + 14 conteos por page_id en BR | 1 tarjeta (Rafael Piano Fácil BR 31/50 piso); señales: Mapas e Guias Visuais bajó de 127 a 6, Guia Benefícios 7/7, Edital Master 12/50, Camila Maia 13/45, Fluente ≥22/50, clon Academia da legenda 0/7, Maria Eduarda 0/6 | nodos BR sin cambio de estado; 4 operadores agregados |
 | 2026-11-17 | CO (tarde) | B perforar (todos los nodos CO tocados <7 d → huellas nuevas) | salud-estudiantes (nodo nuevo) | guía pdf descarga inmediata, tarjetas estudio medicina, apuntes enfermería, apuntes veterinaria, resúmenes odontología pdf, plantillas psicología pdf + 1 conteo por page_id | 0 tarjetas; Cuaderno de Medicina - APP ≥50/160 (¿app?, embudo no verificado), Vetsemestresse 2/5 | nodo virgen nuevo cuaderno-medicina-app-co |
 | 2026-11-17 | MX (tarde) | B perforar (todos los nodos MX tocados <7 d → huellas nuevas) | nodos nuevos | planeaciones maestros, fichas didácticas, guía examen + 5 conteos por page_id | 2 tarjetas (Editorial MD 14/14; Axo y Yo 12/26); señales: Recursos Digitales Mx 10/10 posible zombi, Soluciones Educativas IA 0/8 | 2 nodos virgen MX nuevos, 2 operadores |
 | 2026-11-17 | FR (tarde) | A huella (todos los nodos FR tocados <7 d → huellas nuevas) | — | méthode illustrée pdf, tableur Excel modèle, cahier d'activités enfants, formation en ligne vidéos, fiches de révision pdf, guide complet débutant, manuel réparation boîte auto + 5 conteos por page_id | 1 tarjeta (Car Station 24/37); señales: Belle Plume 16/18 en 4 SKUs, Gavin Campbell 28/28 oferta no identificada, Pharmacologie Simplifiée 0/4 | 1 nodo virgen FR nuevo, 1 operador |
