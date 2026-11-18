@@ -26,6 +26,30 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Combos de materiais por concurso — Caderno do Aprovado BR · `concursos-material-baixar` · 2026-11-18 (tarde) · sesión BR
+- **Qué es:** «Combos» de material de estudio por concurso (TRF-3, TJ-SP, TJ-PB, TRT/TST, MP) más una guía de organización con calendario y registro de desempeño; carruseles «Saiu o edital → Meu combo de materiais». Precio no visible por API.
+- **Por qué es ganador:** 38 de 50 anuncios activos con 7+ días (piso, la API topa en 50; 77 est. activos), un solo page_id, creados desde el 09-08 (≈71 d) hasta hoy, muchas fechas distintas y ads de las últimas 24 h (operador vivo); página de marca, no persona; molde ya validado por Edital Master y Camila Maia en el mismo nodo.
+- **Qué hacer:** verificar en la PC embudo, precio y si «Beto» (perfil @cadernoaprovado en los títulos) es cara que vende; si limpia, modelar «combo por convocatoria» (resumen de edital + material por materia + planner) para Portugal y, tras medirlo, Italia (concorsi). Ángulo: reaccionar a cada edital nuevo con un combo.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=2320343421577880>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, marca personal). Snapshot: https://www.facebook.com/ads/library/?id=2095876721064419
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-18-br-B-derechos-autismo-organizacao-apagao-tarde.md`
+
+### 🎯 E-books de salud, autismo/TDAH y espiritualidad — WebHoje Learn Hub BR · `derechos-familias-autismo` · 2026-11-18 (tarde) · sesión BR
+- **Qué es:** fábrica de e-books «E-book <tema>» multi-SKU en BRL: Alimentação e TDAH, Iridologia Veterinária, 50 Brincadeiras Sensoriais no Autismo, Hipertrofia Muscular, Guia Prático dos Chakras, Mediunidade; antes también Rotinas e Comunicação no Autismo. Precio no visible por API.
+- **Por qué es ganador:** 11 de 11 anuncios activos con 7+ días (el más viejo ≈54 d, 681 ads en histórico), un solo page_id, sin cara en los títulos, varias fechas de creación y SKUs rotando. Es multi-SKU: la prueba es la fábrica, no un producto único (4 ads activos de TDAH+alimentación, 3 de iridología).
+- **Qué hacer:** verificar en la PC embudo, precio y si el e-book es PDF digital; si limpia, modelar el SKU «guía de alimentación/rutinas para padres de niños con TDAH-TEA» (dolor resuelto con conocimiento) para Portugal, Italia, Francia y Rumania; descartar los SKU espirituales/veterinarios del modelo.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=456919677509901>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, marca personal). Snapshot: https://www.facebook.com/ads/library/?id=1584343323011707
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-18-br-B-derechos-autismo-organizacao-apagao-tarde.md`
+
+**Señales del día BR (2026-11-18, tarde 2, B perforar):**
+- Fran Sabina Beauty (114852571578358): 10/10 «Guia para Pais de Crianças com Autismo», pero una sola tanda del 11-03 (falla ≥3 fechas) y página «Beauty» cáscara; re-medir ~11-25.
+- Pérola Designer de Marcas (1175619362309032): Notion «Sua vida organizada numa página só», 0/11 (tanda del 11-13, 5 d); re-medir ~11-21.
+- Red «kit 72 h»: ≥16 páginas clon (Divina Lux 4, Família Preparada 3 en USD, KIT 72 HRS 2…), ninguna ≥10 ni con 7+ d; re-medir ~11-23.
+- Autismo-guía-para-padres en BR lo ocupan abogados/clínicas (117 est.): confirma el cierre del eje trámite.
+
 ### 🎯 +2.000 Partituras para Piano e Teclado — Rafael Piano Fácil BR · `partituras-piano-teclado-co` · 2026-11-18 · sesión BR
 - **Qué es:** pack digital «+2.000 Partituras para Piano e Teclado» y segundo gancho «Toque Piano/Teclado em 7 Dias»; ads en USD, precio no visible por API. Es la misma oferta de las tarjetas CO (11-16) e IT (11-17).
 - **Por qué es ganador:** 31 de 50 anuncios activos con 7+ días (piso, la API topa en 50; 68 est. activos), un solo page_id, ≥20 con título en portugués inequívoco («e Teclado», «em 7 Dias»), 7 tandas de creación del 10-27 al 11-17 (≥ 3 fechas y ads de los últimos 30 días); mismo operador corriendo en BR + CO + IT = oferta validada en 3 mercados, BR el de mayor volumen.

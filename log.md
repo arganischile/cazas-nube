@@ -60,3 +60,5 @@
 ## [2026-11-18] caza-auto | MX A huella → 0 candidatos a bandeja
 
 ## [2026-11-18] caza-auto | CO B perforar teoria-musical-visual-guias → 0 candidatos a bandeja
+
+## [2026-11-18] caza-auto | BR B perforar derechos-familias-autismo+organizacao-casa-metodo+preparacion-72h-apagon (tarde) → 2 candidatos a bandeja
