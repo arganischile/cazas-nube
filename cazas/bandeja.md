@@ -410,6 +410,16 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-18: nada que pase la vara; se barrió partituras piano, piano iglesia, partituras alabanza, guitarra acordes pdf, cancionero guitarra, villancicos partituras, saxofón partituras, trompeta partituras, lectura musical pdf (mejor: Edukla «Guitarra Fácil» 9/21, 9 < 10 y plataforma de cursos).
+
+**Señales del día CO 2026-11-18**
+- Edukla (p. 105761638107328): 9/21 en «🎸 Guitarra Fácil» (COP, creados el 11-02, ~16 d) + 12 ads de ayer («Entrena como experto»); a un ad de la vara, pero parece curso/app: verificar en la PC antes de re-medir ~11-24.
+- Atril Estudio (p. 1282575998279080): 0/50 piso, 389 est., los 50 más nuevos creados el 11-17/18 («⭐ 4.9/5 Estrellas», USD); producto no identificado; re-medir ~11-22 con page_id.
+- Prisma Piano (p. 1437920272732095): 0/4, los 4 ads son de ayer; re-medir ~11-22.
+- Comunidade do Músico (p. 374108552781289): 0/18, «Quiero tocar de oído» en español, cuenta BRL, tanda de ayer; re-medir ~11-22.
+- Improvisación Mastery (p. 1365478396643477): 0/5, «Aprende piano para tu iglesia desde cero», «4,9/5», tanda de hoy; re-medir ~11-23.
+- Marcia Alves (p. 936511859547832): 2 ads de hoy, «Piano o Teclado por solo US$ 6,90» (cuenta BRL). Maclebv Academy 1 ad «Diccionario con 828 Acordes (PDF)» (COP, ~44 d): un solo ad, sin cohorte.
+
 CO 2026-11-17 (tarde): nada que pase la vara; se barrió guía pdf descarga inmediata, tarjetas estudio medicina, apuntes enfermería, apuntes veterinaria, resúmenes odontología pdf, plantillas psicología pdf (mejor: Cuaderno de Medicina - APP ≥50/160 activos, pero vende una APP y el embudo no se pudo verificar → no pasa el gate).
 
 **Señales CO 2026-11-17 (tarde):** Cuaderno de Medicina - APP (1372929795909878) 160 activos en CO, ≥50 con 7+ d (piso), creativos «26 materias de Medicina», «¿Cuarenta PDFs sueltos?», «Recorre la app por dentro», «4.9/5», USD; parece app/suscripción de resúmenes, no PDF: verificar en la PC qué vende y a qué precio antes de decidir. Vetsemestresse 2/5 («Anatomía Vet para Colorear», ads de hoy). NeuroBits (flashcards inglés médico) 0/2.
