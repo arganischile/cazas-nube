@@ -190,6 +190,21 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 210 fiches visuelles sur les troubles mentaux — Esprit Académique FR · `psicopatologia-fichas-visuales-fr` (nodo nuevo, hijo de `ressources-neuro-imprimables`) · 2026-11-18 · sesión FR
+- **Qué es:** pack de 210 fichas visuales de psicopatología / trastornos mentales para estudiantes de psicología (probablemente PDF); precio no visto (cuenta en BRL: operador brasileño, creativo traducido al francés).
+- **Por qué es ganador:** ≥ 50 de 95 ads activos en FR con 7+ días (50 = piso del API; los 50 devueltos tienen ≥ 11,6 d), un solo page_id y una sola oferta repetida en todos; ≥ 5 tandas de creación (10-11, 10-12, 10-26, 11-01, 11-06), longevidad máx. ≈ 37 d; sin cara, nombre = marca. La misma oferta corre en 3 páginas más (Atlas Visuel de Psychopathologie 0/7 con «+2100 personnes ont acheté», Bienestar Consciente 0/5, Psyacademy 0/5, todos ≤ 6 d). Ojo: sin tanda nueva desde el 11-06.
+- **Qué hacer:** modelar «fichas visuales de psicopatología (trastornos por ficha) para estudiantes»; destinos: IT (ya hay 3 testers de ≤ 4 d: Psicopatologia Visiva 0/8, Elena Marchetti 0/8, Prof Priscille 0/4: ventana abriéndose), RO (Materiale Gata 0/3, 69 lei), PT/BR sin competidor en nativas (`psicopatologia fichas visuais` = 0). Ángulo: «el índice que distingue un trastorno de otro». Conecta con Atlas Terapeutic Vizual (RO) y PsiOS (FR).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1229441186928180>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1954173409023519
+- Score 2/4 provisorio (volumen piso 50 + duplicación; longevidad ≈ 37 d < 45; hueco IT/RO ya con testers) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-18-fr-B-ressources-neuro-imprimables.md`
+
+**Señales del día FR 2026-11-18**
+- Inspiracion Studio (1096725376864125): 8/10 con 7+ d en FR, «Plus de 130 guides visuels pour Cricut Design Space» (USD, tandas de 24-37 d); a 2 de la vara; re-medir ~11-22. Bibliothèque Créative (Cricut) 0/6 (≤ 3,4 d).
+- Manual de Arte Terapia (1213147361873813): 4/16 (antes 5/17); «1 manuel, 100 activités + 6 bonus», tanda del 11-15/16; a 6 de la vara.
+- Boîte à Ressources Neuro (1345809441959313): 0/6 (ALL = 6), tanda del 11-16; `ressources imprimables TDAH` da 0 en FR.
+- Anna (1323278090859741): 2/6, «1 257 outils prêts à l'emploi» (BRL), sin vara. Sara Fialho – Psicopedagoga: 3 ads «En savoir plus», servicio.
+
 ### 🎯 12 manuels + 5 outils pour l'atelier — Car Station FR · `manuels-atelier-mecanique-fr` · 2026-11-17 (tarde) · sesión FR
 - **Qué es:** pack de 12 manuales de reparación (cajas automáticas y averías «cada avería tiene su capítulo») + 5 herramientas para talleres mecánicos; probablemente PDF; precio no visto (cuenta en USD, operador no francés).
 - **Por qué es ganador:** 24 de 37 ads activos en FR con 7+ días (no truncado), un solo page_id; 17 llevan el título exacto «12 manuels + 5 outils» y el resto son ángulos de la misma oferta; ≥ 6 fechas de creación (10-30 → 11-14), 8 ads nuevos en los últimos 4 d, longevidad máx. ≈ 17 d por API; página sin cara.
