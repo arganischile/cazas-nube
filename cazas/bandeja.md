@@ -145,6 +145,21 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Método de estudio universitario (Metodo OCME) — Metodo Universitario IT · `metodo-studio-universitario-it` (nodo nuevo) · 2026-11-18 (tarde) · sesión IT
+- **Qué es:** método de estudio para universitarios («Metodo OCME», «Super Studente Sales», CTA «Scopri il Metodo»); formato (curso grabado / PDF / mentoría) y precio no visibles por API (cuenta en EUR).
+- **Por qué es ganador:** ≥33 de 50 ads activos en IT con 7+ días (88 est. con «esame», 128 sin filtro; piso del API), un solo page_id; ≥5 tandas de creación (de ≈18 d a ≈1,4 d) y ads nuevos ayer; longevidad máx. ≈18 d por API; nombre de página de marca, no de persona (hay competidores en el mismo molde: Powerful Students 0/13 y Giovanni DOC Fenu = marca personal, que no cuenta).
+- **Qué hacer:** verificar en la PC embudo, formato y precio, y si hay cara que vende; si es curso grabado o PDF, modelar un método de estudio universitario con hooks «da 2 esami a 14» / «posa gli evidenziatori»; destinos a medir: PT, BR, FR, RO. Si es mentoría o curso en vivo: descartar.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1512954825682163>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL): verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1498580368810020
+- Score 2/4 provisorio (cohorte y longevidad OK; embudo sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-18-it-B-huellas-nuevas-tarde.md`
+
+**Señales del día IT (tarde) 2026-11-18**
+- Martina Rossi (782531528270117): 44/44 activos, 0 con 7+ d (el más viejo ≈5,1 d); multi-SKU en USD («Impara Office da zero» ≈25, «200 Mappe Concettuali di Infermieristica» ≈14, «+1.000 storie bibliche illustrate»); «Impara Office da zero» cruza 7 d ~11-20; re-medir.
+- Red «La Mappa <concorso> 2026/2027»: Mappe per Concorsi (1305895875950801) 0/50 piso (Magistrato Tributario USD, Agente Immobiliare BRL; todo ≤ 3 d) y La Mappa ASMEL 2026 (1476622288866758) 0/39 (≤ 4,8 d), más La Mappa Assistente ASL 2027 y Vice Ispettore Penitenziario; re-medir ~11-22.
+- Powerful Students (511927642001434): 0/13, todo ≤ 6,1 d, EUR, mismo molde de método de estudio; cruza 7 d hoy/mañana; Giovanni DOC Fenu (MemoVia) = marca personal, no cuenta.
+- Farmacologia a Colpo d'Occhio (1412512981953215): ≥11 ads de ≈1,8 d, USD; Schede di Scienze Motorie (1413634965169286): 4 ads de ≈23 d, sin volumen; Pedro Roscoe «100 Procedure Visive per l'OSS»: 2 ads.
+
 ### 🎯 Kit Contabile Pratico 2027 · 7 quaderni + 8 bonus — Giulia Ferraresi IT · `kit-contabile-pratico-2027-it` · 2026-11-18 · sesión IT
 - **Qué es:** kit digital de 7 cuadernos de contabilidad/gestión práctica «2027» con 8 bonus apilados; precio no visible por API (cuenta en USD). Es el mismo molde de Kit Comptable 2027 (FR, tarjeta en bandeja) y del nodo contabilidad RO.
 - **Por qué es ganador:** 11 de 50 ads activos en IT con 7+ días (50 = piso del API, estimado 146; 6 ads más cruzan 7 d hoy → ≥ 17), un solo page_id y un solo título; 6 tandas de creación del 11-09 al 11-17 (≥ 3 fechas y ads de los últimos 30 días); longevidad máx. ≈ 8,7 d por API; mismo molde corriendo en IT + FR + RO = oferta validada en 3 mercados.
