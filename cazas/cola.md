@@ -192,6 +192,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-18 | IT | A huella (mié) — en curso | — | — | — | — |
 | 2026-11-18 | BR | C operadores (mié) | operadores BR + re-mediciones (agenda Ryu Nakamura = marca personal, del dueño) | ninguna (modo C) + 14 conteos por page_id en BR | 1 tarjeta (Rafael Piano Fácil BR 31/50 piso); señales: Mapas e Guias Visuais bajó de 127 a 6, Guia Benefícios 7/7, Edital Master 12/50, Camila Maia 13/45, Fluente ≥22/50, clon Academia da legenda 0/7, Maria Eduarda 0/6 | nodos BR sin cambio de estado; 4 operadores agregados |
 | 2026-11-17 | CO (tarde) | B perforar (todos los nodos CO tocados <7 d → huellas nuevas) | salud-estudiantes (nodo nuevo) | guía pdf descarga inmediata, tarjetas estudio medicina, apuntes enfermería, apuntes veterinaria, resúmenes odontología pdf, plantillas psicología pdf + 1 conteo por page_id | 0 tarjetas; Cuaderno de Medicina - APP ≥50/160 (¿app?, embudo no verificado), Vetsemestresse 2/5 | nodo virgen nuevo cuaderno-medicina-app-co |
 | 2026-11-17 | MX (tarde) | B perforar (todos los nodos MX tocados <7 d → huellas nuevas) | nodos nuevos | planeaciones maestros, fichas didácticas, guía examen + 5 conteos por page_id | 2 tarjetas (Editorial MD 14/14; Axo y Yo 12/26); señales: Recursos Digitales Mx 10/10 posible zombi, Soluciones Educativas IA 0/8 | 2 nodos virgen MX nuevos, 2 operadores |
