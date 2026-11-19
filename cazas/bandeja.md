@@ -262,6 +262,14 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+FR 2026-11-19 (modo C operadores): nada nuevo que pase la vara; se midieron 11 operadores FR + agenda Pflegelernzettel→FR.
+
+**Señales del día FR 2026-11-19**
+- Espagnol Illustré (1435820002945205): `ACTIVE` devuelve 0 y `ALL` 35 (23 con 7+ d): posible apagado desde el 11-17 (tarjeta pendiente); re-medir en 2-3 días antes de decidir.
+- Amélie Boissieu (1363004406903385): 42/50 piso (est. 73) con 7+ d, sigue lanzando tandas (último ad hace ~5 h); sube desde 41. Car Station 24/47 (tanda nueva de 23 ads); PsiOS 24/37; La fée du budget 23/23; Hugo Jean 27/32 (≈48 d, BRL); Esprit Académique 49/50 piso: todas con tarjeta pendiente, sin SKU ni país nuevo.
+- Bajo la vara: Inspiracion Studio 8/10 (a 2); Biblioteca Práctica 5/11; Sunday Budget 2/5; Bibliothèque Créative 0/6.
+- Agenda DE→FR: Pharmacologie Simplifiée (1391162887408497) 0/10, «Top 200 des médicaments en images» creado 11-17; L'Antisèche Infirmière sin ads activos en FR. Re-medir con la agenda del 11-21.
+
 ### 🎯 Planner budget «accès immédiat» 37 € — La fée du budget FR · `planner-budget-fr` (nodo nuevo) · 2026-11-18 (tarde) · sesión FR
 - **Qué es:** planner/herramienta de presupuesto personal de entrega inmediata («Accès immédiat à ton Planner», probablemente plantilla digital tipo hoja de cálculo; formato exacto no visto); precio 37 € (subió desde 27 € en los ads de septiembre-octubre).
 - **Por qué es ganador:** 23 de 23 ads activos en FR con 7+ días (ALL = 94 históricos en la página; estimado de activos 23, no truncado), un solo page_id y una sola oferta repetida (21 con el título «Accès immédiat à ton Planner (37 €)»); creación 11-01 y 11-09, delivery desde 11-01/11-08/11-09; página con ads desde agosto (≈ 3 meses, 4 tandas); subió el precio 27 → 37 € sin apagar: señal de que convierte; 1 operador.
