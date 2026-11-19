@@ -372,6 +372,19 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Tot Civilul în 350 de fișe vizuale (derecho) — Tuformulaexactashop RO · `fise-vizuale-drept-ssm-ro` · 2026-11-19 · sesión RO
+- **Qué es:** fichas visuales de derecho civil/penal para estudiantes (350 fișe; bundle «700 de fișe» Civil+Penal) con «+BONUSURI CADOU»; la misma tienda vende también un pack SSM/instructaj (240+ fișe ilustrate). Precio no visible por API.
+- **Por qué es ganador:** cohorte 12/22 activos con 7+ días (≈ 8-9 d, 3 fechas de creación) de un solo page_id; 169 ads en ALL con tandas rotadas cada 2-3 días; página sin cara; creativos 100 % en rumano; 10 ads nuevos hoy (operador vivo).
+- **Qué hacer:** modelar tal cual el molde «X în fișe vizuale» aplicado a derecho (examen/barou) en RO; ángulo «Trei zile până la examen / un subiect pe o pagină»; el contenido jurídico se rehace por país (BR: «Fichas do Técnico Judiciário» ya corre el molde con tanda de hoy, 0 con 7+ d; IT/FR = 0 en ACTIVE) · destino RO (+ BR/PT/IT/FR por código nacional).
+- **Ads Library:** [RO · Tuformulaexactashop](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1332330876634506)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (CTA «Apasă pe Cumpără»; tienda con botón Comprar).
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 3/4 · Decisión: —
+
+**Señales del día RO 2026-11-19**
+- Tuformulaexactashop: la cohorte de 12 viene de la tanda del 11-09/11-10; las tandas del 11-14 y 11-16/17 (Civil+Penal 700, SSM) ya están apagadas: puede rotar entero → re-medir ~2026-11-22 (si baja de 10, la tarjeta queda como observación).
+- Kit Online (694829257056991): red multilingüe (HU/CZ/PL/TR/HE) de «…PRO™» (Atlas vizual radiología, Diagnosticare Auto Pro, PLC & Ladder, Judo); 157 est., en rumano 0 con 7+ d; vigilar.
+- Digital Master (1350661174794068): 0/8 (coro «Dacă conduci un cor», USD, tanda 11-12/11-18); Harta Tulburărilor 2 con 7+ d de 8; Med Atlas 0/4; Garden Atlas Studio (acuarela) tanda de hoy; Download Studio = cáscara en inglés.
+
 RO 2026-11-18 (tarde): nada que pase la vara; se barrió checklist pdf, logopedie / fișe logopedie, subiecte bacalaureat, plan de masă, caiet de vacanță, ghid mămici, program antrenament, model contract, anxietate ghid, matematică caiet, stimulare cognitivă + 3 conteos por page_id. Informe: `RAW/cazas-auto/2026-11-18-ro-B-huellas-nuevas-tarde.md`
 
 **Señales del día RO (tarde) 2026-11-18**

@@ -94,6 +94,7 @@ los nichos que emergen.
 | kits-psicologos-plantillas-mx | — | MX | virgen | 2026-11-18 huella MX: Sector Digital 0/50 piso (130 est., kits counselors/adicciones/deportivo, USD), Psique y Ciencia 10/12 posible zombi (último ad ~48 d), Lumen Sistémica 2/10 | modo B: re-medir Sector Digital ~2026-11-21; medir CO (Psicología & Recursos) y BR/IT/FR/RO · apareció por huella el 2026-11-18 |
 | ingles-en-mapas-mx | mapas-visuales-mentales | MX | virgen | 2026-11-18 huella MX: Inglés en Mapas 0/35 («+310 mapas mentales de inglés», USD, todo ≤ 1,6 d) | modo B: re-medir ~2026-11-21; clon del molde 300 Mapas Mentales · apareció el 2026-11-18 |
 | mapas-mentales-salud-mente-academica-mx | mapas-visuales-mentales | MX | virgen | 2026-11-18 tarde MX: Mente Académica ≥34/≥84 (34 «Anatomía Cardiovascular» a ~33 d + ~36 «Ingeniería Civil» a 7,0 d; BRL; tarjeta en bandeja, flag de tanda única); clones Sofía Gómez, Mundo Bili, Bela IA Studio, Los Resúmenes | modo B: verificar en la PC precio/PDF; medir BR/PT/IT/FR/RO; re-medir ~11-23 · apareció el 2026-11-18 |
+| fise-vizuale-drept-ssm-ro | libros-visuales-en-imagenes-ro | RO | virgen | 2026-11-19 huella RO: Tuformulaexactashop (p. 1332330876634506) 12/22 (tarjeta en bandeja): «Tot Civilul în 350 de fișe vizuale», Penal, bundle 700, pack SSM/instructaj; BR: Fichas do Técnico Judiciário (p. 659405190583573) 0 con 7+ d, tanda de hoy; IT/FR = 0 en ACTIVE | modo B: verificar en la PC precio/entregable; perforar otros códigos y exámenes (barou, magistratură, SSM) y medir PT/IT/FR con ALL; re-medir ~2026-11-22 · apareció por huella el 2026-11-19 |
 | libros-regalo-diagram-books | — | RO | virgen | 2026-11-16 huella RO: Diagram Books 0/30 («+ 2 cărți cadou», tandas de 2-4 d); Imago Studiu 5/5 | modo B: re-medir en 5 días · apareció por huella el 2026-11-16 |
 | creativo-resenas-neuralforkids-digitalbooks | — | RO | virgen | 2026-11-16 huella RO: Neuralforkids 0/46 y Digital Books 0/20, mismo creativo «⭐ 4,9/5,0» en USD, producto no identificado | modo B: re-medir ~2026-11-20 e identificar qué venden · apareció por huella el 2026-11-16 |
 | fise-tulburari-psihice-pdf | — | RO | virgen | 2026-11-16 huella RO: Harta Tulburărilor 1/23 («210 fișe, 40 de perechi, 1 PDF», EUR) | modo B: re-medir en 5 días; juzgar nicho · apareció por huella el 2026-11-16 |
@@ -164,6 +165,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 
 | `cuaderno caligrafía`, `dibujos colorear niños`, `rutina ejercicios pdf` en CO | caligrafía: tiendas físicas (kits con lapicero, Elevatec, cuaderno mágico); colorear: kits navideños/bíblicos de tandas de hoy y ecommerce; ejercicios: gyms, coaches y suplementos | contar con `page_ids` + `countries`; `plantilla presupuesto` rindió (Claridad y Acción, plantillas por profesión) |
 
+| `ghid complet pdf`, `agendă planificator`, `manual practic pdf` en RO | 28/1/2 resultados: operadores USD (Digital Master, Garden Atlas), lead magnets y ecommerce físico | `fișe vizuale` (52 resultados) lee toda la red de fichas visuales (Tuformulaexactashop, Studio Facile, Kit Online); contar con `page_ids` + `countries`, ACTIVE y ALL (las tandas viejas se apagan) |
+
 ## Operadores a seguir (modo C)
 
 Fábricas multi-SKU y whales que muestran el próximo producto antes de que aparezca por keyword. Se
@@ -216,6 +219,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | WebHoje Learn Hub | 456919677509901 | BR | 11/11 el 2026-11-18 (tarjeta en bandeja), 681 ALL; seguir SKUs nuevos; re-medir ~2026-11-30 |
 | Fran Sabina Beauty | 114852571578358 | BR | 10/10 tanda única del 11-03 (guía autismo); re-medir ~2026-11-25 |
 | Pérola Designer de Marcas | 1175619362309032 | BR | 0/11 el 2026-11-18 (tanda 11-13); re-medir ~2026-11-21 |
+| Tuformulaexactashop (fișe vizuale derecho/SSM) | 1332330876634506 | RO | 12/22 el 2026-11-19 (tarjeta en bandeja); rota tandas cada 2-3 d; re-medir ~2026-11-22 |
+| Kit Online (atlas «PRO™» multilingüe) | 694829257056991 | RO | 0 con 7+ d en rumano el 2026-11-19 (157 est., HU/CZ/PL/TR/HE); re-medir ~2026-11-24 |
 | Edital Master / Camila Maia | 125481670646964 / 582679418253715 | BR | 12/50 piso y 13/45 el 2026-11-18 (tarjetas); re-medir ~2026-11-24 |
 
 ## Rotación vigente
@@ -237,7 +242,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-19 | RO | A huella (jue mañana) | — | en curso | en curso | — |
+| 2026-11-19 | RO | A huella (jue mañana) | — | ghid complet pdf, agendă planificator, fișe pdf descarcă, manual practic pdf, fișe vizuale, plan lecție descarcă (0) + cruce IT/FR/BR-PT (schede visive diritto civile, fiches visuelles droit civil, direito civil fichas visuais) + 4 conteos por page_id (Tuformulaexactashop ALL y ACTIVE, Med Atlas, Digital Master, Download Studio, Kit Online) | 1 tarjeta (Tuformulaexactashop, fișe vizuale derecho civil 12/22); señales: Kit Online red multilingüe 0 en rumano con 7+ d, Digital Master 0/8, Med Atlas 0/4, Harta Tulburărilor 2/8 | 1 nodo virgen RO nuevo, 1 operador |
 | 2026-11-19 | FR | C operadores (jue mañana) | operadores FR + agenda | ninguna (modo C) + 12 conteos por page_id en FR + 2 keywords agenda (Antisèche Infirmière, Pharmacologie Simplifiée) | 0 tarjetas nuevas; Boissieu 42/50 piso, Espagnol Illustré ACTIVE 0 / ALL 35 (¿apagado?), Car Station 24/47, PsiOS 24/37, Esprit 49/50 piso, La fée 23/23, Hugo Jean 27/32; Pharmacologie Simplifiée 0/10 (11-17) | nodos FR sin cambio de estado |
 | 2026-11-19 | IT | B perforar (jue mañana) | red-atlante-visivo | atlante visivo, atlante illustrato infermieristica (0), schede visive anatomia, schede visive pdf immediato, manuale visivo per professionisti + conteos por page_id | 0 tarjetas; Studio Visivo Christmas Village 17/17 pero EN, «Scopri il materiale» 8/25; Garden Atlas Studio ≥20 todos del 11-18 | red-atlante-visivo superficial |
 | 2026-11-19 | BR | A huella (jue) | — | guia prático pdf, planilha pronta, acesso vitalício (ruido BF) + 17 conteos por page_id | 2 tarjetas (VGL Treinamento Digital 35/50 piso; Amo Resumos 17/41); señales: Amanda Silva 0/24, Rafael Tavares 0/17, Viamétodo 1/50 | 2 nodos virgen nuevos |

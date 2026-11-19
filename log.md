@@ -76,3 +76,4 @@
 ## [2026-11-19] caza-auto | BR A huella → 2 candidatos a bandeja
 ## [2026-11-19] caza-auto | IT B perforar red-atlante-visivo → 0 candidatos a bandeja
 ## [2026-11-19] caza-auto | FR C operadores → 0 candidatos a bandeja
+## [2026-11-19] caza-auto | RO A huella → 1 candidatos a bandeja
