@@ -620,6 +620,31 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+**CO 2026-11-19 (tarde) · Packs de moldes de costura en PDF por tema (bebés, novia, quinceañera, pijamas, mascotas…) — Arte en Tus Manos** · `moldes-costura-pdf-co` · `sin-revisar` · ⚠ multi-SKU
+- Qué es: packs de «N moldes de <tema>» (50 de ropa para bebés, 50 de pijamas familiares, 40 de ropa deportiva, 30 de trajes de baño, 30 de vestidos de quinceañera, moldes para vender bolsos, 50 para perros, colección de patrones de novia), 8 SKUs por tema/ocasión. Formato presumible PDF imprimible; precio y entrega no visibles por API. Ads en BRL con creativos en español.
+- Por qué es ganador: cohorte 33/40 en CO (exacto, 40 < 50) de un solo page_id (p. 1350045274849539); 8 temas con 3-6 ads de 7+ d cada uno, 6 fechas de creación distintas (≈10-27 → 11-12, ad más viejo ~23 d), 7 ads nuevos de 5 d y 1 de 1,5 d = operador vivo. Sin cara ni nombre de persona (página de marca). El mismo operador no se vio en PT; la categoría ya tiene operadores en BR, IT y FR.
+- Qué hacer: modelar tal cual (un pack por tema/ocasión con título «N moldes de X») · destino sugerido: **PT** (hueco: `moldes costura pdf` en PT solo trae tandas en español/USD, 0 páginas en portugués) y **RO** (casi vacío de infoproducto de moldes: SKVOT vende curso Clo3D, Pui de In es mercería); BR (490 est.), IT y FR ya tienen la categoría · ángulo «moldes listos por ocasión: bebés, novia, quinceañera, mascotas».
+- Ads Library CO: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1350045274849539
+- Landing: no verificada (la API no trae URL); precio, formato (PDF vs impreso) y cierre por confirmar en la PC.
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (~23 d en el ad más viejo; ≥ 3 fechas distintas y ≥ 1 ad de los últimos 30 d), snapshot no verificado.
+- Score —/4 · escalera n/e · Decisión: —
+
+**CO 2026-11-19 (tarde) · Moldes de costura por WhatsApp («Escríbeme para obtener tus moldes») — Entre hilos** · `moldes-costura-pdf-co` · `sin-revisar` · ⚠ borde: cohorte justo en 10, copy sin precio
+- Qué es: moldes/patrones de costura, cierre por WhatsApp/Messenger («¡Escríbeme para obtener tus moldes!»); el texto de los ads contiene costura + patrones + PDF (`costura patrones pdf` devuelve 18 de sus 23 ads). Precio no dicho en el copy, pack exacto no visible; ads en COP. No es crochet (`crochet tejido amigurumi` = 0 con ALL).
+- Por qué es ganador: cohorte 10/23 en CO (exacto, ALL = 23, ningún ad apagado) de un solo page_id (p. 1455528244307954); los 10 son de dos tandas (≈11-05 ×4, ≈11-11 ×6), más 4 del 11-16, 2 del 11-15 y 7 de hoy = operador vivo. Sin marca personal (página de marca). Corre solo en esta forma en CO; vecinos con la misma jugada en COP: Creativa Plus (≥15 ads de ≤ 3,6 d, mezcla moldes/recetas — recetarios excluido), Manualidades de Sofi.
+- Qué hacer: arbitraje de embudo WA (landing a 3-4× el precio piso) con pack de moldes por tema · destino sugerido: **PT** o RO (mismo hueco que la tarjeta de Arte en Tus Manos) · ángulo «moldes listos, te los mando por WhatsApp», con precio escrito para evitar la fuga del embudo de mensajes.
+- Ads Library CO: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1455528244307954
+- Landing: WA: ficha reconstruida — vende: moldes de costura en PDF (pack no visible) · precio dicho (piso): n/e · bonos: n/e · teléfono/mensaje prellenado: n/e · no se sabe: contenido, precio, garantía · escalera: n/e.
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (~15 d en el ad más viejo de la cohorte), snapshot no verificado.
+- Score —/4 · escalera n/e · Decisión: —
+
+**Señales del día CO 2026-11-19 (tarde)**
+- Novika (p. 1394511833743138): 0/3 de hoy, «+2.000 Moldes en PDF por solo $10.000 COP» (precio piso COP 10.000, PDF explícito); re-medir ~11-27. Elsy Shop (p. 1183381961518208): 0/5 «+600 moldes listos para imprimir» de hoy + 4 «+2.700 recursos para docentes» de 3,7 d; re-medir ~11-27.
+- Mundo Creativo (p. 825989063925835): 7/18 en CO, «Primero recibes, luego pagas» (COP; mismo cierre que Mente Creativa y Grupo Futura: pago contra entrega, probable físico), 6 ads más cruzan 7 d en ~5 h; producto no identificado, verificar en la PC antes de re-medir ~11-22.
+- Patrones de Moda (p. 671011352760426): 7/7 de ~18 d (COP, títulos vacíos), ninguno de hoy; Veronica Colombia (p. 1276073018925773): 3 con 7+ d de ≈16 (muñecas, moldes de fiesta, +1.300 diseños navideños); Patrones de Costura (USD) 0/4 de 1,9 d; Creativa Plus 0 con 7+ d; MoldeMart 12.900 COP y PlantillasPremium (USD) ads de hoy.
+- Imperio Digital (p. 1215061158358926): 24 ads COP con títulos vacíos, el más nuevo creado hace ~66 d: posible zombi, no pasa. Excel Listo (p. 1492172080638424) 0/8 (USD, ads 11-16→11-19), re-medir ~11-25.
+- Hueco por 0: `preicfes guía pdf` y `plantilla hoja de vida editable` = 0 (ACTIVE), `ansiedad cuaderno pdf` 1 ad; no se declaró nada (sin ALL ni subnichos).
+
 CO 2026-11-19: nada que pase la vara; modo C sobre 9 operadores CO por page_id (mejor: Mente Creativa 11/19 pero cobra «primero recibes, luego pagas» = probable físico; Edukla 9/21; Cuaderno de Medicina - APP vende una app).
 
 **Señales del día CO 2026-11-19**
