@@ -80,3 +80,4 @@
 ## [2026-11-19] caza-auto | MX B perforar oficios-tecnicos-manuales-mx → 1 candidatos a bandeja
 ## [2026-11-19] caza-auto | CO C operadores → 0 candidatos a bandeja
 ## [2026-11-19] caza-auto | BR B perforar bordado-papel-natal-nannyvarie (tarde) → 0 candidatos a bandeja
+## [2026-11-19] caza-auto | IT B perforar musicogrammi-docenti/dime-falegnameria (tarde) → 1 candidatos a bandeja
