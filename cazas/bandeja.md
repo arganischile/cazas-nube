@@ -26,6 +26,15 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-19 (tarde): nada que pase la vara; se barrió bordado-papel-natal-nannyvarie (bordado em papel, ponto cruz gráficos, artesanato natalino molde, cartões Natal bordados, bordado chinês, bordado russo; PT papel linha/bordado em papel) + 12 conteos por page_id.
+**Señales del día BR (2026-11-19, tarde, B perforar):**
+- Nannyvarie 39/45 (ya con tarjeta): un solo creativo en 3 tandas, embudo no verificado; re-medir ~11-30.
+- Arte Wisdom (1055208387665683) 9/16 «Bordados de Refúgio no Papel» (BRL, multi-SKU): 2 ads cruzan 7 d el 11-21/22 → ~11; re-medir ~11-22.
+- Bordado de Fe (1309870588884741) 8/17 «Versículos pra bordar no papel» (USD): 9 ads de 11-18 cruzan 7 d ~11-25; re-medir ~11-25.
+- Terapia das Cores (110206475291825) 0/50 piso (80 est.): tanda masiva del 11-18 (600 riscos, curso + riscos + manual, USD); cohorte no medible; re-medir ~11-25.
+- Maria Rita (1343114025561899) 0/5 en PT: «100 Riscos Católicos para o Natal · 14,90 €», tanda 11-18; primer anunciante PT del molde; re-medir ~11-26.
+- João Afonso artes 0/9 (clon del copy de Nannyvarie, 11-18), Livre para Bordar 0/4, Natal Feito a Mão 0/2, O Natalino Ofertas 0/6, Ateliê Ponto Cruz 3/3, Bordado Ponto Cruz 2/2: todas < 10.
+
 ### 🎯 Planilhas y calculadoras de Reforma Tributária (IBS/CBS) + escala 5x2 — VGL Treinamento Digital BR · `nodo-nuevo` · 2026-11-19 · sesión BR
 - **Qué es:** Planillas y calculadoras ante un cambio legal: CST/cClassTrib por NCM, «Planilha IBS e CBS», «67 Casos Práticos resolvidos», aluguel y agro en la reforma tributaria, más plantilla «Escala 5x2». Precio no visible por API.
 - **Por qué es ganador:** 35 de 50 anuncios activos con 7+ días (piso, la API topa en 50; 91 est.), un solo page_id, 6 fechas de creación (2026-10-21 → hoy, operador vivo), página de marca sin cara; multi-SKU sobre un mismo molde.
