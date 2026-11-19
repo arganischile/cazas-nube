@@ -170,6 +170,14 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-19: nada que pase la vara; se barrió atlante visivo, schede visive anatomia/pdf immediato, manuale visivo per professionisti y conteos por page_id.
+
+**Señales del día IT 2026-11-19**
+- Studio Visivo (1453132321211846, USD): «200+ Christmas Village» 17/17 con 7+ d pero título en inglés (no cuenta en IT); «Scopri il materiale 👉» (italiano, producto sin ver) 8/25 con 7+ d, tandas desde el ~10-23; re-medir ~11-22 y verificar en la PC qué vende.
+- The Garden Atlas Studio (1504423859412036): «150 Schede Progettuali per il Giardino (PDF Immediato)» ≥ 20 ads, todos del 11-18; cruzan 7 d ~11-25.
+- Psicopatologia Visiva (1442146142313710): 0 con 7+ d (tandas 11-15 y 11-17); cruza 7 d ~11-22.
+
+
 ### 🎯 Método de estudio universitario (Metodo OCME) — Metodo Universitario IT · `metodo-studio-universitario-it` (nodo nuevo) · 2026-11-18 (tarde) · sesión IT
 - **Qué es:** método de estudio para universitarios («Metodo OCME», «Super Studente Sales», CTA «Scopri il Metodo»); formato (curso grabado / PDF / mentoría) y precio no visibles por API (cuenta en EUR).
 - **Por qué es ganador:** ≥33 de 50 ads activos en IT con 7+ días (88 est. con «esame», 128 sin filtro; piso del API), un solo page_id; ≥5 tandas de creación (de ≈18 d a ≈1,4 d) y ads nuevos ayer; longevidad máx. ≈18 d por API; nombre de página de marca, no de persona (hay competidores en el mismo molde: Powerful Students 0/13 y Giovanni DOC Fenu = marca personal, que no cuenta).

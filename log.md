@@ -74,3 +74,4 @@
 ## [2026-11-18] caza-auto | CO B perforar nodos-nuevos (tarde) → 2 candidatos a bandeja
 
 ## [2026-11-19] caza-auto | BR A huella → 2 candidatos a bandeja
+## [2026-11-19] caza-auto | IT B perforar red-atlante-visivo → 0 candidatos a bandeja
