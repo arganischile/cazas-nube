@@ -179,6 +179,20 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 +300 progetti da costruire (kit de proyectos DIY para niños/familias) — Accademia Creativa IT · `progetti-diy-bambini-accademia-creativa` (nodo nuevo) · 2026-11-19 (tarde) · sesión IT
+- **Qué es:** colección de «+300 progetti da costruire con le sue mani» / «Dal cartone al robot, passo dopo passo» (niños sin pantalla, materiales reciclados; sub-líneas de legno y cucito creativo); formato (PDF/curso/kit físico) y precio no visibles por API (cuenta en USD).
+- **Por qué es ganador:** 18 de 50 ads activos en IT con 7+ días (66 est.; piso del API), un solo page_id; 10 de «+300 progetti» y 7 de «Dal cartone al robot»; 10 fechas de creación distintas, de ≈16 d a ≈1 d, ads nuevos hoy; longevidad máx. ≈16 d por API; nombre de marca, no de persona. Mismo molde en otros operadores: Creativita Potenziata «+350 progetti» (3 ads ≤ 2 d) e InventaLab «120 progetti con materiali di casa».
+- **Qué hacer:** verificar en la PC si es PDF/descarga o kit físico (si el mecanismo es el objeto, descartar) y si hay cara; si es digital, modelar «+300 progetti con materiali di casa» con hook «zero tablet»; destinos a medir: BR, PT, FR, RO.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1045393855333327>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL): verificar en la PC antes de decidir. Snapshot: https://www.facebook.com/ads/library/?id=1141607822176250
+- Score 2/4 provisorio (cohorte y longevidad OK; embudo sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-19-it-B-musicogrammi-dime-tarde.md`
+
+**Señales del día IT (tarde) 2026-11-19**
+- Silvia Moretti (musicogrammi, 1519553207903758): 0/50 piso con 7+ d (más viejo ≈5 d), 25 musicogrammi 6,90 € / pack 12,90 €, USD; nombre de persona (juzgar marca personal); re-medir ~11-21.
+- Digital Corner (dime, 1358074294058687): 0/50 piso (más viejo ≈6,2 d, 5 fechas), «80 progetti di dime con tutte le misure»; cruza 7 d hoy-mañana; re-medir ~11-21.
+- Creativita Potenziata (1440575409129163): 3 ads ≤ 2 d, mismo molde de proyectos; Carpinteria Simple (1391451887391179) 1 ad «Oltre 300 progetti in legno» (ES→IT).
+
 IT 2026-11-19: nada que pase la vara; se barrió atlante visivo, schede visive anatomia/pdf immediato, manuale visivo per professionisti y conteos por page_id.
 
 **Señales del día IT 2026-11-19**
