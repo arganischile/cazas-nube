@@ -237,6 +237,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-19 | RO | A huella (jue mañana) | — | en curso | en curso | — |
 | 2026-11-19 | FR | C operadores (jue mañana) | operadores FR + agenda | ninguna (modo C) + 12 conteos por page_id en FR + 2 keywords agenda (Antisèche Infirmière, Pharmacologie Simplifiée) | 0 tarjetas nuevas; Boissieu 42/50 piso, Espagnol Illustré ACTIVE 0 / ALL 35 (¿apagado?), Car Station 24/47, PsiOS 24/37, Esprit 49/50 piso, La fée 23/23, Hugo Jean 27/32; Pharmacologie Simplifiée 0/10 (11-17) | nodos FR sin cambio de estado |
 | 2026-11-19 | IT | B perforar (jue mañana) | red-atlante-visivo | atlante visivo, atlante illustrato infermieristica (0), schede visive anatomia, schede visive pdf immediato, manuale visivo per professionisti + conteos por page_id | 0 tarjetas; Studio Visivo Christmas Village 17/17 pero EN, «Scopri il materiale» 8/25; Garden Atlas Studio ≥20 todos del 11-18 | red-atlante-visivo superficial |
 | 2026-11-19 | BR | A huella (jue) | — | guia prático pdf, planilha pronta, acesso vitalício (ruido BF) + 17 conteos por page_id | 2 tarjetas (VGL Treinamento Digital 35/50 piso; Amo Resumos 17/41); señales: Amanda Silva 0/24, Rafael Tavares 0/17, Viamétodo 1/50 | 2 nodos virgen nuevos |
