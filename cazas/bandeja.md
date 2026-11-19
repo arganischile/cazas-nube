@@ -495,6 +495,21 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Kits digitales para psicólogos (duelo, pareja, vocacional, trabajo social, plantillas y formatos) — Psicologia & Recursos 2025 MX · `kits-psicologos-plantillas-mx` · 2026-11-19 (tarde) · sesión MX
+- **Qué es:** kits de plantillas y formatos para profesionales de la psicología («KIT PROFESIONAL DE MANEJO DEL DUELO», «KIT TERAPIA DE PAREJA», «KIT DE ORIENTACIÓN VOCACIONAL», «KIT TRABAJO SOCIAL», «KIT DE PLANTILLAS Y FORMATOS»); moneda COP (operador colombiano que corre en MX), creativos en español; precio no visible (un ad con destino api.whatsapp.com).
+- **Por qué es ganador:** cohorte 16 / 16 activos en MX con 7+ días, un solo page_id (469568772899568; ACTIVE = ALL = 16), creados en 3 fechas (11 de la tanda del ~11-09/10 a ~10 d, 1 de ~39 d, 4 de ~51 d), sin cara ni persona; mismo molde que Sector Digital y Psique y Ciencia (plantillas para psicólogos). **Flags:** 11 de los 16 son una sola tanda de ~10 d con cinco creativos repetidos; la página hermana Psicología & Recursos (163465520189615) tiene 4 ads, todos de hoy (no suman); 0 ads de la página en CO.
+- **Qué hacer:** modelar el kit por especialidad (duelo, pareja, vocacional, trabajo social) como PDF/plantillas editables para BR (psicólogos; ver `plantillas-gestion-profesiones-co` como molde hermano), y medir PT/IT/FR/RO con nativas. MX es fuente. Ángulo: un kit por especialidad en vez de «plantillas para psicólogos» genérico.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=469568772899568>
+- **Landing:** embudo no verificado desde la nube (el copy no trae URL; un ad lleva api.whatsapp.com → WA probable: ficha WA, precio no dicho, escalera n/e): verificar en la PC antes de decidir. Snapshot: https://www.facebook.com/ads/library/?id=1095880683418813
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-19-mx-B-kits-psicologos-tarde.md`
+
+**Señales del día MX (tarde) 2026-11-19**
+- Inglés en Mapas (1349240448283092): 0/≥25, todos creados hoy (USD); clon del molde 300 Mapas Mentales; re-medir ~11-24. Clones en la keyword: Sofía Herrera 0/4, Nido de la Sabiduría 0/5 (COP), Manualia 0/3, Club de Materiales 0/2: todos ≤ 3 d.
+- Tus Clases Online (103959345113295): 0 con 7+ d en los 50 más nuevos (el más viejo ≈ 5 d; megapack Navidad $75, cajitas, Kit Fe en Familia 2027 $70; 114 est.); sin cohorte, re-medir ~11-24.
+- Psique y Ciencia (382519355660997): 8 activos, solo 2 con 7+ d; < 10, no pasa. Sector Digital (1122535934265327): 2 ads, no pasa.
+- Mente Ordenada (1084424138077543) 0/8 (≈ 3,5 d, USD) y Tu Rincón Craft 0/7 (≈ 4 d): sin cohorte.
+
 ### 🎯 Manuales/cursos técnicos de electrónica automotriz (ECUs) — OficioPlus MX · `oficios-tecnicos-manuales-mx` · 2026-11-19 · sesión MX
 - **Qué es:** biblioteca digital para mecánicos: «Taller de ECUs: la app del electrónico automotriz», «4 cursos técnicos en 1 solo pago», «+2.200 manuales técnicos en tu celular»; moneda USD, creativos en español; precio no visible.
 - **Por qué es ganador:** cohorte ≥ 34 / 120 activos en MX con 7+ días, un solo page_id (≥ 30 ads «★4.9» de 22-29 d + 4 de «4 cursos» a ~11,5 d; piso por limit 50), creados en ≥ 8 fechas, ads nuevos de hoy (operador vivo); sin cara ni persona en la página. **Flag:** puede ser app o curso en video, no PDF.

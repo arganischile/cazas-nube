@@ -84,3 +84,5 @@
 ## [2026-11-19] caza-auto | FR B perforar cricut-guides-visuels/svg-cricut-makes-fr (tarde) → 1 candidatos a bandeja
 
 ## [2026-11-19] caza-auto | RO B re-mediciones+huellas (tarde) → 1 candidatos a bandeja
+
+## [2026-11-19] caza-auto | MX B perforar kits-psicologos-plantillas-mx (tarde) → 1 candidatos a bandeja
