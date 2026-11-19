@@ -285,6 +285,20 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Archivos SVG para Cricut, Black Friday -70 % — Anna Makes + Emily Makes FR · `svg-cricut-makes-fr` (nodo nuevo) · 2026-11-19 (tarde) · sesión FR
+- **Qué es:** biblioteca de archivos SVG («200 000+ SVG à -70 %») para máquinas de corte tipo Cricut; descarga digital (no guía). Precio no visible por API.
+- **Por qué es ganador:** Anna Makes 24/24 y Emily Makes 12/12 ads activos con 7+ d en FR (cada página pasa sola; no se suman), 3 fechas de creación distintas en cada una; Emily con ALL = 287 y tandas desde septiembre (≈ 2 meses); mismo gancho «Lisez si vous avez une Cricut ☝️» en las dos páginas (misma fábrica); 0 ads de la red en IT/PT/RO/BR. Bandera: la tanda vigente es de Black Friday, puede ser estacional.
+- **Qué hacer:** modelar «pack de archivos SVG para máquinas de corte» y llevarlo a IT / PT / BR / RO (hueco: 0 ads; en IT solo Unique Cricut Svg 2 ads y Cutfile SVG 1); ángulo: «Lisez si vous avez une Cricut» (curiosidad) + oferta de pago único con descuento; verificar primero si es archivo suelto o membresía.
+- **Ads Library:** Anna Makes <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=930545303483240> · Emily Makes <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=969941379528103>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, escalera n/e; ¿cara de «Anna»/«Emily»? no visto en títulos). Snapshot: https://www.facebook.com/ads/library/?id=1153652047008667
+- Score n/4 (3/4 provisorio: cohortes 24 y 12 ≥ 10, página viva ≈ 2 meses, USD; embudo, precio y formato sin verificar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-19-fr-B-cricut-svg-makes-tarde.md`
+
+**Señales del día FR tarde 2026-11-19**
+- Costura en Casa (1176595015546384): 9/9 en FR, «+100 patrons de corsets et 60 de lingerie, un seul paiement» (USD, tanda del 11-09); a 1 de la vara; re-medir ~11-22.
+- Inspiracion Studio 8/10 (Cricut guides, sin cambios); Bibliothèque Créative 0/11; Creative Factory (IT, 883400961532439) 4/10 con el mismo molde Cricut.
+- La Bible des Patrons (1418428721348749): 3/12 activos pero ALL ≥ 45 desde 11-07 («156 patrons à imprimer», USD): rota ads cada ~2 d; re-medir ~11-22.
+
 FR 2026-11-19 (modo C operadores): nada nuevo que pase la vara; se midieron 11 operadores FR + agenda Pflegelernzettel→FR.
 
 **Señales del día FR 2026-11-19**
