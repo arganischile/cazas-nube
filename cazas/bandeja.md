@@ -409,6 +409,19 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Dosarul Familiei (organizador de documentos para la familia tras un fallecimiento) — Mente que sana RO · `dosar-familiei-mente-que-sana-ro` · 2026-11-19 (tarde) · sesión RO
+- **Qué es:** «Dosarul Familiei» / «caietul» donde el jubilado deja ordenados cuentas, actas, contactos e instrucciones para que los hijos no queden perdidos tras un deceso (ángulo storytelling: «Caietul tatei era gol», «Ce face banca când află de decesul titularului?», «5 telefoane pe care va trebui să le dea copiii»). Formato (PDF imprimible vs cuaderno físico) y precio no visibles por API.
+- **Por qué es ganador:** cohorte 10/46 activos con 7+ días de un solo page_id (los 10 creados el 11-12, ≈ 7,7-8 d; justo en la vara) · 5 fechas de creación distintas (11-12, 11-13, 11-16, 11-17, 11-19) y ~15 ads nuevos hoy → operador vivo · 110 ads en ALL · página de marca, sin cara · creativos 100 % en rumano, USD (operador de otro mercado) · variantes con ángulos distintos, señal de testeo activo.
+- **Qué hacer:** modelar el organizador como PDF imprimible («Dosarul Familiei») con el mismo ángulo de miedo/culpa suave dirigido al hijo adulto o al jubilado · destino RO, y trasladar por país (BR/PT/IT/FR) adaptando trámites (banco, notario, herencia) · si es físico: pasarlo a plantilla digital. Antes: verificar formato/precio y juzgar si el avatar 55+ cae en el nicho excluido «actividades adulto mayor» (aquí es un organizador, no una actividad).
+- **Ads Library:** [RO · Mente que sana](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1090738757452147)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir.
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 3/4 · Decisión: —
+
+**Señales del día RO (tarde) 2026-11-19**
+- Atlas Terapeutic Vizual (1408033785736088, ya con tarjeta del 11-16): sube a 17/50 (est. 66, ARS; antes 11/50) y sigue creando ads (11-16/17); re-medir ~2026-11-26.
+- Ready Resources (1440348585824077, Biologie clasa a IX-a): 0/22, el más viejo 6 d; cruza 7 d ~11-20. Liveno: 0 con 7+ d en proiecte lemn/metal (≤ 3 d).
+- Editura FișeMate 4/20 (libros impresos de matemática a 89 lei, físico); Neurocarte 5/9 (230+ jocuri fără ecrane, USD); Nora Holm 0/50 piso (3 cărți, 1 preț, tanda ≤ 3 d); Lovely Crafts 0/27 (tanda ≤ 3 d); Mariana Dumitru 0/3 (Biblia Tricotajului, lanzamiento de hoy).
+
 ### 🎯 Tot Civilul în 350 de fișe vizuale (derecho) — Tuformulaexactashop RO · `fise-vizuale-drept-ssm-ro` · 2026-11-19 · sesión RO
 - **Qué es:** fichas visuales de derecho civil/penal para estudiantes (350 fișe; bundle «700 de fișe» Civil+Penal) con «+BONUSURI CADOU»; la misma tienda vende también un pack SSM/instructaj (240+ fișe ilustrate). Precio no visible por API.
 - **Por qué es ganador:** cohorte 12/22 activos con 7+ días (≈ 8-9 d, 3 fechas de creación) de un solo page_id; 169 ads en ALL con tandas rotadas cada 2-3 días; página sin cara; creativos 100 % en rumano; 10 ads nuevos hoy (operador vivo).
