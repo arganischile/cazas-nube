@@ -445,6 +445,21 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Manuales/cursos técnicos de electrónica automotriz (ECUs) — OficioPlus MX · `oficios-tecnicos-manuales-mx` · 2026-11-19 · sesión MX
+- **Qué es:** biblioteca digital para mecánicos: «Taller de ECUs: la app del electrónico automotriz», «4 cursos técnicos en 1 solo pago», «+2.200 manuales técnicos en tu celular»; moneda USD, creativos en español; precio no visible.
+- **Por qué es ganador:** cohorte ≥ 34 / 120 activos en MX con 7+ días, un solo page_id (≥ 30 ads «★4.9» de 22-29 d + 4 de «4 cursos» a ~11,5 d; piso por limit 50), creados en ≥ 8 fechas, ads nuevos de hoy (operador vivo); sin cara ni persona en la página. **Flag:** puede ser app o curso en video, no PDF.
+- **Qué hacer:** modelar la «biblioteca de manuales técnicos + pack de ECUs» (PDF) para BR (oficinas mecânicas) y medir PT/IT/FR/RO; si es app, pasarlo a PDF o app propia. MX es fuente. Ángulo: 4 cursos en un solo pago / +2.200 manuales.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=913537448501598>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (precio, formato, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1136115199012984
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-19-mx-B-oficios-tecnicos-oficioplus.md`
+
+**Señales del día MX 2026-11-19**
+- Vida Práctica (1472534742604591): 3/3 con 7+ d, «Manual Visual del Ingeniero Industrial» $199 MXN; < 10, no pasa.
+- Enf. Valentina Rojas (1419232917932388): 7/7 con 7+ d, no sube de 7 en 3 días; < 10, no pasa (juzgar marca personal por el nombre).
+- Labdigital (1332998043219880): 208 est., red multi-SKU en inglés «™ System» en USD, tandas de 3-4 d; cohorte no medible, re-medir ~11-23.
+- Sergio Castillo (1336015029606070) «Manual Eléctrico Automotriz 2.0» 0/13 (todo de hoy, BRL, persona); Engenharia da Reparação 0/14 (~3 d); Kit Odonto Pro 0/8 (de hoy): mismo nicho automotriz, re-medir ~11-23.
+
 ### 🎯 Mapas mentales de salud/ingeniería «150-300 mapas por materia» — Mente Académica MX · `mapas-mentales-salud-mente-academica-mx` · 2026-11-18 (tarde) · sesión MX
 - **Qué es:** packs de mapas mentales visuales por materia (Anatomía Cardiovascular 150, Ingeniería Civil 200, TI +300, Neuroanatomía 150, 210 Trastornos Mentales) para estudiantes; moneda BRL, creativos en español; precio no visible (el molde en MX/CO ronda $99 MXN / USD 3,99).
 - **Por qué es ganador:** ≥ 34 de ≥ 84 ads activos en MX con 7+ días, un solo page_id (34 de «Anatomía Cardiovascular» a ~33 d + ~36 de «Ingeniería Civil» recién en 7,0 d); creados en ≥ 6 fechas, un ad de ≤ 1,5 d, 354 est. activos; sin cara ni marca personal. **Flag:** son dos tandas de un solo creativo repetido: podría ser un ad que nadie apagó; el único otro ancla es el molde ya ganador de `mapas-visuales-mentales`.

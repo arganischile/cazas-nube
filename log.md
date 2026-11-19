@@ -77,3 +77,4 @@
 ## [2026-11-19] caza-auto | IT B perforar red-atlante-visivo → 0 candidatos a bandeja
 ## [2026-11-19] caza-auto | FR C operadores → 0 candidatos a bandeja
 ## [2026-11-19] caza-auto | RO A huella → 1 candidatos a bandeja
+## [2026-11-19] caza-auto | MX B perforar oficios-tecnicos-manuales-mx → 1 candidatos a bandeja
