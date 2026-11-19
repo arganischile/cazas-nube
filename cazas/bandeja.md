@@ -26,6 +26,31 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Planilhas y calculadoras de Reforma Tributária (IBS/CBS) + escala 5x2 — VGL Treinamento Digital BR · `nodo-nuevo` · 2026-11-19 · sesión BR
+- **Qué es:** Planillas y calculadoras ante un cambio legal: CST/cClassTrib por NCM, «Planilha IBS e CBS», «67 Casos Práticos resolvidos», aluguel y agro en la reforma tributaria, más plantilla «Escala 5x2». Precio no visible por API.
+- **Por qué es ganador:** 35 de 50 anuncios activos con 7+ días (piso, la API topa en 50; 91 est.), un solo page_id, 6 fechas de creación (2026-10-21 → hoy, operador vivo), página de marca sin cara; multi-SKU sobre un mismo molde.
+- **Qué hacer:** Verificar en la PC embudo, precio y si es planilla/PDF o curso en vivo («Treinamento»); si limpia, modelar «planilla + calculadora ante la nueva norma fiscal» para Italia (fatturazione/IVA), Rumania (e-Factura) y Francia (facturation électronique) tras medir el hueco. Ángulo: urgencia legal con fecha.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=101918672390936>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, marca personal). Snapshot: https://www.facebook.com/ads/library/?id=2176186083283195
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-19-br-A-huella.md`
+
+### 🎯 Manuales de medicina por especialidad — Amo Resumos BR · `nodo-nuevo` · 2026-11-19 · sesión BR
+- **Qué es:** Manuales/resúmenes por especialidad médica («Manual de Medicina do Esporte», «Endocrinologia e Metabologia», «tratar a menopausa»). Precio y formato (PDF vs curso) no visibles por API.
+- **Por qué es ganador:** 17 de 41 anuncios activos con 7+ días, un solo page_id, 4 fechas de creación (2026-11-02 → hoy, operador vivo), página de marca sin cara.
+- **Qué hacer:** Verificar en la PC formato, precio y marca; si es PDF, modelar «manual resumido por especialidad» para Portugal (estudiantes/profesionales de salud) e Italia/Rumania tras medir. Ojo: parte del catálogo es clínico (menopausia) — juzgar si es producto o consejo.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=109673104683776>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, marca personal). Snapshot: https://www.facebook.com/ads/library/?id=1613774967165407
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-19-br-A-huella.md`
+
+**Señales del día BR (2026-11-19, mañana, A huella):**
+- Amanda Silva (1221736417692054): 0/24, una sola tanda del 11-18, USD, títulos «⭐⭐⭐⭐⭐»; re-medir ~11-25.
+- Rafael Tavares (1332849793235500): 0/17 a R$9,90 desde 11-12; cruza 7 d el 11-19/20; re-medir ~11-22.
+- Viamétodo (304927962710808): 1/50 piso (66 est.), fichas/protocolos clínicos multi-SKU, casi todo de la última semana; re-medir ~11-24.
+- Gabriele Nunes 0/10 («BAIXAR AGORA», 11-14); Decoração Sem Complicação 4/15 (R$5,99); Tia Lili 4/12 (Kit Berçário); Wesley Schroeder 2/13 (planillas gestión): todas < 10.
+
+
 ### 🎯 Combos de materiais por concurso — Caderno do Aprovado BR · `concursos-material-baixar` · 2026-11-18 (tarde) · sesión BR
 - **Qué es:** «Combos» de material de estudio por concurso (TRF-3, TJ-SP, TJ-PB, TRT/TST, MP) más una guía de organización con calendario y registro de desempeño; carruseles «Saiu o edital → Meu combo de materiais». Precio no visible por API.
 - **Por qué es ganador:** 38 de 50 anuncios activos con 7+ días (piso, la API topa en 50; 77 est. activos), un solo page_id, creados desde el 09-08 (≈71 d) hasta hoy, muchas fechas distintas y ads de las últimas 24 h (operador vivo); página de marca, no persona; molde ya validado por Edital Master y Camila Maia en el mismo nodo.
