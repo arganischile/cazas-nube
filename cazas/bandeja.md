@@ -555,6 +555,15 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-19: nada que pase la vara; modo C sobre 9 operadores CO por page_id (mejor: Mente Creativa 11/19 pero cobra «primero recibes, luego pagas» = probable físico; Edukla 9/21; Cuaderno de Medicina - APP vende una app).
+
+**Señales del día CO 2026-11-19**
+- Mente Creativa (p. 1133150633220108): 11/19, creativos «5/5 ⭐» y «¡Primero recibes luego pagas!» (pago contra entrega), ~18 d el más viejo; producto no identificado, verificar en la PC si es físico antes de descartarlo.
+- Con Dios camino (p. 1185760311285849) 0/16 y Mini Genios (p. 739087692611672) 0/26: aún ≤ 5 d; cruzan 7 d ~11-21/22; re-medir ~11-23.
+- Atril Estudio (p. 1282575998279080): 0/50 piso, 418 est., todos de 11-17→11-19; re-medir ~11-24.
+- Edukla (p. 105761638107328): 9/21 estable (Guitarra Fácil, 9 ads de 11-02) + 12 ads de 11-17; a un ad de la vara, parece curso/app.
+- Cuaderno de Medicina - APP (p. 1372929795909878): ≥25/160 (muestra 50), ads «Recorre la app por dentro»; vende app, no PDF. Prisma Piano apagado (0 activos). Improvisación Mastery 0/10 y Comunidade do Músico 0/31: tandas de ≤ 3 d.
+
 **CO 2026-11-18 (tarde) · Plantillas «sistema de gestión» por profesión (freelancers, arquitectos/obras, abogados) — Claridad y Acción** · `sin-revisar`
 - Qué es: plantillas digitales de gestión (clientes, presupuestos, proyectos/obras, cobros, tareas, vencimientos) en 3 SKUs por profesión: freelancers, estudio de arquitectura/obras y estudio jurídico; hablan de «workspace», «panel», «instructivo paso a paso incluido» y piden comentar «FREELANCER» (cierre por mensaje). Precio no visible por API; ads en USD, copy neutro/rioplatense: operador probablemente de otro país corriendo también en CO.
 - Por qué es ganador: cohorte 40/43 en CO (exacto, 43 < 50) de un solo page_id (p. 771123896085843); por oferta: freelance 21, obras/arquitectos 10, abogados 10 (cada SKU solo ya pasa 10). 10 tandas de creación distintas (≈5 oct → 16 nov), ad más viejo ~44 d, 3 ads de hace ~2 d = operador vivo. Sin marca personal (nombre de página de marca). 0 ads activos en BR/PT/IT/FR/RO.

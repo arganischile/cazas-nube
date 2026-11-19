@@ -206,11 +206,11 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Metodo Universitario | 1512954825682163 | IT | ≥33/50 piso el 2026-11-18 (tarjeta en bandeja); formato sin identificar; re-medir ~2026-11-25 |
 | Martina Rossi (multi-SKU Office/enfermería) | 782531528270117 | IT | 0/44 el 2026-11-18 (≤ 5,1 d, USD); re-medir ~2026-11-21 |
 | Giulia Ferraresi (Kit Contabile Pratico 2027) | 1299765756564104 | IT | 11/50 piso el 2026-11-18 (tarjeta en bandeja); 6 ads cruzan 7 d hoy; re-medir ~2026-11-25 |
-| Prisma Piano (teoría piano en colores) | 1437920272732095 | CO | 0/5 el 2026-11-16 (5 ads de hoy); re-medir ~2026-11-21 |
+| Prisma Piano (teoría piano en colores) | 1437920272732095 | CO | 0 activos el 2026-11-19 (apagado); 0/5 el 11-16; sin re-medir salvo que reaparezca |
 | Claridad y Acción (plantillas de gestión por profesión) | 771123896085843 | CO | 40/43 el 2026-11-18 (tarjeta en bandeja); 3 SKUs (freelance, obras, abogados); re-medir ~2026-11-30 |
 | Magia Cursos y Plantillas (Canva eventos) | 681374695056562 | CO | 18/18 el 2026-11-18 (tarjeta en bandeja); última tanda 11-08; re-medir ~2026-11-30 |
-| Con Dios camino (WhatsApp, material cristiano) | 1185760311285849 | CO | 0/16 el 2026-11-18 (tandas de 4-5 d); re-medir ~2026-11-22 |
-| Mini Genios (+1000 ebooks) | 739087692611672 | CO | 0/26 el 2026-11-18 (tandas de 4-5 d, USD); re-medir ~2026-11-22 |
+| Con Dios camino (WhatsApp, material cristiano) | 1185760311285849 | CO | 0/16 el 2026-11-19 (todos ≤ 4,7 d, cruzan 7 d ~11-21); re-medir ~2026-11-23 |
+| Mini Genios (+1000 ebooks) | 739087692611672 | CO | 0/26 el 2026-11-19 (el más viejo ~5 d, USD); re-medir ~2026-11-23 |
 | Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
 | Edulabs Resources (plantillas «gata de predat») | 1057793390758198 | RO | 21/42 el 2026-11-18 (6 en inglés, 9 rumano verificado, 6 sin título); multi-SKU para profesores; re-medir ~2026-11-22 solo creativos en rumano |
 | Mente Académica (mapas mentales por materia) | 1239880759219492 | MX | ≥34/≥84 el 2026-11-18 (354 est.; BRL; tarjeta en bandeja); contar con `search_terms` del título + page_ids; re-medir ~2026-11-23 |
@@ -244,7 +244,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-19 | CO | C operadores (jue mañana) — en curso | operadores CO | — | en curso | — |
+| 2026-11-19 | CO | C operadores (jue mañana) | operadores CO | ninguna (modo C) + 9 conteos por page_id (Mente Creativa, Con Dios camino, Mini Genios, Atril Estudio, Edukla, Cuaderno de Medicina - APP, Prisma Piano, Improvisación Mastery, Comunidade do Músico) | 0 tarjetas; Mente Creativa 11/19 pero pago contra entrega (¿físico?); Con Dios 0/16, Mini Genios 0/26, Atril 0/50 piso (ads ≤ 3 d), Edukla 9/21, Prisma Piano apagado | sin cambios |
 | 2026-11-19 | MX | B perforar (jue mañana; nodos MX tocados <7 d → re-mediciones vencidas + huellas nuevas) | manuales-visuales-oficios-mx / mapas-enfermeria-mx / oficios-tecnicos-manuales-mx | manual visual, electrónica automotriz, ECUs + manuales técnicos (con page_ids) + 8 conteos por page_id (Vida Práctica 3/3, Valentina Rojas 7/7, OficioPlus ≥34/120, Kit Odonto Pro 0/8, Labdigital, Sergio Castillo 0/13, Engenharia da Reparação 0/14) | 1 tarjeta (OficioPlus ≥34/120, USD, flag app/curso); señales: Vida Práctica y Valentina Rojas < 10 | 1 nodo virgen MX nuevo |
 | 2026-11-19 | RO | A huella (jue mañana) | — | ghid complet pdf, agendă planificator, fișe pdf descarcă, manual practic pdf, fișe vizuale, plan lecție descarcă (0) + cruce IT/FR/BR-PT (schede visive diritto civile, fiches visuelles droit civil, direito civil fichas visuais) + 4 conteos por page_id (Tuformulaexactashop ALL y ACTIVE, Med Atlas, Digital Master, Download Studio, Kit Online) | 1 tarjeta (Tuformulaexactashop, fișe vizuale derecho civil 12/22); señales: Kit Online red multilingüe 0 en rumano con 7+ d, Digital Master 0/8, Med Atlas 0/4, Harta Tulburărilor 2/8 | 1 nodo virgen RO nuevo, 1 operador |
 | 2026-11-19 | FR | C operadores (jue mañana) | operadores FR + agenda | ninguna (modo C) + 12 conteos por page_id en FR + 2 keywords agenda (Antisèche Infirmière, Pharmacologie Simplifiée) | 0 tarjetas nuevas; Boissieu 42/50 piso, Espagnol Illustré ACTIVE 0 / ALL 35 (¿apagado?), Car Station 24/47, PsiOS 24/37, Esprit 49/50 piso, La fée 23/23, Hugo Jean 27/32; Pharmacologie Simplifiée 0/10 (11-17) | nodos FR sin cambio de estado |
