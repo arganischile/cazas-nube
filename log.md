@@ -92,3 +92,5 @@
 ## [2026-11-20] caza-auto | BR B perforar preparacion-72h-apagon / habito-parar-de-fumar / ebooks-autismo-tdah → 0 candidatos a bandeja
 
 ## [2026-11-20] caza-auto | IT C operadores → 0 candidatos a bandeja
+
+## [2026-11-20] caza-auto | FR A huella → 1 candidatos a bandeja

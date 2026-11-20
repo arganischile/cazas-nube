@@ -299,6 +299,22 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Recursos digitales para docentes (packs, pictos, vídeos, progresiones) — Pretty Little Teacher FR · `ressources-enseignants-pretty-little-teacher-fr` (nodo nuevo) · 2026-11-20 · sesión FR
+- **Qué es:** tienda/marca de recursos para profesores de primaria (packs, pictogramas, vídeos, progresiones anuales, talleres de Navidad), muy probablemente descargas digitales; precio y formato no visibles por API (promos «Pack en promo», «Promo de fin d'année»).
+- **Por qué es ganador:** 36 de 46 ads activos en FR con 7+ días (46 = estimado completo, no truncado; ALL = 586), un solo page_id, EUR (operador local); 3 tandas con 7+ d (07-07, 11-02/03, 11-09/10) y ≥ 6 fechas de creación distintas, el más viejo ≈ 136 d; sigue lanzando (10 ads nuevos de hoy-ayer); prueba social «+50.000 enseignants l'utilisent»; sin cara en los títulos, nombre = marca; 1 operador.
+- **Qué hacer:** modelar «pack de recursos imprimibles/digitales para docentes de primaria por materia y época del año»; destinos a medir con nativas: IT (insegnanti primaria), PT/BR (professores), RO (învățători: ya hay red Edulabs/Ready Resources en RO); ángulo: «+50.000 profesores lo usan» + promo de fin de año; verificar antes si es tienda con catálogo o suscripción.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=398932843295914>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, ¿tienda o suscripción?, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1527781062509754
+- Score n/4 (3/4 provisorio: cohorte 36 ≥ 10, longevidad ≈ 17 d el lote vigente y página de ≈ 4 meses, EUR local; embudo, precio y formato sin verificar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-20-fr-A-huella.md`
+
+**Señales del día FR 2026-11-20**
+- La Bible sur papier (1460228643831963): 3/12 con 7+ d, «52 histoires + 5 bonus, PDF à imprimer, 11,90 € paiement unique» (USD); 9 ads de 11-17 cruzan 7 d el ~11-24; re-medir ~11-25.
+- Mon Petit Curieux (880258798511485): ≥ 27/50 piso con 7+ d (853 est., tanda de hoy), «Fini les feutres qui transpercent» sobre coloriages (USD): probable producto físico, sin tarjeta; verificar en la PC.
+- Studio Facile (1272162682644374) ya corre en FR: 0 con 7+ d (todos ≤ 3,1 d, USD, ≈ 106 est.); misma red que IT/RO.
+- KinéFiches 4/4 (≈ 7,6 d, «Voix & Résonance: 60 exercices + 66 fiches», USD); Active Classroom Resources 0/16 (≤ 3,2 d, USD); Orthomap atlas orthophonie 0/3 (≤ 1,4 d).
+- Descartados: Multimalin (coffret físico de tablas de multiplicar, 45 ads), Digitalbrainpack 6/6 (todos del mismo día de nov-2025: posible zombi).
+
 ### 🎯 Archivos SVG para Cricut, Black Friday -70 % — Anna Makes + Emily Makes FR · `svg-cricut-makes-fr` (nodo nuevo) · 2026-11-19 (tarde) · sesión FR
 - **Qué es:** biblioteca de archivos SVG («200 000+ SVG à -70 %») para máquinas de corte tipo Cricut; descarga digital (no guía). Precio no visible por API.
 - **Por qué es ganador:** Anna Makes 24/24 y Emily Makes 12/12 ads activos con 7+ d en FR (cada página pasa sola; no se suman), 3 fechas de creación distintas en cada una; Emily con ALL = 287 y tandas desde septiembre (≈ 2 meses); mismo gancho «Lisez si vous avez une Cricut ☝️» en las dos páginas (misma fábrica); 0 ads de la red en IT/PT/RO/BR. Bandera: la tanda vigente es de Black Friday, puede ser estacional.
