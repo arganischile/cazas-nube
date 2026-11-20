@@ -102,3 +102,5 @@
 ## [2026-11-20] caza-auto | CO A huella → 2 candidatos a bandeja
 
 ## [2026-11-20] caza-auto | BR B concursos-caderno-do-aprovado-br (tarde) → 2 candidatos a bandeja
+
+## [2026-11-20] caza-auto | IT B sicurezza-lavoro-slide-digital-solutions / punto-croce-natale (tarde) → 1 candidatos a bandeja

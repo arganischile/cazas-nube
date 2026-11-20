@@ -210,6 +210,22 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-20 (tarde): 1 tarjeta.
+### 🎯 Kit Formazione Sicurezza 2026 (slides/manuales para formadores de seguridad laboral y 118) — Digital solutions IT · `sicurezza-lavoro-slide-digital-solutions` · 2026-11-20 (tarde) · sesión IT
+- **Qué es:** kit de «+1.200 slide in 46 corsi» de sicurezza sul lavoro con registro, test y attestato «già pronti» a **17,90 €**; la misma página vende «Dal corso all'ambulanza, in un solo manuale» (soccorso/118) y «120 prompt per ingegneri» (multi-SKU); formato (PPT/PDF descargable) y checkout no visibles por API.
+- **Por qué es ganador:** 13 de 46 ads activos con 7+ días en IT (46 < 50 = conteo completo), un solo page_id; familia kit-slide 9 de esos 13 (inicio 11-04, ≈ 11-17 d), manual 118 3, prompt 1; ≥ 10 fechas de creación distintas y lote nuevo hoy; longevidad máx. ≈ 16,7 d por API; nombre de marca, no persona; cuenta en USD, precio en el copy en €. Subió de 12/50 (11-18) a 13/46.
+- **Qué hacer:** verificar en la PC formato real y checkout (kit de slides vendible a formadores/RSPP, bajo ticket, dolor «rifare le slide ogni sera»); si es digital, modelar el kit de slides listos «manca solo il tuo logo» para otro gremio con formación obligatoria; destinos a medir: PT, FR, RO, BR (normativas locales).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1406571882531997>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL): verificar en la PC antes de decidir. Snapshot: https://www.facebook.com/ads/library/?id=1851791419304128
+- Score 2/4 provisorio (cohorte y longevidad OK; embudo sin ver; multi-SKU) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-20-it-B-sicurezza-punto-croce-tarde.md`
+
+**Señales del día IT (tarde) 2026-11-20**
+- Natale a punto (1288220937718528): sigue activo, 40+ ads «300 schemi da stampare», ≈ 16 d (ya tiene tarjeta); `punto croce` animali/nombres/ricamo = 0, sin otro operador digital.
+- Nexora Italia (1486785487846235): 5 ads de hoy «Le iniziali del corredo, oggi» (USD, ≤ 1 d); sin cohorte; re-medir ~11-28.
+- Sorrisi in Regola (1063538733498593): «Kit DVR per studi dentistici» 4 ads (11-02 a 11-09), < 10, mismo molde sicurezza-lavoro; EPC Editore 2 ads de slides (editorial).
+
+
 IT 2026-11-20: nada que pase la vara (modo C, 10 operadores re-medidos; sin cohorte nueva ≥10 fuera de las que ya tienen tarjeta).
 **Señales del día IT (mañana) 2026-11-20**
 - Studio Quadri (721617357705716): ≥28/50 piso (170 est.; antes 11/50), 3 tandas 11-09/11-12/11-16, título «Progetta i tuoi quadri in 15 minuti» (USD); ya tiene tarjeta, oferta aún sin identificar; verificar en la PC.
