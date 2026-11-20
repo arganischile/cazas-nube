@@ -591,6 +591,20 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Devocional «30 Días con tu Ángel de la Guarda» + oración de 5 minutos — Luz de mi Ángel MX · `devocionales-oracion-luz-de-mi-angel-mx` · 2026-11-20 (tarde) · sesión MX
+- **Qué es:** devocional de oración en formato probable PDF/app («30 Días con tu Ángel de la Guarda», «5 minutos de oración cada mañana», «Fe y orden en el hogar», «Salmo 91:11»); moneda BRL (operador brasileño que corre en español para MX); precio no visible.
+- **Por qué es ganador:** cohorte 17 / 28 activos en MX con 7+ días (11,8-13,9 d), un solo page_id (1404192579447962; ACTIVE = ALL = 28), sin cara ni persona; tanda nueva de 11 ads creada el 11-13 que cruza 7 d en horas (operador vivo). **Flags:** los 17 son una sola tanda de creación (~11-06, solo 2 fechas de creación en total: no llega a «≥ 3 fechas»); 2 creativos con ángulo «abuelas» (el producto es devocional, no actividad de adulto mayor: juzgar); formato y precio sin verificar.
+- **Qué hacer:** modelar el devocional diario de oración en PDF para BR, PT, IT, FR y RO (medir hueco con nativas; en FR ya existe `bible-papier-histoires-pdf-fr`); MX es fuente. Ángulo: un hábito de 5 minutos por la mañana + 30 días con un tema (ángel, hogar, salmos).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1404192579447962>
+- **Landing:** embudo no verificado desde la nube (el API no trae URL): verificar en la PC antes de decidir. Snapshot: https://www.facebook.com/ads/library/?id=2184967065422738
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-20-mx-B-huellas-devocional-tarde.md`
+
+**Señales del día MX (tarde) 2026-11-20**
+- Ing Carlos TI Visual (1476440635544430): 3/16 en MX («IT EN MAPAS + BONOS REGALO», USD; 13 ads de hoy, 3 de ~11,4 d); no llega a 10; re-medir ~11-25 (juzgar si «Ing Carlos» es marca personal).
+- Reforma tributaria (1394329377105320): 0/4, todos de hoy (RESICO 2027, IVA 16 % vs 7 %, «un mapa» del DOF; USD); molde fiscal en mapas, ligar con `planilhas-reforma-tributaria-vgl-br`; re-medir ~11-25.
+- Mi Pequeña Biblia (1483436864850715) 0/4 de hoy («6 libros bíblicos», USD); Raissa Barros (361987227465563) «66 libros de la Biblia en mapas» ≥11 ads ≤ 2 d (BRL); Refugio de Paz (1467898309737085) 0/9 (≤ 3,3 d, «Recíbela por WhatsApp», USD): molde devocional/bíblico en auge, re-medir ~11-25.
+
 MX 2026-11-20: nada que pase la vara; se barrió Vida Práctica, Mente Académica, Axo y Yo, Inglés en Mapas, Tus Clases Online y Psicología & Recursos (hermana).
 
 **Señales del día MX 2026-11-20 (mañana)**
