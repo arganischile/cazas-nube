@@ -26,6 +26,30 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Caderno Mapeado (revisión por concurso) — Caderno Mapeado BR · `concursos-caderno-mapeado-br` · 2026-11-20 · sesión BR
+- **Qué es:** material de revisión por concurso/edital («revise em 7 dias», «estude o edital em 30 dias», material + cronograma + bônus) a ~R$ 127 según el título de un ad; formato PDF/cuaderno no verificado.
+- **Por qué es ganador:** cohorte 7+ ≥ 23 / 50 visibles (88 est. activos, piso) · ads creados 11-08 → 11-17 en ≥ 6 fechas · ads por concurso (SEAP MA, PM SC, SEPLAG RJ, Curitiba, ALEPA, CETESB, PC AC, Mossoró, CGU…) = fábrica multi-SKU · longevidad por API ≤ 12 d (snapshot no verificado) · PT = 0 con ALL.
+- **Qué hacer:** modelar el molde «material + cronograma por edital»; verificar en la PC si es digital; destino sugerido IT (concorsi) y medir FR/RO · ángulo: reta final por edital.
+- **Ads Library:** https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=106933371867327
+- **Landing:** no verificada desde la nube (el API no trae URL): verificar en la PC antes de decidir.
+- Score 3/4 · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+### 🎯 Red «⭐ 4.9/5.0» de concursos (resumos/mapas) — A Concurseira + Aprovado Bizurado BR · `red-concurseira-4-9-br` · 2026-11-20 · sesión BR
+- **Qué es:** oferta de material de estudio para concursos (aparece con «resumos direito concurso pdf» y «mapas mentais concurso»); un mismo creativo «⭐ 4.9/5.0»; producto y precio no visibles por API.
+- **Por qué es ganador:** A Concurseira 19/26 (el más viejo ≈ 37 d, USD) · Aprovado Bizurado 18/34 (≈ 25 d, BRL+USD) · Eu to aprovado 3/9 · tres páginas con la misma plantilla = un operador que replica; cada una pasa la vara sola (no se suman).
+- **Qué hacer:** abrir el embudo en la PC y confirmar qué vende y a qué precio; si es PDF de bajo ticket, modelar y llevar a IT/RO; hoy es **hipótesis** (oferta no confirmada).
+- **Ads Library:** A Concurseira https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1188944594305868 · Aprovado Bizurado https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1234303816439357
+- **Landing:** no verificada desde la nube.
+- Score 2/4 · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+**Señales del día BR (2026-11-20, tarde, B perforar):**
+- Caderno do Aprovado (ya con tarjeta): sigue activo (ad del 11-19); cadernodoconcurseiro «COMBO TJSP» ≥ 20 ads pero todos ≤ 1,4 d, re-medir ~11-25.
+- Aprova As (104594525398424): curso preparatório presencial Santa Luzia-MG, 0/50 con 7+ d (ads ≤ 4,3 d); no infoproducto.
+- Tudoemconcursos (111220577140486) 3/8 «168 Mapas Mentais PMSC»; Vetor Concur (950384814834297) ≥ 8 ads del día, re-medir ~11-27.
+- PT sin oferta de concursos (Caderno Mapeado PT = 0 con ALL).
+
 BR 2026-11-20 (mañana): nada que pase la vara; se barrió preparacion-72h-apagon (kit sobrevivência apagão), habito-parar-de-fumar-corrida-5k (parar de fumar, kit corredores, plano treino corrida), ebooks-autismo-tdah (TDAH ebook, cardápio autismo) y guia emergência família pdf (BR+PT).
 **Señales del día BR (2026-11-20, mañana, B perforar):**
 - Red kit 72 h: Protocolo ARCA (1467498133108925) 0/11 (8 ads del 11-18 + 3 de ~5,5 d), Modo Sobrevivencia 0/3 (USD), Primecentral ≥14 de 11-18/20 pero kit físico; ninguna con cohorte; re-medir ~11-25.
