@@ -534,6 +534,16 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+MX 2026-11-20: nada que pase la vara; se barrió Vida Práctica, Mente Académica, Axo y Yo, Inglés en Mapas, Tus Clases Online y Psicología & Recursos (hermana).
+
+**Señales del día MX 2026-11-20 (mañana)**
+- Mente Académica (1239880759219492): ≥43/50 piso en MX (est. 507, BRL; 29 «200 Mapas Mentales de Ingeniería Civil» a 9,5 d, 9 neuroanatomía y 5 «210 Trastornos» a 8,8 d, 7 «300 Mapas de TI» de 4,7 d): ya tiene tarjeta, la cohorte sigue creciendo; re-medir ~11-27.
+- Axo y Yo (1358953320636772): 15/22 en MX (MXN $99-149; 7 ads de ~3-5 d nuevos con repasos por grado): ya tiene tarjeta, cohorte sube de 12 a 15; re-medir ~11-27.
+- Vida Práctica (1472534742604591): 3/3 a 10,5 d («Manual Visual del Ingeniero Industrial» $199 MXN, un solo SKU); no llega a 10; re-medir ~11-27.
+- Tus Clases Online (103959345113295): 0/50 piso (est. 102), todo ≤ 4,5 d; tandas por SKU (Megapack Navidad $75, cajitas, taza, amigurumi); re-medir ~11-25.
+- Inglés en Mapas (1349240448283092): 0 activos en MX (apagado en 1 día); sin re-medición.
+- Psicología & Recursos hermana (163465520189615): 0/4, todos de hoy (kits: plantillas, trabajo social, pareja, neuropsicología); el SKU neuropsicología es nuevo respecto al kit de la tarjeta; re-medir ~11-27.
+
 ### 🎯 Kits digitales para psicólogos (duelo, pareja, vocacional, trabajo social, plantillas y formatos) — Psicologia & Recursos 2025 MX · `kits-psicologos-plantillas-mx` · 2026-11-19 (tarde) · sesión MX
 - **Qué es:** kits de plantillas y formatos para profesionales de la psicología («KIT PROFESIONAL DE MANEJO DEL DUELO», «KIT TERAPIA DE PAREJA», «KIT DE ORIENTACIÓN VOCACIONAL», «KIT TRABAJO SOCIAL», «KIT DE PLANTILLAS Y FORMATOS»); moneda COP (operador colombiano que corre en MX), creativos en español; precio no visible (un ad con destino api.whatsapp.com).
 - **Por qué es ganador:** cohorte 16 / 16 activos en MX con 7+ días, un solo page_id (469568772899568; ACTIVE = ALL = 16), creados en 3 fechas (11 de la tanda del ~11-09/10 a ~10 d, 1 de ~39 d, 4 de ~51 d), sin cara ni persona; mismo molde que Sector Digital y Psique y Ciencia (plantillas para psicólogos). **Flags:** 11 de los 16 son una sola tanda de ~10 d con cinco creativos repetidos; la página hermana Psicología & Recursos (163465520189615) tiene 4 ads, todos de hoy (no suman); 0 ads de la página en CO.

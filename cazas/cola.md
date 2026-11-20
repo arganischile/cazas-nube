@@ -214,9 +214,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Bibliothèque Créative (Cricut) | 1501332446389326 | FR | 0/15 el 2026-11-16 (tandas de 2-7 d); re-medir ~2026-11-19 |
 | 300 Mapas Mentales | 1276104028925482 | MX | 20/28 el 2026-11-16 (tarjeta en bandeja); versión ES del kit de Fluente com Legenda; re-medir ~2026-11-30 |
 | Planner Hoy Solo 3 | 1280820831792286 | MX | 30/40 el 2026-11-16 (tarjeta en bandeja); ver si cambia de SKU; re-medir ~2026-11-30 |
-| Vida Práctica (manuales visuales) | 1472534742604591 | MX | 0/12 el 2026-11-16, 3 ads cruzan 7 d el 11-17; re-medir ~2026-11-19 |
+| Vida Práctica (manuales visuales) | 1472534742604591 | MX | 3/3 el 2026-11-20 (un solo SKU, $199 MXN, 10,5 d); re-medir ~2026-11-27 |
 | Editorial MD (planeaciones docentes) | 328781457261320 | MX | 14/14 el 2026-11-17 (tarjeta en bandeja); re-medir ~2026-11-30 |
-| Axo y Yo (cuadernillo con su nombre) | 1358953320636772 | MX | 12/26 el 2026-11-17 (tarjeta en bandeja); 14 ads nuevos, debería subir; re-medir ~2026-11-24 |
+| Axo y Yo (cuadernillo con su nombre) | 1358953320636772 | MX | 12/26 el 2026-11-17 (tarjeta en bandeja); 15/22 el 11-20; re-medir ~2026-11-27 |
 | Rafael Piano Fácil (partituras piano/teclado) | 1109073548949200 | BR | 31/50 piso el 2026-11-18 (68 est., ≥20 en portugués inequívoco; tarjeta en bandeja); mismo operador que CO e IT; re-medir ~2026-11-30 |
 | Rafael Piano Fácil (partituras piano/teclado) | 1109073548949200 | CO | 29/42 el 2026-11-16 (tarjeta en bandeja); corre también en BR e IT; re-medir ~2026-11-30 |
 | Studio Quadri | 721617357705716 | IT | 11/50 piso el 2026-11-17 (tarjeta en bandeja); oferta sin identificar; re-medir ~2026-11-21 |
@@ -238,7 +238,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Mundo Creativo («Primero recibes, luego pagas») | 825989063925835 | CO | 7/18 el 2026-11-19 (COP, pago contra entrega, ¿físico?); re-medir ~2026-11-22 |
 | Acordes en Claro (teoría musical visual) | 1205940002609789 | CO | 27/50 piso el 2026-11-16 (tarjeta en bandeja); también corre en FR; re-medir ~2026-11-30 |
 | Edulabs Resources (plantillas «gata de predat») | 1057793390758198 | RO | 21/42 el 2026-11-18 (6 en inglés, 9 rumano verificado, 6 sin título); multi-SKU para profesores; re-medir ~2026-11-22 solo creativos en rumano |
-| Mente Académica (mapas mentales por materia) | 1239880759219492 | MX | ≥34/≥84 el 2026-11-18 (354 est.; BRL; tarjeta en bandeja); contar con `search_terms` del título + page_ids; re-medir ~2026-11-23 |
+| Mente Académica (mapas mentales por materia) | 1239880759219492 | MX | ≥43/50 piso el 2026-11-20 (507 est.; BRL; tarjeta del 11-18); contar con `search_terms` del título + page_ids; re-medir ~2026-11-27 |
 | Fluente com Legenda (USD) | 837003542818622 | BR | ≥22/50 piso el 2026-11-18 (236 est.; tarjeta local); página gemela BRL 996556976874285 0/2; clon Academia da legenda 1521661844353417 0/7; re-medir ~2026-11-30 |
 | Nannyvarie | 101372751885586 | BR | 39/46 el 2026-11-18 (tarjeta en bandeja); re-medir ~2026-11-30 |
 | Organize com Ju | 1022767074413574 | BR | 11/16 el 2026-11-18 (tarjeta); juzgar marca personal; re-medir ~2026-11-30 |
@@ -254,9 +254,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Arte Wisdom (Bordados de Refúgio no Papel) | 1055208387665683 | BR | 9/16 el 2026-11-19 (BRL, multi-SKU); 2 ads cruzan 7 d el 11-21/22; re-medir ~2026-11-22 |
 | Bordado de Fe (versículos pra bordar no papel) | 1309870588884741 | BR | 8/17 el 2026-11-19 (USD); 9 ads de 11-18 cruzan 7 d ~11-25; re-medir ~2026-11-25 |
 | Terapia das Cores (600 riscos) | 110206475291825 | BR | 0/50 piso (80 est.) el 2026-11-19, tanda masiva 11-18 (USD); re-medir ~2026-11-25 |
-| Psicologia & Recursos 2025 (kits psicólogos) | 469568772899568 | MX | 16/16 el 2026-11-19 (tarjeta en bandeja); COP, 0 en CO; página hermana Psicología & Recursos 163465520189615 con 4 ads de hoy; re-medir ~2026-11-26 |
-| Inglés en Mapas | 1349240448283092 | MX | 0/≥25 el 2026-11-19 (todo creado hoy, USD); re-medir ~2026-11-24 |
-| Tus Clases Online (megapack/moldes) | 103959345113295 | MX | 0/50 piso el 2026-11-19 (≤ 5 d, 114 est.); re-medir ~2026-11-24 |
+| Psicologia & Recursos 2025 (kits psicólogos) | 469568772899568 | MX | 16/16 el 2026-11-19 (tarjeta en bandeja); COP, 0 en CO; página hermana Psicología & Recursos 163465520189615 0/4 el 11-20 (SKU neuropsicología nuevo); re-medir ~2026-11-26 |
+| Inglés en Mapas | 1349240448283092 | MX | 0 activos el 2026-11-20 (apagado); sin re-medir salvo que reaparezca |
+| Tus Clases Online (megapack/moldes) | 103959345113295 | MX | 0/50 piso el 2026-11-20 (≤ 4,5 d, 102 est.); re-medir ~2026-11-25 |
 
 ## Rotación vigente
 
@@ -277,7 +277,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-20 | MX | C operadores (vie mañana) | operadores MX + re-mediciones vencidas | en curso | en curso | — |
+| 2026-11-20 | MX | C operadores (vie mañana) | operadores MX + re-mediciones vencidas | 6 conteos por page_id en MX (Vida Práctica, Mente Académica, Axo y Yo, Inglés en Mapas, Tus Clases Online, Psicología & Recursos hermana) | 0 tarjetas; Mente Académica ≥43/50 piso y Axo y Yo 15/22 (ya con tarjeta, señal); Vida Práctica 3/3; Tus Clases 0/50 (≤4,5 d); Inglés en Mapas apagado; hermana de Psicología 0/4 con SKU neuropsicología nuevo | operadores re-fechados |
 | 2026-11-20 | RO | B perforar (vie mañana; nodos RO tocados <7 d → virgen más viejo + re-mediciones vencidas) | biologie-liceu-ready-resources / atlas-psicoterapia-ro / nursing-ghiduri-ro | rezumate bac română, fișe chimie fizică clasa, evaluare națională pdf, planșe biologie anatomie (0), ghid nutriție pdf, caiet matematică clasa (ALL), lei ghid complet descarcă + 4 conteos por page_id (Ready Resources, Atlas Terapeutic, Pagina de Nursing, Ghețu) | 0 tarjetas; Ready Resources 0/32 (≤ 6,5 d), Atlas Terapeutic ≥ 20/69 piso (ya con tarjeta), Pagina de Nursing 21/21 mezcla físico, Ghețu Octavian David 0/50 piso (tanda de hoy, marca personal probable) | biologie-liceu-ready-resources pasa a superficial; nursing-ghiduri-ro sin cambio; 1 nodo virgen nuevo |
 | 2026-11-20 | FR | A huella (vie mañana) | — | fiches orthophonie, livret exercices, modèles Canva, carnet suivi imprimable (0), plans bricolage pdf, fiches pédagogiques maternelle, apprendre guitare débutant pdf, calendrier imprimable (0), fiches mémo infirmier (0), jeux imprimables enfants pdf, méthode lecture CP fiches (0), schémas électriques fiches, patrons tricot pdf, cahier de révision, ressources enseignants pack, ateliers de Noël enfants, pack éducatif enfants, modèles de lettres, apprendre anglais fiches, tableur gestion (0), coloriages à imprimer, progression annuelle enseignants, planner imprimable étudiant (0), histoires bibliques bricolage (0) + 5 conteos por page_id (Pretty Little Teacher ACTIVE+ALL, Studio Facile, Mon Petit Curieux, Digitalbrainpack, La Bible sur papier) | 1 tarjeta (Pretty Little Teacher 36/46, recursos docentes, EUR); señales: La Bible sur papier 3/12 (PDF 11,90 €), Mon Petit Curieux ≥27/50 probable físico, Studio Facile FR 0 con 7+ d, Digitalbrainpack posible zombi | 2 nodos virgen FR nuevos, 1 operador |
 | 2026-11-20 | IT | C operadores (vie mañana) | operadores IT + re-mediciones vencidas | 10 conteos por page_id en IT (Quadri, Moretti, Digital Corner, Crescere Giocando, Martina Rossi, Metodo Universitario, Ferraresi, Accademia Creativa, Rafael Piano, Acordes en Claro) | 0 tarjetas; Studio Quadri ≥28/50 piso (ya con tarjeta), Metodo Universitario ≥20/50, Accademia 18/50; resto 0 con 7+ d (Ferraresi 0/50 visibles: tope oculta cohorte vieja) | nodos IT sin cambio de estado; re-medir Digital Corner/Moretti ~11-22 |
