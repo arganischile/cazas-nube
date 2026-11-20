@@ -339,6 +339,20 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 520 cartes mentales de langues A1→C2 en PDF (anglais, espagnol) — Camille Dubois FR · `idiomas-cartes-mentales-a1-c2` · 2026-11-20 (tarde) · sesión FR
+- **Qué es:** pack de 520 mapas mentales/fichas de idiomas por nivel A1→C2 para francófonos («La Carte de l'Anglais», «Ser ou estar», «Constipado ≠ constipé», faux amis), en PDF para imprimir, **12,90 € pago único** (Black Friday hasta el 30/11) + 6 bonus; precio visto en los títulos de los ads.
+- **Por qué es ganador:** ≥ 28 ads activos en FR con 7+ días / 259 activos estimados (50 es el tope de la API: la cohorte es un piso), un solo page_id; tandas creadas el 11-11, 11-13, 11-17 y 11-20 (≥ 4 fechas, operador vivo, longevidad ≈ 9 d por API); mismo molde y mismo «520 cartes» que Espagnol Illustré (tarjeta del 11-17, hoy 0 activos en FR: probable rotación de página) y Céline Moreau 3/14 «+300 cartes mentales A1→C2».
+- **Qué hacer:** modelar el molde «mapas mentales de idioma por nivel A1-C2, PDF a precio de un café» (inglés + español para francófonos); destino sugerido: IT (inglés/español para italianos), PT/BR, RO; ojo: esta página corre los mismos ads **en francés** también en IT (91), PT (89), RO (56) y BR (72), así que NO prueba hueco local en esos mercados. Nombre de página = persona pero sin cara visible en los títulos por API: verificar en la PC que no sea marca personal.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1077014278820945>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (checkout/VSL, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1519454140084475
+- Score n/4 (2/4 provisorio: cohorte ≥ 28 ≥ 10, precio bajo visible; longevidad ≈ 9 d, embudo y cara sin verificar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-20-fr-B-idiomas-cartes-mentales-a1-c2-tarde.md`
+
+**Señales del día FR 2026-11-20 (tarde)**
+- Atril Estudio (1282575998279080): 19/33 activos en FR con 7+ d (tandas 11-08, 11-12, 11-13; «⭐ 4,9/5 étoiles», USD) y sale con las keywords «cartes mentales anglais» y «vocabulaire anglais PDF», pero el producto no se identifica por API → no pasa el gate; verificar en la PC (en CO es otro nodo, cuadernos).
+- Easy Language Books (1396804910189308): 8/20 con 7+ d («L'anglais / L'allemand de 0 à C2 en un seul livre», EUR; también ads en árabe y ruso; probable libro): bajo la vara, formato libro dudoso.
+- Naplegria italien coaching: 2 ads (conferencia presencial/método de coaching) → servicio, no cuenta.
+
 ### 🎯 Recursos digitales para docentes (packs, pictos, vídeos, progresiones) — Pretty Little Teacher FR · `ressources-enseignants-pretty-little-teacher-fr` (nodo nuevo) · 2026-11-20 · sesión FR
 - **Qué es:** tienda/marca de recursos para profesores de primaria (packs, pictogramas, vídeos, progresiones anuales, talleres de Navidad), muy probablemente descargas digitales; precio y formato no visibles por API (promos «Pack en promo», «Promo de fin d'année»).
 - **Por qué es ganador:** 36 de 46 ads activos en FR con 7+ días (46 = estimado completo, no truncado; ALL = 586), un solo page_id, EUR (operador local); 3 tandas con 7+ d (07-07, 11-02/03, 11-09/10) y ≥ 6 fechas de creación distintas, el más viejo ≈ 136 d; sigue lanzando (10 ads nuevos de hoy-ayer); prueba social «+50.000 enseignants l'utilisent»; sin cara en los títulos, nombre = marca; 1 operador.
