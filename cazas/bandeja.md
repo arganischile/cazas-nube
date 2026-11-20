@@ -493,6 +493,9 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-20 (tarde): nada que pase la vara; se barrió fișe tulburări, cărți cadou, ilustrat cadou, fișe psihologie + conteos por page_id (Harta Tulburărilor 0/5 ACTIVE, Clearpage Books 0/30, In pictures books 4/4, Caietul Studentului 0/14).
+Señales del día RO: Harta Tulburărilor apaga sus tandas de 3-4 d (≈185 ALL, 0 activos con 7+ d); red del molde «+ 2 cărți cadou» (Clearpage Books, In pictures books, Rowan House, Skills Illustrated) todo en tandas diarias, ninguna ≥ 10; Materiale Gata 0/4.
+
 RO 2026-11-20: nada que pase la vara; se barrió Ready Resources (biologie), rezumate bac română, fișe chimie fizică clasa, evaluare națională pdf, planșe biologie anatomie (0), ghid nutriție pdf, caiet matematică clasa (ALL), lei ghid complet descarcă + 4 conteos por page_id.
 
 **Señales del día RO 2026-11-20**
