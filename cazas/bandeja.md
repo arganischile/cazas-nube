@@ -740,6 +740,22 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+**CO 2026-11-20 (tarde) · Packs de concurso docente / PIAR / procuraduría «a $10.000 COP» — Imperio Digital** · `packs-concurso-docente-co` · `sin-revisar` · ⚠ multi-SKU, formato por confirmar
+- Qué es: packs baratos para docentes colombianos: «Pack Plaza Docente 2027 a $10.000», «Pack PIAR Listo a $10.000» (plan de ajustes razonables, educación inclusiva) y «Pack Procuraduría 2026 a $10.000» (≈ 2,5 USD cada uno). Formato (PDF/Drive) no visible por API; título = oferta lista para usar.
+- Por qué es ganador: cohorte 19/25 en CO (exacto, 25 < 50) de un solo page_id (p. 1063181760202096): Plaza Docente 8, Procuraduría 6, PIAR 5; ≥ 5 fechas de creación (11-04 → hoy) + 6 ads nuevos de hoy = operador vivo; ad más viejo ~16 d. Marca de tienda, sin cara. Vecino con la misma oferta: Casa Grande Colombia «MegaPack Concurso Docente» $26.000 COP, 4/4 (~16 d). (Otra página «Imperio Digital» p. 1215061158358926 es zombi, 0/24: no confundir.)
+- Qué hacer: modelar tal cual (pack descargable «listo para el concurso/trámite» de bajo precio, un SKU por trámite) · destino sugerido: **IT** (concorso docenti: competidores con curso live o mapas a USD, casi nadie con pack barato) y **BR** (concursos / plano de ensino inclusivo) · ángulo: precio-ancla bajo + «actualizado 2027».
+- Ads Library CO: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1063181760202096
+- Landing: no verificada (la API no trae URL); confirmar en la PC que es PDF y no curso/asesoría, y el cierre (checkout o WhatsApp).
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (~16 d en el ad más viejo; ≥ 3 fechas distintas y ads de los últimos 30 d), snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-20-co-B-perforar-concurso-docente-tarde.md`
+- Score —/4 · escalera n/e · Decisión: —
+
+**Señales del día CO 2026-11-20 (tarde)**
+- Atril Estudio (p. 1282575998279080): 0/50 piso, todos los ads de 11-17→20, títulos solo «⭐ 4,9/5», USD; producto sin identificar; re-medir ~11-27.
+- Cuaderno de Contabilidad (p. 1402985052905031): ≈ 20 ads ≤ 4 d, es una APP de 16 materias (como Cuaderno de Medicina - APP); cohorte 0.
+- Digital Web (p. 876760445530344): 3/21 (3 ads de ~140 d «por solo 20 mil pesos» + tandas de hoy «¡Preparate desde ya!»); no pasa.
+- Academia del Masaje y Bienestar (p. 1141622629043902): 0/6, «Guía en PDF x 20.000 pesos», ads de hoy; re-medir ~11-27.
+- Concorsi in Mappe (IT, USD): ≥ 9 ads de ~9-17 d, mapas para concorso docenti (ya cubierto por mapas-visuales); Ikigai Reborn 0/12 (Excel, hoy).
+
 **CO 2026-11-20 · Pack de «100+ fichas» de fotografía con el celular (modo AUTO → manual, noche, tormenta, fiesta, estrellas) — Fichas Foto Pro** · `fichas-fotografia-celular-co` · `sin-revisar`
 - Qué es: pack digital de «108 / 100+ fichas para sacar fotos como un pro» con los ajustes exactos por situación (noche y ciudad, tormenta con trípode, fiesta sin flash, estrellas, familia, ventanilla de avión); ofertas «85 % OFF». Formato presumible PDF/fichas imprimibles; precio y entrega no visibles por API. Ads en USD, copy neutro.
 - Por qué es ganador: cohorte 21/27 en CO (exacto, 27 < 50) de un solo page_id (p. 1393955837139841); 5 tandas de creación distintas (≈10-30, 11-01, 11-03, 11-08, 11-12) más 6 ads nuevos de ~4 d (11-16) = operador vivo; ad más viejo ~21 d (creado 10-30, entregando desde 10-31). Página de marca, sin cara ni nombre de persona. Mismo juego de 27 ads también en MX.
