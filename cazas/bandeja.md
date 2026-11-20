@@ -26,6 +26,13 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-20 (mañana): nada que pase la vara; se barrió preparacion-72h-apagon (kit sobrevivência apagão), habito-parar-de-fumar-corrida-5k (parar de fumar, kit corredores, plano treino corrida), ebooks-autismo-tdah (TDAH ebook, cardápio autismo) y guia emergência família pdf (BR+PT).
+**Señales del día BR (2026-11-20, mañana, B perforar):**
+- Red kit 72 h: Protocolo ARCA (1467498133108925) 0/11 (8 ads del 11-18 + 3 de ~5,5 d), Modo Sobrevivencia 0/3 (USD), Primecentral ≥14 de 11-18/20 pero kit físico; ninguna con cohorte; re-medir ~11-25.
+- Rotina Leve TDAH (1381451991726508) 0/3, «Mente Sem Caos — Guia de Foco para Adultos», ads de ~1 d; Rhema Neuroeducação ~35 ads de formación/inscripción (no PDF).
+- Kids Aprende (989702154235166) 2 ads de ~35 d a R$ 27 (autismo/infantil), total 2: tester sin cohorte.
+- Corrida y parar de fumar: sin infoproducto con cohorte; Maria Eduarda (Kit Corredores R$ 5) no apareció entre los 50 más nuevos, falta su page_id para re-medir.
+
 BR 2026-11-19 (tarde): nada que pase la vara; se barrió bordado-papel-natal-nannyvarie (bordado em papel, ponto cruz gráficos, artesanato natalino molde, cartões Natal bordados, bordado chinês, bordado russo; PT papel linha/bordado em papel) + 12 conteos por page_id.
 **Señales del día BR (2026-11-19, tarde, B perforar):**
 - Nannyvarie 39/45 (ya con tarjeta): un solo creativo en 3 tandas, embudo no verificado; re-medir ~11-30.
