@@ -98,3 +98,5 @@
 ## [2026-11-20] caza-auto | RO B perforar biologie-liceu-ready-resources / atlas-psicoterapia-ro / nursing-ghiduri-ro → 0 candidatos a bandeja
 
 ## [2026-11-20] caza-auto | MX C operadores → 0 candidatos a bandeja
+
+## [2026-11-20] caza-auto | CO A huella → 2 candidatos a bandeja

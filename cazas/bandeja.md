@@ -669,6 +669,32 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+**CO 2026-11-20 · Pack de «100+ fichas» de fotografía con el celular (modo AUTO → manual, noche, tormenta, fiesta, estrellas) — Fichas Foto Pro** · `fichas-fotografia-celular-co` · `sin-revisar`
+- Qué es: pack digital de «108 / 100+ fichas para sacar fotos como un pro» con los ajustes exactos por situación (noche y ciudad, tormenta con trípode, fiesta sin flash, estrellas, familia, ventanilla de avión); ofertas «85 % OFF». Formato presumible PDF/fichas imprimibles; precio y entrega no visibles por API. Ads en USD, copy neutro.
+- Por qué es ganador: cohorte 21/27 en CO (exacto, 27 < 50) de un solo page_id (p. 1393955837139841); 5 tandas de creación distintas (≈10-30, 11-01, 11-03, 11-08, 11-12) más 6 ads nuevos de ~4 d (11-16) = operador vivo; ad más viejo ~21 d (creado 10-30, entregando desde 10-31). Página de marca, sin cara ni nombre de persona. Mismo juego de 27 ads también en MX.
+- Qué hacer: modelar tal cual (un pack de ~100 fichas «situación → ajustes de la cámara del celular», ángulos por ocasión: noche, fiesta, familia, viaje) · destino sugerido: **IT** y **RO** (0 anunciantes en `schede fotografia smartphone` y `fotografie telefon ghid`); BR tiene testers chicos (Lucas Ferreira «Colinhas de Fotografia» 9 ads ~9-12 d, USD; Beatriz Nogueira 1 ad) y FR uno (Ethan Miller «130 fiches mémo photo», 1 ad) · ángulo «sal del modo AUTO».
+- Ads Library CO: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1393955837139841
+- Landing: no verificada (la API no trae URL); precio, formato (PDF vs web) y cierre por confirmar en la PC.
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (~21 d en el ad más viejo; ≥ 3 fechas distintas y 6 ads de los últimos 30 d), snapshot no verificado.
+- Score —/4 · escalera n/e · Decisión: —
+
+**CO 2026-11-20 · Curso de microcemento + manuales PDF de proyectos (PVC, madera, «220 problemas de la casa», resina) — ProCemento Academy** · `cursos-oficios-casa-procemento-co` · `sin-revisar` · ⚠ multi-SKU, creativos mezclados ES/EN, curso (¿grabado?) + PDFs
+- Qué es: «Curso de Microcemento» («aprende desde cero», diploma y 4 bonos incluidos) y manuales descargables: «120 proyectos con tubos de PVC con plano», «114 proyectos en madera, descarga el manual», «CODEX DOMUS · 220 problemas de la casa resueltos», «Resin Art: curso completo / 220 páginas, 20 proyectos y 5 bonos». Precio y formato del curso (¿video grabado o PDF?) no visibles por API; ads en USD.
+- Por qué es ganador: cohorte 31/37 en CO (exacto, 37 < 50) de un solo page_id (p. 1144362855430080); solo creativos en español 7+ d = 14 (microcemento 6, CODEX 3, PVC 3, resina 2); microcemento sumando ES+EN ≈ 14-15; ≥ 8 fechas de creación (≈10-27 → 11-16), 5 ads nuevos de ~4,5 d, ad más viejo ~24 d = operador vivo. Página de marca (academia), sin cara.
+- Qué hacer: modelar tal cual (mini-curso grabado de microcemento/reformas + manuales PDF de proyectos con planos) · destino sugerido: **FR** (0 anunciantes de microcemento en `microcement cours`) y **RO** (solo Kalus KolorTechnology, masterclass presencial, 1 ad); BR/PT casi vacío (GonbriMarketing 1 ad, KCberry 1 ad); IT ya lo corre el mismo operador (3 ads) · ángulo «renueva sin romper nada / el acabado que todos quieren en tus manos».
+- Ads Library CO: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1144362855430080
+- Landing: no verificada (la API no trae URL); si el curso es en vivo o con sede, cae del gate: verificar en la PC antes de decidir.
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (~24 d en el ad más viejo; ≥ 3 fechas distintas y ads de los últimos 30 d), snapshot no verificado.
+- Score —/4 · escalera n/e · Decisión: —
+
+**Señales del día CO 2026-11-20**
+- Edu Digital (p. 100629922105479): 133 est. activos; «La Mente Estoica · 6 libros en PDF» ≥17/50 piso por creación (≥11 contando por inicio de entrega; 68 est. solo en esa keyword), más «La Mente del Estratega» 6 libros, «La Mente Rica» 8 libros (tanda de hoy) y «plan de 28 días para dejar de gritar»; USD, creativos «⭐⭐⭐⭐⭐», ad más viejo ~10 d. Pasaría la vara pero quedó fuera por el tope de 2 tarjetas; verificar en la PC si son libros de dominio público; re-medir ~11-24.
+- Claudia Martínez (p. 1265437339993837): 9/9 «Fichas Educativas para Aprender en Casa» (BRL), pero el más nuevo se creó hace ~45 d: posible zombi, no pasa.
+- ObraClara (p. 1358456670695134): 0/3, «Manual Visual de Interventoría · COP 27.900» (PDF, precio piso COP 27.900), ads de ~2 d; re-medir ~11-27. Manos a la obra (p. 1094186803771015): 1 ad «El Mapa del Inverter · US$ 24».
+- Saber Pro (p. 1352943901243014): 0/9 («Más de 1.000 estudiantes», USD, ≤ 3,9 d); Educa Con Amor (p. 608263879048098): 1/8 (ads de 1-4 d, «No estará disponible por mucho tiempo»); Alma Digital Creativa (p. 1157994927395423): 0/3 «Manual para trabajar la ansiedad en sesión» (clon del molde kits psicólogos).
+- Adiestramiento canino: Kelly Dias y Lucas Silva (BRL, «Adiestramiento Canino en Casa: Guía Práctica») 0/4 de hoy; E-Pet (p. 1366942443174363) 0/3 «plan de 21 días + videos» de ~1,6 d; re-medir ~11-25.
+- Descartes por tipo: Grupo Futura («Primero recibe, luego paga») = pago contra entrega, probable físico; Crochet - Amigurumis - Trapillo (crochet, excluido) ignorado.
+
 **CO 2026-11-19 (tarde) · Packs de moldes de costura en PDF por tema (bebés, novia, quinceañera, pijamas, mascotas…) — Arte en Tus Manos** · `moldes-costura-pdf-co` · `sin-revisar` · ⚠ multi-SKU
 - Qué es: packs de «N moldes de <tema>» (50 de ropa para bebés, 50 de pijamas familiares, 40 de ropa deportiva, 30 de trajes de baño, 30 de vestidos de quinceañera, moldes para vender bolsos, 50 para perros, colección de patrones de novia), 8 SKUs por tema/ocasión. Formato presumible PDF imprimible; precio y entrega no visibles por API. Ads en BRL con creativos en español.
 - Por qué es ganador: cohorte 33/40 en CO (exacto, 40 < 50) de un solo page_id (p. 1350045274849539); 8 temas con 3-6 ads de 7+ d cada uno, 6 fechas de creación distintas (≈10-27 → 11-12, ad más viejo ~23 d), 7 ads nuevos de 5 d y 1 de 1,5 d = operador vivo. Sin cara ni nombre de persona (página de marca). El mismo operador no se vio en PT; la categoría ya tiene operadores en BR, IT y FR.
