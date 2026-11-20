@@ -186,6 +186,13 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-20: nada que pase la vara (modo C, 10 operadores re-medidos; sin cohorte nueva ≥10 fuera de las que ya tienen tarjeta).
+**Señales del día IT (mañana) 2026-11-20**
+- Studio Quadri (721617357705716): ≥28/50 piso (170 est.; antes 11/50), 3 tandas 11-09/11-12/11-16, título «Progetta i tuoi quadri in 15 minuti» (USD); ya tiene tarjeta, oferta aún sin identificar; verificar en la PC.
+- Metodo Universitario (1512954825682163): ≥20/50 piso (123 est.), método OCME; ya tiene tarjeta.
+- Giulia Ferraresi (1299765756564104): 0/50 visibles (los 50 más nuevos ≤ 6 d, 166 est.); cohorte vieja fuera del tope.
+- Silvia Moretti: 0/50, lote nuevo «31 fiabe kamishibai 6,90 €» desde 11-17; Digital Corner 0/41 (cruza 7 d ~11-21); Martina Rossi 0/49 (≤ 6,4 d); Acordes en Claro 0/50 (≤ 6 d); Crescere Giocando 7/8; Rafael Piano Fácil 10 en italiano.
+
 ### 🎯 +300 progetti da costruire (kit de proyectos DIY para niños/familias) — Accademia Creativa IT · `progetti-diy-bambini-accademia-creativa` (nodo nuevo) · 2026-11-19 (tarde) · sesión IT
 - **Qué es:** colección de «+300 progetti da costruire con le sue mani» / «Dal cartone al robot, passo dopo passo» (niños sin pantalla, materiales reciclados; sub-líneas de legno y cucito creativo); formato (PDF/curso/kit físico) y precio no visibles por API (cuenta en USD).
 - **Por qué es ganador:** 18 de 50 ads activos en IT con 7+ días (66 est.; piso del API), un solo page_id; 10 de «+300 progetti» y 7 de «Dal cartone al robot»; 10 fechas de creación distintas, de ≈16 d a ≈1 d, ads nuevos hoy; longevidad máx. ≈16 d por API; nombre de marca, no de persona. Mismo molde en otros operadores: Creativita Potenziata «+350 progetti» (3 ads ≤ 2 d) e InventaLab «120 progetti con materiali di casa».

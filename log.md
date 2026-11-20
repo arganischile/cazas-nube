@@ -90,3 +90,5 @@
 ## [2026-11-19] caza-auto | CO B perforar moldes-costura-pdf-co (tarde) → 2 candidatos a bandeja
 
 ## [2026-11-20] caza-auto | BR B perforar preparacion-72h-apagon / habito-parar-de-fumar / ebooks-autismo-tdah → 0 candidatos a bandeja
+
+## [2026-11-20] caza-auto | IT C operadores → 0 candidatos a bandeja
