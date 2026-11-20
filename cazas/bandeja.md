@@ -439,6 +439,15 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-20: nada que pase la vara; se barrió Ready Resources (biologie), rezumate bac română, fișe chimie fizică clasa, evaluare națională pdf, planșe biologie anatomie (0), ghid nutriție pdf, caiet matematică clasa (ALL), lei ghid complet descarcă + 4 conteos por page_id.
+
+**Señales del día RO 2026-11-20**
+- Atlas Terapeutic Vizual (1408033785736088, ya con tarjeta del 11-16): ≥ 20/69 con 7+ d (piso, 50 devueltos; ARS; antes 11/50 y 17/50), sigue creando ads hoy; re-medir ~2026-11-26.
+- Ready Resources (1440348585824077, Biologie clasa a IX-a): 0/32 (el más viejo ≈ 6,5 d; 16 ads de hoy, USD); 3 ads cruzan 7 d el 11-21 y 12 el 11-23 → re-medir ~2026-11-23.
+- Pagina de Nursing (340055433511635): 21/21 con 7+ d en RON (BF −70 % ≈ 16 d + 14 ads de ≈ 52 d), pero mezcla físico (clipboards, insignias, paquetes) y «ghiduri ilustrate»: sigue sin tarjeta hasta verificar en la PC si el guion es PDF.
+- Ghețu Octavian David (103492232688691): 0/50 piso (53 est.), tanda entera de hoy, lecciones de matemática a 49 lei y simulări a 99 lei por capítulo/clase; nombre de persona (marca personal probable) → solo señal de demanda.
+- Genius Bac 0/3 y Genius Mentor (RON, ads del 11-17/18), SuperȘcoala 7 ads (plataforma de clases, no PDF), Faunus Plant ≈ 8 ads de ≈ 51 d (libros de salud, ¿suplementos?), Sorin Iacob 0/2 (marca personal): sin cohorte.
+
 ### 🎯 Dosarul Familiei (organizador de documentos para la familia tras un fallecimiento) — Mente que sana RO · `dosar-familiei-mente-que-sana-ro` · 2026-11-19 (tarde) · sesión RO
 - **Qué es:** «Dosarul Familiei» / «caietul» donde el jubilado deja ordenados cuentas, actas, contactos e instrucciones para que los hijos no queden perdidos tras un deceso (ángulo storytelling: «Caietul tatei era gol», «Ce face banca când află de decesul titularului?», «5 telefoane pe care va trebui să le dea copiii»). Formato (PDF imprimible vs cuaderno físico) y precio no visibles por API.
 - **Por qué es ganador:** cohorte 10/46 activos con 7+ días de un solo page_id (los 10 creados el 11-12, ≈ 7,7-8 d; justo en la vara) · 5 fechas de creación distintas (11-12, 11-13, 11-16, 11-17, 11-19) y ~15 ads nuevos hoy → operador vivo · 110 ads en ALL · página de marca, sin cara · creativos 100 % en rumano, USD (operador de otro mercado) · variantes con ángulos distintos, señal de testeo activo.
