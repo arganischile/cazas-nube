@@ -26,6 +26,21 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Manual Visual por oficio (R$ 37,90) — Ideias Práticas BR · `manuais-visuais-oficios-ideias-praticas-br` · 2026-11-21 · sesión BR
+- **Qué es:** manuales visuales por oficio a R$ 37,90 en el título del ad (Costura Industrial, Fôrma e Ferragem, Caminhoneiro, Soldador, Instalador de Energia Solar; Gestor de Frota R$ 47,90); formato PDF no verificado.
+- **Por qué es ganador:** 19 de ≥50 anuncios activos con 7+ días (piso, 51 est.; 7 Costura, 7 Fôrma, 5 Caminhoneiro), un solo page_id, 3 fechas de creación (11-13, 11-16/17, 11-18; operador vivo), página de marca sin cara, multi-SKU. Flag: los 19 de 7+ d son de la tanda del 11-13 y cruzaron los 7 d hace menos de un día; moneda del ad USD (operador de otro mercado, precio en BRL en el creativo); 0 en PT/IT/FR/RO/MX/CO para esta página.
+- **Qué hacer:** verificar en la PC embudo, formato (¿PDF?) y precio; si limpia, modelar «Manual Visual del <oficio>» con oficios locales. Mismo molde en MX (Vida Práctica, `manuales-visuales-oficios-mx`) y en FR (`manuels-atelier-mecanique-fr`): destino sugerido PT/IT/FR/RO. Ángulo: oficio concreto + precio bajo en el título.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1456766554178326>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Snapshot: https://www.facebook.com/ads/library/?id=1154636764135196
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-21-br-B-planilhas-reforma-tributaria-vgl-tarde.md`
+
+**Señales del día BR (2026-11-21, tarde, B perforar planilhas-reforma-tributaria-vgl-br):**
+- VGL Treinamento Digital (101918672390936): 34/50 piso con 7+ d (91 est.); SKU nuevos hoy: Escala 5x2, Calculadora do Simples, Fator R, Honorários contábeis (tarjeta del 11-19 sigue en pie).
+- Red «Reforma Tributária» (533770673729129): 40 ads del kit «10 planilhas prontas para contadores» creados 11-19/20, 0/50 con 7+ d; Descomplicando a Reforma 14 ads (~2,5 d), Simples na Reforma 8, Kit MEI 2027 3: ninguna con cohorte; re-medir ~11-27.
+- Arte Wisdom 9/17 (los 2 ads de ~6,7 d cruzan 7 d mañana ~08:00; los 9 son ads sueltos de abril-nov): no pasa hoy; re-medir ~11-22/23.
+- Vitor.planilhas (PT, finanzas personales, BRL) 4 ads ≤ 3 d; `planilha folha pagamento` y `planilha contadores` = SaaS y consultorías.
+
 BR 2026-11-21 (mañana): nada que pase la vara; se barrió C operadores/agenda: 9 operadores BR por page_id (Arte Wisdom, Camila Maia, Edital Master, Guia dos Benefícios, Pérola, Mapas e Guias Visuais, Tudo sobre unhas, Riscos para Bordar, Ryu Nakamura) + agenda Pflegelernzettel (DE → PT: Mesa Ligera, FemBooks, PathoCards).
 **Señales del día BR (2026-11-21, mañana, C operadores):**
 - Arte Wisdom (1055208387665683) 9/20: 2 ads cruzan 7 d hoy ~14:00 → 11/20 en la tarde (BRL, «Bordados de Refúgio no Papel»; ads sueltos de abril-agosto: ojo con el efecto «ad viejo»); candidato a tarjeta si la tarde lo confirma con ≥ 3 fechas de creación y ≥ 1 ad reciente.
