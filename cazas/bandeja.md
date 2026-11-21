@@ -868,6 +868,14 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-21 (tarde): nada que pase la vara; se barrió cuaderno contabilidad, teoría musical colores, plantillas pdf descarga inmediata, pack digital pesos, ebook guía descargable.
+
+**Señales del día CO 2026-11-21 (tarde)**
+- Creaciones Sencillas (p. 1269114056280445): 13/16 en CO (COP, «Por solo $10.000 pesos», 9 ads de ~11,6 d + 3 de ~1,6 d); cruza la cohorte pero la API no dice qué vende y no hay URL: identificar en la PC antes de tarjeta.
+- Wellness Library (p. 1054409421089905): 11/15 en CO (COP, «¿Podrás Resolverlo?», «Acceso Inmediato», Navidad); cruza la cohorte, formato sin identificar (si son pasatiempos para mayores cae en excluidos): verificar en la PC.
+- Estudio Contable Online (p. 1216662331539709): 0/12 (12 ads de hace ~14 h, «Método Contabilidad Práctica® · 7 cuadernos + 8 bonos», USD); re-medir ~11-29.
+- Andrea Ramírez (p. 517558844763591): 0/12 (50 plantillas PDF / 500 moldes, USD, ≤ 4,9 d); sube a 10 ~11-26.
+
 CO 2026-11-21: nada que pase la vara; se barrió planeaciones docentes, entrenamiento perros, guía mascotas, recursos docentes, tarot, biblioteca digital pdf, patrones bordado.
 
 **Señales del día CO 2026-11-21**

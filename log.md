@@ -130,3 +130,5 @@
 ## [2026-11-21] caza-auto | FR B manuels-atelier-mecanique-fr (tarde) → 1 candidato a bandeja
 ## [2026-11-21] caza-auto | RO B perforar contabilidad-cuadernos-ro / libros-regalo / plantillas-postari-agende-ioana-dumitrescu-ro (tarde) → 1 candidatos a bandeja
 ## [2026-11-21] caza-auto | MX B perforar material-docentes-planeaciones-mx (tarde) → 1 candidatos a bandeja
+
+## [2026-11-21] caza-auto | CO B perforar re-mediciones+huellas (tarde) → 0 candidatos a bandeja
