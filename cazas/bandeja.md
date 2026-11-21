@@ -217,6 +217,30 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-21: 2 tarjetas.
+### 🎯 Kit dell'Elfo · 24 notti già pronte (kit navideño del elfo, 24 noches) — La casa dell'elfo IT · `elfo-natale-kit-24-notti-it` (nodo nuevo) · 2026-11-21 · sesión IT
+- **Qué es:** «Kit dell'Elfo: 24 notti già pronte», kit de ideas/cartas del elfo navideño para padres (24 noches hasta Navidad); el mismo producto lo corren Digital Soul («24 mattine magiche a 19 €», CLP), Daily Finds Hub y Livideum; formato (PDF imprimible vs físico) sin confirmar.
+- **Por qué es ganador:** ≥ 22 de 50 ads activos con 7+ días en IT (50 = piso, est. 71), un solo page_id, EUR; ≥ 10 fechas de creación y lote nuevo el 11-20; longevidad máx. ≈ 22 d por API; 3-4 operadores más con el mismo kit (señal de mercado).
+- **Qué hacer:** verificar en la PC formato real y checkout; si es PDF, modelar kit de 24 días del elfo para FR/PT/BR/RO; ventana estacional hasta 24-dic: decidir pronto o esperar a 2027.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1483703581493623>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=2256532638623269
+- Score 2/4 provisorio (cohorte y longevidad OK; embudo sin ver; estacional) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-21-it-A-huella.md`
+
+### 🎯 Libreria Didattica Infinita (schede/quaderni didácticos para docentes y familias) — L'angolo del Docente IT · `libreria-didattica-angolo-docente-it` (nodo nuevo) · 2026-11-21 · sesión IT
+- **Qué es:** acceso a una «libreria didattica» (Quaderno dei Genietti, libro de matemática, schede didattiche, diario de gratitud) con el gancho «Fino al 70% di SCONTO»; EUR; oferta y precio sin confirmar.
+- **Por qué es ganador:** 17 de 18 ads activos con 7+ días en IT (18 < 50 = conteo completo), un solo page_id; página activa por tandas desde abril 2026 (≥ 10 fechas), último lote 11-16/11-20; longevidad máx. ≈ 7 meses de recurrencia por API.
+- **Qué hacer:** verificar en la PC qué se vende y a qué precio (¿membresía, pack PDF?); si es pack imprimible de bajo ticket, modelarlo para otro mercado destino (FR/PT/BR/RO); cuidado: el copy solo muestra descuento, no el producto.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=482856914921272>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=1188595966901595
+- Score 2/4 provisorio (cohorte OK; oferta sin identificar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-21-it-A-huella.md`
+
+**Señales del día IT 2026-11-21**
+- Impulso Digital (p. 1200804286458567): manual de ventilación mecánica (UCI), 9/22; 5 ads cruzan 7 d mañana → re-medir 11-22.
+- Studio Facile (p. 1232011766670582): 0/50 piso, mapas ilustradas, todo ≤ 1,2 d; Udemia.IA 0/30 (curso IA, ≤ 4 d).
+- Digital Soul (p. 1204207826115689): mismo Kit dell'Elfo a 19 € (CLP), 8 ads de 3-8 d, < 10.
+
 IT 2026-11-20 (tarde): 1 tarjeta.
 ### 🎯 Kit Formazione Sicurezza 2026 (slides/manuales para formadores de seguridad laboral y 118) — Digital solutions IT · `sicurezza-lavoro-slide-digital-solutions` · 2026-11-20 (tarde) · sesión IT
 - **Qué es:** kit de «+1.200 slide in 46 corsi» de sicurezza sul lavoro con registro, test y attestato «già pronti» a **17,90 €**; la misma página vende «Dal corso all'ambulanza, in un solo manuale» (soccorso/118) y «120 prompt per ingegneri» (multi-SKU); formato (PPT/PDF descargable) y checkout no visibles por API.
