@@ -538,6 +538,21 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Gata de Predat™» — planificări, fișe și bonusuri por materia para profesores — Edulabs Resources RO · `plantillas-profesori-gata-de-predat-ro` · 2026-11-21 · sesión RO
+- **Qué es:** pack digital imprimible para docentes por materia («Ora de consiliere», Informatică, Religie, Română, fizică-chimie… «6 volume + 5 bonusuri», «tot anul… gata de predat»); multi-SKU con la misma plantilla. Precio y formato exacto no visibles por API.
+- **Por qué es ganador:** cohorte **13/29** activos con 7+ días de un solo page_id contando solo creativos en rumano (21/29 con 7+ d en total; más viejos ≈ 16 d) · 9 fechas de creación distintas y 2 ads nuevos del 11-20/21 → operador vivo · página de marca, sin cara · sube desde 9 rumano verificado el 11-18 · aviso: 7 de los 13 cruzaron 7 d solo ~3-4 h antes de la medición (8 holgados) · USD (operador de otro mercado).
+- **Qué hacer:** modelar el pack «<materia> gata de predat» (planificare anuală + fișe + 5 bonusuri) para profesores de gimnaziu/liceu · destino RO; luego llevarlo a PT/BR (professores), IT (docenti) y FR · ángulo: «tot anul planificat, gata de predat» + bonusuri · verificar antes formato/precio en la PC.
+- **Ads Library:** [RO · Edulabs Resources](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1057793390758198)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir.
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 3/4 · Decisión: —
+
+**Señales del día RO 2026-11-21 (mañana, modo C)**
+- Mente que sana (1090738757452147, ya con tarjeta del 11-19): sube a ≥ 20/67 con 7+ d (piso, 50 devueltos; antes 10/46), ~14 ads nuevos del 11-20/21; re-medir ~11-25.
+- Atlas Terapeutic Vizual (1408033785736088, ya con tarjeta del 11-16): ≥ 45/72 con 7+ d (piso, ARS); sigue creando ads.
+- Tuformulaexactashop (1332330876634506, ya con tarjeta del 11-19): **0 activos** (ALL 169, último creado ≈ 11-18): apagó todo; la tarjeta queda como cementerio.
+- Ready Resources: 1/42 con 7+ d; 14 ads de 11-17/18 cruzan 7 d el 11-24. Kit Online: 0/82 (tandas del 11-20/21 en HU/CZ/EN/HE/RO).
+- Genius Bac/Genius Mentor (RON): venden libros (cărți de BAC/Evaluare, «plătești la ușă»): físico, no pasa el gate. Contador en Acción 0/9 (≈ 5,5 d).
+
 RO 2026-11-20 (tarde): nada que pase la vara; se barrió fișe tulburări, cărți cadou, ilustrat cadou, fișe psihologie + conteos por page_id (Harta Tulburărilor 0/5 ACTIVE, Clearpage Books 0/30, In pictures books 4/4, Caietul Studentului 0/14).
 Señales del día RO: Harta Tulburărilor apaga sus tandas de 3-4 d (≈185 ALL, 0 activos con 7+ d); red del molde «+ 2 cărți cadou» (Clearpage Books, In pictures books, Rowan House, Skills Illustrated) todo en tandas diarias, ninguna ≥ 10; Materiale Gata 0/4.
 
