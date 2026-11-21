@@ -112,3 +112,5 @@
 ## [2026-11-20] caza-auto | MX B perforar huellas nuevas (devocional) (tarde) → 1 candidatos a bandeja
 
 ## [2026-11-20] caza-auto | CO B perforar cuadernos-contabilidad-atril-co + packs-concurso-docente-co (tarde) → 1 candidato a bandeja
+
+## [2026-11-21] caza-auto | BR C operadores/agenda (sáb) → 0 candidatos a bandeja

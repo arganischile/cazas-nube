@@ -26,6 +26,13 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-21 (mañana): nada que pase la vara; se barrió C operadores/agenda: 9 operadores BR por page_id (Arte Wisdom, Camila Maia, Edital Master, Guia dos Benefícios, Pérola, Mapas e Guias Visuais, Tudo sobre unhas, Riscos para Bordar, Ryu Nakamura) + agenda Pflegelernzettel (DE → PT: Mesa Ligera, FemBooks, PathoCards).
+**Señales del día BR (2026-11-21, mañana, C operadores):**
+- Arte Wisdom (1055208387665683) 9/20: 2 ads cruzan 7 d hoy ~14:00 → 11/20 en la tarde (BRL, «Bordados de Refúgio no Papel»; ads sueltos de abril-agosto: ojo con el efecto «ad viejo»); candidato a tarjeta si la tarde lo confirma con ≥ 3 fechas de creación y ≥ 1 ad reciente.
+- Camila Maia 7/21 y Edital Master 9/17 (ya con tarjeta): Camila cruza a 10 en la tarde; Edital Master bajó de 12/50 por churn de tandas.
+- Pflegelernzettel → PT: hueco abierto; Mesa Ligera 3/30 (multi-SKU, EUR), FemBooks 0/5 y PathoCards 1 activo (USD): sin clon con cohorte; DE 20/29 estable. Re-fechado +4 semanas.
+- Tudo sobre unhas 0/50 piso (120 est., ≤ 3,7 d: churn de tandas multi-SKU), Riscos para Bordar 0/8, Pérola 0/6, Guia dos Benefícios 6/6, Mapas e Guias Visuais 2/18 (un SKU), Ryu Nakamura 1.204 est. (0/50 visibles, todo de ayer, marca personal probable). Informe: `RAW/cazas-auto/2026-11-21-br-C-operadores-agenda.md`
+
 ### 🎯 Caderno Mapeado (revisión por concurso) — Caderno Mapeado BR · `concursos-caderno-mapeado-br` · 2026-11-20 · sesión BR
 - **Qué es:** material de revisión por concurso/edital («revise em 7 dias», «estude o edital em 30 dias», material + cronograma + bônus) a ~R$ 127 según el título de un ad; formato PDF/cuaderno no verificado.
 - **Por qué es ganador:** cohorte 7+ ≥ 23 / 50 visibles (88 est. activos, piso) · ads creados 11-08 → 11-17 en ≥ 6 fechas · ads por concurso (SEAP MA, PM SC, SEPLAG RJ, Curitiba, ALEPA, CETESB, PC AC, Mossoró, CGU…) = fábrica multi-SKU · longevidad por API ≤ 12 d (snapshot no verificado) · PT = 0 con ALL.
