@@ -120,3 +120,5 @@
 ## [2026-11-21] caza-auto | FR B perforar manuels-illustres-concours-fr → 1 candidatos a bandeja
 
 ## [2026-11-21] caza-auto | RO C operadores → 1 candidatos a bandeja
+
+## [2026-11-21] caza-auto | MX A huella → 0 candidatos a bandeja

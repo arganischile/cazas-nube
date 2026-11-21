@@ -651,6 +651,14 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+MX 2026-11-21: nada que pase la vara; se barrió planner financiero pdf, checklist descargable, kit emprendedores plantillas, guía imprimible descarga inmediata, pdf bonos acceso inmediato, libro digital lectoescritura niños, diario de gratitud pdf + 10 conteos por page_id.
+
+**Señales del día MX 2026-11-21**
+- Lluvia De Ideas (707501732443481): 33/33 activos en MX pero todos creados 02-22 → 03-16 (ninguno en 30 d): posible zombi, no pasa; «⭐ 4.9/5.0» + plantillas `{{product.name}}`, qué vende no se sabe.
+- Sueño en Orden (1399640846569620): 7/7 a 8-8,9 d («Kit Sueño en Orden + 5 bonos», BRL, 2 fechas de creación); < 10; re-medir ~11-25.
+- Camino de Fe (102584108776517): 2/7, devocional MXN; 5 ads de ~5 d cruzan 7 d ~11-23 (ligar con Luz de mi Ángel); re-medir ~11-24.
+- Kits Digitales Pro (476720612188926): 4/4 («Kit de IA Pro +101 cursos + app», MXN, 15-53 d); Estrategia Clara 2/22 (tanda de hoy); Digital Future 0/5 (315 mapas Ing. Civil, clon de Mente Académica, USD, ≤ 1,4 d); Audio PRO 0/2 (30 mapas de mezcla para iglesias, ligar con classeur-antiseche-mixage FR); Desbloqueatupoder11 ≥12 ads de ≤ 1,8 d (diario imprimible 21 días, USD).
+
 ### 🎯 Devocional «30 Días con tu Ángel de la Guarda» + oración de 5 minutos — Luz de mi Ángel MX · `devocionales-oracion-luz-de-mi-angel-mx` · 2026-11-20 (tarde) · sesión MX
 - **Qué es:** devocional de oración en formato probable PDF/app («30 Días con tu Ángel de la Guarda», «5 minutos de oración cada mañana», «Fe y orden en el hogar», «Salmo 91:11»); moneda BRL (operador brasileño que corre en español para MX); precio no visible.
 - **Por qué es ganador:** cohorte 17 / 28 activos en MX con 7+ días (11,8-13,9 d), un solo page_id (1404192579447962; ACTIVE = ALL = 28), sin cara ni persona; tanda nueva de 11 ads creada el 11-13 que cruza 7 d en horas (operador vivo). **Flags:** los 17 son una sola tanda de creación (~11-06, solo 2 fechas de creación en total: no llega a «≥ 3 fechas»); 2 creativos con ángulo «abuelas» (el producto es devocional, no actividad de adulto mayor: juzgar); formato y precio sin verificar.
