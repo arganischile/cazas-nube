@@ -387,6 +387,20 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «+300 guides visuels de mécanique industrielle» — Tereza Paixão FR · `manuels-atelier-mecanique-fr` · 2026-11-21 (tarde) · sesión FR
+- **Qué es:** guías visuales (fichas ilustradas) de mecánica industrial, «+300 guides visuels»; formato probable PDF; precio no visto (ads en USD). Mismo molde «manual/guía visual del oficio» que Ideias Práticas (BR) y Vida Práctica (MX).
+- **Por qué es ganador:** 17/17 activos con 7+ d en FR, un solo page_id, longevidad ≈22-29 d por API; el mismo ad corre en IT (18 activos), 0 en BR/PT/RO/MX/CO. Flags: solo 2 fechas de creación (10-23 y 10-26; tanda única de 16 ads) y ningún ad creado en los últimos 30 d fuera de esa tanda; el 11-17 hubo 2 ads nuevos ya apagados; nombre de página = persona pero sin cara en los títulos.
+- **Qué hacer:** modelar «Guide visuel du <oficio>» (mecánica, soldadura, electricidad) con oficios locales; destino sugerido BR/PT/RO (Ideias Práticas ya cubre BR; PT/RO libres). FR e IT ya los corre el operador.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=876364375558949>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (digital vs físico, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=4381457428769510
+- Score n/4 (2/4 provisorio: cohorte 17 pero tanda única; embudo y precio sin verificar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-21-fr-B-manuels-atelier-mecanique-fr-tarde.md`
+
+**Señales del día FR tarde (2026-11-21):**
+- Atelier Visuel (1369727526232122): 0/8 (tanda del 11-17/18: poids lourds ×4, pathologies du bâtiment, soudage); re-medir ~11-25.
+- Nodivra Studio (986176944570114): 0/10 (tanda del 11-20, soudure à l'arc 88 fiches); re-medir ~11-27.
+- Étudefacile (1299578486577349) 1 ad «L'électricité, expliquée en dessins» y Laurent Moreau 1 ad; Docautomoto 1 ad (manuales de taller PDF): sin cohorte.
+
 ### 🎯 Packs «40 X prêtes à l'emploi» para docentes (CRPE, secuencias de imágenes, arts plastiques) — Belle Plume FR · `manuels-illustres-concours-fr` · 2026-11-21 · sesión FR
 - **Qué es:** packs de 40 fichas/secuencias listas para usar para docentes de primaria (opositores CRPE, secuencias de imágenes CP-CM2, sesiones de artes plásticas, juegos de lectura CP-CE1, estructuras narrativas); formato digital probable; precio no visto (títulos sin precio).
 - **Por qué es ganador:** 10/18 activos con 7+ d (borde: 7 de los 10 cruzan los 7 d hace horas), un solo page_id, 5 SKUs rotando con el mismo molde, ≥ 5 fechas de creación, ads de ayer (operador vivo); longevidad máx ≈ 8 d por API. El 11-17 tenía 16/18, en 4 SKUs.
