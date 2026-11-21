@@ -808,6 +808,14 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-21: nada que pase la vara; se barrió planeaciones docentes, entrenamiento perros, guía mascotas, recursos docentes, tarot, biblioteca digital pdf, patrones bordado.
+
+**Señales del día CO 2026-11-21**
+- La Isla Mágica (p. 518319738040777): 8/8 en CO (libros de ocultismo «que no quieren que veas», USD, ~57-66 d); cohorte 8 < 10, oferta sin verificar; re-medir ~11-28.
+- A&M Online Store (p. 106346629031352): 6/15 (mapas visuales, MXN, también WhatsApp, 6 ads nuevos de hoy); sube a 10 el ~11-26-28 si los de hoy se sostienen; nicho mapas-visuales-mentales ya en cola.
+- Guías Prácticas Aprendia (p. 1316567128215691): 4/7 (fichas de saneamiento/Res. 0330, MXN); 3 ads nuevos de hoy; re-medir ~11-28.
+- Biblioteca Digital (p. 1364815553385267): 3/7 («por solo 15.000» COP); FisioPack360 0/11 (CLP, ads de ~3 d, 4,9/5) cruza 7 d ~11-24.
+
 **CO 2026-11-20 (tarde) · Packs de concurso docente / PIAR / procuraduría «a $10.000 COP» — Imperio Digital** · `packs-concurso-docente-co` · `sin-revisar` · ⚠ multi-SKU, formato por confirmar
 - Qué es: packs baratos para docentes colombianos: «Pack Plaza Docente 2027 a $10.000», «Pack PIAR Listo a $10.000» (plan de ajustes razonables, educación inclusiva) y «Pack Procuraduría 2026 a $10.000» (≈ 2,5 USD cada uno). Formato (PDF/Drive) no visible por API; título = oferta lista para usar.
 - Por qué es ganador: cohorte 19/25 en CO (exacto, 25 < 50) de un solo page_id (p. 1063181760202096): Plaza Docente 8, Procuraduría 6, PIAR 5; ≥ 5 fechas de creación (11-04 → hoy) + 6 ads nuevos de hoy = operador vivo; ad más viejo ~16 d. Marca de tienda, sin cara. Vecino con la misma oferta: Casa Grande Colombia «MegaPack Concurso Docente» $26.000 COP, 4/4 (~16 d). (Otra página «Imperio Digital» p. 1215061158358926 es zombi, 0/24: no confundir.)
