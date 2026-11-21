@@ -232,6 +232,8 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-21 (tarde): nada que pase la vara; se barrió contabilidad/gestión (autónomos, asociaciones, hogar) y red de mapas concorsi. Señales IT tarde: Giulia Ferraresi ≥18/50 piso (ya con tarjeta); Mappe per Concorsi 0/≥20, Studio Facile 0/≥19, Concorsi in Mappe 0/≥12 (todas tandas ≤ 4,4 d).
+
 IT 2026-11-21: 2 tarjetas.
 ### 🎯 Kit dell'Elfo · 24 notti già pronte (kit navideño del elfo, 24 noches) — La casa dell'elfo IT · `elfo-natale-kit-24-notti-it` (nodo nuevo) · 2026-11-21 · sesión IT
 - **Qué es:** «Kit dell'Elfo: 24 notti già pronte», kit de ideas/cartas del elfo navideño para padres (24 noches hasta Navidad); el mismo producto lo corren Digital Soul («24 mattine magiche a 19 €», CLP), Daily Finds Hub y Livideum; formato (PDF imprimible vs físico) sin confirmar.

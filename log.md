@@ -126,3 +126,4 @@
 ## [2026-11-21] caza-auto | CO B perforar huellas nuevas → 0 candidatos a bandeja
 
 ## [2026-11-21] caza-auto | BR B perforar planilhas-reforma-tributaria-vgl-br (tarde) → 1 candidatos a bandeja
+## [2026-11-21] caza-auto | IT B perforar kit-contabile-pratico-2027-it / red-la-mappa-concorsi-it (tarde) → 0 candidatos a bandeja
