@@ -696,6 +696,21 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Planeaciones, programa analítico y exámenes por trimestre para docentes SEP — SuperEdu MX · `material-docentes-planeaciones-mx` · 2026-11-21 (tarde) · sesión MX
+- **Qué es:** paquetes descargables para docentes de preescolar y primaria alineados a la SEP: planeación mensual y por trimestre («Planeación del Trimestre II para Primaria, de 1° a 6°», «Planeaciones de Diciembre para Preescolar»), Programa Analítico («DESCARGA», «EDITABLE»), exámenes del trimestre y reportes de evaluación del «Primer Momento»; moneda MXN, precio no visible, multi-SKU por periodo y nivel.
+- **Por qué es ganador:** cohorte 19 / 27 activos en MX con 7+ días (9 a 42 d), un solo page_id (1856954204328477; ALL 28), 12 fechas de creación distintas, 8 ads de ≤ 3 d (tanda de diciembre: operador vivo); página de marca, sin cara; se renueva SKU cada trimestre/mes = recompra de la audiencia. Operador distinto de Editorial MD (ya con tarjeta).
+- **Qué hacer:** modelar el pack «planificación + evaluación del periodo» como PDF/Word editable para docentes de FR, IT, RO y BR/PT (ya hay moldes hermanos en la cola: `ressources-enseignants-pretty-little-teacher-fr`, `libreria-didattica-angolo-docente-it`, `plantillas-profesori-gata-de-predat-ro`); MX es fuente. Ángulo: un SKU por periodo escolar (el calendario fuerza la recompra) y el programa/currículo oficial del país ya masticado.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1856954204328477>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL): verificar en la PC formato, precio y si es tienda o suscripción. Snapshot: https://www.facebook.com/ads/library/?id=1100760052813935
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-21-mx-B-material-docentes-tarde.md`
+
+**Señales del día MX (tarde) 2026-11-21**
+- Guía del docente (1026455254031291): 4/8 (kits trimestrales $249 MXN antes $359, preescolar/primaria/secundaria + examen); < 10; re-medir ~11-27.
+- MAETA Crea (1321999554322707): 11/15 con 7+ d (hasta 47 d) pero sin título en ningún ad: oferta no identificada, no pasa el gate; verificar en la PC.
+- Zeroediciones.com (247025560540404): 22/22 pero 17 creados en 2025-09 y el último hace ~34 d: posible zombi, oferta no identificada. Energía Rentable (656438854200927): ≥ 40 ads «Comenta Yo Quiero» de una tanda de ~45 d, ninguno en 30 d: posible zombi.
+- Cuaderno de Derecho (1426557477213473): ≥ 50 ads USD de ≤ 4 d, es una **app** (16 materias, 800 tarjetas), no PDF; re-medir ~11-27.
+
 MX 2026-11-21: nada que pase la vara; se barrió planner financiero pdf, checklist descargable, kit emprendedores plantillas, guía imprimible descarga inmediata, pdf bonos acceso inmediato, libro digital lectoescritura niños, diario de gratitud pdf + 10 conteos por page_id.
 
 **Señales del día MX 2026-11-21**
