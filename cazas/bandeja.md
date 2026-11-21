@@ -370,6 +370,20 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Packs «40 X prêtes à l'emploi» para docentes (CRPE, secuencias de imágenes, arts plastiques) — Belle Plume FR · `manuels-illustres-concours-fr` · 2026-11-21 · sesión FR
+- **Qué es:** packs de 40 fichas/secuencias listas para usar para docentes de primaria (opositores CRPE, secuencias de imágenes CP-CM2, sesiones de artes plásticas, juegos de lectura CP-CE1, estructuras narrativas); formato digital probable; precio no visto (títulos sin precio).
+- **Por qué es ganador:** 10/18 activos con 7+ d (borde: 7 de los 10 cruzan los 7 d hace horas), un solo page_id, 5 SKUs rotando con el mismo molde, ≥ 5 fechas de creación, ads de ayer (operador vivo); longevidad máx ≈ 8 d por API. El 11-17 tenía 16/18, en 4 SKUs.
+- **Qué hacer:** modelar el molde «pack de 40 fichas listas para usar por materia/nivel» para docentes; destino sugerido: IT, RO o PT/BR (cruce ACTIVE = 0 en los cuatro); tratar como par con Pretty Little Teacher (tarjeta del 11-20). No es marca personal (marca sin cara en los títulos).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1521932121003975>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (precio, checkout/VSL, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=2229875677874957
+- Score n/4 (2/4 provisorio: cohorte 10 en el límite, no marca personal; embudo y precio sin verificar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-21-fr-B-manuels-illustres-concours-fr.md`
+
+**Señales del día FR (2026-11-21):**
+- Manuels Illustrés (1412630685262258): 0 activos; los ads del 11-16 (CRFPA, obligations) ya están apagados, nunca cruzaron 7 d.
+- Mémofiches (1464062913449663): 4/19 (USD; 120 fiches concours policier, 60 adjoint administratif, DroitFiches L1-L2 80, anesthésie 36); la tanda grande es de ≤ 3 d; re-medir ~11-26.
+- EDT Labs (1377084598812432): 4/8 («Maths Prêtes», cursos de matemáticas, USD); re-medir ~11-26.
+
 ### 🎯 520 cartes mentales de langues A1→C2 en PDF (anglais, espagnol) — Camille Dubois FR · `idiomas-cartes-mentales-a1-c2` · 2026-11-20 (tarde) · sesión FR
 - **Qué es:** pack de 520 mapas mentales/fichas de idiomas por nivel A1→C2 para francófonos («La Carte de l'Anglais», «Ser ou estar», «Constipado ≠ constipé», faux amis), en PDF para imprimir, **12,90 € pago único** (Black Friday hasta el 30/11) + 6 bonus; precio visto en los títulos de los ads.
 - **Por qué es ganador:** ≥ 28 ads activos en FR con 7+ días / 259 activos estimados (50 es el tope de la API: la cohorte es un piso), un solo page_id; tandas creadas el 11-11, 11-13, 11-17 y 11-20 (≥ 4 fechas, operador vivo, longevidad ≈ 9 d por API); mismo molde y mismo «520 cartes» que Espagnol Illustré (tarjeta del 11-17, hoy 0 activos en FR: probable rotación de página) y Céline Moreau 3/14 «+300 cartes mentales A1→C2».
