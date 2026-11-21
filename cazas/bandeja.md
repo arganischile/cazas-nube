@@ -569,6 +569,20 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Pachete de postări / agende digitale gata făcute» — Ioana Dumitrescu RO · `plantillas-postari-agende-ioana-dumitrescu-ro` · 2026-11-21 · sesión RO
+- **Qué es:** pack digital «Un an de postări într-un singur pachet» (contenido de redes social ya hecho, «gata de publicat din prima zi», «Vedeți ce e în pachet») para un pequeño negocio/profesional; la misma página rota agendas por avatar (agenda profesor, agente inmobiliar, ritmul Lunii). Formato, precio y entrega exactos no visibles por API (EUR).
+- **Por qué es ganador:** cohorte **10/10** activos con 7+ días de un solo page_id (5 ads creados ≈ 8,4 d atrás, 5 creados ≈ 14,2 d atrás; ninguno nuevo en los últimos 7 d) · página con ≥ 8 fechas de creación distintas en 35 ads ALL (agendas desde 2026-08/09: profesor, ritmul Lunii, agente inmobiliar, postări) → fábrica que rota un SKU nuevo cada ~2 semanas · sube desde 5/10 del 11-17 · sin cara en los títulos (marca personal no probada; nombre de página = persona, **juzgar creativos en la PC**).
+- **Qué hacer:** modelar el pack de postări anual (calendar de conținut + șabloane) como digital · destino RO; luego PT/BR e IT (pacotes de posts prontos) · ángulo: «postările apar singure / tot anul gata» · aviso: tandas de ~2 semanas que se apagan y se relanzan con otro SKU, medir antes de producir.
+- **Ads Library:** [RO · Ioana Dumitrescu](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1202173556320802)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (¿digital o servicio? ¿precio?).
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 2/4 · Decisión: —
+
+**Señales del día RO 2026-11-21 (tarde, modo B)**
+- Crești prin Joacă (1373583319179884): 7/7 activos con 7+ d (EUR, «300 de jocuri, 0–6 ani» + 5 bonusuri, −50 %); mismo molde «300 jocuri» de Hugo Jean FR (`jeux-dynamiques-300-pret-a-utiliser`); no llega a 10; re-medir ~11-26.
+- Clearpage Books (1452448654619131): ≈ 20 ads «<oficio> ilustrat + 2 cărți cadou» (drone, PSI, ADR, radioamator), todos creados 11-19/20 (<2,5 d); In pictures books 5 activos, ya sin 7+ d en bloque. Nostimo: ecommerce físico (58 ads), no vale.
+- Studio Facile: 1 ad nuevo «Contabilitatea explicată prin desene» (11-20); Centro de Educación Abierta: 1 ad «25 de prompturi IA pentru profesori» (EUR). Sin cohorte.
+
+
 ### 🎯 «Gata de Predat™» — planificări, fișe și bonusuri por materia para profesores — Edulabs Resources RO · `plantillas-profesori-gata-de-predat-ro` · 2026-11-21 · sesión RO
 - **Qué es:** pack digital imprimible para docentes por materia («Ora de consiliere», Informatică, Religie, Română, fizică-chimie… «6 volume + 5 bonusuri», «tot anul… gata de predat»); multi-SKU con la misma plantilla. Precio y formato exacto no visibles por API.
 - **Por qué es ganador:** cohorte **13/29** activos con 7+ días de un solo page_id contando solo creativos en rumano (21/29 con 7+ d en total; más viejos ≈ 16 d) · 9 fechas de creación distintas y 2 ads nuevos del 11-20/21 → operador vivo · página de marca, sin cara · sube desde 9 rumano verificado el 11-18 · aviso: 7 de los 13 cruzaron 7 d solo ~3-4 h antes de la medición (8 holgados) · USD (operador de otro mercado).
