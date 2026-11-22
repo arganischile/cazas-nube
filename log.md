@@ -134,3 +134,5 @@
 ## [2026-11-21] caza-auto | CO B perforar re-mediciones+huellas (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-22] caza-auto | BR lint de la cola → 0 candidatos a bandeja
+
+## [2026-11-22] caza-auto | IT lint de la cola → 0 candidatos a bandeja

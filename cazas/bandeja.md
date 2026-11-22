@@ -232,6 +232,8 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-22 (domingo): lint de la cola, sin búsquedas; nada que pase la vara. Re-mediciones IT vencidas para el lunes: Quadri, Moretti, Digital Corner, Acordes en Claro, Crescere Giocando, Martina Rossi, InventaLab.
+
 IT 2026-11-21 (tarde): nada que pase la vara; se barrió contabilidad/gestión (autónomos, asociaciones, hogar) y red de mapas concorsi. Señales IT tarde: Giulia Ferraresi ≥18/50 piso (ya con tarjeta); Mappe per Concorsi 0/≥20, Studio Facile 0/≥19, Concorsi in Mappe 0/≥12 (todas tandas ≤ 4,4 d).
 
 IT 2026-11-21: 2 tarjetas.
