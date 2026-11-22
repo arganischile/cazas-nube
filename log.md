@@ -146,3 +146,5 @@
 ## [2026-11-22] caza-auto | CO lint de la cola → 0 candidatos a bandeja
 
 ## [2026-11-22] caza-auto | FR lint de la cola (repetida, ya hecho hoy) → 0 candidatos a bandeja
+
+## [2026-11-22] caza-auto | EU — rutina sin prompt (cazas/nube/prompts/eu.md no existe), no corrió → 0 candidatos a bandeja
