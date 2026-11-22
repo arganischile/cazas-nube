@@ -132,3 +132,5 @@
 ## [2026-11-21] caza-auto | MX B perforar material-docentes-planeaciones-mx (tarde) → 1 candidatos a bandeja
 
 ## [2026-11-21] caza-auto | CO B perforar re-mediciones+huellas (tarde) → 0 candidatos a bandeja
+
+## [2026-11-22] caza-auto | BR lint de la cola → 0 candidatos a bandeja
