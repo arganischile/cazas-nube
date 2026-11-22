@@ -140,3 +140,5 @@
 ## [2026-11-22] caza-auto | FR lint de la cola → 0 candidatos a bandeja
 
 ## [2026-11-22] caza-auto | RO lint de la cola → 0 candidatos a bandeja
+
+## [2026-11-22] caza-auto | MX lint de la cola → 0 candidatos a bandeja
