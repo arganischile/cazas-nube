@@ -12,5 +12,7 @@ Chile cambia de horario (la columna UTC es la de hoy, con Chile en UTC-3). Envir
 | RO | `trig_01KTkJ2wcHpkHMiBqDNyAVC6` | `CRON_TZ=America/Santiago 45 6,18 * * *` | 06:45 y 18:45 | 09:45 y 21:45 | claude-sonnet-5-5 |
 | MX | `trig_01DSkUJ5mz9maUvDsHTm45jN` | `CRON_TZ=America/Santiago 50 6,18 * * *` | 06:50 y 18:50 | 09:50 y 21:50 | claude-sonnet-5-5 |
 | CO | `trig_015ro3cUXyYmhw28uMWmAnLY` | `CRON_TZ=America/Santiago 55 6,18 * * *` | 06:55 y 18:55 | 09:55 y 21:55 | claude-sonnet-5-5 |
+| EU | `trig_01NdbgTw9Q1DMEgbsLVR37tn` | `CRON_TZ=America/Santiago 35 6 * * *` | 06:35 | 09:35 | (default) |
 
 MX y CO se agregaron el 2026-11-15, como mercados **fuente**: lo que encuentran se lleva a BR, PT, IT, FR o RO.
+EU (Estados Unidos, `countries: ["US"]`) se agregó el 2026-11-22, como **destino y fuente**. Corre una sola vez al día, a la misma hora que IT, y sin modelo fijado.
