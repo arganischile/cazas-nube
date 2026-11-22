@@ -150,3 +150,5 @@
 ## [2026-11-22] caza-auto | EU — rutina sin prompt (cazas/nube/prompts/eu.md no existe), no corrió → 0 candidatos a bandeja
 
 ## [2026-11-22] caza-auto | EU — rutina sin prompt (eu.md no existe), segunda corrida, no corrió → 0 candidatos a bandeja
+
+## [2026-11-22] caza-auto | EU lint de la cola (domingo) → 0 candidatos a bandeja
