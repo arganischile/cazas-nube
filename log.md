@@ -154,3 +154,5 @@
 ## [2026-11-22] caza-auto | EU lint de la cola (domingo) → 0 candidatos a bandeja
 
 ## [2026-11-22] caza-auto | EU lint de la cola (domingo, tarde; repetido) → 0 candidatos a bandeja
+
+## [2026-11-22] caza-auto | BR lint de la cola (domingo, tarde; repetido, ya hecho esta mañana) → 0 candidatos a bandeja
