@@ -265,6 +265,11 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-23 (tarde): nada que pase la vara; se barrió pregrafismo, allenamento donne, curriculum (0), mappe concettuali, casi clinici, cani manuale (0), finanze personali, quaderno stampabile.
+**Señales del día IT 2026-11-23 (tarde)**
+- Bibbia Vet (p. 1512094408651714): 0/8 (210 casi clinici veterinari, USD; tandas 11-18 y 11-20, ≤ 2,9 d); nuevo, re-medir ~11-28; verificar en la PC si es PDF.
+- Martina Rossi (p. 782531528270117): 4 ads «200 Mappe Concettuali di Infermieristica» con 7+ d visibles (multi-SKU, ya conocida); Algor Education/It Formazione = cursos, fuera.
+
 IT 2026-11-23 (B perforar): 1 tarjeta.
 ### 🎯 Kit di Catechesi (incontri/attività di catechismo para catequistas) — Emilia Zabala IT · `catechismo-kit-emilia-zabala-it` (nodo nuevo) · 2026-11-23 · sesión IT
 - **Qué es:** «Grande Kit di Catechesi» (−70 % en un ad): incontri y attività di catechismo listas para catequistas y parroquias («Preparate il vostro incontro in pochi minuti», «Il kit per trasmettere la fede»); USD; formato (PDF imprimible vs físico) y precio sin confirmar. Misma oferta, otro operador: Catechismo Facile «150 incontri pronti da stampare» + «Kit Avvento in regalo» (5 ads de hoy).
