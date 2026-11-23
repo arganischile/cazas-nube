@@ -233,18 +233,20 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Mapas e Guias Visuais | 1394868680373327 | BR | 127 est. activos en una sola tanda; medir cohorte en 3-4 días |
 | Guia dos Benefícios Sociais | 1415031105033080 | BR | 0/7 el 2026-11-15, guía a R$ 19,90, página nueva; re-medir ~2026-11-22 |
 | Pretty Little Teacher (recursos docentes) | 398932843295914 | FR | 36/46 el 2026-11-20 (tarjeta en bandeja), ALL 586; re-medir ~2026-11-27 |
-| La Bible sur papier (52 histoires PDF 11,90 €) | 1460228643831963 | FR | 3/12 el 2026-11-20 (USD); 9 ads cruzan 7 d ~11-24; re-medir ~2026-11-25 |
-| Amélie Boissieu (Kit Comptable 2027) | 1363004406903385 | FR | ≥32/50 piso el 2026-11-16; seguir si se apaga o cambia de SKU; re-medir ~2026-11-23 |
-| Espagnol Illustré | 1435820002945205 | FR | 15/26 el 2026-11-17 (tarjeta en bandeja); 0 en IT/PT/RO; re-medir ~2026-11-24 |
-| PsiOS (atlas terapéutico) | 111707335304926 | FR | 10/33 FR el 2026-11-17 (tarjeta, borde); multilingüe IT/ES/EN; re-medir ~2026-11-21 |
-| Car Station (12 manuels atelier) | 1124004904129860 | FR | 24/37 el 2026-11-17 (tarjeta en bandeja); re-medir ~2026-11-24 |
-| Biblioteca Práctica (Classeur Antisèche) | 1415895891603865 | FR | 8/24 el 2026-11-17; re-medir ~2026-11-20 |
+| La Bible sur papier (52 histoires PDF 11,90 €) | 1460228643831963 | FR | 0 activos el 2026-11-23 (ALL 17): pausó todo; re-medir ~2026-11-30 |
+| Amélie Boissieu (Kit Comptable 2027) | 1363004406903385 | FR | ≥44/50 piso (est. 74) el 2026-11-23; seguir si se apaga o cambia de SKU; re-medir ~2026-11-30 |
+| Espagnol Illustré | 1435820002945205 | FR | 0 activos el 2026-11-19 y el 2026-11-23 (ALL 35): apagado; re-medir ~2026-12-07 por si vuelve |
+| PsiOS (atlas terapéutico) | 111707335304926 | FR | 27/30 en FR (14 en francés) el 2026-11-23 (tarjeta, borde); multilingüe DE/IT/EN; re-medir ~2026-11-30 |
+| Car Station (12 manuels atelier) | 1124004904129860 | FR | 25/45 el 2026-11-23 (tarjeta en bandeja); re-medir ~2026-11-30 |
+| Biblioteca Práctica (Classeur Antisèche) | 1415895891603865 | FR | 0/6 el 2026-11-23 (rotó todo, SKU nuevo «Votre Mac, enfin simple», COP); re-medir ~2026-11-30 |
 | Esprit Académique (210 fiches troubles mentaux) | 1229441186928180 | FR | ≥50/95 piso el 2026-11-18 (tarjeta en bandeja), sin tanda nueva desde 11-06; re-medir ~2026-11-25 |
-| Inspiracion Studio (130 guides visuels Cricut) | 1096725376864125 | FR | 8/10 el 2026-11-18 (USD); re-medir ~2026-11-22 |
+| Inspiracion Studio (130 guides visuels Cricut) | 1096725376864125 | FR | 4/11 el 2026-11-23 (tandas 11-19 y 11-22); re-medir ~2026-11-26 |
 | La fée du budget (planner budget) | 387445394447918 | FR | 23/23 el 2026-11-18 (tarjeta en bandeja); re-medir ~2026-11-25 |
-| Sunday Budget (Google Sheets) | 1378372592023348 | FR | 4/9 el 2026-11-18 (USD); re-medir ~2026-11-25 |
-| Hugo Jean (300 jeux & dynamiques) | 1382251738298675 | FR | 24/27, ≈45 d el 2026-11-16 (moneda BRL); re-medir ~2026-11-23 |
-| Bibliothèque Créative (Cricut) | 1501332446389326 | FR | 0/15 el 2026-11-16 (tandas de 2-7 d); re-medir ~2026-11-19 |
+| Sunday Budget (Google Sheets) | 1378372592023348 | FR | 0 activos el 2026-11-23; re-medir ~2026-12-07 |
+| Hugo Jean (300 jeux & dynamiques) | 1382251738298675 | FR | 0/11 el 2026-11-23: apagó «300 jeux»; SKU nuevos «Une fiche. Une aventure.» (11-18) y «14 jours… coups de pied» (11-23); re-medir ~2026-11-26 |
+| Bibliothèque Créative (Cricut) | 1501332446389326 | FR | 2/2 el 2026-11-23 (casi apagada); re-medir ~2026-12-07 |
+| Mémofiches (120 fiches concours policier, 36 fiches anesthésie) | 1464062913449663 | FR | 4/11 el 2026-11-23; 7 ads del 11-19 cruzan 7 d ~11-26 → 11/11 posible; re-medir ~2026-11-26 |
+| Kaito Vale (oferta no identificada) | 1141489242390653 | FR | 34 ads con 7+ d (EUR, títulos vacíos) el 2026-11-23, salió buscando «Kaito» por la agenda de Calistenia; identificar oferta en la PC; re-medir ~2026-11-30 |
 | 300 Mapas Mentales | 1276104028925482 | MX | 20/28 el 2026-11-16 (tarjeta en bandeja); versión ES del kit de Fluente com Legenda; re-medir ~2026-11-30 |
 | Planner Hoy Solo 3 | 1280820831792286 | MX | 30/40 el 2026-11-16 (tarjeta en bandeja); ver si cambia de SKU; re-medir ~2026-11-30 |
 | Vida Práctica (manuales visuales) | 1472534742604591 | MX | 3/3 el 2026-11-20 (un solo SKU, $199 MXN, 10,5 d); re-medir ~2026-11-27 |
@@ -321,7 +323,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-23 | FR (mañana) | C operadores (lun) | operadores FR + agenda (Calistenia Asiática → Coach Kaito FR) | en curso | en curso | en curso |
+| 2026-11-23 | FR (mañana) | C operadores (lun) | operadores FR + agenda (Calistenia Asiática → Coach Kaito FR) | ninguna de huella (modo C) + 18 conteos por page_id en FR + `Kaito`, `Kaito Nakamura` (ALL), `calisthénie asiatique` + ALL de Espagnol Illustré y La Bible sur papier | 0 tarjetas; Boissieu ≥44/50 piso, Esprit 49/50 piso (sin ad nuevo desde 11-04), PsiOS 27/30, Car Station 25/45, La fée 23/23 (todos con tarjeta); Hugo Jean 0/11 (SKU nuevos), Tereza Paixão 2/2, Belle Plume 6/11, Anna Makes 6/6, Mémofiches 4/11 (→11 ~11-26), Inspiracion 4/11; apagados: Espagnol Illustré, La Bible sur papier, Sunday Budget, Boîte Neuro, Coach Kaito Nakamura; Kaito Vale 34 con 7+ d oferta no identificada; informe RAW/cazas-auto/2026-11-23-fr-C-operadores.md | operadores FR re-fechados; nodos sin cambio de estado |
 | 2026-11-23 | IT (mañana) | B perforar (lun; todos los nodos IT tocados <7 d → virgen más viejo sin perforar) | progetti-bambini-inventalab / re-mediciones vencidas | lavoretti bambini, progetti materiali casa (ruido), attività creative bambini, catechismo kit, giochi da tavolo stampabili bambini (0), InventaLab + 9 conteos por page_id (Emilia Zabala ACTIVE+ALL, Catechismo Facile, Moretti, Digital Corner, Piccole Scoperte, Alfabetizzazione) | 1 tarjeta (Emilia Zabala kit catechismo 14/14); señales: Moretti 6/50 (cruza ~11-25), Digital Corner 8/18, InventaLab 2/30 | progetti-bambini-inventalab superficial; nodo nuevo catechismo-kit-emilia-zabala-it; informe RAW/cazas-auto/2026-11-23-it-B-progetti-bambini-inventalab.md |
 | 2026-11-23 | BR (mañana) | A huella (lun) | — | ~28 huellas BR/PT (caderno de exercícios pdf, guia prático pdf, planilha pronta, ebook completo, material digital, mapas mentais, acesso vitalício, apostila pdf, atividades pdf imprimir, modelo editável canva, kit imprimível, manual passo a passo pdf, cartilha digital, pack de moldes pdf, guia ilustrado, treino pdf, receba por whatsapp pdf, ebook R$ 19,90, baixe agora pdf; PT: guia pdf, ebook completo, acesso imediato, folha de cálculo, e-book €, modelo editável, material digital) + ~60 conteos por page_id | 2 tarjetas (Kit de Documentos do Consultório PT 40/50 piso; Atividades infantil BR 24/50 piso, WA); señales: Alfabeteca ABC 11/30 (Natal), Silvane Prof 19/30 oferta no identificada, Marília Piccoli 29/29 zombi probable, Moldes & Artes Digitais 8/11, fábricas PT sin cohorte; informe RAW/cazas-auto/2026-11-23-br-huella-atividades-imprimir.md | 3 nodos virgen nuevos |
 | 2026-11-23 | EU (mañana) | A huella (lun) | — | guia prático pdf (5), planilha pronta (22), mapas mentais (185), instant download pdf, study guide pdf, printable planner, +20 keywords en inglés (subagente) + ~30 conteos por page_id | 2 tarjetas (RMKLY ≥50/87, Amen Core 30/38); 5 nodos EU virgen nuevos; señales: Digital Megy 4/28 (llega a 10 ~11-23 tarde), Mapa do Inglês 0/28, Session Ready 0/50; informe RAW/cazas-auto/2026-11-23-eu-huella-us.md | EU: nodos nuevos virgen; próxima: mar B perforar |

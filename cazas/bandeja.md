@@ -429,6 +429,20 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+FR 2026-11-23: nada que pase la vara; se barrió C operadores (18 page_ids FR) + agenda Calistenia Asiática → FR (`Kaito`, `Kaito Nakamura`, `calisthénie asiatique`). Informe: `RAW/cazas-auto/2026-11-23-fr-C-operadores.md`
+
+**Señales del día FR (2026-11-23):**
+- Amélie Boissieu (Kit Comptable 2027): ≥44/50 piso (est. 74), sigue con tandas nuevas; ya con tarjeta.
+- Esprit Académique: 49/50 piso (est. 97), sin ad nuevo desde 11-04: vigilar zombi; ya con tarjeta.
+- PsiOS: 27/30 en FR (14 en francés); ya con tarjeta (borde), sube.
+- Car Station 25/45 y La fée du budget 23/23: estables; ya con tarjeta.
+- Hugo Jean: apagó la tanda vieja de «300 jeux» (0/11); dos SKU nuevos (fiches aventure 11-18, «14 jours… coups de pied» 11-23).
+- Espagnol Illustré: 0 activos por segunda medición (ALL 35): apagado.
+- Tereza Paixão: 2/2 (de 17/17): apagó la tanda única de la tarjeta del 11-21. Belle Plume 6/11 (de 10/18), Anna Makes 6/6 (de 24/24): bajan.
+- Mémofiches 4/11: 7 ads «concours de policier» del 11-19 cruzan 7 d ~11-26 → 11/11 posible; re-medir.
+- Calistenia Asiática → FR: Coach Kaito Nakamura 0 activos (apagado), Ryu Takahashi 0/2; «Kaito Vale» (1141489242390653) 34 ads con 7+ d, oferta no identificada desde la nube.
+- La Bible sur papier, Sunday Budget, Boîte à Ressources Neuro: 0 activos (apagados). Biblioteca Práctica 0/6 (SKU nuevo «Votre Mac»).
+
 ### 🎯 «+300 guides visuels de mécanique industrielle» — Tereza Paixão FR · `manuels-atelier-mecanique-fr` · 2026-11-21 (tarde) · sesión FR
 - **Qué es:** guías visuales (fichas ilustradas) de mecánica industrial, «+300 guides visuels»; formato probable PDF; precio no visto (ads en USD). Mismo molde «manual/guía visual del oficio» que Ideias Práticas (BR) y Vida Práctica (MX).
 - **Por qué es ganador:** 17/17 activos con 7+ d en FR, un solo page_id, longevidad ≈22-29 d por API; el mismo ad corre en IT (18 activos), 0 en BR/PT/RO/MX/CO. Flags: solo 2 fechas de creación (10-23 y 10-26; tanda única de 16 ads) y ningún ad creado en los últimos 30 d fuera de esa tanda; el 11-17 hubo 2 ads nuevos ya apagados; nombre de página = persona pero sin cara en los títulos.
