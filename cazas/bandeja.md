@@ -1128,6 +1128,15 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Guías de estudio ilustradas para exámenes de certificación — Digital Megy US · `examenes-ilustrados-digital-megy-us` · 2026-11-23 (tarde) · sesión EU
+- **Qué es:** guías de estudio ilustradas/visuales (flowcharts, «explicadas visualmente») para exámenes profesionales de EEUU: Enrolled Agent (impuestos), bar exam/MBE y California, RRT (terapia respiratoria), beneficios/reclamos VA. Formato (PDF/descarga) y precio no verificados.
+- **Por qué es ganador:** cohorte 7+ 10 / 16 activos (exacto en la vara) · ad más viejo ≈ 8,5 d (nodo recién nacido) · 3 tandas de creación distintas (11-16, 11-17, 11-18) más 6 ads nuevos de 11-20/21 en los mismos temas (operador vivo y probando temas) · página de marca sin cara · USD · la misma fórmula la corre una red hermana (Fenix Library, Visual Guide Lab, Jessica Morales, VA Claim Map; ver cola).
+- **Qué hacer:** modelar como «guía ilustrada del examen X» (PDF de bajo ticket); destino: no sirve el examen de EEUU tal cual, llevar la fórmula (mapas/flowcharts de certificaciones) a exámenes locales de IT/FR/RO/BR/PT (oposiciones, ordini professionali, concursos); hueco sin medir.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1362921660243667&search_type=page&media_type=all)
+- **Landing:** no verificada (el API no trae URL). Snapshots: https://www.facebook.com/ads/library/?id=1945680546400118 · ?id=1746141249779546 · ?id=2204535183476797
+- Score 2/4 medido (① longevidad corta pero 3 tandas; ② volumen 10 justo; ③ duplicación y ④ hueco sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Vara justa y nodo de 8 días: re-medir 11-26/27 antes de decidir.
+
 ### 🎯 Templates digitales para reMarkable — RMKLY US · `templates-remarkable-rmkly-us` · 2026-11-23 · sesión EU
 - **Qué es:** templates digitales (PDF) para la tablet reMarkable, «5,000+ templates / 11,000+ downloads»; páginas de tienda con descuentos Black Friday (-30 %). Precio y formato exacto no verificados.
 - **Por qué es ganador:** cohorte 7+ ≥ 50 / 87 activos (piso: la API devuelve 50 y los 50 son de 7+ d) · el ad más viejo ≈ 119 d · 8 fechas de creación distintas (escalonado, no es tanda única) · página de marca sin cara · cuenta en EUR.
@@ -1154,6 +1163,12 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 - Central Pack (p. 1178523422005192) 4 viejos conocidos/111 («Master X — 6 Volumes + 5 Bonuses» multi-nicho) y Sproutpals (p. 1072404955967252) 4/134 (phonics imprimible): cohorte < 10; re-medir ~11-27.
 - Portal da Pedagogia (p. 1317235804801190): 0/20 («5,000+ activities $15», ≤ 3,1 d); Nostalgic Vault 0/14 (hoy); Jessica Morales 0/10 (CRCST ilustrada, de hoy); Visual Guide Lab 0/50 piso.
 - Descartes técnicos: Best Books World (cookbooks = excluido, probable físico), Quill Creek (físico), Linda Morgan (nombre de persona, oferta MMO), Workflow Queen (embudo de taller en vivo).
+
+**Señales del día EU 2026-11-23 (tarde)**
+- Transforming Basketball (p. 425705637526008): 14/22 pero toda la cohorte es una tanda de ~1,4 d (11-15/16) y es marca de entrenador con clinics/workshops en vivo y PDFs mezclados: no pasa el gate; no tarjeta.
+- Darja Draws (p. 874558345747052): 6/6 (cursos de animación, EUR, BF 50 %, tanda única 7,2 d): cohorte < 10 y es curso grabado de arte; re-medir ~11-27.
+- Sunshine Learning (p. 111226191629254): 4/8 (worksheets preescolar, -50 %/-90 %); bajo la vara. Digital Prosperity Vault (p. 1381395985055437): 0/11 (documentos de herencia/Medicare, ads de 11-22): nuevo, re-medir 11-30.
+- Lineside (p. 1468253073038279, playbooks $19 electricistas): 11+ ads de una tanda de 11-21 (1,9 d); cruza 7 d ~11-28.
 
 ---
 

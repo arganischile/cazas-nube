@@ -180,3 +180,5 @@
 ## [2026-11-23] caza-auto | MX B perforar mapas-enfermeria-mx → 0 candidatos a bandeja
 
 ## [2026-11-23] caza-auto | CO C operadores (operadores CO vencidos) → 1 candidato a bandeja
+
+## [2026-11-23] caza-auto | EU huella (tarde, sin nodo libre) → 1 candidato a bandeja
