@@ -312,6 +312,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | IT (mañana) | B perforar (lun; todos los nodos IT tocados <7 d → virgen más viejo sin perforar) | progetti-bambini-inventalab / re-mediciones vencidas | en curso | en curso | en curso |
 | 2026-11-23 | BR (mañana) | A huella (lun) | — | en curso | en curso | en curso |
 | 2026-11-23 | EU (mañana) | A huella (lun) | — | guia prático pdf (5), planilha pronta (22), mapas mentais (185), instant download pdf, study guide pdf, printable planner, +20 keywords en inglés (subagente) + ~30 conteos por page_id | 2 tarjetas (RMKLY ≥50/87, Amen Core 30/38); 5 nodos EU virgen nuevos; señales: Digital Megy 4/28 (llega a 10 ~11-23 tarde), Mapa do Inglês 0/28, Session Ready 0/50; informe RAW/cazas-auto/2026-11-23-eu-huella-us.md | EU: nodos nuevos virgen; próxima: mar B perforar |
 | 2026-11-22 | EU (tarde) | lint de la cola (domingo) | — | ninguna (sin búsquedas) | 0 tarjetas; repetido, la cola sigue sin nodos, operadores ni agenda EU; nada vencido | sin cambios; próxima: lun A huella |
