@@ -306,6 +306,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | EU (mañana) | A huella (lun) | — | en curso | en curso | — |
 | 2026-11-22 | EU (tarde) | lint de la cola (domingo) | — | ninguna (sin búsquedas) | 0 tarjetas; repetido, la cola sigue sin nodos, operadores ni agenda EU; nada vencido | sin cambios; próxima: lun A huella |
 | 2026-11-22 | EU (mañana) | lint de la cola (domingo) | — | ninguna (sin búsquedas) | 0 tarjetas; la cola no tiene nodos, operadores ni agenda EU; nada vencido | sin cambios; próxima: lun A huella |
 | 2026-11-22 | MX (mañana) | lint de la cola (domingo) | — | ninguna (sin búsquedas) | 0 tarjetas; ningún nodo MX > 30 d ni 🟡 vencido; re-mediciones vencidas: manuales-visuales-oficios-mx, mapas-enfermeria-mx, multi-sku-moldes-navidad-tus-clases, fichas-mapas-multitema-aprendia, red-x-en-mapas-mx, cuadernillo-personalizado-ninos-mx, kits-psicologos-plantillas-mx (Sector Digital), ingles-en-mapas-mx; próximas ~11-23/24: oficios-tecnicos-manuales-mx, mente-academica, devocionales-luz-de-mi-angel; informe RAW/cazas-auto/2026-11-22-mx-lint-cola.md | sin cambios de estado |
