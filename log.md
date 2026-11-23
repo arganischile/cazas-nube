@@ -170,3 +170,5 @@
 ## [2026-11-23] caza-auto | EU huella → 2 candidatos a bandeja
 
 ## [2026-11-23] caza-auto | BR huella (atividades-imprimir / kit-documentos-consultorio-pt) → 2 candidatos a bandeja
+
+## [2026-11-23] caza-auto | IT B perforar progetti-bambini-inventalab → 1 candidato a bandeja

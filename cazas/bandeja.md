@@ -257,6 +257,21 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-23 (B perforar): 1 tarjeta.
+### 🎯 Kit di Catechesi (incontri/attività di catechismo para catequistas) — Emilia Zabala IT · `catechismo-kit-emilia-zabala-it` (nodo nuevo) · 2026-11-23 · sesión IT
+- **Qué es:** «Grande Kit di Catechesi» (−70 % en un ad): incontri y attività di catechismo listas para catequistas y parroquias («Preparate il vostro incontro in pochi minuti», «Il kit per trasmettere la fede»); USD; formato (PDF imprimible vs físico) y precio sin confirmar. Misma oferta, otro operador: Catechismo Facile «150 incontri pronti da stampare» + «Kit Avvento in regalo» (5 ads de hoy).
+- **Por qué es ganador:** 14 de 14 ads activos con 7+ días en IT (14 < 50 = conteo completo; 6 de ≈ 8 d y 8 de ≈ 23 d), un solo page_id; 39 ads en ALL; 2 operadores más en el mismo molde (Catechismo Facile, The Ebook Library «50 giochi e attività cristiane»). Flags: solo 2 fechas de creación (tandas 10-30 y 11-14) y la página rota de producto (merende sane, +400 esercizi, «1.200 attività per la mente» entre agosto y octubre): es una fábrica que prueba nichos, no un ad suelto.
+- **Qué hacer:** verificar en la PC formato real, precio y checkout; si es PDF, modelar kit de catequesis para PT/BR/FR/RO (países católicos) con ángulo «preparar el encuentro en minutos»; ojo con la estacionalidad (Adviento).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=825650823960909>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=2217791068771613
+- Score 2/4 provisorio (cohorte OK; embudo sin ver; página rotativa) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-23-it-B-progetti-bambini-inventalab.md`
+
+**Señales del día IT 2026-11-23**
+- Silvia Moretti (musicogrammi, p. 1519553207903758): 6/50 piso (84 est.); ≈ 40 ads de una tanda del 11-17/18 cruzan 7 d el 11-24/25 → re-medir 11-25 (candidata a tarjeta; juzgar marca personal).
+- Digital Corner (dime, p. 1358074294058687): 8/18 (10 ads del 11-19/20 cruzan 7 d ~11-27) → re-medir 11-27.
+- InventaLab (p. 1304016149454926): 2/30 (2 ads en español de ≈ 16 d; 14 ads de hoy «Un gioco che non stanca»); Accademia Creativa sigue con tandas de ≤ 4,5 d; Crea Y Aprende Online 0/≥10 (todo de hoy); Piccole Scoperte 0/4 (≤ 4,3 d).
+
 IT 2026-11-22 (domingo): lint de la cola, sin búsquedas; nada que pase la vara. Re-mediciones IT vencidas para el lunes: Quadri, Moretti, Digital Corner, Acordes en Claro, Crescere Giocando, Martina Rossi, InventaLab.
 
 IT 2026-11-21 (tarde): nada que pase la vara; se barrió contabilidad/gestión (autónomos, asociaciones, hogar) y red de mapas concorsi. Señales IT tarde: Giulia Ferraresi ≥18/50 piso (ya con tarjeta); Mappe per Concorsi 0/≥20, Studio Facile 0/≥19, Concorsi in Mappe 0/≥12 (todas tandas ≤ 4,4 d).
