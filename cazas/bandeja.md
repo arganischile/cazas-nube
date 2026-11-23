@@ -442,6 +442,20 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Maths Prêtes™ — EDT Labs FR · `cours-maths-prets-edt-labs-fr` · 2026-11-23 (tarde) · sesión FR
+- **Qué es:** «Vos cours de maths déjà prêts» / «Maths Prêtes™»: clases de matemáticas listas para usar para profesores (ángulo «Retrouvez vos dimanches soirs»: no preparar más clases el domingo); formato y precio no vistos (cuenta USD).
+- **Por qué es ganador:** 18 de 27 ads activos en FR con 7+ días (no truncado), un solo page_id y una sola oferta; 3 tandas (11-11 ×10, 11-13 ×8, 11-19 ×9), operador vivo; subió de 4/8 el 11-21. Cohorte joven: ad más viejo ≈ 12,5 d. Sin cara ni persona en los títulos.
+- **Qué hacer:** modelar el molde «clases listas por materia» para docentes; destinos a medir: IT (lezioni pronte), RO (planificări/lecții gata), PT/BR; ligar con Pretty Little Teacher y Belle Plume (recursos docentes FR).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1377084598812432>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (tipo, precio, escalera n/e). Snapshots: https://www.facebook.com/ads/library/?id=1654046812990631 · https://www.facebook.com/ads/library/?id=1498577644946122 · https://www.facebook.com/ads/library/?id=1132427159537884
+- Score n/4 (1/4 provisorio: duplicación moderada; longevidad ≈ 12,5 d; hueco sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-23-fr-B-jeux-dynamiques-300-pret-a-utiliser-tarde.md`
+
+**Señales del día FR (2026-11-23, tarde):**
+- Hugo Jean (1382251738298675): 0/12; la oferta «300 jeux & dynamiques» está apagada (ALL 261); público resuelto = coaches/profes de EPS («300 fiches de training fonctionnel», «Tes élèves…»), no adultos mayores.
+- Nicho EPS/fútbol/coach en FR: APSA Fiches, Orbis Atlas, Mr Coach, L'Atelier Pratique, EuroHacks con 0 activos; barrido superficial.
+- Le Kit Vagal (1301216783083922): 6/17 («64 cartes du nerf vague + 200 fiches», USD); ¿físico o PDF? re-medir ~11-27.
+
 FR 2026-11-23: nada que pase la vara; se barrió C operadores (18 page_ids FR) + agenda Calistenia Asiática → FR (`Kaito`, `Kaito Nakamura`, `calisthénie asiatique`). Informe: `RAW/cazas-auto/2026-11-23-fr-C-operadores.md`
 
 **Señales del día FR (2026-11-23):**
