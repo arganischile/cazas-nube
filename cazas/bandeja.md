@@ -766,6 +766,13 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+MX 2026-11-23: nada que pase la vara; se barrió farmacología enfermería, guía ECG, cuidados enfermería formatos, casos clínicos pdf, signos vitales guía, dosis medicamentos tarjetas.
+
+**Señales del día MX 2026-11-23**
+- Cardiologia Completa (p. 1170978486080270): 13/21 en MX (BRL, 12 fechas, operador vivo) pero oferta no identificada (API sin copy ni URL); verificar en la PC qué vende antes de decidir.
+- FarmaClave 0/16, Nexos Digital 0/7, Fármaco Master: tandas de ≤ 5 d de farmacología/mapas para enfermería; re-medir ~11-27.
+- Cardiología Visual 0/3 y MedicinaPractica.lat 0/3 (ECG visual, molde copiado por varias páginas).
+
 ### 🎯 Planeaciones, programa analítico y exámenes por trimestre para docentes SEP — SuperEdu MX · `material-docentes-planeaciones-mx` · 2026-11-21 (tarde) · sesión MX
 - **Qué es:** paquetes descargables para docentes de preescolar y primaria alineados a la SEP: planeación mensual y por trimestre («Planeación del Trimestre II para Primaria, de 1° a 6°», «Planeaciones de Diciembre para Preescolar»), Programa Analítico («DESCARGA», «EDITABLE»), exámenes del trimestre y reportes de evaluación del «Primer Momento»; moneda MXN, precio no visible, multi-SKU por periodo y nivel.
 - **Por qué es ganador:** cohorte 19 / 27 activos en MX con 7+ días (9 a 42 d), un solo page_id (1856954204328477; ALL 28), 12 fechas de creación distintas, 8 ads de ≤ 3 d (tanda de diciembre: operador vivo); página de marca, sin cara; se renueva SKU cada trimestre/mes = recompra de la audiencia. Operador distinto de Editorial MD (ya con tarjeta).

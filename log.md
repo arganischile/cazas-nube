@@ -176,3 +176,5 @@
 ## [2026-11-23] caza-auto | FR C operadores (operadores FR + agenda Calistenia Asiática) → 0 candidatos a bandeja
 
 ## [2026-11-23] caza-auto | RO huella (sin nodo) → 1 candidato a bandeja
+
+## [2026-11-23] caza-auto | MX B perforar mapas-enfermeria-mx → 0 candidatos a bandeja
