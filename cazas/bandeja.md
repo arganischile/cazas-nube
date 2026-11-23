@@ -807,6 +807,14 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+MX 2026-11-23 (tarde): nada que pase la vara; se barrió cuadernillo personalizado/repaso primaria, cuaderno de trazos, libro personalizado, kit psicólogos plantillas, lectoescritura imprimible, guía examen de admisión, presupuesto excel.
+
+**Señales del día MX (tarde) 2026-11-23**
+- Axo y Yo (p. 1358953320636772): 17/22 con 7+ d (MXN $99-149, repasos por grado); ya tiene tarjeta (11-17), sigue vivo.
+- Psicologia & Recursos 2025 (p. 469568772899568): 16/16 con 7+ d (COP; 11 de ~13,9 d + 5 de ~55 d); ya tiene tarjeta (11-19), sigue vivo.
+- Sector Digital 2/5 y Psique y Ciencia 1/5 con 7+ d (4 ads de ≈5 d); kits de psicólogos sin cohorte nueva.
+- Matemáticas con Toxqui ≈ 15 ads «Curso UNAM 2027» con 7+ d: curso con nombre de persona, no pasa el gate.
+
 MX 2026-11-23: nada que pase la vara; se barrió farmacología enfermería, guía ECG, cuidados enfermería formatos, casos clínicos pdf, signos vitales guía, dosis medicamentos tarjetas.
 
 **Señales del día MX 2026-11-23**

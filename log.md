@@ -189,3 +189,5 @@
 ## [2026-11-23] caza-auto | FR B jeux-dynamiques-300-pret-a-utiliser (tarde) → 1 candidatos a bandeja
 
 ## [2026-11-23] caza-auto | RO B libros-visuales-en-imagenes-ro / creativo-resenas-neuralforkids (tarde) → 1 candidatos a bandeja
+
+## [2026-11-23] caza-auto | MX B cuadernillo-personalizado-ninos-mx / kits-psicologos-plantillas-mx (tarde) → 0 candidatos a bandeja
