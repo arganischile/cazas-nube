@@ -1038,6 +1038,35 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 - Lectoescritura ya (p. 1294940880380557): 0/50 piso (est. 85), gancho «RECÍBELO GRATIS» (lead magnet); Maestro del Temario 0/18 (CNSC 2027, tanda de hoy-ayer); Click Inteligente 0/5.
 - Hueco mapas mentales en CO: operadores ya presentes (300 Mapas Mentales, Marta Aguirre Oratoria, Isadora Martínez, Aprenda Com Mapas, Visión de águila 0/2, Inglés Con Mucho Vocabulario 0/3), todos en tandas de <4 días: ninguno con cohorte.
 
+<!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
+
+### 🎯 Templates digitales para reMarkable — RMKLY US · `templates-remarkable-rmkly-us` · 2026-11-23 · sesión EU
+- **Qué es:** templates digitales (PDF) para la tablet reMarkable, «5,000+ templates / 11,000+ downloads»; páginas de tienda con descuentos Black Friday (-30 %). Precio y formato exacto no verificados.
+- **Por qué es ganador:** cohorte 7+ ≥ 50 / 87 activos (piso: la API devuelve 50 y los 50 son de 7+ d) · el ad más viejo ≈ 119 d · 8 fechas de creación distintas (escalonado, no es tanda única) · página de marca sin cara · cuenta en EUR.
+- **Qué hacer:** modelar como producto de nicho de hardware («templates para <tablet de tinta>»); destino sugerido: probar en IT/FR/RO/BR donde reMarkable es menos usado (hueco sin medir); ángulo «recuperá tu tiempo» + pack grande a precio bajo.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=468755899654132&search_type=page&media_type=all)
+- **Landing:** no verificada (el API no trae URL). Snapshots más viejos: https://www.facebook.com/ads/library/?id=1013631551555433 · ?id=1564822881778966 · ?id=27975904372040078
+- Score 2/4 medido (① longevidad, ② volumen; ③ duplicación y ④ hueco sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, snapshot no verificado desde la nube). Verificar en la PC si es tienda propia o Etsy-like y el precio antes de decidir.
+
+### 🎯 Estudio bíblico «Understand God's Word Clearly» — Amen Core US · `estudio-biblico-amen-core-us` · 2026-11-23 · sesión EU
+- **Qué es:** material de estudio de la Biblia («Understand God's Word Clearly», «Help Your Child Understand the Bible», «The Entire Bible Made Simple»); formato (PDF / mapas / guías) y precio no verificados.
+- **Por qué es ganador:** cohorte 7+ 30 / 38 activos · el ad más viejo ≈ 98 d · 14 fechas de creación distintas (escalonado) · un solo creativo repetido ×34 (gancho ya ganó el test interno) · página sin cara · USD.
+- **Qué hacer:** modelar como guía visual de la Biblia para adultos y para padres; destino sugerido: BR/PT/IT (hueco sin medir; ligar con `bible-papier-histoires-pdf-fr` y el devocional MX); ángulo «entendé la Palabra sin ser teólogo».
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=547243818468246&search_type=page&media_type=all)
+- **Landing:** no verificada. Snapshots más viejos: https://www.facebook.com/ads/library/?id=909620288882714 · ?id=2182006012696178 · ?id=1067553639522562
+- Score 1-2/4 medido (① longevidad; ② volumen 30 < 50; ③ ×34 repetido cuenta si es de la cohorte, sin confirmar; ④ sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Si es devocional/mayores, cae en excluidos: confirmar el público en la PC.
+
+**Señales del día EU 2026-11-23**
+- Digital Megy (p. 1362921660243667): 4/28 hoy (exámenes ilustrados: EA, MBE, RRT, beneficios VA; USD/EUR); 6 ads más cruzan 7 d en horas: llega a 10 ~11-23 tarde; re-medir 11-24.
+- Mapa do Inglês (p. 1170077372866827): 0/28 (los 20 de 520 mapas mentais cruzan 7 d hoy ~11-23 tarde, tanda del 11-15; portugués en US); Fluente com Legenda (p. 837003542818622): ≥35/125 en US, mismo kit de BR (ya tiene tarjeta), señal de país nuevo EU.
+- Abbi Kirsten Collections (p. 1558286781147464): 32/161 piso, pero es club/membresía de manualidades (Cricut/papel) con plantillas gratis de cebo: no es infoproducto de un pago.
+- Session Ready (p. 1226783993855408): 0/50 piso (est. 55, notas de terapeutas, «5 toolkits $27», ads de ≤ 5,7 d); cruza 7 d desde ~11-24 tarde; re-medir 11-26.
+- Central Pack (p. 1178523422005192) 4 viejos conocidos/111 («Master X — 6 Volumes + 5 Bonuses» multi-nicho) y Sproutpals (p. 1072404955967252) 4/134 (phonics imprimible): cohorte < 10; re-medir ~11-27.
+- Portal da Pedagogia (p. 1317235804801190): 0/20 («5,000+ activities $15», ≤ 3,1 d); Nostalgic Vault 0/14 (hoy); Jessica Morales 0/10 (CRCST ilustrada, de hoy); Visual Guide Lab 0/50 piso.
+- Descartes técnicos: Best Books World (cookbooks = excluido, probable físico), Quill Creek (físico), Linda Morgan (nombre de persona, oferta MMO), Workflow Queen (embudo de taller en vivo).
+
 ---
 
 ## Revisiones

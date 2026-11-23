@@ -166,3 +166,5 @@
 ## [2026-11-22] caza-auto | MX lint de la cola (domingo, tarde; repetido, ya hecho esta mañana en RAW/cazas-auto/2026-11-22-mx-lint-cola.md) → 0 candidatos a bandeja
 
 ## [2026-11-22] caza-auto | CO lint de la cola (domingo, tarde; repetido, ya hecho esta mañana en RAW/cazas-auto/2026-11-22-co-lint-cola.md) → 0 candidatos a bandeja
+
+## [2026-11-23] caza-auto | EU huella → 2 candidatos a bandeja
