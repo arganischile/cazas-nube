@@ -625,6 +625,20 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Mintea celor 6 mari genii · 6 cărți în PDF» — Edu Digital RO · `libros-pdf-mintea-edu-digital-ro` · 2026-11-23 · sesión RO
+- **Qué es:** packs de «6 cărți în PDF» (libros de desarrollo personal/estrategia: «Mintea celor 6 mari genii», «Mintea strategului», «Mintea stoică») + un jurnal «Metoda Priorității 30 · Jurnalul celor 3 priorități»; creativos en rumano con «⭐⭐⭐⭐⭐», USD. Precio y entrega no visibles por API.
+- **Por qué es ganador:** cohorte **21/49** activos con 7+ días de un solo page_id (49 = total ACTIVE, no es piso; ≈ 8-13 d, tandas del 11-10, 11-13 y 11-16) · ≥ 7 fechas de creación distintas y ads nuevos hasta hoy → operador vivo que rota SKU cada 2-3 días · mismo operador y oferta corriendo en CO («La Mente Estoica», señal del 11-20) → molde ya traducido a dos mercados · sin cara ni nombre propio en los títulos.
+- **Qué hacer:** modelar el pack «6 cărți în PDF» por mente/arquetipo (genii, strateg, stoic) + jurnal de prioridades como digital · destino RO; luego BR/PT, IT y FR · ángulo: «6 cărți într-un singur PDF» + estrellas de reseña · aviso: si los libros son de dominio público/resúmenes propios, verificar antes de producir.
+- **Ads Library:** [RO · Edu Digital](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=100629922105479)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, ¿dominio público?).
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 3/4 · Decisión: —
+
+**Señales del día RO 2026-11-23 (mañana, modo A)**
+- Miss chavarria cubillo (1027325150459778): «Limbajul Filmului · Caiet PDF» 0/18 (tanda del 11-21 ≤ 2,1 d + hoy; USD); re-medir ~11-27.
+- LumenAkasha (1314534258407337): 8/22 con 7+ d pero en inglés (≈ 17 d, planes de clase/Bach/Qigong, USD); los creativos en rumano son de ayer/hoy («3 volume + 6 bonusuri»); no pasa.
+- Linkia 0/5 («120 fișe pentru citirea schemelor electronice», ≤ 3,8 d), Handy Guides 0/9 (atlas de frizer/barber, ≤ 4,2 d), AK Creations 0/8 (EUR, ≤ 4,2 d), Base Digital 0/3 (Kit Contabil Practic 2027, molde FR/IT), Recuerdo a Recuerdo 1/5.
+- Tandas de hoy sin cohorte: Sara Brooks (18 ads «Ești profesor de…? gata de predat», clon del molde Edulabs), Teach Luma, Sketchwise Books («+ 2 cărți cadou», clon Clearpage), red «300 hărți mentale de <tema>» (Daily Learn, Idea Hub, Impulso Digital en BRL, C&P).
+
 ### 🎯 «Pachete de postări / agende digitale gata făcute» — Ioana Dumitrescu RO · `plantillas-postari-agende-ioana-dumitrescu-ro` · 2026-11-21 · sesión RO
 - **Qué es:** pack digital «Un an de postări într-un singur pachet» (contenido de redes social ya hecho, «gata de publicat din prima zi», «Vedeți ce e în pachet») para un pequeño negocio/profesional; la misma página rota agendas por avatar (agenda profesor, agente inmobiliar, ritmul Lunii). Formato, precio y entrega exactos no visibles por API (EUR).
 - **Por qué es ganador:** cohorte **10/10** activos con 7+ días de un solo page_id (5 ads creados ≈ 8,4 d atrás, 5 creados ≈ 14,2 d atrás; ninguno nuevo en los últimos 7 d) · página con ≥ 8 fechas de creación distintas en 35 ads ALL (agendas desde 2026-08/09: profesor, ritmul Lunii, agente inmobiliar, postări) → fábrica que rota un SKU nuevo cada ~2 semanas · sube desde 5/10 del 11-17 · sin cara en los títulos (marca personal no probada; nombre de página = persona, **juzgar creativos en la PC**).
