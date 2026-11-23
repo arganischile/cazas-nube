@@ -652,6 +652,20 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «X în imagini» — libros/guías ilustradas en PDF por oficio y profesión — Studio Facile RO · `libros-visuales-en-imagenes-ro` · 2026-11-23 (tarde) · sesión RO
+- **Qué es:** catálogo de guías ilustradas «<tema> în imagini» / «explicată prin desene» (ecografía, PLC, soldadura, contabilidad, fisioterapia, CNC, optica, ECG, instalator, apicultura…) con creativo común «Răsfoiește paginile înainte să descarci» (vista previa de páginas → descarga) y en algunas «+ 2 cărți cadou»; USD. Precio y formato exactos no visibles por API (entrega digital por el copy «descarci»).
+- **Por qué es ganador:** cohorte por page_id **15/26** (p. 1232011766670582) y **11/35** (p. 1272162682644374) activos con 7+ días — cada página pasa sola, sin sumar · ≥ 20 temas rotando en tandas (creaciones de 11-05 a 11-22, ads nuevos hoy) → operador vivo que lleva ≥ 18 d con la misma plantilla · mismos ads en FR (≈106 est., todo < 3 d) e IT (648 est.) → molde ya multi-país · sin cara ni nombre propio.
+- **Qué hacer:** modelar una colección «<oficio> în imagini» en PDF con vista previa de páginas, partiendo del oficio de mayor demanda en RO (electricista/PLC, sudor, contabilidad, ecografía) · destino RO; luego PT/BR e IT · ángulo: «răsfoiește înainte să descarci» · **aviso:** ningún tema suelto llega a 10 (la cohorte es del catálogo; si cada tema es un SKU, la vara no se cumple por tema) y la cohorte baja entre tandas (39/48 el 11-16 en la p. 1232… → 15/26 hoy): verificar en la PC antes de decidir.
+- **Ads Library:** [RO · Studio Facile (1232…)](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1232011766670582) · [RO · Studio Facile (1272…)](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1272162682644374)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (¿una tienda con todo el catálogo o un checkout por tema? precio, entrega).
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 2/4 · Decisión: —
+
+**Señales del día RO 2026-11-23 (tarde, modo B)**
+- Neuralforkids (1336343509566915): 8/14 activos con 7+ d (≈ 11-16, creativo «⭐ 4,9/5,0» ×10, USD) + tanda de hoy «Lumânări de casă – 60 de rețete» y SKU «Tăierea pomilor în imagini», «Test de 1 minut»; multi-SKU con «Biblia Croșetatului» (crochet excluido) y cosmética casera de rețete: 8 < 10, producto central no identificado; no pasa. 398 ALL.
+- Știința Bunicilor / Textomat (1385991297929264): 6/16 activos con 7+ d (≈ 11-17: «Ce faci când se ia curentul», «Ouă fără frigider», agua con sol; USD); otra tanda de 10 ads del 11-19 cruza 7 d ~11-26; molde apagón/emergencia (ligar con `preparacion-72h-apagon`); re-medir ~11-27.
+- Ghidaria (1391081457422356): 3 ads (~3-5 d, «60 de pagini de deschis înainte să suni un coleg»); Digital Books (1460770633775833) no aparece activo en RO.
+- Edu Digital: «Mintea strategului» en tandas del 11-13/11-16/11-19, sigue vivo (tarjeta del 11-23 mañana).
+
 ### 🎯 «Mintea celor 6 mari genii · 6 cărți în PDF» — Edu Digital RO · `libros-pdf-mintea-edu-digital-ro` · 2026-11-23 · sesión RO
 - **Qué es:** packs de «6 cărți în PDF» (libros de desarrollo personal/estrategia: «Mintea celor 6 mari genii», «Mintea strategului», «Mintea stoică») + un jurnal «Metoda Priorității 30 · Jurnalul celor 3 priorități»; creativos en rumano con «⭐⭐⭐⭐⭐», USD. Precio y entrega no visibles por API.
 - **Por qué es ganador:** cohorte **21/49** activos con 7+ días de un solo page_id (49 = total ACTIVE, no es piso; ≈ 8-13 d, tandas del 11-10, 11-13 y 11-16) · ≥ 7 fechas de creación distintas y ads nuevos hasta hoy → operador vivo que rota SKU cada 2-3 días · mismo operador y oferta corriendo en CO («La Mente Estoica», señal del 11-20) → molde ya traducido a dos mercados · sin cara ni nombre propio en los títulos.
