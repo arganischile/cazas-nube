@@ -945,6 +945,19 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «La Mente Estoica / La Mente del Estratega · 6 libros en PDF» — Edu Digital CO · `libros-pdf-estoicismo-edu-digital-co` · 2026-11-23 · sesión CO
+- **Qué es:** packs de «6 libros en PDF» de desarrollo personal/estrategia («La Mente Estoica», «La Mente del Estratega», también «La Mente Rica · 8 libros»), creativos «⭐⭐⭐⭐⭐», USD. Precio y entrega no visibles por API.
+- **Por qué es ganador:** cohorte **17/50 piso** (120 est. activos) con 7+ días de un solo page_id (≈ 10,6-11,9 d, tandas del 11-12 → 11-14) · ≥ 3 fechas de creación distintas y ads creados hoy → operador vivo que rota SKU · mismo operador y oferta en RO (tarjeta RO del 11-23, 21/49) → molde en dos mercados · sin cara ni nombre propio.
+- **Qué hacer:** modelar el pack «6 libros en un PDF» por arquetipo (estoico, estratega, rico) · destino BR/PT, IT o FR (RO ya tiene tarjeta) · ángulo: «6 libros en un solo PDF» + estrellas · aviso: verificar si los libros son de dominio público o resúmenes propios.
+- **Ads Library:** [CO · Edu Digital](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=100629922105479)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, ¿dominio público?).
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 3/4 · Decisión: —
+
+**Señales del día CO 2026-11-23**
+- Mini Genios (p. 739087692611672): 24/31 con 7+ d (antes 0/26), «+1000 ebooks vendidos ⭐⭐⭐⭐⭐» USD + SKUs nuevos (Kit de Caligrafía, Guía + 125 diseños + 5 bonos, kinusaiga); el título es prueba social y la API no dice qué vende: verificar en la PC antes de tarjeta.
+- Con Dios camino (WA): 3/23 con 7+ d; tanda de 12 ads de hoy y 8 de ≈ 5 d; re-medir ~11-27.
+- Entre hilos 4/7 y Mundo Creativo 6/13: bajaron, sin cohorte. Novika 0/2. Creaciones Sencillas y Wellness Library: apagadas (0 activos).
+
 CO 2026-11-21 (tarde): nada que pase la vara; se barrió cuaderno contabilidad, teoría musical colores, plantillas pdf descarga inmediata, pack digital pesos, ebook guía descargable.
 
 **Señales del día CO 2026-11-21 (tarde)**
