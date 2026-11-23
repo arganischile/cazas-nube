@@ -26,6 +26,14 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-23 (tarde, B perforar autismo/TDAH): nada que pase la vara; se barrió ebook TDAH adulto, autismo atividades pdf, pranchas comunicação autismo, rotina visual TEA kit, TDAH criança guia pais, educação especial atividades adaptadas (+ PT). Informe: `RAW/cazas-auto/2026-11-23-br-B-ebooks-autismo-tdah-tarde.md`.
+
+**Señales del día BR (2026-11-23, tarde, B perforar):**
+- Clubinho da Família (109302152055510): ≈ 38/50 con 7+ d (piso; 55 est.), ads de 2026-08-28 a hoy, BRL, sin cara; pasa en volumen pero solo títulos CTA («Clique em Ver detalhes») y el API no trae cuerpo: oferta no identificada, el nombre sugiere club/suscripción; sin tarjeta hasta abrir el embudo en la PC.
+- Posibles zombis (cohorte alta, ningún ad en 30 d): Ju.Alfabetização 46/46 (kit 267 modelos editáveis + simulados SAEB), Crescer com TEA 15/15 («Por Apenas R$10,00»), Atividades Inclusivas Prontas para Usar 9/9; KIT Rotina Visual 5/5.
+- Lanzamientos sin cohorte (re-medir ~11-30): Nuvora 0/12 («TEA no Dia a Dia: Guia Prático para Famílias + 7 Bônus»), ABA na Prática 0/5 (R$ 19,90), Natália Lins Saviora 0/9 (USD, «301 atividades para imprimir» para terapeutas), Paula Frati 0/2 (ebook TDAH e TOD).
+- Instituto AFA 4/12 con «Live gratuita» y Rhema Neuro Saúde ~11 ads de inscripción a curso: back-end/curso en vivo, sin tarjeta.
+
 ### 🎯 Kit de Documentos do Consultório (294 documentos para psicólogos) — Kit de Documentos do Consultório PT · `kit-documentos-consultorio-pt` · 2026-11-23 · sesión BR
 - **Qué es:** kit de plantillas editables para psicólogos en portugués europeo («294 documentos», «mais de 270»: consentimento informado, anamnese, contrato terapêutico, notas de sessão, comprovativo de pagamento, declarações, carta de encaminhamento; cabeçalho personalizable con nombre y cédula); precio no visible por API.
 - **Por qué es ganador:** cohorte 7+ **40 / 50 visibles (piso; 56 est.)** en PT, un solo page_id · 3 tandas viejas de creación (≈ 14,3 d, 11,5 d y 9,5 d) + una de ≈ 1,5 d (operador vivo) · página de marca sin cara · copy pt-PT con cuenta en USD (operador de otro mercado).
