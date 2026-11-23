@@ -191,3 +191,5 @@
 ## [2026-11-23] caza-auto | RO B libros-visuales-en-imagenes-ro / creativo-resenas-neuralforkids (tarde) → 1 candidatos a bandeja
 
 ## [2026-11-23] caza-auto | MX B cuadernillo-personalizado-ninos-mx / kits-psicologos-plantillas-mx (tarde) → 0 candidatos a bandeja
+
+## [2026-11-23] caza-auto | CO B cuaderno-medicina-app-co (tarde) → 1 candidatos a bandeja

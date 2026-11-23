@@ -994,6 +994,19 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Cuaderno de Medicina · resúmenes de toda la carrera (26 materias)» — Cuaderno de Medicina - APP CO · `cuaderno-medicina-app-co` · 2026-11-23 (tarde) · sesión CO
+- **Qué es:** resúmenes de las 26 materias de Medicina («+2.600 resúmenes», «del 1.er semestre al internado», «imprime y anilla tu cuaderno», «¿Cuarenta PDFs sueltos?»), entregados en un cuaderno/app; USD. Precio y formato exacto no visibles por API.
+- **Por qué es ganador:** cohorte **38/50 piso** (172 est. activos) con 7+ días de un solo page_id (≈ 7-19 d, tandas 11-04 → 11-17) · ≥ 3 fechas de creación distintas y 12 ads de ayer/hoy → operador vivo con creativos rotando (antes ≥50/160 el 11-17) · sin cara ni nombre propio · vecinos del molde en CO: Medicina en Papel 2/7, Doctor PDF 6/15, Professora Maria 3/7.
+- **Qué hacer:** modelar el «cuaderno de toda la carrera» (resúmenes visuales por materia) · destino BR/PT (carrera de Medicina en portugués) o IT · ángulo: «26 materias en un solo lugar» + «fotocopias sueltas vs. todo ordenado» · aviso: confirmar que se entrega como PDF y no como app/suscripción.
+- **Ads Library:** [CO · Cuaderno de Medicina - APP](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1372929795909878)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (¿PDF o app?, precio).
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 3/4 · Decisión: —
+
+**Señales del día CO 2026-11-23 (tarde)**
+- Doctor PDF (p. 114914206902993): 6/15 («Fichas visuales para tus guardias», MXN); cohorte < 10, re-medir ~11-30.
+- Ramas de la Medicina (p. 1386098401263926): 0/15 («Sistema Visual de Anestesia», USD, ads de 11-19/11-21); re-medir ~11-30.
+- Medicina en Papel 2/7 (+300 apuntes ilustrados), Professora Maria 3/7 (120 fichas de fisiopatología), Mente Academica 2/3: bajo la vara.
+
 ### 🎯 «La Mente Estoica / La Mente del Estratega · 6 libros en PDF» — Edu Digital CO · `libros-pdf-estoicismo-edu-digital-co` · 2026-11-23 · sesión CO
 - **Qué es:** packs de «6 libros en PDF» de desarrollo personal/estrategia («La Mente Estoica», «La Mente del Estratega», también «La Mente Rica · 8 libros»), creativos «⭐⭐⭐⭐⭐», USD. Precio y entrega no visibles por API.
 - **Por qué es ganador:** cohorte **17/50 piso** (120 est. activos) con 7+ días de un solo page_id (≈ 10,6-11,9 d, tandas del 11-12 → 11-14) · ≥ 3 fechas de creación distintas y ads creados hoy → operador vivo que rota SKU · mismo operador y oferta en RO (tarjeta RO del 11-23, 21/49) → molde en dos mercados · sin cara ni nombre propio.
