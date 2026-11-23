@@ -26,6 +26,31 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Kit de Documentos do Consultório (294 documentos para psicólogos) — Kit de Documentos do Consultório PT · `kit-documentos-consultorio-pt` · 2026-11-23 · sesión BR
+- **Qué es:** kit de plantillas editables para psicólogos en portugués europeo («294 documentos», «mais de 270»: consentimento informado, anamnese, contrato terapêutico, notas de sessão, comprovativo de pagamento, declarações, carta de encaminhamento; cabeçalho personalizable con nombre y cédula); precio no visible por API.
+- **Por qué es ganador:** cohorte 7+ **40 / 50 visibles (piso; 56 est.)** en PT, un solo page_id · 3 tandas viejas de creación (≈ 14,3 d, 11,5 d y 9,5 d) + una de ≈ 1,5 d (operador vivo) · página de marca sin cara · copy pt-PT con cuenta en USD (operador de otro mercado).
+- **Qué hacer:** modelar el molde «kit de documentos de consultorio» por profesión (psicólogos, nutricionistas, fisioterapeutas, dentistas); verificar en la PC embudo, formato y precio. Destino sugerido: Portugal (ya hay competidor, medir hueco por profesión), IT, FR, RO · ángulo: «papelada del primer paciente» en 5 documentos.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=PT&view_all_page_id=1331767043363980>
+- **Landing:** embudo no verificado desde la nube (el API no trae URL): verificar en la PC antes de decidir. Snapshot: https://www.facebook.com/ads/library/?id=29157904177165994
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-23-br-huella-atividades-imprimir.md`
+
+### 🎯 Atividades e frases para imprimir (embudo WhatsApp) — Atividades infantil BR · `atividades-imprimir-professoras-br` · 2026-11-23 · sesión BR
+- **Qué es:** actividades y frases imprimibles para niños/profesoras («80 frases» en los títulos; el resto «Clique Aqui 👉» / «Converse conosco» = cierre por WhatsApp/Messenger); producto exacto y precio no visibles por API.
+- **Por qué es ganador:** cohorte 7+ **24 / 50 visibles (piso; 87 est.)** en BR, un solo page_id · ≥ 6 tandas de creación (11-13, 11-16/17, 11-19, 11-20, 11-23; el más viejo ≈ 10,8 d, último ≈ 0,3 d) · BRL · página sin cara. Flag: oferta y precio no identificados (ficha WA: promesa «atividades/frases pra imprimir», precio n/e, escalera n/e).
+- **Qué hacer:** si es PDF de bajo ticket por WhatsApp: arbitraje de embudo (landing a 3-4× el precio) y modelar «atividades prontas para imprimir» · destino sugerido PT (mismo idioma) e IT/FR/RO con nativas (schede didattiche stampabili, fiches pédagogiques à imprimer). Verificar en la PC mensaje prellenado y precio.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=265589206630616>
+- **Landing:** WA: ficha reconstruida; no se sabe contenido exacto, precio, escalera ni garantía (el API no trae cuerpo).
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-23-br-huella-atividades-imprimir.md`
+
+**Señales del día BR (2026-11-23, mañana, A huella):**
+- Alfabeteca ABC (101185633028753): 11/30 con 7+ d (más viejo ≈ 34,6 d; 11 ads sueltos en ≥ 9 fechas + 13 de hoy; kits imprimibles de Natal/iglesia: «Kit Apresentação Natal Iluminado», «Jogral A História do Natal», «Combo 3 Kits»; BRL); pasa la vara por poco y queda como señal por estacionalidad; re-medir ~11-27.
+- Silvane Prof (1005303809337904): 19/30 con 7+ d (≈ 13,3 d, 10 fechas), un único título «⭐ (4,9) 4.297 avaliações», oferta no identificada, nombre «Prof» posible marca personal; hermana Aprender kids Digital 0/12 con el mismo título; sin tarjeta hasta identificar qué vende (verificar en la PC).
+- Marília Piccoli (115505261430798) 29/29 pero último ad hace 19 d, nombre de persona y «Black Vitalícia» (club): posible zombi/marca personal. Abordagens Da Psicologia 8/50 piso (material esquematizado de psicología, más viejo 10,5 d).
+- PT: Moldes & Artes Digitais 8/11 (planners PDF, BRL; re-medir ~11-27); fábricas de packs sin cohorte (todo ≤ 2 d): Trade Pro Kit 0/43, Sara Brooks/The Paper Atelier 0/50 piso, Orbis Atlas 0/22, Crearis Digital 0/40 («X Ilustrado» por oficio), Luna di Cromo 0/18, Beatriz Laurent 0/33, Vitor.planilhas 0/12.
+- Red de mapas por concurso sin cohorte: EJ Editora 0/50 piso (124 est.), Resumos Animados 3/21, Clube dos Mapas 0/16, Bellion Educacional 1/18 (mapas de cálculo/física, USD).
+
 ### 🎯 Manual Visual por oficio (R$ 37,90) — Ideias Práticas BR · `manuais-visuais-oficios-ideias-praticas-br` · 2026-11-21 · sesión BR
 - **Qué es:** manuales visuales por oficio a R$ 37,90 en el título del ad (Costura Industrial, Fôrma e Ferragem, Caminhoneiro, Soldador, Instalador de Energia Solar; Gestor de Frota R$ 47,90); formato PDF no verificado.
 - **Por qué es ganador:** 19 de ≥50 anuncios activos con 7+ días (piso, 51 est.; 7 Costura, 7 Fôrma, 5 Caminhoneiro), un solo page_id, 3 fechas de creación (11-13, 11-16/17, 11-18; operador vivo), página de marca sin cara, multi-SKU. Flag: los 19 de 7+ d son de la tanda del 11-13 y cruzaron los 7 d hace menos de un día; moneda del ad USD (operador de otro mercado, precio en BRL en el creativo); 0 en PT/IT/FR/RO/MX/CO para esta página.
