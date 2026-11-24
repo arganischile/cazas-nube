@@ -26,6 +26,15 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-24 (mañana, B perforar medicina/salud): nada que pase la vara; se barrió resumos de medicina pdf, resumos enfermagem pdf, fichas anatomia fisiologia pdf, resumos odontologia pdf, resumos fisioterapia pdf, farmacologia mapas mentais (+ PT `resumos medicina`). Informe: `RAW/cazas-auto/2026-11-24-br-B-manuais-medicina-amo-resumos.md`.
+
+**Señales del día BR (2026-11-24, mañana, B perforar):**
+- Amo Resumos (109673104683776): 16/40 con 7+ d (estable vs 17/41 del 11-19; tarjeta ya en bandeja); nueva tanda de 18 ads de ~5,2 d con títulos de emagrecimiento/GLP-1 («Nem descaso, nem caneta pra todo mundo», «O jejum não faz mágica»): el catálogo se abre fuera de medicina; formato/precio siguen sin verificar.
+- Maria (1303528502850034): 8/27 con 7+ d («🩺 1.000 Questões Comentadas + Bônus por R$ 10», BRL, 8 fechas); 6 ads más cruzan 7 d el 11-25: re-medir 11-25/26, candidata a tarjeta.
+- Portal Odonto Cursos (1033722839834418): ≥ 44/50 piso (164 est.; solo «Se interessou? Clique em Saiba Mais.»): oferta no identificada, el nombre dice «Cursos» (probable curso/lead-gen); sin tarjeta hasta abrir el embudo en la PC.
+- Giu Campos (1165824919950245): ≥ 21/50 piso (69 est.; «Me chama!» ×21 de 15-21 d, cierre WhatsApp/Messenger); oferta no visible en la API y nombre de persona: no pasa el gate WA; verificar en la PC.
+- Lanzamientos sin cohorte (re-medir ~12-01): Resumos de Enfermagem 1 0/5 («24 Resumos Ilustrados de Enfermagem», de hoy), Odonto Sprint 0/5 (revisão para concursos de odontologia, de hoy), Odontobox 0/4 (USD), Carlos Santos 0/3 («+400 Cards de Fisioterapia + Simulador de Provas»); Bookbay Digital en PT 7/50 (títulos casi todos en ucraniano, USD, psicopatología/DSM-5/esteticistas; BR = 0).
+
 BR 2026-11-23 (tarde, B perforar autismo/TDAH): nada que pase la vara; se barrió ebook TDAH adulto, autismo atividades pdf, pranchas comunicação autismo, rotina visual TEA kit, TDAH criança guia pais, educação especial atividades adaptadas (+ PT). Informe: `RAW/cazas-auto/2026-11-23-br-B-ebooks-autismo-tdah-tarde.md`.
 
 **Señales del día BR (2026-11-23, tarde, B perforar):**
