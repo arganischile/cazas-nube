@@ -1059,6 +1059,19 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «El kit original (y el más completo) · 100 % editable para cualquier servicio» — LaOfi CO · `kit-editable-servicios-laofi-co` · 2026-11-24 · sesión CO
+- **Qué es:** kit digital editable para profesionales que venden servicios (títulos: «El kit original (y el más completo)», «100 % editable para cualquier servicio», «Precio único», «Sistema para cobrar branding premium y blindar cambios»); parece un pack de plantillas/documentos para freelancers de diseño y branding. USD; precio y formato exacto no visibles por API.
+- **Por qué es ganador:** cohorte **41/50 piso** (92 est. activos) con 7+ días de un solo page_id (≈ 8-16 d; tandas de creación ≈ 11-08, 11-12, 11-13, 11-15) · ≥ 3 fechas de creación distintas y 9 ads de hoy/ayer → operador vivo rotando · página de marca sin cara · sin otro operador del molde visto · 0 ads en BR/PT/IT/FR/RO.
+- **Qué hacer:** modelar el kit de plantillas editables para freelancers (propuesta, contrato, brief, cobro por cambios) · destino BR/PT o IT (0 competidores digitales vistos allí) · ángulo: «el kit original, un solo pago» + «cobra el branding sin que te cambien todo gratis» · aviso: confirmar que es PDF/Canva/Notion y no un servicio.
+- **Ads Library:** [CO · LaOfi](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=101087078492489)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio).
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 3/4 · Decisión: —
+
+**Señales del día CO 2026-11-24**
+- Khaterine Rojas (p. 472597229738244): 0/19 («Guía práctica en 5 pasos» reportes negativos, $27.600; marca personal probable + «Método Turbo»); tandas de ≈ 3,8 d y 11-24; re-medir ~11-29.
+- Academia Esencia & Salud (p. 1179446881926962): 0/9 (+2.700 recursos docentes y +600 moldes, COP; todo del 11-23); re-medir ~11-30.
+- Educando a un clic (WA «recibe en whatsapp», COP): 2/12 con 7+ d; Hola Ideas 0/7, Tu Fe en casa 0/16 (COP, promos de ≤ 4 d), Detalles Creativos 0/6, Aprende y Crece 0/2 («80 cortes paso a paso»).
+
 ### 🎯 «Cuaderno de Medicina · resúmenes de toda la carrera (26 materias)» — Cuaderno de Medicina - APP CO · `cuaderno-medicina-app-co` · 2026-11-23 (tarde) · sesión CO
 - **Qué es:** resúmenes de las 26 materias de Medicina («+2.600 resúmenes», «del 1.er semestre al internado», «imprime y anilla tu cuaderno», «¿Cuarenta PDFs sueltos?»), entregados en un cuaderno/app; USD. Precio y formato exacto no visibles por API.
 - **Por qué es ganador:** cohorte **38/50 piso** (172 est. activos) con 7+ días de un solo page_id (≈ 7-19 d, tandas 11-04 → 11-17) · ≥ 3 fechas de creación distintas y 12 ads de ayer/hoy → operador vivo con creativos rotando (antes ≥50/160 el 11-17) · sin cara ni nombre propio · vecinos del molde en CO: Medicina en Papel 2/7, Doctor PDF 6/15, Professora Maria 3/7.

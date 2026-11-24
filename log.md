@@ -203,3 +203,4 @@
 ## [2026-11-24] caza-auto | RO B perforar nursing-ghiduri-ro → 1 candidatos a bandeja
 
 ## [2026-11-24] caza-auto | MX C operadores operadores-MX → 0 candidatos a bandeja
+## [2026-11-24] caza-auto | CO A huella — → 1 candidatos a bandeja
