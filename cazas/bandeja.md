@@ -728,6 +728,13 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-24 (tarde): nada que pase la vara; se barrió Genius Mentor/Genius Bac (page_id), «metoda de învățare», «tehnici de memorare», «învață mai repede», «ghid elevi note mai mari» (0), «concentrare studiu copii» (0), «citire rapidă pdf» (ALL), «planificator învățare elev» (ALL, 0).
+
+**Señales del día RO 2026-11-24 (tarde, modo B)**
+- Genius Mentor (1202927619580444): 2/50 piso con 7+ d (antes 22/50 por promos BF ya apagadas); tanda de ~8 ads cruza 7 d hoy y ~30 más el ~11-29; creativos «Nu era copilul. Era cartea de pe birou.»; re-medir ~11-27. Genius Bac 4/10 con «plătești la ușă» (pago contra entrega → probable libro físico).
+- Cărți pentru toți (2009572215949569): 0/50 piso (96 est.), resúmenes/guías de libros (dinero, memoria, permacultura), todo creado 11-21 a 11-24; oferta no identificada; re-medir ~11-30.
+- NeiroKid (562010930336733): 13/50 pero casi todo en ucraniano («Нейропосібник PDF — 399 грн»); 3 ads en rumano de hoy → posible test UA→RO; sin tarjeta (cohorte inflada por idioma).
+
 ### 🎯 Libros/guías de nursing para asistentes médicos (reatestare, angajare, grile) — Tehnici De Nursing + Pagina de Nursing RO · `nursing-ghiduri-ro` · 2026-11-24 · sesión RO
 - **Qué es:** catálogo en RON para asistentes médicos: «Ghid complet pentru angajare», «Reatestare asistent medical» vol. I/II, «500 grile», «90 planuri de îngrijire A4», «Manual Ambulanță/SMURD», paquetes de 6 cărți; la otra página, «Esențiale Farmacologie/Patologie/Tehnici de Nursing – ghid ilustrat color» con −70 % Black Friday. Precio no visible; **formato no confirmado: puede ser libro impreso** (clipboards/insignias en la misma página).
 - **Por qué es ganador:** cohorte 7+/activos por page_id **28/30** (Tehnici De Nursing, tanda de ~25 ads creada 07-18 más tandas 08-02, 11-03, 11-13/17; ≈ 130 d) y **21/21** (Pagina de Nursing, creados 10-31 a 11-04) · operador vivo (ads de 11-22/23) · embudo no verificado.
