@@ -26,6 +26,21 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+**Señales del día BR (2026-11-24, tarde, B perforar mapas-visuales-mentales):**
+- Camila silva (1363093533548684): 26/26 con 7+ d pero mezcla de ofertas («Clube Da Fluência» 15, «OFERTA ESPECIAL» 4, «200 Mapas Mentais de Enfermagem» 4) y nombre de persona: marca personal probable, oferta principal sin identificar; sin tarjeta hasta verificar en la PC.
+- ENEM PROVA MAPAS Mentais (1316379811568954): 21/21 con 7+ d, pero tanda única del 11-04 («Revisão Final ENEM 2026 R$ 17,90») y el ENEM ya pasó: posible zombi estacional.
+- MM Cursos (100191179652983): 13 ads «+777 Mapas Mentais e +777 Questões para PRF» de 4-7 d (0 con 7+ al corte); re-medir ~11-27. Maria Clara (1094481413758211): 21 ads de hoy «+1.000 Questões Comentadas R$ 10» (clon de Maria, ya en cola).
+- Mapas da Jeh 0/5, Casa dos mapas mentais 1/8, Mapas Espanhol/Novo Mercado (≤ 1 d), Clube da Matéria (USD, ≈ 7 d; re-medir ~11-26): todas < 10. PT = 0 y IT sin cohorte para mapas de concurso docente.
+
+### 🎯 Mapas mentais de Legislação da Educação (concursos de docentes) — 123Concursado BR · `mapas-legislacao-educacao-123concursado-br` · 2026-11-24 (tarde) · sesión BR
+- **Qué es:** mapas mentais para concursos de profesor («Gabarite a Legislação da Educação em 7 Dias — Mapas Mentais»), BRL; precio y formato (PDF) no visibles por API.
+- **Por qué es ganador:** cohorte 7+ **22 / 30 visibles** (34 est. activos), un solo page_id · 3 tandas de creación (11-06, 11-13, 11-24; el más viejo ≈ 18,6 d) y 11 ads de hoy (operador vivo) · página de marca sin persona · PT = 0 y IT sin competidor con cohorte. Flag: 23 de 30 ads tienen título vacío; solo 7 llevan el título «Gabarite…».
+- **Qué hacer:** verificar en la PC embudo, precio y formato; si es PDF de bajo ticket, modelar «mapas mentais de legislación por cargo/edital» para Italia (concorsi docenti) y Portugal · ángulo: «gabarita la ley en 7 días».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=305224772674785>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL): verificar en la PC antes de decidir. Snapshot: https://www.facebook.com/ads/library/?id=1143833041469816
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-24-br-B-mapas-visuales-mentales-tarde.md`
+
 BR 2026-11-24 (mañana, B perforar medicina/salud): nada que pase la vara; se barrió resumos de medicina pdf, resumos enfermagem pdf, fichas anatomia fisiologia pdf, resumos odontologia pdf, resumos fisioterapia pdf, farmacologia mapas mentais (+ PT `resumos medicina`). Informe: `RAW/cazas-auto/2026-11-24-br-B-manuais-medicina-amo-resumos.md`.
 
 **Señales del día BR (2026-11-24, mañana, B perforar):**
