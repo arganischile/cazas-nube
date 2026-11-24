@@ -204,3 +204,4 @@
 
 ## [2026-11-24] caza-auto | MX C operadores operadores-MX → 0 candidatos a bandeja
 ## [2026-11-24] caza-auto | CO A huella — → 1 candidatos a bandeja
+## [2026-11-24] caza-auto | EU B perforar templates-remarkable-rmkly-us (tarde) → 1 candidato a bandeja

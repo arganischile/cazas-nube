@@ -1268,6 +1268,21 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Planners/templates PDF para reMarkable y Kindle Scribe — Methodyco US · `templates-remarkable-rmkly-us` · 2026-11-24 (tarde) · sesión EU
+- **Qué es:** bundle de planners digitales importables para tablets de tinta (reMarkable, Kindle Scribe): «15 Planners in One Bundle», «65+ templates. One purchase.», tiers Work / Life / All-in-One ($39,97 visto en un título; moneda EUR). Formato y landing no verificados.
+- **Por qué es ganador:** cohorte 7+ **≥ 19 / ≥ 50 activos** (piso; est. 101) · ad más viejo ≈ 17 d (tanda 11-07) · 4+ fechas de creación (11-07, 11-16, 11-18/19 y hoy): operador vivo e iterando · página de marca sin cara · mismo nicho que RMKLY (tarjeta 11-23), distinto operador.
+- **Qué hacer:** modelar «planners/templates para <tablet de tinta> en <idioma>» (bundle + tiers por uso) a ~€10-15 de entrada; destino: IT (Northpage, «Template per reMarkable in italiano», hoy 0 activos), FR/BR/PT (0 en la API), RO sin competidor real.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1513329658523239&search_type=page&media_type=all)
+- **Landing:** no verificada (la API no trae URL). Snapshots más viejos: https://www.facebook.com/ads/library/?id=1781543799728377 · ?id=2267180374212015 · ?id=2919991725047837
+- Score 3/4 medido (① longevidad ≈ 17 d; ② volumen; ④ hueco en IT/FR/BR/PT; ③ duplicación sin confirmar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, snapshot no verificado desde la nube). Verificar en la PC tienda/precio antes de decidir.
+
+**Señales del día EU (tarde) 2026-11-24**
+- PlanPro Template (p. 562195586966402): 0/5 activos en US (AUD, tandas del 11-17 ≈ 6,8 d; cruzan 7 d hoy); re-medir ~11-26.
+- Nib & Slate (p. 1462876683573689): 0/5 (planners/guías, ≤ 4 d).
+- RMKLY (p. 468755899654132): sigue activo con Black Friday 30 % off (tarjeta del 11-23).
+- Northpage (p. 109412195383990, IT): reMarkable «in italiano» ~10-14 d, hoy 0 activos.
+
 ### 🎯 «520 mapas mentais de inglês» — Mapa do Inglês US + PT · `red-mapas-mentais-ingles-us` · 2026-11-24 (mañana) · sesión EU
 - **Qué es:** pack digital de 520 mapas mentais para aprender inglés («do zero ao avançado», 8 rotas A1–C2) + 5 bonos; precio dicho en un ad: €11,90. Copy en portugués europeo; formato (PDF/app) y landing no verificados.
 - **Por qué es ganador:** cohorte 7+ **30 / 30 en US** y **≥ 50 / 59 en PT** (piso: 50 = tope de la API; BR = 0) · 3 fechas de creación (10-27 «420 mapas», 11-05, 11-16): itera versiones, el ad más viejo ≈ 28 d · página de marca sin cara · un solo creativo/oferta · mismo molde que Fluente com Legenda (ya con tarjeta).
