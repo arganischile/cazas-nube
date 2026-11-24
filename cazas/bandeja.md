@@ -863,6 +863,15 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+MX 2026-11-24: nada que pase la vara; se contó por page_id a los 11 operadores MX vigentes y MAETA Crea / OficioPlus; todo lo que cruza 10 ya tiene tarjeta.
+
+**Señales del día MX 2026-11-24**
+- Luz de mi Ángel (p. 1404192579447962): 10/10 con 7+ d (BRL, todos de la tanda del 11-13, 11 d); ya tiene tarjeta (11-20), la tanda de «30 Días con tu Ángel» se apagó.
+- Planner Hoy Solo 3 (p. 1280820831792286): ≈40/49 con 7+ d (USD); ya tiene tarjeta (11-16), sigue creciendo.
+- Mente Académica (p. 1239880759219492): ≥50/376 est. (piso, BRL); Psicologia & Recursos 2025: 16/16; Axo y Yo: 19/24; SuperEdu: 14/24; Editorial MD: 8/10 (bajó de 14/14); todos con tarjeta previa.
+- 300 Mapas Mentales (p. 1276104028925482): 3/15 (era 20/28; rotó a tanda nueva «Aprender Inglés», 11-21/22); Cardiologia Completa: 0 activos (apagada); Tus Clases Online 0/50 (≤ 4 d); Vida Práctica 2/4.
+- MAETA Crea (p. 1321999554322707): 11/15 con 7+ d, MXN, sin copy ni URL en la API: oferta no identificada, verificar en la PC.
+
 MX 2026-11-23 (tarde): nada que pase la vara; se barrió cuadernillo personalizado/repaso primaria, cuaderno de trazos, libro personalizado, kit psicólogos plantillas, lectoescritura imprimible, guía examen de admisión, presupuesto excel.
 
 **Señales del día MX (tarde) 2026-11-23**
