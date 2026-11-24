@@ -289,6 +289,11 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-24 tarde (B perforar, cuadros-diseno-quadri): nada que pase la vara nueva; se barrió quadri stampabili, stampe da parete, arredare casa, poster stampabili, quadri digitali, cornici fai da te, Canva quadri.
+**Señales del día IT (tarde)**
+- Studio Quadri (721617357705716): ≥28/50 piso (141 est.), tanda nueva 11-23; ya tiene tarjeta; oferta sin identificar, verificar en la PC.
+- Atlante Vascolare (1430898733436973, atlas ecocolordoppler): 0/4, todos de ≤1,8 d; re-medir ~11-30.
+
 IT 2026-11-24 (C operadores): 1 tarjeta.
 ### 🎯 Musicogrammi (25 videos de «musicogramma» para seguir con la mano, clase/familia) — Silvia Moretti IT · `musicogrammi-docenti` · 2026-11-24 · sesión IT
 - **Qué es:** «Il Mio Musicogramma»: 25 musicogrammi (videos de música clásica/inno di Mameli/Natale con la línea melódica para seguir con la mano; atención, coordinación, uso en LIM) a **6,90 €** (antes 13,90 €), «Pacchetto Completo» 12,90 € (antes 26,90 €), «accesso a vita», garantía 7 días; USD en la cuenta, precio en € en el copy. Formato = videos grabados (mini-curso/biblioteca), embudo sin ver.
