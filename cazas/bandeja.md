@@ -1123,6 +1123,12 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 - **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio).
 - Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 3/4 · Decisión: —
 
+CO 2026-11-24 (tarde): nada que pase la vara; se barrió plantillas excel, Excel para tu negocio, control de gastos excel, hojas de cálculo listas, plantilla excel inventario, dashboard excel.
+
+**Señales del día CO 2026-11-24 (tarde)**
+- Luna Noire (p. 978656985328281): 0/9 (Excel de obra «¿Cuánto ganas en cada obra?», USD, tanda 11-23/24); re-medir ~11-30.
+- Ikigai Reborn (p. 849531904915069): 3/14 multi-tema (Excel + recursos + dibujo, COP); Gestión Profesional con Excel 4/6; Excel Listo 3/4; Contabilidad Fácil Colombia 0/8.
+
 **Señales del día CO 2026-11-24**
 - Khaterine Rojas (p. 472597229738244): 0/19 («Guía práctica en 5 pasos» reportes negativos, $27.600; marca personal probable + «Método Turbo»); tandas de ≈ 3,8 d y 11-24; re-medir ~11-29.
 - Academia Esencia & Salud (p. 1179446881926962): 0/9 (+2.700 recursos docentes y +600 moldes, COP; todo del 11-23); re-medir ~11-30.
