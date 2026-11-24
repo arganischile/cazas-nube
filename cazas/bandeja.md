@@ -694,6 +694,20 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Libros/guías de nursing para asistentes médicos (reatestare, angajare, grile) — Tehnici De Nursing + Pagina de Nursing RO · `nursing-ghiduri-ro` · 2026-11-24 · sesión RO
+- **Qué es:** catálogo en RON para asistentes médicos: «Ghid complet pentru angajare», «Reatestare asistent medical» vol. I/II, «500 grile», «90 planuri de îngrijire A4», «Manual Ambulanță/SMURD», paquetes de 6 cărți; la otra página, «Esențiale Farmacologie/Patologie/Tehnici de Nursing – ghid ilustrat color» con −70 % Black Friday. Precio no visible; **formato no confirmado: puede ser libro impreso** (clipboards/insignias en la misma página).
+- **Por qué es ganador:** cohorte 7+/activos por page_id **28/30** (Tehnici De Nursing, tanda de ~25 ads creada 07-18 más tandas 08-02, 11-03, 11-13/17; ≈ 130 d) y **21/21** (Pagina de Nursing, creados 10-31 a 11-04) · operador vivo (ads de 11-22/23) · embudo no verificado.
+- **Qué hacer:** si es impreso → pasarlo a PDF/plantillas de «reatestare + grile + planuri de îngrijire» · destino RO (ya hay oferta local; modelar mejor ángulo) y probar IT/FR/PT (hoy 0 con 1 keyword nativa) · ángulo: examen de reatestare/angajare.
+- **Ads Library:** [RO · Tehnici De Nursing](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=258571864197953) · [RO · Pagina de Nursing](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=340055433511635)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (¿PDF o impreso con livrare? precio).
+- Evidencia: API; snapshot y embudo no verificados desde la nube · longevidad por API, snapshot no verificado desde la nube · Score 2/4 · Decisión: —
+
+**Señales del día RO 2026-11-24 (mañana, modo B)**
+- Biblioteca (1339407522596146): 1 ad de hoy «Programul pacientului, gata în 2 minute» (kinetoterapie, USD), sin cohorte; re-medir ~12-01.
+- Med Atlas (1416948504837428): 2 ads (~11-17, USD, TCC «etichetare sau catastrofizare»), sin cohorte; ya en seguimiento.
+- Skill Hub Teachers (1379879298551345): 1 ad (11-20, «300 de pagini de biologie», USD); molde de Ready Resources, sin cohorte.
+- IT/FR/PT con 1 keyword nativa de nursing = 0: barrido superficial, no vacío.
+
 ### 🎯 «X în imagini» — libros/guías ilustradas en PDF por oficio y profesión — Studio Facile RO · `libros-visuales-en-imagenes-ro` · 2026-11-23 (tarde) · sesión RO
 - **Qué es:** catálogo de guías ilustradas «<tema> în imagini» / «explicată prin desene» (ecografía, PLC, soldadura, contabilidad, fisioterapia, CNC, optica, ECG, instalator, apicultura…) con creativo común «Răsfoiește paginile înainte să descarci» (vista previa de páginas → descarga) y en algunas «+ 2 cărți cadou»; USD. Precio y formato exactos no visibles por API (entrega digital por el copy «descarci»).
 - **Por qué es ganador:** cohorte por page_id **15/26** (p. 1232011766670582) y **11/35** (p. 1272162682644374) activos con 7+ días — cada página pasa sola, sin sumar · ≥ 20 temas rotando en tandas (creaciones de 11-05 a 11-22, ads nuevos hoy) → operador vivo que lleva ≥ 18 d con la misma plantilla · mismos ads en FR (≈106 est., todo < 3 d) e IT (648 est.) → molde ya multi-país · sin cara ni nombre propio.
