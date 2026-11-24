@@ -1190,6 +1190,30 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «520 mapas mentais de inglês» — Mapa do Inglês US + PT · `red-mapas-mentais-ingles-us` · 2026-11-24 (mañana) · sesión EU
+- **Qué es:** pack digital de 520 mapas mentais para aprender inglés («do zero ao avançado», 8 rotas A1–C2) + 5 bonos; precio dicho en un ad: €11,90. Copy en portugués europeo; formato (PDF/app) y landing no verificados.
+- **Por qué es ganador:** cohorte 7+ **30 / 30 en US** y **≥ 50 / 59 en PT** (piso: 50 = tope de la API; BR = 0) · 3 fechas de creación (10-27 «420 mapas», 11-05, 11-16): itera versiones, el ad más viejo ≈ 28 d · página de marca sin cara · un solo creativo/oferta · mismo molde que Fluente com Legenda (ya con tarjeta).
+- **Qué hacer:** modelar «mapas mentales de <idioma>» (pack grande + bonos a ~€12); destino: el operador ya corre en PT; BR sin competencia directa suya (BR = 0) y el molde, con otro idioma/avatar (inglés para hablantes de italiano, francés o rumano), a IT/FR/RO (hueco sin medir).
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1170077372866827&search_type=page&media_type=all) · [PT](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=PT&view_all_page_id=1170077372866827&search_type=page&media_type=all)
+- **Landing:** no verificada (el API no trae URL). Snapshots más viejos: https://www.facebook.com/ads/library/?id=2245701226004663 · ?id=1160165726534711 · ?id=1507410831242999
+- Score 3/4 medido (① longevidad 28 d; ② volumen; ④ BR vacío, IT/FR/RO sin medir; ③ duplicación sin confirmar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, snapshot no verificado desde la nube). Verificar en la PC tienda/precio antes de decidir.
+
+### 🎯 Guías visuales de examen y trámites — Digital Accademy US · `guias-visuales-examen-digital-accademy-us` · 2026-11-24 (mañana) · sesión EU
+- **Qué es:** guías visuales «explained visually / understand the reasoning» para exámenes de certificación de EEUU (EA, SHRM-CP/PHR, RRT, CFP, Bar CA/FL, NCMHCE, CSLB en español) y para trámites (pagar el cuidado de un padre, cumplir 18 con discapacidad, beneficios VA para viudas). Formato y precio no verificados; oferta exacta no identificada (multi-tema).
+- **Por qué es ganador:** cohorte 7+ **≥ 21 / ≥ 50 activos** (piso; est. 103; 9 de exámenes, 12 de trámites) · ad más viejo ≈ 9 d (nodo joven) · tandas de 11-15, 11-16 y 11-18/20 · página de marca sin cara · USD · misma fórmula de Digital Megy (cuya cohorte de ayer, 10/16, hoy cae a 3/17: la fórmula se mudó a esta página).
+- **Qué hacer:** modelar «guía visual del examen X»; destino: llevar la fórmula a exámenes locales de IT/FR/RO/BR/PT (oposiciones, ordini professionali, concursos), hueco sin medir; elegir un solo tema para el test.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=304351576094657&search_type=page&media_type=all)
+- **Landing:** no verificada. Snapshots más viejos: https://www.facebook.com/ads/library/?id=1780756183151818 · ?id=1015149244191282 · ?id=1342198164599218
+- Score 2/4 medido (① longevidad corta; ② volumen repartido en temas; ③ duplicación y ④ hueco sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Posible mezcla de eldercare: confirmar en la PC que no cae en «actividades adulto mayor» (excluido).
+
+**Señales del día EU 2026-11-24**
+- Digital Megy (p. 1362921660243667): 3/17 (cohorte 10/16 del 11-23 se desinfló; 4 ads de ficción en la misma página); tarjeta de ayer debilitada, re-medir ~11-27.
+- In pictures books (p. 1354208894450767): ≥ 5 / 50 piso (est. 152; Propane Tech 12 d, el resto tandas del 11-20 y 11-22); mismo molde «<oficio> Illustrated + 2 free books» que Clearpage Books y Diagram Books (RO); re-medir ~11-28.
+- Linework Books (p. 1381943905010114) 0/5 y Online Packages (p. 1555088221011077) 0/9 (EPA 608 visual guide, kits de terapia): todo de hoy, sin cohorte.
+- Jessica Morales (p. 1464600380075077): 0/11 («Illustrated Guide to the CRCST»), todos de 1,4 d; cruza 7 d ~11-30.
+
 ### 🎯 Guías de estudio ilustradas para exámenes de certificación — Digital Megy US · `examenes-ilustrados-digital-megy-us` · 2026-11-23 (tarde) · sesión EU
 - **Qué es:** guías de estudio ilustradas/visuales (flowcharts, «explicadas visualmente») para exámenes profesionales de EEUU: Enrolled Agent (impuestos), bar exam/MBE y California, RRT (terapia respiratoria), beneficios/reclamos VA. Formato (PDF/descarga) y precio no verificados.
 - **Por qué es ganador:** cohorte 7+ 10 / 16 activos (exacto en la vara) · ad más viejo ≈ 8,5 d (nodo recién nacido) · 3 tandas de creación distintas (11-16, 11-17, 11-18) más 6 ads nuevos de 11-20/21 en los mismos temas (operador vivo y probando temas) · página de marca sin cara · USD · la misma fórmula la corre una red hermana (Fenix Library, Visual Guide Lab, Jessica Morales, VA Claim Map; ver cola).

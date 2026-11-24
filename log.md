@@ -193,3 +193,5 @@
 ## [2026-11-23] caza-auto | MX B cuadernillo-personalizado-ninos-mx / kits-psicologos-plantillas-mx (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-23] caza-auto | CO B cuaderno-medicina-app-co (tarde) → 1 candidatos a bandeja
+
+## [2026-11-24] caza-auto | EU B examenes-ilustrados / mapas-mentais-ingles → 2 candidatos a bandeja
