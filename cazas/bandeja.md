@@ -488,6 +488,20 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Guía de guitarra en PDF «Téléchargez maintenant 4.9/5» — L'endroit des opportunités FR · `guitare-pdf-endroit-opportunites-fr` · 2026-11-24 · sesión FR
+- **Qué es:** método/guía de guitarra en PDF descargable (18 de 24 ads mencionan «guitare», 13 «PDF»; título único «Téléchargez maintenant 👉 4.9/5 ⭐⭐⭐⭐⭐»); cuenta EUR, precio no visto.
+- **Por qué es ganador:** 24 de 24 ads activos en FR con 7+ días (no truncado), un solo page_id; 7 fechas de creación (10-13 ×5, 10-18/19 ×8, 10-29/30 ×3, 11-13 ×4, 11-16 ×2), ad más viejo ≈ 42 d, el más nuevo 7,8 d (operador vivo); nombre de página genérico, no marca personal. Alrededor: Guitar Cook 6/6 (libro 29,90 €), Acordes en Claro 4/13.
+- **Qué hacer:** modelar como guía PDF de guitarra para principiantes (acordes + ritmos + canciones) con prueba social «4.9/5»; destinos a medir: IT (chitarra principianti pdf), BR/PT (violão iniciantes pdf), RO (chitară începători). Ángulo: «aprendé sin profesor, descargá hoy».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1386430204553021&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, escalera n/e). Snapshots: https://www.facebook.com/ads/library/?id=4167263933573371 · https://www.facebook.com/ads/library/?id=2293280831245980
+- Score n/4 (1/4 provisorio: duplicación ×24 y longevidad ≈ 42 d; embudo, precio y hueco sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-24-fr-B-classeur-antiseche-mixage-tarde.md`
+
+**Señales del día FR (2026-11-24, tarde):**
+- Biblioteca Práctica (Classeur Antisèche mixage): 0/1 en FR, rotó a un ad del 11-23; sin cohorte.
+- Le Musicien (1448595381667986): 1/6, «Le mixage, sans prise de tête» + «300+ astuces pour Logic Pro» (EUR, tandas 11-23/24); re-medir ~12-01.
+- Guitar Cook (559371587443605): 6/6, «Guitar Cook Book» 29,90 € (¿físico?), ≈ 27 d.
+
 ### 🎯 Método de dibujo para principiantes «Votre premier dessin commence ici» — Lumen Arte FR · `dessin-portrait-debutants-fr` · 2026-11-24 · sesión FR
 - **Qué es:** método de dibujo/retrato para principiantes (forma → contorno → sombras → acabado; «arrête de commencer par les yeux»); formato probable curso grabado o PDF, precio no visto (cuenta USD).
 - **Por qué es ganador:** 14 de 26 ads activos en FR con 7+ días (no truncado), un solo page_id y una sola oferta; escalonado en 5 tandas (10-27 ×11, 11-10 ×3, 11-21 ×4, 11-22 ×5, 11-24 ×3), ad más viejo ≈ 27 d; el creativo «Votre premier dessin commence ici» duplicado ×14. Página de fantasía, sin persona en los títulos.
