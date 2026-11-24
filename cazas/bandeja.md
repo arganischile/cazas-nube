@@ -468,6 +468,22 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Método de dibujo para principiantes «Votre premier dessin commence ici» — Lumen Arte FR · `dessin-portrait-debutants-fr` · 2026-11-24 · sesión FR
+- **Qué es:** método de dibujo/retrato para principiantes (forma → contorno → sombras → acabado; «arrête de commencer par les yeux»); formato probable curso grabado o PDF, precio no visto (cuenta USD).
+- **Por qué es ganador:** 14 de 26 ads activos en FR con 7+ días (no truncado), un solo page_id y una sola oferta; escalonado en 5 tandas (10-27 ×11, 11-10 ×3, 11-21 ×4, 11-22 ×5, 11-24 ×3), ad más viejo ≈ 27 d; el creativo «Votre premier dessin commence ici» duplicado ×14. Página de fantasía, sin persona en los títulos.
+- **Qué hacer:** modelar el molde «tu primer dibujo / retrato sin talento» como curso grabado o guía PDF paso a paso; destinos a medir: IT (disegno per principianti), BR/PT (desenho para iniciantes), RO (desen pentru începători). Ángulo: el error de empezar por los ojos. ⚠️ 2 hooks apuntan a mayores («Ma mère, 64 ans»): si el avatar real es adulto mayor, cae en nicho excluido.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1070053346183652&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, escalera n/e). Snapshots: https://www.facebook.com/ads/library/?id=2378983809597260 · https://www.facebook.com/ads/library/?id=28751135201175273 · https://www.facebook.com/ads/library/?id=1012362364569552
+- Score n/4 (1/4 provisorio: duplicación ×14 y escalonamiento; embudo, precio y hueco sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-24-fr-A-huella.md`
+
+**Señales del día FR (2026-11-24):**
+- Amélie Boissieu (Kit Comptable 2027): 43/50 piso (est. 76), 14 fechas, sigue sumando; ya con tarjeta.
+- Fenix Library (1455853117614278): 0/50 piso (est. 58), guías ilustradas de 53-58 p. por examen de oficio (radioamateur, CRR, habilitation électrique, frigoriste, agent immobilier…); todo ≤ 4,5 d; re-medir ~11-27/28.
+- Mission parent (994644443736564): 8/30; la tanda 11-17 ×14 cruza 7 d hoy → 22/30 posible; probable físico (tablero de autonomía infantil); re-medir ~11-27.
+- Emilia Zabala (825650823960909): 0/20 («Chimie Zéro Labo 150+ expériences», docentes); LumenAkasha 7/24 (packs de clases, multilingüe); Mentora 5/19 («+50 Tutos» video).
+- Lanzamientos sin cohorte: Daniel Brooks 0/19 (piano), Cursos digitales 0/10 («Cahiers Charmants 11,90 €»), Mesa Ligera 0/14, NeuroBridge 0/13, Vie de Chien Hyperactif 0/12, Margin and Ink 0/13 (oferta n/i).
+
 ### 🎯 Maths Prêtes™ — EDT Labs FR · `cours-maths-prets-edt-labs-fr` · 2026-11-23 (tarde) · sesión FR
 - **Qué es:** «Vos cours de maths déjà prêts» / «Maths Prêtes™»: clases de matemáticas listas para usar para profesores (ángulo «Retrouvez vos dimanches soirs»: no preparar más clases el domingo); formato y precio no vistos (cuenta USD).
 - **Por qué es ganador:** 18 de 27 ads activos en FR con 7+ días (no truncado), un solo page_id y una sola oferta; 3 tandas (11-11 ×10, 11-13 ×8, 11-19 ×9), operador vivo; subió de 4/8 el 11-21. Cohorte joven: ad más viejo ≈ 12,5 d. Sin cara ni persona en los títulos.

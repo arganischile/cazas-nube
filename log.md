@@ -199,3 +199,4 @@
 ## [2026-11-24] caza-auto | BR B manuais-medicina-amo-resumos-br → 0 candidatos a bandeja
 
 ## [2026-11-24] caza-auto | IT C operadores musicogrammi-docenti → 1 candidatos a bandeja
+## [2026-11-24] caza-auto | FR A huella — → 1 candidatos a bandeja
