@@ -274,6 +274,23 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-24 (C operadores): 1 tarjeta.
+### 🎯 Musicogrammi (25 videos de «musicogramma» para seguir con la mano, clase/familia) — Silvia Moretti IT · `musicogrammi-docenti` · 2026-11-24 · sesión IT
+- **Qué es:** «Il Mio Musicogramma»: 25 musicogrammi (videos de música clásica/inno di Mameli/Natale con la línea melódica para seguir con la mano; atención, coordinación, uso en LIM) a **6,90 €** (antes 13,90 €), «Pacchetto Completo» 12,90 € (antes 26,90 €), «accesso a vita», garantía 7 días; USD en la cuenta, precio en € en el copy. Formato = videos grabados (mini-curso/biblioteca), embudo sin ver.
+- **Por qué es ganador:** 34 de los 50 ads devueltos (est. 89 activos) tienen ≥ 7 d desde la creación y **27 desde `ad_delivery_start`** (tandas 11-15 y 11-16, ≈ 8-9 d), un solo page_id, muchas fechas de creación y tanda nueva el 11-22 (Natale, Befana, Inno di Mameli); piso (el límite de la API es 50). Antes 0/50 el 11-17 y 6/50 el 11-23: la cohorte cruzó los 7 d con la tanda sin apagarse. Oferta de test intensivo (≈ 30 variantes de copy con -50 %).
+- **Qué hacer:** verificar en la PC formato real, plataforma de entrega y checkout, y **juzgar marca personal** (el nombre de página es de persona, pero los títulos venden el producto, sin cara/nombre en el copy); si es digital sin cara, modelar la biblioteca de videos-guía de escucha activa para PT/BR/FR/RO (docentes de infancia/música) con el ángulo «2 minutos y el grupo está concentrado».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1519553207903758>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=1499715392060065
+- Score 2/4 provisorio (cohorte y precio OK; embudo y marca personal sin verificar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-24-it-C-operadores.md`
+
+**Señales del día IT 2026-11-24**
+- Digital Corner (p. 1358074294058687): 0/27 activos; 9 ads «80 progetti di dime» del 11-18 (≈ 5,6 d) cruzan 7 d ~11-25; tanda nueva multi-SKU (blackout 30 días, terremoto, lipedema -50 %, app): factoría de tests; re-medir ~11-26.
+- Crescere Giocando (p. 1009883552206401): 6 ads activos (3 de ≥ 7 d; el más viejo 11-02 d), se apagó la tanda; descartar re-medición salvo SKU nuevo.
+- Maestro Kaito (p. 1323428457528453, calistenia, IT): 276 est. activos, todos los 50 más nuevos ≤ 6 d (títulos «⭐ 4,9/5», USD); cohorte 7+ no medible; clon europeo de la red de Ryu Nakamura (agenda 11-24); re-medir ~11-28 con `search_terms`.
+- Operadores con tarjeta vigente (Quadri, Ferraresi, elfo, Metodo Universitario, Emilia Zabala): no re-medidos hoy (re-mediciones ~11-25/28).
+
+
 IT 2026-11-23 (tarde): nada que pase la vara; se barrió pregrafismo, allenamento donne, curriculum (0), mappe concettuali, casi clinici, cani manuale (0), finanze personali, quaderno stampabile.
 **Señales del día IT 2026-11-23 (tarde)**
 - Bibbia Vet (p. 1512094408651714): 0/8 (210 casi clinici veterinari, USD; tandas 11-18 y 11-20, ≤ 2,9 d); nuevo, re-medir ~11-28; verificar en la PC si es PDF.
