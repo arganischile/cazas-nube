@@ -904,6 +904,21 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «54 fichas visuales» por tema en PDF (catálogo multi-tema) — red Aprendia (Guias visuales, Guías Oficiales, Guias profesionales, Guías Paso a Paso) MX · `fichas-mapas-multitema-aprendia` · 2026-11-24 (tarde) · sesión MX
+- **Qué es:** catálogo de guías de «50-54 fichas visuales» por tema (soldadura, ECU, guitarra, derecho, histopatología, ventilación minera…), una sola plantilla de anuncio declinada en cientos de temas; un título dice «EN PDF»; MXN; precio y landing no vistos.
+- **Por qué es ganador:** 4 fanpages de la misma red pasan 10+ por separado: Guias visuales 42/43, Guías Oficiales 36/40, Guias profesionales ≥ 38/50 (piso, 70 est.), Guías Paso a Paso ≥ 23/50 (piso); ≥ 20 fechas de creación en cada una, longevidad máx. ≈ 77 d, ads nuevos hoy en todas; sin cara ni nombre de persona; otras 3 hermanas (Aprende Rapido, Guias Practicas, Aprende Más, 119-166 ads) con tandas de ≤ 3 d.
+- **Qué hacer:** modelar el catálogo «50 fichas visuales de <tema>» (un PDF por tema, una plantilla de anuncio) en BR (imitadores chicos de ≤ 2 d), PT, IT, FR y RO; ángulo: «54 fichas para consultar» por oficio/examen; empezar por los temas que repiten en la red (soldadura, ECU, derecho, enfermería, guitarra).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1310990752096459> · Guías Oficiales: <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1453826204471738> · Guias profesionales: <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1379772175208716> · Paso a Paso: <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1381808071689792>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (PDF vs impreso, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=899808739639678
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-24-mx-B-manuales-visuales-oficios-tarde.md`
+
+**Señales del día MX (tarde) 2026-11-24**
+- Guias Practicas Aprendia (1316567128215691), Aprende Rapido (1387824311079412), Aprende Más (1390929764102651): hermanas de la red con 106-166 ads, los 50 más nuevos de ≤ 3 d; cohorte vieja no medible (ver tarjeta).
+- Héctor Hernández (1334086573128882): manuales «GRATIS» de mecánica/electricidad automotriz (captación, persona); EducaTech (696582943532474) «+130 manuales por $99 MXN» solo 2 ads; Eloah Soares (1430022926856917) «Deja de Perder Dinero al Soldar (PDF)» 1 ad BRL.
+- BR: Juliano Santos «+54 Fichas de Falhas em Máquinas de Gelo Comerciais» 3 ads de ≤ 2 d; FR: Camille Morea «100 Fiches Visuelles + 4 Bonus» 2 ads de ≤ 1 d (persona).
+
+
 MX 2026-11-24: nada que pase la vara; se contó por page_id a los 11 operadores MX vigentes y MAETA Crea / OficioPlus; todo lo que cruza 10 ya tiene tarjeta.
 
 **Señales del día MX 2026-11-24**

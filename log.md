@@ -209,3 +209,4 @@
 ## [2026-11-24] caza-auto | IT B perforar cuadros-diseno-quadri (tarde) → 0 candidatos a bandeja
 ## [2026-11-24] caza-auto | FR B classeur-antiseche-mixage (tarde) → 1 candidatos a bandeja
 ## [2026-11-24] caza-auto | RO B perforar genius-metoda-invatare-ro (tarde) → 0 candidatos a bandeja
+## [2026-11-24] caza-auto | MX B perforar manuales-visuales-oficios-mx (tarde) → 1 candidato a bandeja
