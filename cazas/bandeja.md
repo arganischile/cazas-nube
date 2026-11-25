@@ -26,6 +26,24 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 1.000 Questões Comentadas de medicina + bônus por R$ 10 — Maria BR · `questoes-comentadas-medicina-maria-br` · 2026-11-25 (mañana) · sesión BR
+- **Qué es:** banco de «1.000 Questões Comentadas + Bônus» para estudiantes de medicina (🩺), BRL, R$ 10 en el título; formato (PDF/plataforma) no visible por API.
+- **Por qué es ganador:** cohorte 7+ **10 / 23 activos** (re-medición de la nota del 11-24: 8/27 → 10/23; 1 sola oferta) · 8 fechas de creación entre ≈ 10-19 y 11-23, 12 ads de hoy/ayer (operador vivo) · página sin cara en los títulos (nombre «Maria» a secas) · clon Maria Clara (1094481413758211) con 24 ads de hoy y el mismo kit = 2º operador · PT = 0 (ALL). Flag: 3 de los 10 cruzan 7 d por solo ~6 h; la vara se pasa justa.
+- **Qué hacer:** verificar en la PC embudo, precio real y si es PDF; si lo es, modelar «banco de questões comentadas por área/residência» como PDF de ticket mínimo · destino: Portugal (PT = 0) e Italia (test di medicina/concorsi) · ángulo: «1.000 questões comentadas por R$ 10».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1303528502850034>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=1530914155626595
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-25-br-C-operadores.md`
+
+**Señales del día BR (2026-11-25, mañana, C operadores):**
+- Camila Maia (582679418253715): 19/20 con 7+ d (10 fechas; «221 Mapas de Revisão Oficial de Justiça TJSP» 14 + «465 Mapas… Escrevente TJSP» 6); sube vs 13/45 del 11-18; ya tiene tarjeta.
+- Ideias Práticas (1456766554178326): 37/50 piso (59 est.; 6 fechas; manuales visuales de oficio R$ 37,90-47,90) vs 19/≥50 del 11-21: la cohorte se mantiene y crece; ya tiene tarjeta.
+- Caderno do Aprovado 39/50 piso (72 est., 12 fechas), WebHoje Learn Hub 9/11, Arte Wisdom 14/29 (multi-SKU: «Bordados de Refúgio» 10, «Pinte sua taça» 9, «Decoupage Pro» 4; ads hasta 236 d): ya con tarjeta o multi-SKU sin oferta ≥10.
+- Clubinho da Família (109302152055510): 39/50 piso (55 est.; 14 fechas, hasta 88 d), solo «Clique em Ver detalhes/Saiba mais»: oferta no identificada, probable club; sin tarjeta hasta abrir el embudo en la PC.
+- Posibles zombis/apagados: Fran Sabina Beauty 10/10 con **una sola fecha** (tanda del 11-03, 21,7 d) = no pasa filtro de operador vivo; Terapia das Cores 0 activos (ALL 10, ≈160 d); Bordado de Fe 2/2.
+- Lanzamientos sin cohorte: Protocolo ARCA – Kit 72 horas (1467498133108925) 11/11 con 7+ d pero 2 fechas y los 3 más viejos a 8,8 d (frágil; re-medir ~11-29); Maria Clara 0/24 (de hoy); MM Cursos 8/24; Amo Resumos 0/15 (tanda de hoy, SKU nuevos geriatría/nutrología/endocrino); Pérola 0/5; Nannyvarie 1/3 (bajó de 39/45); Mapas e Guias Visuais 0/9 (USD); Edital Master 1 ad.
+- Calistenia Asiática / Ryu Nakamura (1237334109469401, agenda del hub): 1592 est., los 50 visibles de ≤ 1,5 d (cohorte 0 en la muestra; piso); sigue en tandas diarias; sin PT/FR/IT medidos por BR.
+
 **Señales del día BR (2026-11-24, tarde, B perforar mapas-visuales-mentales):**
 - Camila silva (1363093533548684): 26/26 con 7+ d pero mezcla de ofertas («Clube Da Fluência» 15, «OFERTA ESPECIAL» 4, «200 Mapas Mentais de Enfermagem» 4) y nombre de persona: marca personal probable, oferta principal sin identificar; sin tarjeta hasta verificar en la PC.
 - ENEM PROVA MAPAS Mentais (1316379811568954): 21/21 con 7+ d, pero tanda única del 11-04 («Revisão Final ENEM 2026 R$ 17,90») y el ENEM ya pasó: posible zombi estacional.
