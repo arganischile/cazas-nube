@@ -1419,6 +1419,13 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+EU 2026-11-25 (tarde): nada que pase la vara; se barrió estudio bíblico US (bible study guide pdf, scripture journal printable, reading plan, prayer journal, timeline/study maps, Sunday school), Christian Knowledge, Roots of Faith, Christian Study Hub, FaithSprout Kids.
+
+**Señales del día EU (tarde) 2026-11-25**
+- Christian Knowledge (p. 538851202636965): ≈ 26/50 piso (est. 207; tandas 11-17/18), también en BR/PT/IT/FR/RO, pero creativos genéricos «Click Learn More» sin oferta identificable: verificar en la PC qué vende antes de pensar en tarjeta.
+- Christian Study Hub (p. 1127553583778244) 0/20 («Revelation 100+ Visual Study Maps», todo ≤ 2,8 d) y Roots of Faith (p. 1339253035943272) 0/8 («Bible Study Guide: All 66 Books», ≤ 1,2 d): misma fórmula que Amen Core; cruzan 7 d ~11-30.
+- FaithSprout Kids (p. 1350940014774769) ≈ 5/14 («52 Sunday School Lessons») y No-Prep Sunday School 5/5: debajo de la vara.
+
 EU 2026-11-25: nada que pase la vara; se barrió Methodyco, Digital Accademy, RMKLY, Amen Core, PlanPro, Session Ready, Fenix Library, Digital Megy, Fluente com Legenda y Mapa do Inglês (modo C, todo lo que llega a 10+ ya tuvo tarjeta el 11-23/24).
 
 **Señales del día EU (mañana) 2026-11-25**
