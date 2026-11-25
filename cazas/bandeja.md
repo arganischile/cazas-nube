@@ -520,6 +520,20 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Suivi du Budget (plantilla Excel + Google Sheets) — FocusDaily FR · `suivi-budget-sheets-focusdaily-fr` (nodo nuevo) · 2026-11-25 (tarde) · sesión FR
+- **Qué es:** «Suivi du Budget Mensuel & Annuel», plantilla Excel + Google Sheets de presupuesto («prêt à l'emploi en 3 minutes», todas las monedas, tutorial vídeo, bonus «Coffres d'Épargne»); EUR; hoy −20 % de Black Friday hasta el 30-11, precio base no visto.
+- **Por qué es ganador:** 36 de 42 ads activos en FR con 7+ días (42 = total), un solo page_id; 10 fechas de creación (10-2025 → 11-21), ad más viejo ≈ 404 d, sigue sumando tandas (11-03, 11-11, 11-21); prueba social «+10 600 utilisateurs», «4,9/5». Página genérica, sin persona.
+- **Qué hacer:** modelar tal cual (plantilla de presupuesto mensual/anual en Sheets/Excel + vídeo + bonus de ahorro); destinos con hueco: IT (solo Leonor Astral, ≤ 2 d), PT/BR y RO (FocusDaily = 0 ads allí). Ángulos que rota: «Marre d'être à découvert ?», «L'appli de votre banque ne suffit pas», «Le budget du couple».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=568832922984924&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (precio, checkout, escalera n/e). Snapshots: https://www.facebook.com/ads/library/?id=784223694453227 · https://www.facebook.com/ads/library/?id=1503965571103368 · https://www.facebook.com/ads/library/?id=1503819348266849
+- Score n/4 (2/4 provisorio: duplicación ×36 y longevidad ≈ 404 d; embudo y precio sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-25-fr-B-planner-budget-fr-tarde.md`
+
+**Señales del día FR (2026-11-25 tarde):**
+- Make you Happy (822298371243648): 22/28 por página pero multi-SKU (template Notion «un seul outil» ≈ 10, outil budget 6 de ~176-244 d, carnet de Noël gratuito 4, nueva «formation investissement 67 €» ×5 de hoy); re-medir ~12-02 por oferta.
+- La fée du budget (387445394447918): 22/23, estable, ya con tarjeta (11-18); 1 ad nuevo el 11-24.
+- `rembourser ses dettes` (216 est.) = arbitraje RSOC en USD (cáscaras de hoy); IT: Leonor Astral «98 fogli Excel pronti» 0/6 (≤ 2 d), re-medir ~12-01.
+
 ### 🎯 Fichas TCC / duelo listas para la sesión (multi-SKU para terapeutas) — NeuroKit Clínico FR · `fiches-tcc-neurokit-clinico-fr` (nodo nuevo) · 2026-11-25 · sesión FR
 - **Qué es:** packs de fichas imprimibles para terapeutas: «90 fiches TCC prêtes pour la séance», «Le Kit TCC Enfants», «78 fiches de deuil», «6 programmes · 12 séances chacun», «Guidance parentale déjà prête»; cuenta BRL (operador brasileño corriendo FR), precio no visto.
 - **Por qué es ganador:** 30 de 31 ads activos en FR con 7+ días (el restante es un creativo en español), un solo page_id; 5 tandas (10-14 ×7, 10-22 ×6, 11-08 ×7, 11-12 ×1, 11-15 ×9), ad más viejo ≈ 42 d, el más nuevo 9,9 d (operador vivo, suma SKU cada ~2 semanas). Página genérica, sin persona.

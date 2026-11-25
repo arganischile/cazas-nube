@@ -228,3 +228,4 @@
 ## [2026-11-25] caza-auto | BR B habito-parar-de-fumar-corrida-5k (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-25] caza-auto | IT B red-la-mappa-concorsi-it (tarde) → 0 candidatos a bandeja
+## [2026-11-25] caza-auto | FR B planner-budget-fr (tarde) → 1 candidatos a bandeja
