@@ -230,3 +230,4 @@
 ## [2026-11-25] caza-auto | IT B red-la-mappa-concorsi-it (tarde) → 0 candidatos a bandeja
 ## [2026-11-25] caza-auto | FR B planner-budget-fr (tarde) → 1 candidatos a bandeja
 ## [2026-11-25] caza-auto | RO B proiecte-lemn-metal-liveno-ro → 1 candidato a bandeja
+## [2026-11-25] caza-auto | MX B mapas-mentales-salud-mente-academica-mx (tarde) → 0 candidatos a bandeja

@@ -997,6 +997,14 @@ RO 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda RO venc
 RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda RO; nada que pase la vara.
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
+MX 2026-11-25 (tarde): nada que pase la vara; se barrió Mente Académica (≥50/50 piso, ya en bandeja), neuroanatomía, psicopatología/trastornos mentales, Medical System Global, Mapario Mental, Joneson Paz Psicologia y Academia Visual.
+
+**Señales del día MX (tarde) 2026-11-25**
+- Mente Académica (1239880759219492): ≥50/50 piso en MX (est. 378, BRL; tandas creadas 11-11 a 11-16: TI, 210 Trastornos, neuroanatomía, ing. civil): ya tiene tarjeta, cohorte estable.
+- Medical System Global (1299254193268099): 0/19 (todo de hoy, USD; ECG, farmacología, «Vademécum +1.600 fármacos», KCl): nuevo, re-medir ~12-02.
+- Mapario Mental (1473671982494077): 0/10 (hoy, USD, clon de «210 Trastornos Mentales» + 4 bonos): re-medir ~12-02.
+- Joneson Paz Psicologia (1076193125583247): 5/5 (tanda 11-19, BRL, «Domina la Psicopatología 4,9/5»): < 10; posible marca personal.
+- Academia Visual (1520572457795293) 0/5 (≤ 5 d, neuroanatomía); ATLAS De Neurociencia (1369861866201504) 1/1.
 
 ### 🎯 «Colorimetría Capilar Aplicada · 4 bonos de regalo» (mini-curso grabado, plantilla «<especialidad> Aplicada») — Elevify MX · `huella-mx-elevify-aplicada` · 2026-11-25 · sesión MX
 - **Qué es:** curso/mini-curso grabado de colorimetría capilar con «4 bonos de regalo»; USD; la misma plantilla de anuncio corre en yoga, kinesiología, masaje, tarot, uñas y running. Precio y formato exacto no vistos.
