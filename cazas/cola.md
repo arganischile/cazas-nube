@@ -354,6 +354,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | IT (mañana) | A huella (mié) | — | en curso | en curso | — |
 | 2026-11-25 | BR (mañana) | C operadores (mié) | operadores BR de la tabla + agenda | en curso | en curso | — |
 | 2026-11-25 | EU (mañana) | C operadores (mié; EU sin tabla propia → seguir pages de tarjetas/señales EU previas) | RMKLY, Methodyco, Amen Core, Digital Accademy/Megy, Session Ready, Mapa do Inglês, PlanPro, Fenix, Fluente | 12 conteos por page_id (US) + Mapa do Inglês PT/BR | 0 tarjetas; Methodyco 14/50, Digital Accademy 12/50, Amen Core 27/34, Mapa do Inglês US 31/31 (ya con tarjeta); RMKLY cae a 9/50; Fenix 0/50 est. 170; informe RAW/cazas-auto/2026-11-25-eu-operadores-eu.md | nodos EU sin cambio de estado; operadores EU agregados a la tabla |
 | 2026-11-24 | CO (tarde) | B perforar (mar tarde; virgen CO más viejo sin tocar en 7 d) | plantillas-excel-gestion-co | plantillas excel, Excel para tu negocio, control de gastos excel, hojas de cálculo listas, plantilla excel inventario (ALL), dashboard excel plantilla + 8 conteos por page_id | 0 tarjetas; Ikigai Reborn 3/14, Gestión Profesional 4/6, Excel Listo 3/4, Contabilidad Fácil 0/8, Luna Noire 0/9; informe RAW/cazas-auto/2026-11-24-co-B-plantillas-excel-gestion-co-tarde.md | plantillas-excel-gestion-co superficial; re-medir ~11-30 |
