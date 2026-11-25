@@ -1330,6 +1330,16 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+EU 2026-11-25: nada que pase la vara; se barrió Methodyco, Digital Accademy, RMKLY, Amen Core, PlanPro, Session Ready, Fenix Library, Digital Megy, Fluente com Legenda y Mapa do Inglês (modo C, todo lo que llega a 10+ ya tuvo tarjeta el 11-23/24).
+
+**Señales del día EU (mañana) 2026-11-25**
+- Digital Accademy (p. 304351576094657): 12/50 con 7+ d (est. 133), ya con tarjeta 11-24; tanda nueva de ~25 ads RRT del 11-24 cruza 7 d ~12-01.
+- Methodyco (p. 1513329658523239): 14/50 (est. 101), ya con tarjeta 11-24; RMKLY cae a 9/50 (rotó a 41 ads «Black Friday 30 % off»).
+- Mapa do Inglês (p. 1170077372866827): US 31/31, PT 15/50 piso (los mismos ads que US, no suman), BR 0; ya con tarjeta 11-24.
+- Amen Core 27/34 sin ads nuevos desde hace ≈ 2 d (tarjeta 11-23).
+- Fenix Library 0/50 (est. 170, creció de 58; todo ≤ 3,3 d); Session Ready 0/50 (≤ 1,2 d, promo «$27 hasta Dec 2»); ambos cruzan 7 d ~11-28 / 12-01.
+- Fluente com Legenda US 21/50 piso (est. 135, USD): mismo operador con tarjeta local BR; juzgar marca personal en la PC.
+
 ### 🎯 Planners/templates PDF para reMarkable y Kindle Scribe — Methodyco US · `templates-remarkable-rmkly-us` · 2026-11-24 (tarde) · sesión EU
 - **Qué es:** bundle de planners digitales importables para tablets de tinta (reMarkable, Kindle Scribe): «15 Planners in One Bundle», «65+ templates. One purchase.», tiers Work / Life / All-in-One ($39,97 visto en un título; moneda EUR). Formato y landing no verificados.
 - **Por qué es ganador:** cohorte 7+ **≥ 19 / ≥ 50 activos** (piso; est. 101) · ad más viejo ≈ 17 d (tanda 11-07) · 4+ fechas de creación (11-07, 11-16, 11-18/19 y hoy): operador vivo e iterando · página de marca sin cara · mismo nicho que RMKLY (tarjeta 11-23), distinto operador.
