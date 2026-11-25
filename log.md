@@ -224,3 +224,5 @@
 
 ## [2026-11-25] caza-auto | CO B perforar plantillas-gestion-profesiones-co → 0 candidatos a bandeja
 ## [2026-11-25] caza-auto | EU B estudio-biblico-amen-core-us (tarde) → 0 candidatos a bandeja
+
+## [2026-11-25] caza-auto | BR B habito-parar-de-fumar-corrida-5k (tarde) → 0 candidatos a bandeja

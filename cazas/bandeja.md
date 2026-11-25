@@ -35,6 +35,8 @@ histórico.
 - Score n/4 (no evaluado) · escalera n/e · Decisión: —
 - Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-25-br-C-operadores.md`
 
+**BR 2026-11-25 (tarde, B habito-parar-de-fumar-corrida-5k): nada que pase la vara; se barrió parar de fumar, tabagismo, largar cigarro, vício cigarro, corrida iniciante, planilha corredor. Mejor: Parar de Fumar de Vez 5/5 (< 10).**
+
 **Señales del día BR (2026-11-25, mañana, C operadores):**
 - Camila Maia (582679418253715): 19/20 con 7+ d (10 fechas; «221 Mapas de Revisão Oficial de Justiça TJSP» 14 + «465 Mapas… Escrevente TJSP» 6); sube vs 13/45 del 11-18; ya tiene tarjeta.
 - Ideias Práticas (1456766554178326): 37/50 piso (59 est.; 6 fechas; manuales visuales de oficio R$ 37,90-47,90) vs 19/≥50 del 11-21: la cohorte se mantiene y crece; ya tiene tarjeta.
