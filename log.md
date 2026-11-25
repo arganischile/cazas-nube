@@ -215,3 +215,5 @@
 ## [2026-11-25] caza-auto | IT A huella → 0 candidatos a bandeja
 
 ## [2026-11-25] caza-auto | BR C operadores → 1 candidatos a bandeja
+
+## [2026-11-25] caza-auto | FR B art-therapie-fiches-pdf → 2 candidatos a bandeja

@@ -513,6 +513,31 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Fichas TCC / duelo listas para la sesión (multi-SKU para terapeutas) — NeuroKit Clínico FR · `fiches-tcc-neurokit-clinico-fr` (nodo nuevo) · 2026-11-25 · sesión FR
+- **Qué es:** packs de fichas imprimibles para terapeutas: «90 fiches TCC prêtes pour la séance», «Le Kit TCC Enfants», «78 fiches de deuil», «6 programmes · 12 séances chacun», «Guidance parentale déjà prête»; cuenta BRL (operador brasileño corriendo FR), precio no visto.
+- **Por qué es ganador:** 30 de 31 ads activos en FR con 7+ días (el restante es un creativo en español), un solo page_id; 5 tandas (10-14 ×7, 10-22 ×6, 11-08 ×7, 11-12 ×1, 11-15 ×9), ad más viejo ≈ 42 d, el más nuevo 9,9 d (operador vivo, suma SKU cada ~2 semanas). Página genérica, sin persona.
+- **Qué hacer:** modelar como biblioteca de fichas TCC por tema (adultos, niños, duelo, guía parental) para psicólogos; destinos con hueco nativo: IT, RO, PT/BR (ahí corre los mismos creativos en francés/español, sin SKU local). Ángulo: «la ficha correcta para la sesión de hoy, sin prepararla».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=883009701566343&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, escalera n/e). Snapshots: https://www.facebook.com/ads/library/?id=28879327495085879 · https://www.facebook.com/ads/library/?id=1137737765537826 · https://www.facebook.com/ads/library/?id=1093879920318143
+- Score n/4 (1/4 provisorio: duplicación ×30 y escalonamiento; embudo, precio y hueco sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-25-fr-B-art-therapie-fiches-pdf.md`
+
+### 🎯 Kit thérapeutique pour adolescents (recursos para terapeutas/padres de adolescentes) — Therapy Toolkit FR · `kit-therapeutique-ados-therapy-toolkit-fr` (nodo nuevo) · 2026-11-25 · sesión FR
+- **Qué es:** «Kit thérapeutique pour adolescents», kit de recursos terapéuticos (probable PDF imprimible; «kit» puede ser físico → verificar); misma página corre «Teen Therapy Toolkit» (EN), «Kit di risorse terapeutiche per adolescenti/bambini» (IT) y «21 Mental Reprogramming Protocols»; cuenta USD, precio no visto.
+- **Por qué es ganador:** ≥ 29 ads en francés con 7+ días de 47 activos del SKU FR (página 96 est., piso por el tope de 50), un solo page_id; tandas FR 09-26 ×9, 10-14 ×20, 11-19 ×18; ad más viejo ≈ 60 d y sigue relanzando. Página genérica, sin persona.
+- **Qué hacer:** modelar como kit de fichas/ejercicios para trabajar emociones, ansiedad y autoestima con adolescentes (terapeutas, orientadores, padres); destinos: PT/BR y RO, donde la misma página solo corre creativos en inglés (90 est.) → hueco de idioma nativo; IT ya tiene su SKU italiano. Ángulo: «la sesión con el adolescente que no habla, ya preparada».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=102506312071455&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato digital vs físico, precio, escalera n/e). Snapshots: https://www.facebook.com/ads/library/?id=1509163854590008 · https://www.facebook.com/ads/library/?id=1155985010432481 · https://www.facebook.com/ads/library/?id=1841505773792624
+- Score n/4 (1/4 provisorio: duplicación ×29 y longevidad ≈ 60 d; embudo, precio y formato sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-25-fr-B-art-therapie-fiches-pdf.md`
+
+**Señales del día FR (2026-11-25):**
+- Atelier delle Emozioni (1338748315990304): 8/15 en francés (29/39 en todos los idiomas; IT 53 est.), art-thérapie en casa «Pas besoin de savoir dessiner», «120 schede», < 15 €; 13 fechas 10-28→11-24; re-medir ~12-01 contando solo FR.
+- Florence Garnier (1336756022834844): 7/9, «241 dynamiques thérapeutiques prêtes à l'emploi» (BRL), a 3 de la vara; re-medir ~12-01.
+- Manual de Arte Terapia (1213147361873813): 0/8, rotó todo a una tanda del 11-20 (antes 5/17).
+- Louis Martin (448576148332682): 4/4 «250 cartes mentales thérapeutiques», tanda única 10-23, posible zombi.
+- Lanzamientos sin cohorte: Luísa Carvalho 0/4 («150 ressources d'Art-Thérapie»), Sofi Journaling 0/4, Anna 0/1 («1 257 outils»).
+
 ### 🎯 Guía de guitarra en PDF «Téléchargez maintenant 4.9/5» — L'endroit des opportunités FR · `guitare-pdf-endroit-opportunites-fr` · 2026-11-24 · sesión FR
 - **Qué es:** método/guía de guitarra en PDF descargable (18 de 24 ads mencionan «guitare», 13 «PDF»; título único «Téléchargez maintenant 👉 4.9/5 ⭐⭐⭐⭐⭐»); cuenta EUR, precio no visto.
 - **Por qué es ganador:** 24 de 24 ads activos en FR con 7+ días (no truncado), un solo page_id; 7 fechas de creación (10-13 ×5, 10-18/19 ×8, 10-29/30 ×3, 11-13 ×4, 11-16 ×2), ad más viejo ≈ 42 d, el más nuevo 7,8 d (operador vivo); nombre de página genérico, no marca personal. Alrededor: Guitar Cook 6/6 (libro 29,90 €), Acordes en Claro 4/13.
