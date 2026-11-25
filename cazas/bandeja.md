@@ -964,6 +964,29 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Colorimetría Capilar Aplicada · 4 bonos de regalo» (mini-curso grabado, plantilla «<especialidad> Aplicada») — Elevify MX · `huella-mx-elevify-aplicada` · 2026-11-25 · sesión MX
+- **Qué es:** curso/mini-curso grabado de colorimetría capilar con «4 bonos de regalo»; USD; la misma plantilla de anuncio corre en yoga, kinesiología, masaje, tarot, uñas y running. Precio y formato exacto no vistos.
+- **Por qué es ganador:** cohorte 15/22 en MX (solo el SKU colorimetría; la página tiene 146 est. activos), longevidad máx. ≈ 21 d, ≥ 8 fechas de creación y ads de hoy; un solo page_id, sin cara de persona (marca «Elevify»).
+- **Qué hacer:** modelar el molde «<especialidad práctica> Aplicada + 4 bonos» en BR, PT, IT, FR y RO; empezar por colorimetría/estética y masaje; verificar en la PC que no sea suscripción a plataforma.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1173579039169074>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (qué vende, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1767919391724980
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-25-mx-A-huella.md`
+
+### 🎯 Plantillas editables para velas + moldes MDF («1452 Descargas hoy») — Paquete De Diseños MX · `huella-mx-paquete-disenos` · 2026-11-25 · sesión MX
+- **Qué es:** packs de archivos descargables: «plantillas editables para velas» y «+2.100 moldes en MDF (listos para cortar)»; un tercer creativo («1452 Descargas realizadas solo hoy») no identifica el producto; USD; precio no visto.
+- **Por qué es ganador:** cohorte 12/24 en MX (6 ads de ≈ 15,7 d + 6 de ≈ 9,7 d), ≥ 5 fechas de creación, ads nuevos de hace 2,6 d; un solo page_id. Aparecía como señal CO el 11-16 (3/20) y desde entonces duplicó la cohorte.
+- **Qué hacer:** verificar en la PC si es PDF/Canva o archivos de corte; si es digital, modelar «pack de moldes/plantillas listos para usar» en BR y PT (nichos manualidades/papelería, ojo con crochet = excluido); si el valor es el objeto cortado, descartar el eje.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=107416171593294>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Snapshot: https://www.facebook.com/ads/library/?id=1676534917200977
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-25-mx-A-huella.md`
+
+**Señales del día MX 2026-11-25 (mañana)**
+- Beauty Pro Lab (p. 1512161825305057): 0/5, «+30 fórmulas de colorimetría por $64 MXN»; ad más viejo cruza los 7 d hoy; mismo eje que Elevify, re-medir mañana.
+- Artes Lucrativos (p. 491654114029680): 6/8 (plantillas/invitaciones editables, USD); sin vara.
+- Papelaria Creativa (p. 1149215851618523): 0/8, «+200 moldes en Canva $9,90 USD», todo ≤ 3,4 d.
+
 ### 🎯 «54 fichas visuales» por tema en PDF (catálogo multi-tema) — red Aprendia (Guias visuales, Guías Oficiales, Guias profesionales, Guías Paso a Paso) MX · `fichas-mapas-multitema-aprendia` · 2026-11-24 (tarde) · sesión MX
 - **Qué es:** catálogo de guías de «50-54 fichas visuales» por tema (soldadura, ECU, guitarra, derecho, histopatología, ventilación minera…), una sola plantilla de anuncio declinada en cientos de temas; un título dice «EN PDF»; MXN; precio y landing no vistos.
 - **Por qué es ganador:** 4 fanpages de la misma red pasan 10+ por separado: Guias visuales 42/43, Guías Oficiales 36/40, Guias profesionales ≥ 38/50 (piso, 70 est.), Guías Paso a Paso ≥ 23/50 (piso); ≥ 20 fechas de creación en cada una, longevidad máx. ≈ 77 d, ads nuevos hoy en todas; sin cara ni nombre de persona; otras 3 hermanas (Aprende Rapido, Guias Practicas, Aprende Más, 119-166 ads) con tandas de ≤ 3 d.
