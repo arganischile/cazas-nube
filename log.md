@@ -212,3 +212,4 @@
 ## [2026-11-24] caza-auto | MX B perforar manuales-visuales-oficios-mx (tarde) → 1 candidato a bandeja
 ## [2026-11-24] caza-auto | CO B perforar plantillas-excel-gestion-co (tarde) → 0 candidatos a bandeja
 ## [2026-11-25] caza-auto | EU C operadores → 0 candidatos a bandeja
+## [2026-11-25] caza-auto | IT A huella → 0 candidatos a bandeja

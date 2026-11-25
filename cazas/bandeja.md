@@ -289,6 +289,13 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-25 mañana (A huella): nada que pase la vara; se barrió accesso immediato pdf, guida passo passo, download immediato ebook, 9,90 € pdf, metodo completo scarica.
+**Señales del día IT (mañana)**
+- Bookbay Digital (1339613552570777): 10/50 piso, pero los 10 son creativos en ucraniano; los italianos («90 schede di lavoro TCC», 1,3 d) aún no cuentan; re-medir ~12-01.
+- Red TCC naciendo en IT: Creative Nest 0/9 y Bussola TCC (todos ≤1,3 d); nodo nuevo schede-tcc-psicoterapeuti-it.
+- Allenamenti Calcio Pronti (1264730710065283): 4/18, 11 ads del 11-24 «500+ sedute da 9,90 €»; re-medir ~12-01.
+- Il Posto delle Opportunità (1423437567521916): 5/5 de 5-8 d «Scarica ora 4.9/5», oferta sin identificar; re-medir ~11-29.
+
 IT 2026-11-24 tarde (B perforar, cuadros-diseno-quadri): nada que pase la vara nueva; se barrió quadri stampabili, stampe da parete, arredare casa, poster stampabili, quadri digitali, cornici fai da te, Canva quadri.
 **Señales del día IT (tarde)**
 - Studio Quadri (721617357705716): ≥28/50 piso (141 est.), tanda nueva 11-23; ya tiene tarjeta; oferta sin identificar, verificar en la PC.
