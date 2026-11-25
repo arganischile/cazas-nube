@@ -1240,6 +1240,13 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-25 (tarde): nada que pase la vara; se barrió tocar de oído, piano de oído, piano iglesia, guitarra clásica, saxofón, escalas guitarra, cifrados, teoría musical, bajo + 7 conteos por page_id.
+**Señales del día CO (tarde):**
+- Comunidade do Músico (nodo comunidade-musico-oido-co): 0 activos en CO (50 en ALL, último ~11-19): apagó la tanda; cementerio.
+- Edukla (p. 105761638107328): ~20/27 con 7+ d (Guitarra Fácil 8 de ~11-02, «Entrena como experto» 12 de ~11-17, Teología Avanzada 7 de hoy-ayer); multi-SKU, COP, sin copy ni URL: pasa el número pero no el gate; verificar en la PC si es PDF o curso/app antes de decidir.
+- Pequeños Genios (p. 1180065298522927): 7 ads «Mapa de Improvisación para Guitarristas» (USD) de ~11-22, 0/7 con 7+ d; re-medir ~12-01.
+- Tus Clases De Guitarra (34 activos, «4 años de Premium») es membresía, no entra.
+
 CO 2026-11-25 (mañana): nada que pase la vara; se barrió plantillas por profesión (contadores, psicólogos, consultorio, arquitectos, RRHH, odontólogos, veterinarios, abogados, ingenieros, fisioterapeutas) + conteos por page_id.
 **Señales del día CO:**
 - Claridad y Acción (ya con tarjeta): 50/50 piso (63 est.), SKU nuevo para arquitectos junto a abogados y freelance.
