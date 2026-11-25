@@ -309,6 +309,11 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-25 tarde (B perforar): nada que pase la vara; se barrió mappe mentali concorso, quiz concorso pubblico, schemi riassuntivi, mappe concettuali diritto, concorso ATA/OSS.
+**Señales del día IT (tarde)**
+- Memosystem (54585739650): 10/10 por creación pero una sola tanda de 7,05 d y oferta no identificada (método de estudio, ¿curso o software?); verificar en la PC y re-medir ~11-30.
+- Mappe per Concorsi 0/50 piso (≤ 3,4 d) y Fenix Library 0/50 piso (≤ 5,9 d, multi-SKU): re-medir ~11-30; Studiare Facile 1/1 activo (apagada), Viva Didattica 7/15 (workshops gratuitos, curso).
+
 IT 2026-11-25 mañana (A huella): nada que pase la vara; se barrió accesso immediato pdf, guida passo passo, download immediato ebook, 9,90 € pdf, metodo completo scarica.
 **Señales del día IT (mañana)**
 - Bookbay Digital (1339613552570777): 10/50 piso, pero los 10 son creativos en ucraniano; los italianos («90 schede di lavoro TCC», 1,3 d) aún no cuentan; re-medir ~12-01.
