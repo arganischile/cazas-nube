@@ -778,6 +778,16 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-25 (mañana, modo C): nada que pase la vara; se re-midieron por page_id Edulabs, Mente que sana, Atlas Terapeutic Vizual, Știința Bunicilor, Ioana Dumitrescu, Ready Resources, Neuralforkids, Edu Digital y Tehnici De Nursing.
+
+**Señales del día RO 2026-11-25 (mañana, modo C)**
+- Mente que sana (1090738757452147) y Știința Bunicilor (1385991297929264): 0 activos en RO (apagaron todo; antes ≥20/67 y 6/16); re-medir ~12-07 solo si reaparecen.
+- Neuralforkids (1336343509566915): 0/8 (cayó de 8/14; solo quedan tandas de ≤ 4 d: «Lumânări de casă – 60/108 rețete»).
+- Edulabs (1057793390758198): 14/26 por creación, tanda nueva de 7 ads del 11-22 (logopedie, informatică); ya con tarjeta; re-medir ~12-02.
+- Edu Digital (100629922105479): ≈ 23/49 (antes 21/49); 11 ads de ≈ 6 d cruzan 7 d ~11-26; ya con tarjeta.
+- Atlas Terapeutic Vizual: 35/50 piso (ARS), 4 ads nuevos de hoy; Ioana Dumitrescu 10/10 sin tanda nueva desde 11-13; Tehnici De Nursing ≈ 28/30; todas ya con tarjeta.
+- Ready Resources (1440348585824077): 1/4 («Doar 79 de lei!», 3 ads de ≈ 3 d); sin cohorte.
+
 RO 2026-11-24 (tarde): nada que pase la vara; se barrió Genius Mentor/Genius Bac (page_id), «metoda de învățare», «tehnici de memorare», «învață mai repede», «ghid elevi note mai mari» (0), «concentrare studiu copii» (0), «citire rapidă pdf» (ALL), «planificator învățare elev» (ALL, 0).
 
 **Señales del día RO 2026-11-24 (tarde, modo B)**
