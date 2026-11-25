@@ -1198,6 +1198,12 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-25 (mañana): nada que pase la vara; se barrió plantillas por profesión (contadores, psicólogos, consultorio, arquitectos, RRHH, odontólogos, veterinarios, abogados, ingenieros, fisioterapeutas) + conteos por page_id.
+**Señales del día CO:**
+- Claridad y Acción (ya con tarjeta): 50/50 piso (63 est.), SKU nuevo para arquitectos junto a abogados y freelance.
+- ADN Lean (PEN, operador de Perú): 10/10 pero tanda única (todas creadas el mismo día, ~21 d) → posible zombi, sin tarjeta; re-medir ~11-30.
+- Psico Recursos 2/2 («Kit 10 Formatos Editables para Psicólogos», Hotmart, COP); Psicoideas 0/7, Tscreativa 0/10 (kits de trabajo social, de hoy), Luz Bermudez 0/10 (2 kits RRHH $25.000): todo < 7 d.
+
 ### 🎯 «El kit original (y el más completo) · 100 % editable para cualquier servicio» — LaOfi CO · `kit-editable-servicios-laofi-co` · 2026-11-24 · sesión CO
 - **Qué es:** kit digital editable para profesionales que venden servicios (títulos: «El kit original (y el más completo)», «100 % editable para cualquier servicio», «Precio único», «Sistema para cobrar branding premium y blindar cambios»); parece un pack de plantillas/documentos para freelancers de diseño y branding. USD; precio y formato exacto no visibles por API.
 - **Por qué es ganador:** cohorte **41/50 piso** (92 est. activos) con 7+ días de un solo page_id (≈ 8-16 d; tandas de creación ≈ 11-08, 11-12, 11-13, 11-15) · ≥ 3 fechas de creación distintas y 9 ads de hoy/ayer → operador vivo rotando · página de marca sin cara · sin otro operador del molde visto · 0 ads en BR/PT/IT/FR/RO.
