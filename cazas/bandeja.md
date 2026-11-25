@@ -799,6 +799,19 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 200+ proyectos de lemn și metal (planos/proyectos PDF, multi-SKU) — Liveno by Iva Milan RO · `proiecte-lemn-metal-liveno-ro` · 2026-11-25 · sesión RO
+- **Qué es:** colección «200+ Proiecte pentru lucrul cu Lemn și Metal» / «Setul Meșterului» (+ «Peste 120 de proiecte de șoproane», BBQ + 2 bonusuri, set de 3 cărți de desen); precio y formato no verificados (USD).
+- **Por qué es ganador:** familia lemn/metal 12 con 7+ d (9 del título «200+» de 11-12/13 hasta 12,6 d; 3 de «120 proiecte») de ≥ 21 activos; página ≥ 16 / 73 con 7+ d (piso, API muestra 50); ≥ 8 fechas de creación, ads de hoy → no zombi; único operador RO, BR/PT/IT = 0.
+- **Qué hacer:** modelar tal cual (planos/proyectos en PDF) · destino BR/PT/IT/FR (cruce nativo = 0, ventana abierta) · ángulo «200+ proyectos listos + bonus» · verificar en la PC si el mecanismo es el plano (conocimiento) y si «Iva Milan» es cara de marca.
+- **Ads Library:** https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1259209043938308&media_type=all
+- **Landing:** embudo no verificado desde la nube (el API no trae URL): verificar en la PC antes de decidir.
+- Score 2/4 · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ≈ 12,6 d), snapshot no verificado.
+
+**Señales del día RO 2026-11-25 (tarde, modo B)**
+- Liveno, otras líneas: «Desen realist în creion» 4 ads (≈ 3 d) y «3 cărți de desen» ≥ 3 con 7+ d de 8; «Recâștigă controlul asupra alcoolului» 4/4 de ≈ 9 d (SKU distinto, salud); «Creează din metal» y BBQ solo ≤ 4 d.
+- Cruce BR/PT («200 projetos marcenaria») e IT («200 progetti legno e metallo»): 0.
+
 RO 2026-11-25 (mañana, modo C): nada que pase la vara; se re-midieron por page_id Edulabs, Mente que sana, Atlas Terapeutic Vizual, Știința Bunicilor, Ioana Dumitrescu, Ready Resources, Neuralforkids, Edu Digital y Tehnici De Nursing.
 
 **Señales del día RO 2026-11-25 (mañana, modo C)**
