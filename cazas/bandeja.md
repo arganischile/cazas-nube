@@ -856,6 +856,19 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Biblioteca de manuales técnicos «ACCES COMPLET» (+80 000 manuale pentru mecanici, multi-SKU) — Nova Skills RO · `manuale-biblioteca-nova-skills-ro` · 2026-11-26 · sesión RO
+- **Qué es:** acceso a una biblioteca de manuales en PDF (anuncio «+80 000 de manuale pentru mecanici» + «ACCES COMPLET 👇»); misma página corre fișe clínicas de enfermería, jocuri y más SKUs (USD). Precio no sabido.
+- **Por qué es ganador:** cohorte 13 con 7+ d de 32 activos (más viejo ≈ 17 d) de un solo page_id; ads creados en 3 fechas distintas y tandas nuevas de hoy → no zombi; fábrica multi-SKU (misma en IT, 0/5 el 11-18; hoy IT/FR/PT/BR = 0).
+- **Qué hacer:** observar/modelar si el embudo confirma que se vende contenido propio (no reventa de manuales ajenos) · destino BR/PT/IT/FR (cruce nativo = 0) · ángulo «acceso total a manuales de oficio, plata única». Verificar en la PC.
+- **Ads Library:** https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1233949879806171&media_type=all
+- **Landing:** embudo no verificado desde la nube (el API no trae URL): verificar en la PC antes de decidir; posible riesgo de derechos de autor.
+- Score 2/4 · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ≈ 17,1 d), snapshot no verificado.
+
+**Señales del día RO 2026-11-26 (mañana, modo A)**
+- JoacăCuRost (1145983805267375): «500 de activități prin joacă» 9/10 con 7+ d, pero los 10 salieron en una sola tanda (no pasa zombi ni vara); clon Rachel Benneett M. 0/10 (29,99 lei); re-medir ~11-30.
+- Espacio para Crecer 0/18 (fișe de gardă, misma fábrica de Nova Skills); Brightpath Digital 0/5 (≤ 1 d); Cursuri Contabilitate (SAGA) 22 ads todos ≤ 2 d, curso.
+
 ### 🎯 200+ proyectos de lemn și metal (planos/proyectos PDF, multi-SKU) — Liveno by Iva Milan RO · `proiecte-lemn-metal-liveno-ro` · 2026-11-25 · sesión RO
 - **Qué es:** colección «200+ Proiecte pentru lucrul cu Lemn și Metal» / «Setul Meșterului» (+ «Peste 120 de proiecte de șoproane», BBQ + 2 bonusuri, set de 3 cărți de desen); precio y formato no verificados (USD).
 - **Por qué es ganador:** familia lemn/metal 12 con 7+ d (9 del título «200+» de 11-12/13 hasta 12,6 d; 3 de «120 proiecte») de ≥ 21 activos; página ≥ 16 / 73 con 7+ d (piso, API muestra 50); ≥ 8 fechas de creación, ads de hoy → no zombi; único operador RO, BR/PT/IT = 0.
