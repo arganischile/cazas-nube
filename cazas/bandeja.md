@@ -920,6 +920,9 @@ FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR venc
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
 
+RO 2026-11-26 (tarde): nada que pase la vara; se barrió carte ilustrată meserie (0), atestat ghid, autorizare ANRE, examen permis auto pdf (0), manual examen autorizat (0), ilustrat cadou + conteos por page_id (Diagram Books 0/60 ALL, Learning Fast 0/44 ALL).
+Señales del día RO: Diagram Books y Learning Fast apagaron todo (0 activos); Klara Sundell (1280672098465149) 6 ads del 11-25 «Cumpărați 1 carte, primiți 3» (probable físico, <2 d); Emilia Zabala (825650823960909) kit profesores de chimie, clon Edulabs, cohorte ≈1.
+
 ### 🎯 Biblioteca de manuales técnicos «ACCES COMPLET» (+80 000 manuale pentru mecanici, multi-SKU) — Nova Skills RO · `manuale-biblioteca-nova-skills-ro` · 2026-11-26 · sesión RO
 - **Qué es:** acceso a una biblioteca de manuales en PDF (anuncio «+80 000 de manuale pentru mecanici» + «ACCES COMPLET 👇»); misma página corre fișe clínicas de enfermería, jocuri y más SKUs (USD). Precio no sabido.
 - **Por qué es ganador:** cohorte 13 con 7+ d de 32 activos (más viejo ≈ 17 d) de un solo page_id; ads creados en 3 fechas distintas y tandas nuevas de hoy → no zombi; fábrica multi-SKU (misma en IT, 0/5 el 11-18; hoy IT/FR/PT/BR = 0).
