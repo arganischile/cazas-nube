@@ -359,6 +359,22 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 160+ Mappe Visive di Neuroanatomia / 310 Mappe Mentali di Informatica — Mente Accademica IT · `mappe-visive-mente-accademica-it` · 2026-11-26 (tarde) · sesión IT
+- **Qué es:** mapas visuales/mentales de estudio universitario en PDF (probable): «160+ Mappe Visive di Neuroanatomia» y «310 Mappe Mentali di Informatica», ads en italiano con campo BRL (operador brasileño que corre en IT); formato y precio no visibles por API.
+- **Por qué es ganador:** cohorte 7+ **46 / 50 activos** (piso: tope de 50; 283 activos est.), un solo page_id sin persona (Mente Accademica, p. 874820029047521) · 2 SKU, tandas de creación ≈ 11-02, 11-05, 11-10, 11-16 y 11-25; el más viejo ≈ 24 d, 4 ads del 11-25 (operador vivo) · molde de mapas de BR (red de «mapas visuales/mentais») ya en IT con otros operadores de ≤ 1 d (Alice Ferrari «250 mappe contabilità», Concorsi in Mappe «200 mappe diritto amministrativo»).
+- **Qué hacer:** verificar en la PC embudo, formato y precio; modelar «mappe visive/mentali por materia universitaria» (medicina, informática, contabilidad) a ticket mínimo · destino: Italia (ya corre), Portugal, Francia, Rumania; ligar con `mapas-visuales-mentales` (BR).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=874820029047521>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=1148563337966567
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-it-B-metodo-studio-universitario-it-tarde.md`
+
+**Señales del día IT (tarde)**
+- Metodo Universitario (1512954825682163): 19/50 piso (118 est.), ya tiene tarjeta; avatares medicina/giurisprudenza/lavoratore en ads propios; multi-curso, verificar en la PC.
+- Io Passo il Test (104150612103984): 0/50 piso (53 est., todos ≤ 5 d), workshop gratis en Zoom + ebook; embudo de servicio/curso; re-medir ~12-01.
+- TeachCorner Test Universitari (1998735133672989): ≥ 20 con 7+ d, USD, cursos de test medicina/«semestre filtro» + webinar gratis: curso, no entra.
+- Concorsi in Mappe (133896043148377): 0/30+ (tanda única de ayer, «200 Mappe Diritto Amministrativo», BRL); PsiOS / Recursos Terapeuticos «Mappe mentali terapeutiche» 0/25 (≤ 1,2 d, USD); Alice Ferrari 0/4; re-medir todos ~12-01.
+- James Carter «250+ mappe di meccanica» (BRL, 1 ad de hoy) y Central Pack «Meccanica visiva 6 volumi» 1 ad: molde mecánica de FR/BR llegando a IT.
+
 IT 2026-11-26 mañana (B perforar, progetti-diy-bambini-accademia-creativa): nada que pase la vara; se barrió progetti cartone bambini, esperimenti scientifici, schede stampabili, montessori (0), schede matematica primaria, libro attività pdf, robotica bambini (ALL).
 **Señales del día IT (mañana)**
 - Accademia Creativa (1045393855333327): 19/50 piso (78 est.), multi-SKU (+300 progetti, cartone al robot, legno, Cucito Creativo); ya tiene tarjeta; verificar digital vs físico en la PC.

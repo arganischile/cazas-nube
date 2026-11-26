@@ -242,3 +242,5 @@
 ## [2026-11-26] caza-auto | EU B notas-terapeutas-session-ready-us (tarde) → 2 candidatos a bandeja
 
 ## [2026-11-26] caza-auto | BR B perforar mapas-visuales-mentales (tarde) → 2 candidatos a bandeja
+
+## [2026-11-26] caza-auto | IT B perforar metodo-studio-universitario-it (tarde) → 1 candidato a bandeja
