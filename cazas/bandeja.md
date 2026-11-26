@@ -592,6 +592,30 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Plus de 1 000 histoires bibliques» + «Et maintenant, que ferait Jésus ?» — Camille Laurent FR · `histoires-bibliques-camille-laurent-fr` (nodo nuevo) · 2026-11-26 (tarde) · sesión FR
+- **Qué es:** dos SKU de material cristiano digital de la misma fábrica: «Plus de 1 000 histoires bibliques» (colección de historias bíblicas) y «Et maintenant, que ferait Jésus ? | Offre de lancement» (devocional/guía para adultos); cuenta USD, precio y formato no vistos.
+- **Por qué es ganador:** página 50/50 piso con 7+ días (est. 63 activos, un solo page_id); por SKU: histoires 12/12 (más viejo ≈ 11 d), «que ferait Jésus» 14/14 (más viejo ≈ 28 d); 3 fechas de creación (10-29, 11-13, 11-15). Flag: sin ad nuevo desde 11-15; nombre de persona en la página (molde de alias tipo «Camille Dubois»), los títulos no la nombran.
+- **Qué hacer:** modelar el pack «1 000 histoires bibliques» en PDF (historias cortas por libro + versículo + pregunta para el niño) y el devocional «¿qué haría Jesús?» como guía de situaciones diarias; destinos: IT y RO (0 ads del operador), PT/BR (medir saturación: Martha Noyes y Alice Martin ya exportan desde BR). Ángulo: «el volumen» (1 000 historias por un pago).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1407481519105013&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, si hay cara). Snapshots: https://www.facebook.com/ads/library/?id=1597681578778105 · https://www.facebook.com/ads/library/?id=1785870530245692 · https://www.facebook.com/ads/library/?id=2383330219108976
+- Score n/4 (1/4 provisorio: escalonamiento y molde de volumen; embudo y precio sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-fr-B-bible-papier-histoires-pdf-fr-tarde.md`
+
+### 🎯 «150 fiches d'anatomie de la musculation» — Camille Laurent FR · `fiches-anatomie-musculation-fr` (nodo nuevo) · 2026-11-26 (tarde) · sesión FR
+- **Qué es:** pack de 150 fichas visuales de anatomía aplicada a la musculación (un músculo/ejercicio por ficha), misma fábrica que el pack bíblico; cuenta USD, precio no visto.
+- **Por qué es ganador:** 24 de 24 ads de este SKU activos en FR con 7+ días (todos creados 11-13, delivery desde 11-14, más viejo ≈ 11 d), un solo page_id; es el SKU con más volumen de una página 50/50 piso. Flag: una sola tanda de creación para este SKU; 0 ads en IT/PT/BR/RO.
+- **Qué hacer:** modelar tal cual «150 fichas de anatomía de la musculación» (PDF, una ficha por músculo con ejercicios y errores frecuentes); destinos: IT, PT/BR, RO. Ángulo: «entendé qué músculo trabajás en cada ejercicio».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1407481519105013&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, escalera n/e). Snapshots: https://www.facebook.com/ads/library/?id=1682791766547408 · https://www.facebook.com/ads/library/?id=1047096671734946 · https://www.facebook.com/ads/library/?id=1160569809710549
+- Score n/4 (1/4 provisorio: volumen 24 en un SKU; tanda única, embudo y precio sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-fr-B-bible-papier-histoires-pdf-fr-tarde.md`
+
+**Señales del día FR (2026-11-26, tarde):**
+- Maju (115691698168233): 0/36, devocional adulto «15 minutes chaque matin avec Dieu», todo creado 11-21→11-25; cruza 7 d el 11-28; re-medir ~11-30.
+- La Bible sur papier (1460228643831963): 0 activos (ALL 17, tandas 11-12/13/18): pausada otra vez; re-medir ~12-03.
+- Pastor's Sermon Library 0/20 (plans de prédication, 1 d) y Martha Noyes 0/12 (BRL, «66 livres simplifiés»): lanzamientos; re-medir ~12-02.
+- Le Village des Livres (coloriage biblique 2-6 ans): 0 activos (ALL ≥20), cementerio reciente.
+
 ### 🎯 Fiches visuelles de révision por concurso (policía, anestesia…) — Mémofiches FR · `fiches-concours-memofiches-fr` (nodo nuevo) · 2026-11-26 · sesión FR
 - **Qué es:** fábrica de packs de fichas visuales de repaso, un tema por página: «120 fiches pour le concours de policier» y «36 fiches visuelles d'anesthésie» vivos; ya probó y apagó «Adjoint Administratif 60 fiches», «DroitFiches 80 fiches L1-L2», «Brevet maths 5 sujets blancs»; cuenta USD, precio no visto.
 - **Por qué es ganador:** 11 de 11 ads activos en FR con 7+ días (no truncado), un solo page_id (7 policía, 4 anestesia); 4 fechas de creación (10-31, 11-11, 11-13, 11-19; operador vivo, testea un SKU por semana y deja vivo lo que convierte); ad más viejo vivo ≈ 14 d. Página genérica, sin persona. Flag: cohorte justa, 7 de los 11 cruzaron los 7 d esta mañana; 0 en IT/PT/BR/RO.

@@ -244,3 +244,5 @@
 ## [2026-11-26] caza-auto | BR B perforar mapas-visuales-mentales (tarde) → 2 candidatos a bandeja
 
 ## [2026-11-26] caza-auto | IT B perforar metodo-studio-universitario-it (tarde) → 1 candidato a bandeja
+
+## [2026-11-26] caza-auto | FR B perforar bible-papier-histoires-pdf-fr (tarde) → 2 candidatos a bandeja
