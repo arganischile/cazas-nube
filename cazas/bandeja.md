@@ -1399,6 +1399,13 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-26 (tarde): nada que pase la vara; se barrió plantillas baby shower/bautizo/matrimonio/recordatorios editables, invitaciones editables, etiquetas editables canva, kit imprimible fiesta (0) + 9 conteos por page_id y cruce BR/IT/FR.
+**Señales del día CO (tarde):**
+- Paquete De Diseños (p. 107416171593294): 22/22 con 7+ d en CO (USD, plantillas de velas «1452 descargas hoy», tandas ≈17 d / 9,5 d / 7,4 d); misma oferta que la tarjeta MX del 2026-11-25, el operador corre también en CO; 0 en BR/PT/IT/FR/RO. Evidencia: API; snapshot y embudo no verificados desde la nube.
+- Magia Cursos y Plantillas (p. 681374695056562): 16/18 con 7+ d (estable; ya con tarjeta del 11-18) y ad nuevo de hoy: operador vivo.
+- Papelaria Creativa (p. 1149215851618523): 4/14 con 7+ d; 8 ads «+200 moldes en Canva $9.90 USD» de ≤ 4,9 d cruzan 7 d ~11-28.
+- MB Papelería 0/12, Creativa Store 0/7, Pack De Plantillas 0/8 (jabones, mismo molde que Paquete De Diseños), DecorCraft 0/3, Ideas Creativas 0/9: tandas de ≤ 3 d.
+
 CO 2026-11-26 (mañana): nada que pase la vara; se midieron 8 operadores por page_id (Mini Genios, Edukla, Con Dios camino, Rafael Piano Fácil, Arte en Tus Manos, Claridad y Acción, Edu Digital, Kinusaiga Studio) + kinusaiga.
 **Señales del día CO (mañana):**
 - Mini Genios (p. 739087692611672): 25/34 con 7+ d («+1000 ebooks vendidos», oferta sin identificar) + SKU nuevo kinusaiga «Guía + 125 diseños + 5 bonos» US$12 (9 ads de 11-22 y 11-25, 0 con 7+ d); verificar en la PC qué vende el ebook antes de decidir; re-medir ~12-01.

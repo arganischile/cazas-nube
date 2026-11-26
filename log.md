@@ -250,3 +250,4 @@
 ## [2026-11-26] caza-auto | RO B perforar cuadernos-ofici-diagram-learning-ro (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-26] caza-auto | MX B perforar ingles-en-mapas-mx (tarde) → 1 candidatos a bandeja
+## [2026-11-26] caza-auto | CO B perforar plantillas-canva-eventos-co (tarde) → 0 candidatos a bandeja
