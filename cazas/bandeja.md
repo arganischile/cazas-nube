@@ -1067,6 +1067,14 @@ RO 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda RO venc
 RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda RO; nada que pase la vara.
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
+MX 2026-11-26: nada que pase la vara; se barrió moldes navideños pdf, moldes cajitas navidad, calendario adviento imprimible, etiquetas navideñas editables, moldes cajas regalo (ALL) + 4 conteos por page_id (Tus Clases Online, Recursos creativos, Natalia Duarte, Casa NocheBuena): todo es tanda de ≤ 2 d, cohorte 7+ = 0.
+
+**Señales del día MX 2026-11-26 (mañana)**
+- Natalia Duarte (1105164439354702): 0/26 en MX (todo ≤ 2,2 d, «200+ Moldes de Cajas Navideñas», USD): re-medir ~12-01.
+- Tus Clases Online (103959345113295): 0/50 piso (cajitas navideñas «50 cajitas × $25», adviento $69, multi-SKU; todo ≤ 1,6 d): re-medir ~12-01 con page_id.
+- Recursos creativos (708050409060790): 0/50 piso (est. 187, «Descarga aquí», creados 11-24/25), probable lead gratis: re-medir ~12-01.
+- Casa NocheBuena (1466920273173777): 0/5 (+500 moldes navideños, BRL, de hoy); mismo molde que corre en BR.
+- Aula Creativa Inicial (1035751926284713): ~8 ads WhatsApp de 4,9-6,4 d, oferta no identificada: re-medir ~11-30.
 MX 2026-11-25 (tarde): nada que pase la vara; se barrió Mente Académica (≥50/50 piso, ya en bandeja), neuroanatomía, psicopatología/trastornos mentales, Medical System Global, Mapario Mental, Joneson Paz Psicologia y Academia Visual.
 
 **Señales del día MX (tarde) 2026-11-25**
