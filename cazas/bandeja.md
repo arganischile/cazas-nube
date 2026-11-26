@@ -1468,6 +1468,30 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Método visual de tarot «Read any card with a map» — The art of tarot US · `tarot-metodo-mapa-art-of-tarot-us` · 2026-11-26 · sesión EU
+- **Qué es:** método para leer cualquier carta de tarot sin memorizar los 78 significados («4 suits are just 4 verbs», «The Fool's Journey, page by page»); formato probable PDF/e-book o libro (no confirmado); precio no visible en la API.
+- **Por qué es ganador:** 16 ads con 7+ d activos de un solo page_id (piso, keyword `tarot guide pdf`; los 50 más nuevos por page_id son de ≤ 3,4 d, est. 177 ads) · 6 fechas de creación con 7+ d, el más viejo de 22,6 d y tandas nuevas hasta ayer · ⭐4.9 en cada título · 2 operadores más con el mismo mecanismo en US (Labdigital «THE TAROT MAP™», Eureka.labs «Learn tarot without memorizing»; ≤ 3,4 d).
+- **Qué hacer:** modelar el «mapa» (método de lectura en 1 página + guía) como PDF de bajo ticket · destino sugerido: IT / BR / FR / PT (tarocchi, tarô, tarot; hueco sin medir con nativas) · ángulo: «leé cualquier carta sin memorizar».
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1395155533680469)
+- **Landing:** no disponible desde la nube (la API no trae URL): verificar en la PC si es PDF o libro/baraja físicos antes de decidir.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+### 🎯 Masterclasses grabadas de guitarra de jazz/blues — Bop Jazz US · `masterclass-guitarra-bop-jazz-us` · 2026-11-26 · sesión EU
+- **Qué es:** catálogo de masterclasses/lecciones grabadas de guitarra por artista (Danny Gatton, Ronnie Earl, Scott Henderson, Herb Ellis, Gypsy Jazz Rhythm, Blues Riffs & Soloing), «65 % OFF» y «50 % OFF everything» por Black Friday; precio base no visible.
+- **Por qué es ganador:** ≥ 49 ads con 7+ d de 76 activos de un solo page_id (piso: los 50 devueltos son 49 de 7+ d) · ≥ 9 tandas de creación desde el 09-19, el más viejo de 68,5 d y uno nuevo del 11-21 · hermanas con la misma fórmula: Jazz Legend Lessons 3/3 (70 d), musiciangoods.com 9/9 (EUR).
+- **Qué hacer:** modelar un mini-curso grabado por estilo/artista (no el catálogo entero) · destino sugerido: IT / FR / BR (guitarra jazz/blues; hueco sin medir) · ángulo: «el estilo de X en lecciones cortas, 65 % off». Ojo: juzgar en la PC si los instructores son terceros con licencia o la marca personal de la página.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=531040450099372)
+- **Landing:** no disponible desde la nube: verificar en la PC formato (video on-demand), precio y si hay cara.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+**Señales del día EU (mañana) 2026-11-26**
+- Luxe Lens (p. 315851178796591): presets de Lightroom/Photoshop («Lowest Prices of the Year | Extra 30 % off»), est. 423 ads; por page_id los 50 más nuevos solo tienen 2 de 7+ d, la keyword `photography presets guide` marcó 24/26 con 7+ d (oldest 16,4 d, 3 fechas) sin re-medirse: preset ≠ guía, verificar en la PC.
+- Savvy Sheets Boutique (p. 125202377348490): 19/19 con 7+ d pero el ad más nuevo tiene ≈ 66 d (7 del 09-21, 12 de enero), títulos vacíos, AUD: posible zombi.
+- The EaseUp Planners (p. 1194131877121706): ≥ 50/122 de una sola tanda (≈ 10,6 d), «Finally, A Planner That Doesn't Expire»: probable planner físico reutilizable.
+- Excelbychris 5/6 («300 Excel Templates 95 % off», ≈ 10,6 d, 2 fechas), Simple Planner Co 4/7 (planners GoodNotes) y Creek and Chisel 2/3 (planos de carpintería, 6 planos por $37): debajo de la vara.
+
 EU 2026-11-25 (tarde): nada que pase la vara; se barrió estudio bíblico US (bible study guide pdf, scripture journal printable, reading plan, prayer journal, timeline/study maps, Sunday school), Christian Knowledge, Roots of Faith, Christian Study Hub, FaithSprout Kids.
 
 **Señales del día EU (tarde) 2026-11-25**
