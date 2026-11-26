@@ -1318,6 +1318,13 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-26 (mañana): nada que pase la vara; se midieron 8 operadores por page_id (Mini Genios, Edukla, Con Dios camino, Rafael Piano Fácil, Arte en Tus Manos, Claridad y Acción, Edu Digital, Kinusaiga Studio) + kinusaiga.
+**Señales del día CO (mañana):**
+- Mini Genios (p. 739087692611672): 25/34 con 7+ d («+1000 ebooks vendidos», oferta sin identificar) + SKU nuevo kinusaiga «Guía + 125 diseños + 5 bonos» US$12 (9 ads de 11-22 y 11-25, 0 con 7+ d); verificar en la PC qué vende el ebook antes de decidir; re-medir ~12-01.
+- Kinusaiga Studio (p. 1517895411397732): 1 ad (11-23) «30 cuadros navideños sin aguja ni hilo» USD 3,90; sin cohorte.
+- Edukla 20/27 sin cambios (sin copy/URL, no pasa gate); Con Dios camino bajó a 4/10.
+- Claridad y Acción 50/50 piso, Edu Digital ≥20/50 piso, Rafael Piano 23/40, Arte en Tus Manos 29/34: ya con tarjeta, estables.
+
 CO 2026-11-25 (tarde): nada que pase la vara; se barrió tocar de oído, piano de oído, piano iglesia, guitarra clásica, saxofón, escalas guitarra, cifrados, teoría musical, bajo + 7 conteos por page_id.
 **Señales del día CO (tarde):**
 - Comunidade do Músico (nodo comunidade-musico-oido-co): 0 activos en CO (50 en ALL, último ~11-19): apagó la tanda; cementerio.
