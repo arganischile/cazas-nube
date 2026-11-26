@@ -239,3 +239,4 @@
 ## [2026-11-26] caza-auto | RO A huella (mañana) → 1 candidato a bandeja
 ## [2026-11-26] caza-auto | MX B multi-sku-moldes-navidad-tus-clases (mañana) → 0 candidatos a bandeja
 ## [2026-11-26] caza-auto | CO C operadores → 0 candidatos a bandeja
+## [2026-11-26] caza-auto | EU B notas-terapeutas-session-ready-us (tarde) → 2 candidatos a bandeja

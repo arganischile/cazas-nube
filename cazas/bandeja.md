@@ -1553,6 +1553,30 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Guía de estudio + sistema de decisión para el examen LCSW — LCSW Strategy US · `notas-terapeutas-session-ready-us` · 2026-11-26 (tarde) · sesión EU
+- **Qué es:** guía de estudio para el examen de habilitación LCSW («LCSW Clinical Exam Study Guide», «A Complete LCSW Study System», edición «Retaker's Edition» con «Four Decision Systems», «Read The First Chapter»); formato probable e-book/PDF (no confirmado); precio no visible, hay anuncios «50 % Off».
+- **Por qué es ganador:** 19 ads con 7+ d de 21 activos de un solo page_id (conteo completo, no piso) · ≈ 12 fechas de creación distintas, el más viejo de ≈ 168 d y uno nuevo de hoy · nombre de página de marca (sin cara en los títulos) · competidor directo LCSW Study Notes (p. 1108568799006493) con 9 ads pero todos ≤ 6,4 d.
+- **Qué hacer:** modelar la guía de estudio con método («estudiá con un método, no de memoria») para el examen de habilitación local · destino sugerido: IT (esame di Stato psicologo/assistente sociale) / BR (concursos, CRP) / FR / RO; el examen LCSW es de EEUU, el molde es la guía + sistema de decisión · ángulo: «si ya reprobaste, no estudies igual dos veces».
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1071328126064642)
+- **Landing:** no disponible desde la nube (la API no trae URL): verificar en la PC formato, precio y si es libro físico.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API.
+
+### 🎯 Toolkit de actividades de terapia de juego para terapeutas — The Play Therapy Room US · `notas-terapeutas-session-ready-us` · 2026-11-26 (tarde) · sesión EU
+- **Qué es:** toolkit para terapeutas infantiles: «120 Activities, Sorted by Problem», «20-Minute Groups, Already Planned», «Know What to Say When Parents Ask», «Sensory Diet Draft in Minutes» (esto último sugiere generador/plantillas, no confirmado); formato y precio no visibles.
+- **Por qué es ganador:** 13 ads con 7+ d de 22 activos de un solo page_id (conteo completo) · ≈ 9 fechas de creación distintas, el más viejo de ≈ 45 d y tandas nuevas hasta ayer · sin cara en los títulos.
+- **Qué hacer:** modelar un pack de actividades por problema (ansiedad, regulación, grupos de 20 min) como PDF de bajo ticket para terapeutas/psicopedagogos · destino sugerido: IT / FR / BR / PT (hueco sin medir con nativas) · ángulo: «una actividad para cada niño de tu caseload». Ojo: si es suscripción o herramienta con IA, no entra.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1384720518057451)
+- **Landing:** no disponible desde la nube: verificar en la PC si es PDF, suscripción o app, y el precio.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API.
+
+**Señales del día EU (tarde) 2026-11-26**
+- Session Ready (p. 1226783993855408): 0/50 piso (est. 90; todos ≤ 1,9 d; «5 kits $27» y «$9.99» por rol: PTA, COTA, FNP, Psych NP, quiropráctico, hospicio; clon Clashivfx Assets 0/3); no pasa, re-medir ~12-01.
+- The Clinical Documentation Kit (p. 1500449439816931): 10/10 con 7+ d pero todos de una sola tanda del mismo día (13,1 d) y 294 plantillas para terapeutas, USD: no pasa el filtro de ≥ 3 fechas; re-medir ~12-01.
+- The Note Ninjas (p. 120478321017238): 17 ads «Stop Writing Notes From Scratch» de una sola tanda (7,9 d), sin otras fechas: posible zombi, no pasa.
+- Theraforms (1 ad, 8,9 d, checklist de auditoría) y Bright Digital Hub (1 ad, «114 Rehab Activities», 16,8 d): sin cohorte. LCSW Strategy en IT/FR/RO/BR/PT (ALL): 1 ad inactivo, hueco abierto.
+
 ### 🎯 Método visual de tarot «Read any card with a map» — The art of tarot US · `tarot-metodo-mapa-art-of-tarot-us` · 2026-11-26 · sesión EU
 - **Qué es:** método para leer cualquier carta de tarot sin memorizar los 78 significados («4 suits are just 4 verbs», «The Fool's Journey, page by page»); formato probable PDF/e-book o libro (no confirmado); precio no visible en la API.
 - **Por qué es ganador:** 16 ads con 7+ d activos de un solo page_id (piso, keyword `tarot guide pdf`; los 50 más nuevos por page_id son de ≤ 3,4 d, est. 177 ads) · 6 fechas de creación con 7+ d, el más viejo de 22,6 d y tandas nuevas hasta ayer · ⭐4.9 en cada título · 2 operadores más con el mismo mecanismo en US (Labdigital «THE TAROT MAP™», Eureka.labs «Learn tarot without memorizing»; ≤ 3,4 d).
