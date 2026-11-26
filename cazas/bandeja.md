@@ -26,6 +26,30 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 +100 Planilhas de exercícios para fisioterapia por lesão — Mapas Visuais & ilustrados BR · `planilhas-fisioterapia-mapas-visuais-br` · 2026-11-26 (tarde) · sesión BR
+- **Qué es:** planillas de ejercicios para fisioterapeutas organizadas por lesión («+100 PLANILHAS DE EXERCÍCIOS PARA FISIOTERAPIA, ORGANIZADAS POR LESÃO»), BRL; formato (PDF/Excel/Notion) y precio no visibles por API; el clon Facilitafisio dice «POR APENAS R$ 7,90» (precio piso probable).
+- **Por qué es ganador:** cohorte 7+ **≥ 43 / 133 est.** (piso: la API devuelve 50; 29 ads de creativos «⭐ 9.8/10» + 14 con el título nativo), un solo page_id sin persona · ≥ 8 tandas de creación entre ≈ 09-25 y 11-25, el más viejo ≈ 62 d y el más nuevo ≈ 1,9 d (operador vivo) · red de clones del mismo molde («+100 Planilhas de Fisioterapia/Fonoaudiologia Neurológica»): Camila Rodrigues ≈ 15/≥ 15, Sofía Martínez ≈ 7/40, Facilitafisio 0/3 · PT = 0 activos (2 ads viejos en ALL).
+- **Qué hacer:** verificar en la PC embudo, formato y precio; si es PDF/planilla, modelar «planillas de ejercicios por lesión» para fisioterapeutas y variantes (fonoaudiología, neuro, respiratoria) · destino: Portugal (PT = 0), Italia y Francia (fisioterapia), Rumania · ángulo: «+100 planillas listas, por lesión» a ticket mínimo.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1316538911539485>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=982995130889782
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-br-B-mapas-visuales-mentales-tarde.md`
+
+### 🎯 Enfermagem Resumida — «Estude apenas 1 hora por dia» (resumos de enfermagem) BR · `resumos-enfermagem-resumida-br` · 2026-11-26 (tarde) · sesión BR
+- **Qué es:** material de estudio de enfermería («Estude Apenas 1 Hora Por Dia», «Oportunidade histórica: EBSERH 2027»); producto probable: resumos/mapas en PDF; la API no muestra oferta, formato ni precio (campo USD).
+- **Por qué es ganador:** cohorte 7+ **32 / 49 activos** (piso: tope de 50; 160 est. junto con Enfermagem Aprovada), un solo page_id sin persona · ≥ 5 tandas de creación (≈ 11-12 a 11-25), el más nuevo ≈ 0,9 d (operador vivo); el más viejo ≈ 8 d, campaña reciente · PT sin medir.
+- **Qué hacer:** verificar en la PC qué vende, precio y formato; si es PDF, modelar «resumos de enfermería por concurso/área» · destino: Portugal e Italia (concorsi sanitari), Francia/Rumania (enfermería) · ángulo: «estudiá 1 hora por día».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=101093207914538>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=1173784888671335
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-br-B-mapas-visuales-mentales-tarde.md`
+
+**Señales del día BR (2026-11-26, tarde, B perforar mapas-visuales-mentales):**
+- ENEM PROVA MAPAS Mentais (1316379811568954): 21/21 con 7+ d («Revisão Final ENEM 2026 R$ 17,90», «Kit 22 Mapas Mentais da Prova») pero **una sola tanda (≈ 10-31)** y ENEM 2026 ya pasó: posible zombi/estacional, no pasa el filtro de fechas.
+- Mapas Espanhol (1450780528121885) 0/4 («310 Mapas Mentais de Espanhol» R$ 29,99, ≈ 3 d): hueco «español para brasileños» con un jugador nuevo; re-medir ~12-03.
+- Concurso Públicos 1/4 («Drive Completo R$ 10»), Casa dos mapas mentais 0/8, Aprovatech 0/3, Medlab Brasil 0/4 («Kit Farmacologia Ilustrada»), Juliana Costa 0/4 (R$ 17,90), Helena Giacomo 0/2 (150 mapas mentais): todos < 10.
+- PRF/TRT: dominio de Estratégia Concursos (material gratis, lead magnet) y Escola Trabalhista (cursos): no es infoproducto de bajo ticket.
+
 ### 🎯 Apostila 18 Instalações Elétricas (R$ 10) — Método Eletricista Pro BR · `huella-br-metodo-eletricista-pro` · 2026-11-26 (mañana) · sesión BR
 - **Qué es:** apostila (PDF probable) «18 Instalações Elétricas» para aprendices de electricista, gancho «APENAS 10 REAIS»; moneda del campo USD pero precio en el título en reales; formato y landing no visibles por API.
 - **Por qué es ganador:** cohorte 7+ **14 / 26 activos** (26 ≤ 50, no es piso), un solo page_id · ≥ 8 fechas de creación entre ≈ 10-05 y 11-26 (el más viejo ≈ 50 d), 12 ads creados en las últimas 24 h (operador vivo) · nombre de marca sin persona · precio mínimo con 2 títulos que se repiten. PT: la fila de oficios de PT (Eletricista Fernando Moreira 43/43) valida la demanda de guías de electricidad.
