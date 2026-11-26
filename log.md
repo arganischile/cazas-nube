@@ -235,3 +235,4 @@
 ## [2026-11-26] caza-auto | EU A huella (mañana) → 2 candidatos a bandeja
 ## [2026-11-26] caza-auto | BR A huella (mañana) → 2 candidatos a bandeja
 ## [2026-11-26] caza-auto | IT B progetti-diy-bambini-accademia-creativa (mañana) → 0 candidatos a bandeja
+## [2026-11-26] caza-auto | FR C operadores → 2 candidatos a bandeja

@@ -552,6 +552,31 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Fiches visuelles de révision por concurso (policía, anestesia…) — Mémofiches FR · `fiches-concours-memofiches-fr` (nodo nuevo) · 2026-11-26 · sesión FR
+- **Qué es:** fábrica de packs de fichas visuales de repaso, un tema por página: «120 fiches pour le concours de policier» y «36 fiches visuelles d'anesthésie» vivos; ya probó y apagó «Adjoint Administratif 60 fiches», «DroitFiches 80 fiches L1-L2», «Brevet maths 5 sujets blancs»; cuenta USD, precio no visto.
+- **Por qué es ganador:** 11 de 11 ads activos en FR con 7+ días (no truncado), un solo page_id (7 policía, 4 anestesia); 4 fechas de creación (10-31, 11-11, 11-13, 11-19; operador vivo, testea un SKU por semana y deja vivo lo que convierte); ad más viejo vivo ≈ 14 d. Página genérica, sin persona. Flag: cohorte justa, 7 de los 11 cruzaron los 7 d esta mañana; 0 en IT/PT/BR/RO.
+- **Qué hacer:** modelar el molde «el concurso X en N fichas visuales» (PDF, un tema por página, «olvidá los PDF de 1 000 páginas») por concurso o profesión local; destinos: IT (concorso polizia / OSS), PT/BR (concurso PM / técnico de enfermagem), RO. Ángulo: «120 fiches, toujours le même modèle».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1464062913449663&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, escalera n/e). Snapshots: https://www.facebook.com/ads/library/?id=2064397634053988 · https://www.facebook.com/ads/library/?id=1677372217244621 · https://www.facebook.com/ads/library/?id=1734548168679606
+- Score n/4 (1/4 provisorio: escalonamiento y molde repetible; duplicación baja, embudo y precio sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-fr-C-operadores.md`
+
+### 🎯 «Un système qui change tout»: rutinas y autonomía para niños — Mission parent FR · `routines-autonomie-enfant-mission-parent-fr` (nodo nuevo) · 2026-11-26 · sesión FR
+- **Qué es:** sistema de rutinas/autonomía infantil para padres («Des repères pour un quotidien plus apaisé», «La maison tourne sans moi et je respire enfin.»); ⚠️ «Un cadeau pour son autonomie» y «Black Friday : un cadeau qui fait grandir» sugieren objeto físico (tablero de autonomía); cuenta EUR, precio no visto.
+- **Por qué es ganador:** 20 de 28 ads activos en FR con 7+ días (no truncado), un solo page_id; 4 tandas (10-22 ×4, 10-31 ×3, 11-17 ×13, 11-22 ×8), ad más viejo ≈ 35 d; subió de 8/30 el 11-24; título «Des repères…» duplicado ×15. Página genérica, sin persona.
+- **Qué hacer:** si es FÍSICO, pasarlo a digital: kit imprimible de rutinas + tablero de autonomía por edad + guía para el padre («la casa funciona sin que yo grite»); si ya es PDF, modelar tal cual. Destinos: IT, PT/BR, RO (solo 2 creativos en francés fuera de FR, sin SKU local). Ángulo: carga mental de la madre, no el niño.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=994644443736564&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (físico vs PDF, precio, escalera n/e). Snapshots: https://www.facebook.com/ads/library/?id=2177580232969411 · https://www.facebook.com/ads/library/?id=1852040875789898 · https://www.facebook.com/ads/library/?id=1454800836810871
+- Score n/4 (1/4 provisorio: duplicación ×15 y escalonamiento; formato, embudo y precio sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-fr-C-operadores.md`
+
+**Señales del día FR (2026-11-26):**
+- Kaito Vale (1141489242390653): 34/34, títulos vacíos, oferta no identificable desde la nube; sin ad nuevo desde 11-13; identificar en la PC (agenda Calistenia Asiática → FR).
+- Esprit Académique (1229441186928180): 47/50 piso (101 est.), ya con tarjeta; SKU nuevo «+300 Cartes Mentales pour Apprendre l'Espagnol» (3 ads, 11-25).
+- Pretty Little Teacher (398932843295914): 34/50 piso (75 est.), ya con tarjeta; 16 ads nuevos 11-24/25 de promo fin de año.
+- Fenix Library (1455853117614278): 0/50 piso (79 est.), rota todo cada ~3 d (QualiPAC, frigoriste, production musicale nuevos); sin cohorte.
+- Hugo Jean 5/15 («Une fiche. Une aventure.» 5/5), Le Kit Vagal 6/10, Inspiracion Studio 4/10: sin vara.
+
 ### 🎯 Suivi du Budget (plantilla Excel + Google Sheets) — FocusDaily FR · `suivi-budget-sheets-focusdaily-fr` (nodo nuevo) · 2026-11-25 (tarde) · sesión FR
 - **Qué es:** «Suivi du Budget Mensuel & Annuel», plantilla Excel + Google Sheets de presupuesto («prêt à l'emploi en 3 minutes», todas las monedas, tutorial vídeo, bonus «Coffres d'Épargne»); EUR; hoy −20 % de Black Friday hasta el 30-11, precio base no visto.
 - **Por qué es ganador:** 36 de 42 ads activos en FR con 7+ días (42 = total), un solo page_id; 10 fechas de creación (10-2025 → 11-21), ad más viejo ≈ 404 d, sigue sumando tandas (11-03, 11-11, 11-21); prueba social «+10 600 utilisateurs», «4,9/5». Página genérica, sin persona.
