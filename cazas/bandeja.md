@@ -1134,6 +1134,20 @@ RO 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda RO venc
 RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda RO; nada que pase la vara.
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Megapack de mapas visuales (Automatización Industrial · Ingeniería Civil · «Aprende inglés con 15 min al día con estos apuntes») — Mapas Visuales PRO MX · `ingles-en-mapas-mx` · 2026-11-26 · sesión MX (tarde)
+- **Qué es:** biblioteca de mapas visuales/mapas mentales en archivo descargable, multi-SKU por tema técnico («Megapack Automatización Industrial», «Mapas Mentales de Ingeniería Civil», lote de inglés «apuntes» de hoy); moneda PEN (operador peruano que corre en MX); precio no visto.
+- **Por qué es ganador:** cohorte 20/36 en MX (9 ads «Megapack Automatización Industrial» de 14 a 70 d + «Deja de estudiar con los libros, usa mapas visuales» + Ing. Civil + «Metti ordine…» en italiano), ≥ 8 fechas de creación, ads de hoy; un solo page_id, sin cara de persona; longevidad máx. ≈ 70 d. El lote de inglés (9 ads) es de ≤ 3 d: lo viejo es la plantilla, el inglés es el SKU nuevo.
+- **Qué hacer:** modelar el molde «megapack de mapas visuales por tema» (mismo molde que 300 Mapas Mentales/Mente Académica, ya en bandeja) llevándolo a **RO** (hărți mentale engleză: 0 jugadores de mapas, solo Atril con 3 ads) y a **IT** (inglés ya tiene 3 jugadores nuevos de ≤ 4 d: Mappe in inglese, Mappa Mente, Atril); BR/PT saturado (Sara Ginga 520 mapas, Inglês Visual, TeacherMap). Ángulo: «15 min al día» + mapas por nivel.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1291088710759821>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1797973198172344
+- Score n/4 (no evaluado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-mx-B-ingles-en-mapas-mx-tarde.md`
+
+**Señales del día MX 2026-11-26 (tarde)**
+- Atril Estudio (1282575998279080): ≥45/71 con «inglés» en MX (50 es piso; tandas de 9 a 29 d, «⭐ 4.9/5 Estrellas», USD) y mismo molde en IT («Stelle») y RO («stele»); multi-SKU (inglés, «aprende a soldar en casa»), producto no identificable por API → no pasa el gate; **verificar en la PC qué vende: es la mayor cohorte del eje**.
+- Inglés en Mapas (1415453951653380): 9/9 (4.9/5, USD, de 9 a 29 d): una sola más que la vara; re-medir ~11-30. Sus hermanas: Ruta Visual del Inglés 4/4 (BRL), Sofía Herrera 3/5, Maria Rita 2/4.
+- Academia PRO (1183490164845012): 0/6 de inglés («El Inglés en Mapas 220 mapas», USD, ≤ 2 d) + «30 días de milagros» 2/2 de 11 d (devocional); Learnova 3/7; Digital Services 5/8.
+- IT (inglés mapas, de hoy): Mappe in inglese «+300 Mappe Mentali di Inglese – Solo 15 €» 2 ads, Mappa Mente 4 ads. BR: Sara Ginga «520 mapas mentais» 12 ads de hoy, Inglês Visual 8 de hoy.
 MX 2026-11-26: nada que pase la vara; se barrió moldes navideños pdf, moldes cajitas navidad, calendario adviento imprimible, etiquetas navideñas editables, moldes cajas regalo (ALL) + 4 conteos por page_id (Tus Clases Online, Recursos creativos, Natalia Duarte, Casa NocheBuena): todo es tanda de ≤ 2 d, cohorte 7+ = 0.
 
 **Señales del día MX 2026-11-26 (mañana)**
