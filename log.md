@@ -233,3 +233,4 @@
 ## [2026-11-25] caza-auto | MX B mapas-mentales-salud-mente-academica-mx (tarde) → 0 candidatos a bandeja
 ## [2026-11-25] caza-auto | CO B comunidade-musico-oido-co (tarde) → 0 candidatos a bandeja
 ## [2026-11-26] caza-auto | EU A huella (mañana) → 2 candidatos a bandeja
+## [2026-11-26] caza-auto | BR A huella (mañana) → 2 candidatos a bandeja

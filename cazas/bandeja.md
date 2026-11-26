@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Apostila 18 Instalações Elétricas (R$ 10) — Método Eletricista Pro BR · `huella-br-metodo-eletricista-pro` · 2026-11-26 (mañana) · sesión BR
+- **Qué es:** apostila (PDF probable) «18 Instalações Elétricas» para aprendices de electricista, gancho «APENAS 10 REAIS»; moneda del campo USD pero precio en el título en reales; formato y landing no visibles por API.
+- **Por qué es ganador:** cohorte 7+ **14 / 26 activos** (26 ≤ 50, no es piso), un solo page_id · ≥ 8 fechas de creación entre ≈ 10-05 y 11-26 (el más viejo ≈ 50 d), 12 ads creados en las últimas 24 h (operador vivo) · nombre de marca sin persona · precio mínimo con 2 títulos que se repiten. PT: la fila de oficios de PT (Eletricista Fernando Moreira 43/43) valida la demanda de guías de electricidad.
+- **Qué hacer:** verificar en la PC embudo, precio real y si es PDF; si lo es, modelar «apostila de instalaciones eléctricas de ticket mínimo» · destino: Portugal (guía de automatismos ya corre allí), Italia y Francia (oficios) · ángulo: «apenas 10 reais» + 18 instalaciones paso a paso.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1150716634782598>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=1451788000432445
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-br-A-huella.md`
+
+### 🎯 Fichas Educativas por año escolar (pago único 7,90 €) — Aprender em casa PT · `huella-br-aprender-em-casa-pt` · 2026-11-26 (mañana) · sesión BR
+- **Qué es:** fichas educativas imprimibles de 1.º a 4.º año («A Aprender em Casa — Fichas Educativas»), «Fichas por ano, pagamento único de 7,90 €»; el texto de un ad deja ver el título de la plantilla, formato PDF probable; moneda del campo BRL.
+- **Por qué es ganador:** cohorte 7+ **14 / 15 activos** en PT (no es piso), un solo page_id · 4 tandas de creación (≈ 11-05, 11-10, 11-19, 11-24-ish; el más viejo ≈ 21,6 d) y 1 ad de hace 2,6 d (operador vivo) · página sin persona · pago único de bajo ticket en euros.
+- **Qué hacer:** verificar en la PC embudo, precio y formato; si es PDF, modelar «fichas por ano escolar» · destino: Portugal ya tiene la oferta (medir clones), Italia y Francia (schede/fiches par classe) · ángulo: «pago único de 7,90 € por ano».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=PT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1254990461024985>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL). Snapshot: https://www.facebook.com/ads/library/?id=1795016638438027
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-26-br-A-huella.md`
+
+**Señales del día BR (2026-11-26, mañana, A huella):**
+- Mapas Visuais & ilustrados (1316538911539485): 29/50 piso (133 est., ~4 fechas; «+100 planilhas de exercícios para fisioterapia por lesão», BRL) y Studio Facile PT (1232011766670582) 25/50 piso (ya con tarjeta/cola): sin tarjeta por tope de 2; candidato fuerte para la tarde (B perforar).
+- Eletricista Fernando Moreira (1428554523669084) PT: 43/43 (5 fechas, el más nuevo 7,3 d; «Guia Prático de Automatismos Elétricos», USD); nombre de persona y sin ad reciente: no pasa operador vivo.
+- Arquivos que encantam (216603914872916) 20/38 (≈ 15 fechas; «+150 Revistinhas Editáveis por R$ 10», lead magnet «comenta eu quero»), Luciana Silva (590657560805710) 23/40 (imprimibles infantiles; ¿marca personal?), Pack para Empreendedores (307180532467124) 16/26 (packs Canva por nicho, R$ 42,90-49,90), Papelaria Arte Festa (103294409038038) 13/28 (kits festa, BRL): pasan 10 por conteo del barredor, sin verificar por mí ni gate; quedan para B/C.
+- Marília Piccoli 25/31 y A Concurseira 26/29: ya con tarjeta. Udemia.IA PT 23/37: ya en bandeja. Leila Fiel 13/13 (una fecha, 45 d): zombi.
+- Capadas en 50 (cohorte oculta): Farmácia Mapeada 0/168 visibles, Fernanda Ribeiro 0/122 (multi-oferta mapas), Terapia de Verdade 2/122, EJ Editora 0/50 de 167 (mapas por edital): piso, medir con otra huella.
+- Cercanas < 10: Ateliê Criativo 8/17 (WhatsApp), Luciana Ferreira 9/23 (WhatsApp), Manual do Conserto 9/18, PsiDocs 9/18, Cartilha do MEI 8/8, Ana Santos 3/36.
+
 ### 🎯 1.000 Questões Comentadas de medicina + bônus por R$ 10 — Maria BR · `questoes-comentadas-medicina-maria-br` · 2026-11-25 (mañana) · sesión BR
 - **Qué es:** banco de «1.000 Questões Comentadas + Bônus» para estudiantes de medicina (🩺), BRL, R$ 10 en el título; formato (PDF/plataforma) no visible por API.
 - **Por qué es ganador:** cohorte 7+ **10 / 23 activos** (re-medición de la nota del 11-24: 8/27 → 10/23; 1 sola oferta) · 8 fechas de creación entre ≈ 10-19 y 11-23, 12 ads de hoy/ayer (operador vivo) · página sin cara en los títulos (nombre «Maria» a secas) · clon Maria Clara (1094481413758211) con 24 ads de hoy y el mismo kit = 2º operador · PT = 0 (ALL). Flag: 3 de los 10 cruzan 7 d por solo ~6 h; la vara se pasa justa.
