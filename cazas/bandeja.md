@@ -335,6 +335,12 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+IT 2026-11-26 mañana (B perforar, progetti-diy-bambini-accademia-creativa): nada que pase la vara; se barrió progetti cartone bambini, esperimenti scientifici, schede stampabili, montessori (0), schede matematica primaria, libro attività pdf, robotica bambini (ALL).
+**Señales del día IT (mañana)**
+- Accademia Creativa (1045393855333327): 19/50 piso (78 est.), multi-SKU (+300 progetti, cartone al robot, legno, Cucito Creativo); ya tiene tarjeta; verificar digital vs físico en la PC.
+- Fernanda Ruiz (1192479320604231): 0/13 (≤ 5 d, BRL, robótica «350 progetti» + «300 schede sistemi», ads en IT/FR/EN); Creativita Potenziata 0/10 (≤ 3,6 d, «4.7/5»); re-medir ~12-01.
+- Edulabs Resources (1057793390758198): 5/12, multi-SKU para docentes (DSA, logopedia, religione, USD); re-medir ~12-02.
+
 IT 2026-11-25 tarde (B perforar): nada que pase la vara; se barrió mappe mentali concorso, quiz concorso pubblico, schemi riassuntivi, mappe concettuali diritto, concorso ATA/OSS.
 **Señales del día IT (tarde)**
 - Memosystem (54585739650): 10/10 por creación pero una sola tanda de 7,05 d y oferta no identificada (método de estudio, ¿curso o software?); verificar en la PC y re-medir ~11-30.
