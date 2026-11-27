@@ -1641,6 +1641,21 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «200+ Rituals for Money, Love & Protection» (libro de rituales/hechizos) — Realifestation US · `rituales-realifestation-us` · 2026-11-27 (mañana) · sesión EU
+- **Qué es:** colección de «200+ rituales/hechizos para dinero, amor y protección» (antes «200+ Spells», «200+ Methods»); formato probable e-book/PDF o «libro de sombras» digital (no confirmado, podría ser libro impreso); precio no visible.
+- **Por qué es ganador:** 39 ads con 7+ d de 50 activos (estimado 52; el tope de la API es 50, la cohorte es un piso) de un solo page_id · ≈ 8 fechas de creación distintas, desde hace 65 d hasta hace 2,3 d (el operador sigue subiendo tandas: 09-23, 10-27, 11-10, 11-18, 11-21, 11-25) · mismo creativo-título durante 2 meses con solo cambios de palabra (rituals/spells/methods) = molde afinado · nombre de página de marca, sin persona · el mismo molde lo corre «Emily D» (p. 992566507281610) con «100+ Spells» (31/44, pero con relato en primera persona: posible marca personal, queda como señal).
+- **Qué hacer:** modelar el libro de rituales por intención (dinero / amor / protección) con título de cantidad + garantía de «paso a paso» · destino sugerido: IT / FR / PT / BR (en BR hay ruido de «simpatias» casero, sin cohorte; IT y FR sin molde igual) · RO ya lo tiene copiado desde hace 3 d: «Mystic Arcana Studio» (p. 1525356127320297) corre «200 de ritualuri pentru bani, dragoste și protecție» (5 ads, 0 con 7+ d), así que la ventana en RO está abriéndose · ángulo: «el ritual correcto, no el de Google». Ojo: nicho místico; si es físico, no entra.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1345136965345763)
+- **Landing:** no disponible desde la nube (la API no trae URL): verificar en la PC formato, precio y si es PDF o libro físico.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API.
+
+**Señales del día EU (mañana) 2026-11-27**
+- The art of tarot (p. 1395155533680469, ya con tarjeta 11-26): 16 con 7+ d de 197 activos (piso 50), sin cambios en la cohorte; el molde «⭐ 4.9/5.0 · leer tarot sin memorizar» ya corre en IT (L'Arte dei Tarocchi, La Mappa dei Tarocchi, Leggi i Tarocchi da Sola, I Tarocchi Senza Memoria, Luna Tarocchi, Isabella Moretti, Eureka.labs Italia), FR (MEVI «Livre PDF», Omar Gerson, Kim Daniela, Eureka.labs France) y RO (Arta Tarotului, Tarotul pe Înțeles, Bucătăria care Vindecă, Remedii Naturale): ventana de ese molde cerrada en destino, no sirve como «llevar a».
+- Rachel Moore (p. 994209727119487, BRL): 13 con 7+ d de 18 activos con el mismo título «Comment “I WANT” to Get the Link!» (embudo de comentario→link, oferta sin identificar, página con nombre de persona): no pasa el gate; verificar en la PC qué vende.
+- Emily D (p. 992566507281610): 31/44, «100+ Spells for Money, Love, Luck & Protection» + relatos en primera persona («I Spent $5,142 Learning Witchcraft»): probable marca personal, no pasa.
+- Digital Box (p. 775996882268562) 0/39 («78 Tarot Cards, Mapped» + «240 Visual Nursing Study Sheets», todo ≤ 4,3 d), Labdigital (p. 1332998043219880) 0/50 piso (Tarot Map, Hangar Atlas, Container Home…, todo ≤ 2,5 d) y Kit Online (p. 694829257056991) 0/50 piso (atlas visuales por oficio, en varios idiomas, todo ≤ 6,9 d): fábricas de «atlas visual» en tandas cortas, sin cohorte; re-medir ~12-02.
+
 ### 🎯 Guía de estudio + sistema de decisión para el examen LCSW — LCSW Strategy US · `notas-terapeutas-session-ready-us` · 2026-11-26 (tarde) · sesión EU
 - **Qué es:** guía de estudio para el examen de habilitación LCSW («LCSW Clinical Exam Study Guide», «A Complete LCSW Study System», edición «Retaker's Edition» con «Four Decision Systems», «Read The First Chapter»); formato probable e-book/PDF (no confirmado); precio no visible, hay anuncios «50 % Off».
 - **Por qué es ganador:** 19 ads con 7+ d de 21 activos de un solo page_id (conteo completo, no piso) · ≈ 12 fechas de creación distintas, el más viejo de ≈ 168 d y uno nuevo de hoy · nombre de página de marca (sin cara en los títulos) · competidor directo LCSW Study Notes (p. 1108568799006493) con 9 ads pero todos ≤ 6,4 d.
