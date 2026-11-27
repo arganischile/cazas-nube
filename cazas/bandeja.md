@@ -26,6 +26,21 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Kit de estudos para concursos R$ 19,90 — Professora Jaqueline Santos BR · `kit-estudos-concursos-professora-jaqueline-br` · 2026-11-27 (tarde) · sesión BR
+- **Qué es:** «kit de estudos» para concursos a R$ 19,90 (o 4x de R$ 20,66 en una variante mayor), BRL; formato (PDF) no verificado; la página lleva nombre de persona.
+- **Por qué es ganador:** cohorte 7+ **10 / 20** activos, un solo page_id (no es piso) · ≥ 5 fechas de creación, el más viejo ≈ 50 d, 2 tandas nuevas de ≈ 1,8 y 4,5 d (operador vivo) · ojo: solo 1 de los 10 viejos lleva el título del kit, los otros son «Mais informações ->» genéricos.
+- **Qué hacer:** verificar en la PC que no sea una cara que vende y que el kit sea digital; si es PDF, modelar «kit de estudos por concurso a precio piso» · destino: Portugal (PT = 0 en concursos), Italia (concorsi) · ángulo: kit completo por R$ 19,90.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=206016852588309>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL): verificar en la PC antes de decidir.
+- Score 2/4 · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-27-br-B-concursos-caderno-mapeado-br-tarde.md`
+
+**Señales del día BR (2026-11-27, tarde, B perforar):**
+- Caderno Mapeado (ya con tarjeta): 85 activos, los 50 visibles ≤ 4 d (nuevas tandas por concurso); cohorte 7+ no medible por el tope de 50.
+- Aprovação PGE (453401278092959, 386 est.) y Dedicação Delta (210383352904859, 276 est., 16 viejos visibles): misma plantilla «Sua 1ª semana é gratuita» = curso/suscripción, no pasan el gate.
+- Apostilas Digitais 0/35 (tanda ≤ 3,9 d), Resummitos 0/5, Rota da aprovação 0/14 («150 mapas do edital SP Águas»), Leticia Dicas 0/10: re-medir ~12-02.
+- PT sin oferta de concursos (ALL).
+
 ### 🎯 220 modelos de redação prontos — Amanda Redação BR · `redacao-modelos-prontos-amanda-br` · 2026-11-27 · sesión BR
 - **Qué es:** pack de modelos de redação («220 modelos prontos de redação ✅», antes «700 argumentos prontos para redação ✅»), BRL; formato (PDF) y precio no visibles por API.
 - **Por qué es ganador:** cohorte 7+ **15 / 21** activos, un solo page_id · ≥ 7 fechas de creación, el más viejo ≈ 120 d (2 ads de «700 argumentos»), 6 ads nuevos de ≈ 1 d (operador vivo) · mismo creativo repetido en tandas (220 modelos desde ≈ 11-13) · PT = 0 (ALL = 0).
