@@ -1021,6 +1021,8 @@ FR 2026-11-19 (modo C operadores): nada nuevo que pase la vara; se midieron 11 o
 FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR vencidos; nada que pase la vara.
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
+RO 2026-11-27 (tarde): nada que pase la vara; se barrió explicat prin desene (ACTIVE y ALL), ghid ilustrat pdf (0), cărți ilustrate cadou, în imagini PDF descarcă, pas cu pas în imagini carte PDF, fișe de lucru + cruce IT (spiegato con i disegni) + conteos por page_id (Rowan House Press 8/23, Crearis Digital 0/16, Mesa Ligera 1/12). Informe: `RAW/cazas-auto/2026-11-27-ro-B-red-prin-desene-rowan-mesa-ro-tarde.md`
+Señales del día RO: Rowan House Press (103448682074390) 8/23 con 7+ d (antes 0/50 piso) y 15 ads del 11-22/23 que cruzan 7 d ~11-30: re-medir ~12-01, podría pasar la vara (multi-SKU «X explicat prin desene», USD); Crearis Digital (1111358908733137) red nueva del molde «X în imagini» 0/16 (tandas 11-21→11-26, cruzan 7 d desde ~11-28); Mesa Ligera pivotó a inglés para rumanos (1/12).
 RO 2026-11-27 (mañana): nada que pase la vara; se barrió fișe patologie, nutriție, logopedie, kinetoterapie (0), farmacologie, medicină, urgențe, stomatologie, ECG (0), anatomie (0) + conteos por page_id (Fișe de patologie 4/4, Espacio para Crecer 0/18, Digital solutions 0/5).
 Señales del día RO: Espacio para Crecer (1123168470875944) «ghid de gardă» para residentes, 18 ads de ≤3,2 d (re-medir ~12-01, mismo molde que Nova Skills); Digital solutions 5 ads de hoy «Admitere la Medicină −75 %».
 
