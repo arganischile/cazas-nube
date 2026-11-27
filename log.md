@@ -258,3 +258,4 @@
 ## [2026-11-27] caza-auto | FR A huella — → 1 candidatos a bandeja
 ## [2026-11-27] caza-auto | MX C operadores → 0 candidatos a bandeja
 ## [2026-11-27] caza-auto | CO A huella — → 1 candidatos a bandeja
+## [2026-11-27] caza-auto | EU B perforar masterclass-guitarra-bop-jazz-us (tarde) → 2 candidatos a bandeja

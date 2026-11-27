@@ -1719,6 +1719,31 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «The Jazz Standards Playbook» (PDF/libro de estándares de jazz + lead magnet PDF gratis) — Learn Jazz Standards.com US · `masterclass-guitarra-bop-jazz-us` · 2026-11-27 (tarde) · sesión EU
+- **Qué es:** playbook de estándares de jazz (formato probable PDF/ebook; no confirmado) vendido con 70 % off en Black Friday, alimentado con un PDF gratis («Free Super Jazz Standards PDF Download»); precio no visible; USD.
+- **Por qué es ganador:** 24 ads con 7+ d de 24 activos (est. 24, no es piso) de un solo page_id · ≥ 7 fechas de creación (10-27 → 11-13, el último hace 14 d) + 8 ads del lead magnet de ~121 d · mismo título «70% Off The Jazz Standards Playbook» en ~16 ads = molde afinado · nombre de página de marca sin persona · también llega a IT/FR/BR/PT/RO en inglés (676 ALL est.), sin molde nativo.
+- **Qué hacer:** modelar el playbook de estándares (partituras/acordes + guía de improvisación) con lead magnet PDF gratis → oferta; verificar en la PC si el PDF es de bajo ticket o paquete de cursos · destino sugerido: IT / FR / BR / PT (en IT hay escuelas y profes con persona, ningún infoproducto con cohorte) · ángulo: «los estándares que se tocan en la jam».
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=351726011518886)
+- **Landing:** no disponible desde la nube (la API no trae URL): verificar en la PC formato, precio y si hay persona detrás de la marca.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API.
+
+### 🎯 Jumpstart Jazz Guitar (método de guitarra de jazz «5 notas», mini-curso grabado probable) — Jumpstart Jazz Guitar US · `masterclass-guitarra-bop-jazz-us` · 2026-11-27 (tarde) · sesión EU
+- **Qué es:** método para adultos que vuelven a la guitarra («Start With 5 Notes», «Feel First. Notes Later.», «Leave the Real Book at Home»); formato y precio no visibles (¿mini-curso grabado?); USD.
+- **Por qué es ganador:** 12 ads con 7+ d de 12 activos (ALL est. 45) de un solo page_id · 3 fechas de creación (10-24 ×6, 11-12 ×1, 11-17 ×5; el último hace 10,4 d) · ≈ 34 d de la tanda más vieja, ≈ 20 títulos distintos rotando el mismo ángulo · sin ads en IT/FR/BR/PT/RO. Ojo: parte del copy es relato en 1.ª persona («I Played Jazz By The Numbers»): verificar si hay cara.
+- **Qué hacer:** modelar el método «5 notas / sentir antes que teoría» como mini-curso grabado con garantía de «un tema bajo los dedos en 5 días» · destino sugerido: IT / FR / BR / PT (nativas IT/FR/BR sin infoproducto igual; solo profes con persona) · ángulo: «no son las notas, es el groove».
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=108728035024637)
+- **Landing:** no disponible desde la nube (la API no trae URL): verificar en la PC oferta, precio y marca personal.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API.
+
+**Señales del día EU (tarde) 2026-11-27**
+- Bop Jazz (p. 531040450099372, ya con tarjeta 11-26): ≥ 49/50 piso (est. 75), sin cambios; tandas BF 50 % off y 65 % off.
+- Jazz Lesson Videos (p. 222370042008912): 20/26 (13 de 7-35 d + 7 ads sueltos de 2023-2026), tienda multi-SKU (cursos en vídeo + PDF $14.99 + ebooks, «up to 80 % off storewide»): no es una oferta única; sin tarjeta.
+- Stock digital (p. 1154025664450003): 0 activos en US y FR (200 ALL en FR, libros de «séances prêtes» multideporte/ESL/predicación, USD, apagados hace ≤ 16 d); re-medir si vuelve.
+- TrueFire (p. 55110716596): suscripción de plataforma, tandas de hoy; Daniel Weiss Guitar, Jack Gardiner, Chad LB, Piano With Jonny: persona → no pasan.
+- Cruce nativo jazz: IT Gabriele Romeo Music «Guida Professionale alla Chitarra Jazz» 1 ad, Claudio Cicolin 4 (persona), GuitarTribe.it 2; FR Yannick Robert (persona), Why Note Music 2; BR Fernando Vieira 3 (persona); RO solo escuela física. Ninguno ≥ 10.
+
 ### 🎯 «200+ Rituals for Money, Love & Protection» (libro de rituales/hechizos) — Realifestation US · `rituales-realifestation-us` · 2026-11-27 (mañana) · sesión EU
 - **Qué es:** colección de «200+ rituales/hechizos para dinero, amor y protección» (antes «200+ Spells», «200+ Methods»); formato probable e-book/PDF o «libro de sombras» digital (no confirmado, podría ser libro impreso); precio no visible.
 - **Por qué es ganador:** 39 ads con 7+ d de 50 activos (estimado 52; el tope de la API es 50, la cohorte es un piso) de un solo page_id · ≈ 8 fechas de creación distintas, desde hace 65 d hasta hace 2,3 d (el operador sigue subiendo tandas: 09-23, 10-27, 11-10, 11-18, 11-21, 11-25) · mismo creativo-título durante 2 meses con solo cambios de palabra (rituals/spells/methods) = molde afinado · nombre de página de marca, sin persona · el mismo molde lo corre «Emily D» (p. 992566507281610) con «100+ Spells» (31/44, pero con relato en primera persona: posible marca personal, queda como señal).
