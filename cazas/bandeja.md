@@ -662,6 +662,22 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Activités d'éveil 0-3 ans «prêtes ce soir» para assistantes maternelles — L'Année d'Éveil Prête FR · `annee-eveil-prete-assmat-fr` (nodo nuevo) · 2026-11-27 (tarde) · sesión FR
+- **Qué es:** programa de actividades de despertar 0-3 años listo para usar («votre semaine d'éveil prête en 5 minutes», por edad, «repère sécurité inclus», «sans acheter un seul kit») vendido a la assistante maternelle/crèche con el miedo a la «visite de PMI» y a la «renouvellement d'agrément». Precio y formato no visibles por API.
+- **Por qué es ganador:** 10/21 ads activos en FR con 7+ d, un solo page_id (21 = total); 9 fechas de creación en la cohorte (10-30 → 11-19) y tandas nuevas 11-21/22/24/27 (operador vivo); ad más viejo ≈ 28 d. La página hermana L'Année Prête Maternelle (mismo molde «… prête dès lundi» para docentes de maternelle) suma 7/16 aparte (no se cuenta). 0 ads de las dos en IT/PT/BR/RO (ALL).
+- **Qué hacer:** modelar «el año de actividades de 0-3 años listo, semana por semana, en PDF» para educadoras de guardería/cuidadoras; destino IT (nido / educatrice / tagesmutter) y BR/PT (berçário, educação infantil 0-3), luego RO; ángulo: la inspección/visita oficial mañana y «tus noches libres».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1436576162862622&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (precio, PDF vs. plataforma). Snapshots: https://www.facebook.com/ads/library/?id=2440358726722444 · https://www.facebook.com/ads/library/?id=1182262127459345 · https://www.facebook.com/ads/library/?id=1164901982854253
+- Score 1/4 (hueco IT/PT/BR/RO; longevidad 28 d, volumen < 50, duplicación máx. 4) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-27-fr-B-ressources-enseignants-pretty-little-teacher-fr-tarde.md`
+
+**Señales del día FR (2026-11-27 tarde):**
+- EDT Labs (1377084598812432): 27/27 con 7+ d (era 18/27 el 11-23; tandas 11-11, 11-13, 11-19): ya tiene tarjeta, mantiene y crece.
+- Pretty Little Teacher (398932843295914): 10/50 piso por fecha de entrega (34/50 por creación: 24 ads re-lanzados el 11-25, «Promo de fin d'année»): ya tiene tarjeta del 11-20.
+- Maestra Elena (1394028280466352, BRL): «+500 activités maternelle dès 5 €» FR 9/21 (tanda de 12 cruza 7 d el 11-28; solo 2 fechas) e IT 13/13: re-medir FR ~11-29; IT para la sesión IT.
+- La Classe Créative (1409653188900973): 0/50 piso (56 est., lanzamiento 11-24/25, historia manipulable para collège): re-medir ~12-02.
+- L'Année Prête Maternelle (1425721103955559): 7/16, hermana de la tarjeta; re-medir ~12-02.
+
 ### 🎯 «+100 fiches visuelles pour maîtriser <outil technique>» (Arduino/ESP32, Fusion 360, FreeCAD, ECU, BSI…) — Bianca FR · `fiches-visuelles-tech-bianca-fr` (nodo nuevo) · 2026-11-27 · sesión FR
 - **Qué es:** fábrica de packs de +100 fichas visuales por herramienta técnica, un SKU por software/oficio: Arduino/ESP32, BSI y ECU (diagnóstico electrónico de autos), cartes électroniques, FreeCAD, Fusion 360, OrcaSlicer, SketchUp, Raspberry Pi, LightBurn; cuenta BRL (operador brasileño exportando), precio no visto.
 - **Por qué es ganador:** 21 de 35 ads activos en FR con 7+ días (35 = total), un solo page_id; 11 fechas de creación distintas, ad más viejo ≈ 38 d, tandas nuevas esta semana (operador vivo). Ningún SKU llega solo a 10 (Arduino 5, BSI 5, FreeCAD/Fusion/cartes 4): la vara se cumple por página, con molde repetible. Flag: ya abrió IT (29 activos, «+100 schede visive…», tandas 11-25/27).
