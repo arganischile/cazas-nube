@@ -624,6 +624,22 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «+100 fiches visuelles pour maîtriser <outil technique>» (Arduino/ESP32, Fusion 360, FreeCAD, ECU, BSI…) — Bianca FR · `fiches-visuelles-tech-bianca-fr` (nodo nuevo) · 2026-11-27 · sesión FR
+- **Qué es:** fábrica de packs de +100 fichas visuales por herramienta técnica, un SKU por software/oficio: Arduino/ESP32, BSI y ECU (diagnóstico electrónico de autos), cartes électroniques, FreeCAD, Fusion 360, OrcaSlicer, SketchUp, Raspberry Pi, LightBurn; cuenta BRL (operador brasileño exportando), precio no visto.
+- **Por qué es ganador:** 21 de 35 ads activos en FR con 7+ días (35 = total), un solo page_id; 11 fechas de creación distintas, ad más viejo ≈ 38 d, tandas nuevas esta semana (operador vivo). Ningún SKU llega solo a 10 (Arduino 5, BSI 5, FreeCAD/Fusion/cartes 4): la vara se cumple por página, con molde repetible. Flag: ya abrió IT (29 activos, «+100 schede visive…», tandas 11-25/27).
+- **Qué hacer:** modelar el molde «+100 fichas visuales para dominar <herramienta>» en PDF (una ficha por función/comando/falla), empezando por los SKU de más volumen (Arduino/ESP32 y diagnóstico de auto BSI/ECU); destinos: PT/BR y RO (medir saturación en BR, la fábrica es de allá), IT se está cerrando. Ángulo: «dejá de buscar tutoriales en YouTube: todo en fichas».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1246199001909377&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (precio, formato, si hay cara: la página se llama «Bianca»). Snapshots: https://www.facebook.com/ads/library/?id=1817749882627365 · https://www.facebook.com/ads/library/?id=2700029790426228 · https://www.facebook.com/ads/library/?id=2327001284800719
+- Score n/4 (1/4 provisorio: escalonamiento de 11 fechas y molde multi-SKU; duplicación baja por SKU, embudo y precio sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-27-fr-A-huella.md`
+
+**Señales del día FR (2026-11-27):**
+- Japanese No Detours (1467884609739233): 18/18 (classeur japonés N5→N2 PDF + «300 cartes»), pero todo creado el 11-18 (una sola tanda, ≈ 8 d): no pasa el filtro de ≥ 3 fechas; re-medir ~12-02.
+- KinéFiches (1457915570730380): 12/16 (Voix & Résonance 8, CogniFiches 4, tests kiné 4); sin CogniFiches (posible nicho excluido) queda en 8; re-medir ~12-04.
+- Studio Facile (1232011766670582) 24/50 piso y Étudefacile (1299578486577349) 14/30 en FR: misma red de catálogo «X en dessins», ya con tarjeta en RO; ningún tema ≥ 10.
+- Crearis Digital 8/44, StudioPatron 7/21 (patrons couture 24,90 €), Priscila Vermont 5/17 (fiches 3D, BRL, molde hermano de Bianca): sin vara.
+- Lanzamientos sin cohorte (todo ≤ 3 d): Skills Illustrated 0/22, Le Classeur de Succession 0/18, Pastor's Sermon Library 0/20, Laurent Mercier 0/22, Emma Bernard 0/13, Neutral Port 0/10.
+
 ### 🎯 «Plus de 1 000 histoires bibliques» + «Et maintenant, que ferait Jésus ?» — Camille Laurent FR · `histoires-bibliques-camille-laurent-fr` (nodo nuevo) · 2026-11-26 (tarde) · sesión FR
 - **Qué es:** dos SKU de material cristiano digital de la misma fábrica: «Plus de 1 000 histoires bibliques» (colección de historias bíblicas) y «Et maintenant, que ferait Jésus ? | Offre de lancement» (devocional/guía para adultos); cuenta USD, precio y formato no vistos.
 - **Por qué es ganador:** página 50/50 piso con 7+ días (est. 63 activos, un solo page_id); por SKU: histoires 12/12 (más viejo ≈ 11 d), «que ferait Jésus» 14/14 (más viejo ≈ 28 d); 3 fechas de creación (10-29, 11-13, 11-15). Flag: sin ad nuevo desde 11-15; nombre de persona en la página (molde de alias tipo «Camille Dubois»), los títulos no la nombran.
