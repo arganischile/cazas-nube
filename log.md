@@ -260,3 +260,4 @@
 ## [2026-11-27] caza-auto | CO A huella — → 1 candidatos a bandeja
 ## [2026-11-27] caza-auto | EU B perforar masterclass-guitarra-bop-jazz-us (tarde) → 2 candidatos a bandeja
 ## [2026-11-27] caza-auto | BR B perforar concursos-caderno-mapeado-br (tarde) → 1 candidatos a bandeja
+## [2026-11-27] caza-auto | IT B perforar dime-falegnameria (tarde) → 2 candidatos a bandeja

@@ -389,6 +389,29 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «100+ progetti a €27» — planos de carpintería DIY en PDF (con medidas) — MrGeppetto IT · `dime-falegnameria` · 2026-11-27 (tarde) · sesión IT
+- **Qué es:** colección de 100+ proyectos de carpintería con fichas «al millimetro» (muebles, regalos, piezas por tablas) + «Manuale Furbo» de regalo; ticket €27 (-50 % Black Friday en el título); formato exacto no visible por API (planos/PDF probable).
+- **Por qué es ganador:** cohorte 7+ **34 / 34 activos** en IT (conteo exacto, total 34) · un solo page_id · creativos desde 2025-10 y tandas de 10-02, 10-23, 11-05, 11-16 y 11-20 (≥ 12 fechas, operador vivo, 7 meses seguidos) · títulos mascota/marca sin cara visible.
+- **Qué hacer:** verificar en la PC embudo, formato y marca personal («Mr Geppetto» = mascota, ¿cara?); modelar «planos con medidas por proyecto» (dime, mobili, regali) · destino: Italia ya corre; llevar a PT, FR, RO, BR (Digital Corner ya prueba el molde en FR/EL/BG/CS) · ángulo «attrezzi che hai già, manca solo il progetto».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=788034084384600>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL).
+- Score 3/4 provisorio (cohorte, longevidad y precio OK; embudo y marca sin verificar) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-27-it-B-dime-falegnameria-tarde.md`
+
+### 🎯 «80 progetti di dime con tutte le misure» — Digital Corner IT · `dime-falegnameria` · 2026-11-27 (tarde) · sesión IT
+- **Qué es:** 80 proyectos de plantillas/gabaritos de carpintería (dime) con todas las medidas y tiempo de trabajo, «non la compri, la costruisci»; USD; formato y precio no visibles por API (PDF/plantillas probable).
+- **Por qué es ganador:** cohorte 7+ **10 / 11 activos** en IT (piso justo en la vara) · un solo page_id (Digital Corner, p. 1358074294058687) · ads del lote 11-19 (8,2 d) + tandas de 11-22/23/24/26/27 (operador vivo) · 215 ads en ALL, multi-SKU (blackout, terremoto, lipedema -50 %, app: factoría de tests) · mismo molde en francés, griego, búlgaro y checo.
+- **Qué hacer:** verificar en la PC embudo, formato y precio; ojo, es una factoría que rota SKU: modelar solo el eje «dime/plantillas de carpintería» junto con MrGeppetto (misma promesa «N progetti con misure») · destino: Italia, Francia, Portugal, Rumania.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1358074294058687>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL).
+- Score 2/4 provisorio (cohorte justa; embudo y marca sin verificar) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-27-it-B-dime-falegnameria-tarde.md`
+
+**Señales del día IT (tarde, 2026-11-27, falegnameria)**
+- Daniel Brooks (p. 1365061430024484, «Oltre 4.000 progetti per fabbri», USD): ≥ 50 ads de una tanda del 11-23 (≤ 4,1 d), cohorte 0; mismo molde en herrería; re-medir ~12-01.
+- Biblioteca Digital (p. 1451210931406736, «La Bibbia del Falegname», MXN, operador MX/hispano): 2/18 con 7+ d, 16 ads de hoy y ayer; re-medir ~12-01.
+- Offerte di Oggi (p. 110027021549383): 6 ads «Fai-da-te semplice e pratico» (≈ 4-13 d), cohorte < 10; Shop Plans (pergole) 1 ad; Soluzione Express 1 ad de hoy.
+
 ### 🎯 Manual di Ventilazione Meccanica (guida per infermieri/operatori di terapia intensiva) — Impulso Digital IT · `impulso-digital-ventilazione-it` (nodo nuevo) · 2026-11-27 (mañana) · sesión IT
 - **Qué es:** manual/guía de ventilación mecánica para personal sanitario de terapia intensiva (PEEP, FiO2, gasometría en 4 pasos, lectura del monitor); ads en italiano con campo USD (operador hispano/extranjero que corre en IT); formato y precio no visibles por API.
 - **Por qué es ganador:** cohorte 7+ **19 / 23 activos** en IT (no es piso), un solo page_id sin persona (Impulso Digital, p. 1200804286458567) · 6 fechas de creación distintas, el más viejo ≈ 19,6 d y el más nuevo ≈ 2 d (operador vivo) · subió de 9/22 (11-21) a 19/23: la cohorte creció y se mantuvo.
