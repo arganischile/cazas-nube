@@ -312,11 +312,11 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Bianca («+100 fiches visuelles» técnicas, multi-SKU, BRL) | 1246199001909377 | FR | 21/35 el 2026-11-27 (tarjeta en bandeja; 11 fechas; IT 29 activos); re-medir ~2026-12-04 |
 | Japanese No Detours (classeur japonés N5→N2) | 1467884609739233 | FR | 18/18 el 2026-11-27, tanda única 11-18; re-medir ~2026-12-02 |
 | KinéFiches (Voix & Résonance, CogniFiches, tests kiné) | 1457915570730380 | FR | 12/16 el 2026-11-27 (Voix 8, CogniFiches 4 ¿excluido?, tests 4); re-medir ~2026-12-04 |
-| 300 Mapas Mentales | 1276104028925482 | MX | 20/28 el 2026-11-16 (tarjeta en bandeja); versión ES del kit de Fluente com Legenda; re-medir ~2026-11-30 |
-| Planner Hoy Solo 3 | 1280820831792286 | MX | 30/40 el 2026-11-16 (tarjeta en bandeja); ver si cambia de SKU; re-medir ~2026-11-30 |
-| Vida Práctica (manuales visuales) | 1472534742604591 | MX | 3/3 el 2026-11-20 (un solo SKU, $199 MXN, 10,5 d); re-medir ~2026-11-27 |
-| Editorial MD (planeaciones docentes) | 328781457261320 | MX | 14/14 el 2026-11-17 (tarjeta en bandeja); re-medir ~2026-11-30 |
-| Axo y Yo (cuadernillo con su nombre) | 1358953320636772 | MX | 12/26 el 2026-11-17 (tarjeta en bandeja); 15/22 el 11-20; re-medir ~2026-11-27 |
+| 300 Mapas Mentales | 1276104028925482 | MX | 20/28 el 2026-11-16 (tarjeta en bandeja); versión ES del kit de Fluente com Legenda; 4/9 el 2026-11-27 (tanda apagada, 3 ads de hoy); re-medir ~2026-12-04 |
+| Planner Hoy Solo 3 | 1280820831792286 | MX | 30/40 el 2026-11-16 (tarjeta en bandeja); ver si cambia de SKU; ≥43/50 piso el 2026-11-27 (un solo SKU «Planner para vaciar la cabeza», 54 est.); re-medir ~2026-12-04 |
+| Vida Práctica (manuales visuales) | 1472534742604591 | MX | 3/3 el 2026-11-20 (un solo SKU, $199 MXN, 10,5 d); 2/4 el 2026-11-27; re-medir ~2026-12-04 |
+| Editorial MD (planeaciones docentes) | 328781457261320 | MX | 14/14 el 2026-11-17 (tarjeta en bandeja); 7/10 el 2026-11-27; re-medir ~2026-12-04 |
+| Axo y Yo (cuadernillo con su nombre) | 1358953320636772 | MX | 12/26 el 2026-11-17 (tarjeta en bandeja); 15/22 el 11-20; 21/26 el 2026-11-27; re-medir ~2026-12-04 |
 | Rafael Piano Fácil (partituras piano/teclado) | 1109073548949200 | BR | 31/50 piso el 2026-11-18 (68 est., ≥20 en portugués inequívoco; tarjeta en bandeja); mismo operador que CO e IT; re-medir ~2026-11-30 |
 | Rafael Piano Fácil (partituras piano/teclado) | 1109073548949200 | CO | 29/42 el 2026-11-16 (tarjeta en bandeja); corre también en BR e IT; re-medir ~2026-11-30 |
 | Studio Quadri | 721617357705716 | IT | 11/50 piso el 2026-11-17 (tarjeta en bandeja); oferta sin identificar; re-medir ~2026-11-21 |
@@ -362,7 +362,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Edulabs Resources (plantillas «gata de predat») | 1057793390758198 | RO | 13/29 rumano verificado el 2026-11-21 (21/29 total con 7+ d; tarjeta en bandeja); 7 de los 13 cruzaron 7 d hace ~3-4 h; USD; 14/26 por creación el 2026-11-25 (tanda nueva 11-22, aún con ads en inglés); re-medir ~2026-12-02 |
 | Genius Bac / Genius Mentor (libros de BAC/Evaluare, plata contra entrega) | 878536441990147 / 1202927619580444 | RO | ≥5/65 y ≥2/75 el 2026-11-21 (RON, 50 devueltos); físico, no vale tarjeta; sin re-medir salvo cambio de oferta |
 | Kit Online (atlas «PRO™» multilingüe) | 694829257056991 | RO | 0/82 el 2026-11-21 (tandas de 11-20/21 en HU/CZ/EN/HE/RO); re-medir ~11-28 |
-| Mente Académica (mapas mentales por materia) | 1239880759219492 | MX | ≥43/50 piso el 2026-11-20 (507 est.; BRL; tarjeta del 11-18); contar con `search_terms` del título + page_ids; re-medir ~2026-11-27 |
+| Mente Académica (mapas mentales por materia) | 1239880759219492 | MX | ≥43/50 piso el 2026-11-20 (507 est.; BRL; tarjeta del 11-18); contar con `search_terms` del título + page_ids; ≥50/50 piso el 2026-11-27 (164 est.); re-medir ~2026-12-04 |
 | Fluente com Legenda (USD) | 837003542818622 | BR | ≥22/50 piso el 2026-11-18 (236 est.; tarjeta local); página gemela BRL 996556976874285 0/2; clon Academia da legenda 1521661844353417 0/7; re-medir ~2026-11-30 |
 | Nannyvarie | 101372751885586 | BR | 39/46 el 2026-11-18 (tarjeta en bandeja); re-medir ~2026-11-30 |
 | Organize com Ju | 1022767074413574 | BR | 11/16 el 2026-11-18 (tarjeta); juzgar marca personal; re-medir ~2026-11-30 |
@@ -378,9 +378,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Arte Wisdom (Bordados de Refúgio no Papel) | 1055208387665683 | BR | 9/16 el 2026-11-19 (BRL, multi-SKU); 2 ads cruzan 7 d el 11-21/22; re-medir ~2026-11-22 |
 | Bordado de Fe (versículos pra bordar no papel) | 1309870588884741 | BR | 8/17 el 2026-11-19 (USD); 9 ads de 11-18 cruzan 7 d ~11-25; re-medir ~2026-11-25 |
 | Terapia das Cores (600 riscos) | 110206475291825 | BR | 0/50 piso (80 est.) el 2026-11-19, tanda masiva 11-18 (USD); re-medir ~2026-11-25 |
-| Psicologia & Recursos 2025 (kits psicólogos) | 469568772899568 | MX | 16/16 el 2026-11-19 (tarjeta en bandeja); COP, 0 en CO; página hermana Psicología & Recursos 163465520189615 0/4 el 11-20 (SKU neuropsicología nuevo); re-medir ~2026-11-26 |
+| Psicologia & Recursos 2025 (kits psicólogos) | 469568772899568 | MX | 16/16 el 2026-11-19 (tarjeta en bandeja); COP, 0 en CO; página hermana Psicología & Recursos 163465520189615 0/4 el 11-20 (SKU neuropsicología nuevo); 16/16 el 2026-11-27 (principal); re-medir ~2026-12-04 |
 | Inglés en Mapas | 1349240448283092 | MX | 0 activos el 2026-11-20 (apagado); sin re-medir salvo que reaparezca |
-| Tus Clases Online (megapack/moldes) | 103959345113295 | MX | 0/50 piso el 2026-11-20 (≤ 4,5 d, 102 est.); re-medir ~2026-11-25 |
+| Tus Clases Online (megapack/moldes) | 103959345113295 | MX | 0/50 piso el 2026-11-20 (≤ 4,5 d, 102 est.); 0/50 piso el 2026-11-27 (202 est., tandas ≤ 2,6 d); re-medir ~2026-12-01 con `search_terms` por SKU |
 
 ## Rotación vigente
 
@@ -401,7 +401,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-27 | MX (mañana) | C operadores (vie) | operadores MX vencidos (Vida Práctica, Axo y Yo, Mente Académica, Psicologia & Recursos, Tus Clases Online, Atril Estudio, Mapas Visuales PRO) | en curso | en curso | — |
+| 2026-11-27 | MX (mañana) | C operadores (vie) | operadores MX vencidos (Vida Práctica, Axo y Yo, Mente Académica, Psicologia & Recursos, Tus Clases Online, Atril Estudio, Mapas Visuales PRO, 300 Mapas, Planner, Editorial MD) | 10 conteos por page_id en MX (Mente Académica con `search_terms`) | 0 tarjetas; Planner ≥43/50 piso, Axo y Yo 21/26, Mapas Visuales PRO 17/31, Psicologia & Recursos 16/16 (todos ya con tarjeta, señal); Editorial MD 7/10, 300 Mapas 4/9, Vida Práctica 2/4 (bajan); Atril Estudio 0/50 y Tus Clases Online 0/50 (tandas ≤ 2,7 d); informe RAW/cazas-auto/2026-11-27-mx-C-operadores.md | operadores re-fechados |
 | 2026-11-27 | RO (mañana) | B perforar (vie; virgen RO más viejo sin tocar en 7 d) | fise-patologie-multi-sku-ro | fișe patologie, endodonție ghid, fișe nutriție, fișe logopedie, fișe kinetoterapie (0), fișe farmacologie, fișe medicină, fișe urgențe, fișe stomatologie, ghid ECG (0), rezumate anatomie (0), ghid gardă rezident (0) + 3 conteos por page_id (Fișe de patologie ACTIVE/ALL, Espacio para Crecer, Digital solutions) | 0 tarjetas; Fișe de patologie 4/4 ACTIVE con 7+ d (29 ALL, multi-SKU, ningún SKU ≥ 10); Espacio para Crecer 0/18 («ghid de gardă», ≤3,2 d); informe RAW/cazas-auto/2026-11-27-ro-B-fise-patologie-multi-sku-ro.md | superficial |
 | 2026-11-27 | FR (mañana) | A huella (vie) | — | livret PDF, guide illustré, fiches synthèse, aide-mémoire PDF, mémo visuel, classeur PDF, manuel complet, pack numérique, fichier PDF, à imprimer, accès à vie, mini-formation, illustrée PDF, fiches visuelles, en PDF + ~25 conteos por page_id + cruce IT/PT/BR/RO (Bianca, Japanese No Detours) | 1 tarjeta (Bianca 21/35, fiches visuelles técnicas multi-SKU); señales: Japanese No Detours 18/18 tanda única, KinéFiches 12/16 (CogniFiches ¿excluido?), Studio Facile 24/50 y Étudefacile 14/30 (ya con tarjeta RO), Crearis 8/44, StudioPatron 7/21; informe RAW/cazas-auto/2026-11-27-fr-A-huella.md | 2 nodos virgen FR nuevos (fiches-visuelles-tech-bianca-fr, japonais-classeur-pdf-fr), 3 operadores |
 | 2026-11-27 | IT (mañana) | C operadores (vie) | operadores IT + re-mediciones vencidas | ninguna (modo C) + 8 conteos por page_id en IT (Metodo Universitario, Giulia Ferraresi, La casa dell'elfo, Acordes en Claro, Maestro Kaito, Martina Rossi, Crescere Giocando, Impulso Digital) | 1 tarjeta (Impulso Digital 19/23); señales: Giulia Ferraresi 36/50 piso, La casa dell'elfo 37/50 piso, Metodo Universitario 21/50 piso, Martina Rossi 50/50 con 2 fechas (posible zombi), Acordes en Claro 0/50, Maestro Kaito 0/50 | impulso-digital-ventilazione-it nodo nuevo (virgen) |

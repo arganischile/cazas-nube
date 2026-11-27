@@ -256,3 +256,4 @@
 ## [2026-11-27] caza-auto | IT C operadores → 1 candidatos a bandeja
 ## [2026-11-27] caza-auto | RO B perforar fise-patologie-multi-sku-ro → 0 candidatos a bandeja
 ## [2026-11-27] caza-auto | FR A huella — → 1 candidatos a bandeja
+## [2026-11-27] caza-auto | MX C operadores → 0 candidatos a bandeja

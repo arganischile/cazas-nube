@@ -1185,6 +1185,19 @@ RO 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda RO venc
 RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda RO; nada que pase la vara.
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
+MX 2026-11-27 (mañana): nada que pase la vara; se barrió 10 operadores MX por page_id (Mente Académica, Planner Hoy Solo 3, Axo y Yo, Mapas Visuales PRO, Psicologia & Recursos, Editorial MD, 300 Mapas, Vida Práctica, Atril Estudio, Tus Clases Online): sin SKU nuevo con cohorte propia.
+
+**Señales del día MX 2026-11-27 (mañana)**
+- Planner Hoy Solo 3 (1280820831792286): ≥43/50 piso (54 est., USD, un solo SKU «Planner para vaciar la cabeza», 11 a 34 d): ya tiene tarjeta, cohorte creciendo.
+- Axo y Yo (1358953320636772): 21/26 (MXN $99-149, máx. 21,5 d, cuadernillo por grado): ya tiene tarjeta, creció.
+- Mente Académica (1239880759219492): ≥50/50 piso con `mapas mentales` (164 est., BRL): ya tiene tarjeta, estable.
+- Mapas Visuales PRO (1291088710759821): 17/31 (vs 20/36 el 11-26; el lote de inglés es de ≈ 2 d): ya tiene tarjeta.
+- Psicologia & Recursos 2025 (469568772899568): 16/16 (COP, kits psicólogos de 17 d y de 46 d): ya tiene tarjeta, estable.
+- Editorial MD (328781457261320): 7/10, bajó desde 14/14 (11-17), ad de hoy «Cuaderno docente CTE … MEMBRESÍA VIP» (posible suscripción).
+- 300 Mapas Mentales (1276104028925482): 4/9, la tanda de 20/28 se apagó, quedan 3 ads de hoy; Vida Práctica (1472534742604591): 2/4.
+- Atril Estudio (1282575998279080): 0/50 piso (261 est., todo ≤ 2,7 d, «4.9/5 Estrellas» + «Aprende a soldar en casa»): tandas diarias, sigue sin producto identificable por API: verificar en la PC.
+- Tus Clases Online (103959345113295): 0/50 piso (202 est., ≤ 2,6 d, multi-SKU navidad/mascotas/regalos): re-medir ~12-01 con `search_terms` por SKU.
+
 ### 🎯 Megapack de mapas visuales (Automatización Industrial · Ingeniería Civil · «Aprende inglés con 15 min al día con estos apuntes») — Mapas Visuales PRO MX · `ingles-en-mapas-mx` · 2026-11-26 · sesión MX (tarde)
 - **Qué es:** biblioteca de mapas visuales/mapas mentales en archivo descargable, multi-SKU por tema técnico («Megapack Automatización Industrial», «Mapas Mentales de Ingeniería Civil», lote de inglés «apuntes» de hoy); moneda PEN (operador peruano que corre en MX); precio no visto.
 - **Por qué es ganador:** cohorte 20/36 en MX (9 ads «Megapack Automatización Industrial» de 14 a 70 d + «Deja de estudiar con los libros, usa mapas visuales» + Ing. Civil + «Metti ordine…» en italiano), ≥ 8 fechas de creación, ads de hoy; un solo page_id, sin cara de persona; longevidad máx. ≈ 70 d. El lote de inglés (9 ads) es de ≤ 3 d: lo viejo es la plantilla, el inglés es el SKU nuevo.
