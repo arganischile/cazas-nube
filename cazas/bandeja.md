@@ -1533,6 +1533,21 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Packs de 50 moldes de costura por prenda (bolsas, mochilas, estuches, neceseres, bebé) — Mundo de La Costura CO · `moldes-costura-pdf-co` · 2026-11-27 · sesión CO
+- **Qué es:** packs de «50 moldes» por prenda de tela (50 Bolsas de Tela, 40 Mochilas, 50 Estuches, 50 Neceseres, 50 Piezas para Bebés); formato digital supuesto por el título «moldes»; precio no visible (BRL en los creativos, copy en español).
+- **Por qué es ganador:** cohorte 7+ de 33/33 activos en CO (p. 1349247861598328; 4 tandas creadas 11-sep, 16-sep, 23-oct y 17-nov, ninguna de hoy: operador vivo); longevidad por API 10-77 d; 5 SKU de un mismo molde; sin marca personal; 1 operador. En BR esta página no corre (0 ads).
+- **Qué hacer:** modelar tal cual (pack «N moldes» por prenda, SKU por prenda) · destino sugerido: IT (solo 2 ads de otro operador con «cartamodelli di borse stampabili») o RO (0 resultados; ALL sin pasar); FR es tienda de patrones de autor a 24,90 €; BR poblado (Vibe Digital, Dona Marta) · ángulo: «50 moldes por prenda, imprimir y coser».
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1349247861598328&search_type=page)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (el API no trae URL ni cuerpo del copy; confirmar que es PDF y no físico).
+- Score 3/4 · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Informe: RAW/cazas-auto/2026-11-27-co-B-moldes-costura-pdf-co-tarde.md
+
+**Señales del día CO (tarde, moldes-costura-pdf-co):**
+- Diseño de Lencería (p. 746841928514973): 10/10 con 7+ d en CO (COP, ads de 11-37 d, creativos «⭐⭐⭐⭐⭐» y «CURSO VIRTUAL»); oferta no identificada, ¿curso grabado o en vivo? no verificable: re-medir ~12-01 y mirar en la PC.
+- Confección Ropa para Perros (p. 1509773675542014): 9/9 con 7+ d (COP, «Curso virtual 100%», ≈ 27 d, una sola tanda); bajo la vara, formato no verificado.
+- Daniela Rodriguez (p. 628607100324971): sandalitas baby 9/9 con 7+ d (curso «Aprende a crear», 13-16 d) en página multi-SKU (kit de fonología de hoy, 0 con 7+ d); no pasa.
+- Academia Esencia & Salud 0/9 (tanda de 3,5 d: «+600 moldes» y recursos docentes), Patrones lenceros desde casa 4/4 (USD 9,90, 7,2 d), Emily Parker fitness 0/4.
+
 ### 🎯 Hojas de actividades primaria (lengua y matemática) — Atividades Anos Iniciais CO · `hojas-actividades-primaria-anos-iniciais-co` · 2026-11-27 · sesión CO
 - **Qué es:** PDF imprimible/editable de actividades para primaria («De la frase al texto», Combo Matemática 1.º-5.º, caligrafía cursiva; «692 páginas + 3 bonos»); precio dicho US$ 4.99 («Precio rebajado! Todo por solo US$ 4.99»), R$ 34,70 en los creativos PT.
 - **Por qué es ganador:** cohorte 7+ de 10/14 activos en CO (p. 102371894824928; justo la vara, 4 fechas de creación 18-nov a 26-nov, ad nuevo de hoy: operador vivo); longevidad por API ≈ 7-9 d; mismo molde en BR con 27 ads de ≤ 3,3 d (cohorte 0); 1 operador. Cohorte borderline: re-medir.
