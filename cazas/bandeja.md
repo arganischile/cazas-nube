@@ -1463,6 +1463,20 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Hojas de actividades primaria (lengua y matemática) — Atividades Anos Iniciais CO · `hojas-actividades-primaria-anos-iniciais-co` · 2026-11-27 · sesión CO
+- **Qué es:** PDF imprimible/editable de actividades para primaria («De la frase al texto», Combo Matemática 1.º-5.º, caligrafía cursiva; «692 páginas + 3 bonos»); precio dicho US$ 4.99 («Precio rebajado! Todo por solo US$ 4.99»), R$ 34,70 en los creativos PT.
+- **Por qué es ganador:** cohorte 7+ de 10/14 activos en CO (p. 102371894824928; justo la vara, 4 fechas de creación 18-nov a 26-nov, ad nuevo de hoy: operador vivo); longevidad por API ≈ 7-9 d; mismo molde en BR con 27 ads de ≤ 3,3 d (cohorte 0); 1 operador. Cohorte borderline: re-medir.
+- **Qué hacer:** modelar tal cual (hojas de actividades por materia y grado, bajo ticket) · destino sugerido: BR/PT con competencia directa (alfabetización PT saturada de tandas de hoy: probar nicho por materia), IT/FR/RO por traducción (sin operador propio visto) · ángulo: «combo + bonos + imprimir o editar», muestra gratis.
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=102371894824928&search_type=page)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (el API no trae URL).
+- Score 3/4 · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Informe: RAW/cazas-auto/2026-11-27-co-A-huella.md
+
+**Señales del día CO:**
+- Aprende con Guias Profesionales (p. 1380966491766673): 5/50 piso (≈ 45 ads de 1-4 d, MXN, fichas visuales por oficio: SG-SST, COPASST, divorcio en Colombia, obras civiles); 5 ads de 13-16 d; re-medir ~12-01.
+- Cerebritos en Acción 0/10, iLingue Relax 0/11 («Patrones especiales + 1.000 palabras», ads de 1,5 d), Mind Digital Studio 0/6, Oficina Lucrativa 0/5, Universo de Libros Digitales 0/3 («todo por $15.000»): tandas de ≤ 2 d.
+- Libros personalizados con foto (Plumita de Cuentos, El Rincón del Cuento Mágico, Cuentos de Estrellita): tanda de ≈ 1,5 d, producto físico/personalizado: no se persigue.
+
 CO 2026-11-26 (tarde): nada que pase la vara; se barrió plantillas baby shower/bautizo/matrimonio/recordatorios editables, invitaciones editables, etiquetas editables canva, kit imprimible fiesta (0) + 9 conteos por page_id y cruce BR/IT/FR.
 **Señales del día CO (tarde):**
 - Paquete De Diseños (p. 107416171593294): 22/22 con 7+ d en CO (USD, plantillas de velas «1452 descargas hoy», tandas ≈17 d / 9,5 d / 7,4 d); misma oferta que la tarjeta MX del 2026-11-25, el operador corre también en CO; 0 en BR/PT/IT/FR/RO. Evidencia: API; snapshot y embudo no verificados desde la nube.
