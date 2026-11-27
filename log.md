@@ -263,3 +263,4 @@
 ## [2026-11-27] caza-auto | IT B perforar dime-falegnameria (tarde) → 2 candidatos a bandeja
 ## [2026-11-27] caza-auto | FR B perforar ressources-enseignants-pretty-little-teacher-fr (tarde) → 1 candidatos a bandeja
 ## [2026-11-27] caza-auto | RO B perforar red-prin-desene-rowan-mesa-ro (tarde) → 0 candidatos a bandeja
+## [2026-11-27] caza-auto | MX B perforar devocionales-oracion-luz-de-mi-angel-mx (tarde) → 1 candidatos a bandeja

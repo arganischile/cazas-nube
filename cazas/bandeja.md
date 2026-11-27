@@ -1241,6 +1241,20 @@ RO 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda RO venc
 RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda RO; nada que pase la vara.
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
+
+### 🎯 Combo de Adviento y Navidad católico para niños (195 págs, 6 materiales) — Infancia Católica MX · `devocionales-oracion-luz-de-mi-angel-mx` · 2026-11-27 · sesión MX (tarde)
+- **Qué es:** kit imprimible católico de Adviento y Navidad para familias con niños («195 páginas», «6 materiales», novena paso a paso, «Nueve noches ante el Nacimiento», colorear el Evangelio); moneda BRL; precio no visto.
+- **Por qué es ganador:** cohorte 50/50 piso en MX (todos de 19 a 23 d; la API no pasa de 50), 3 fechas de creación (11-04/05/08), un solo page_id con nombre de marca y sin cara; sin ficha ni tarjeta previas. Estacional: el Adviento empieza el 29-nov, ventana hasta el 24-dic.
+- **Qué hacer:** modelar el kit tal cual (PDF por días/noches + novena + colorear) llevándolo a **IT** (kit de Adviento católico para niños: solo Stampa e Gioca/Ai con Zio Gio chicos, sin cohorte) y a **FR** (0 operadores); BR/PT ya tiene 2 jugadores de 1 ad (sementinhasdoceu2026, Advento em Família). Ángulo: «Adviento sin pantallas, listo para imprimir». Urgente por temporada: si no se lanza antes del 29-nov, queda para 2027.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1461732530351193>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1683579306757943
+- Evidencia: API; snapshot y embudo no verificados desde la nube · Score 3/4 · escalera n/e · Decisión: —
+
+**Señales del día MX 2026-11-27 (tarde)**
+- Luz de mi Ángel (1404192579447962): 10/10 pero los 10 ads se crearon el mismo día (11-13): no pasa el filtro de ≥ 3 fechas; la tanda de 28 del 11-20 se apagó. Ya tuvo tarjeta.
+- María Fernanda (1094311813768987): 15/25 (USD; 11 «Converse conosco» en portugués con oferta n/i + «Guía el Rosario» 4/8 + «Ayuno de 21 días» de hoy): sin copy ni precio y nombre de persona; verificar en la PC (marca personal).
+- Emprende con Alma (707148429148795): 6/58 (COP, «Descárgalos ahora», resto ≤ 6 d); Camino de Fe 0/11 (≤ 1,6 d); Sara Mendoza (persona) 8 ads de hoy.
+- Oración/devocional en MX: Mañanas con Dios 0/3, Kit Despedida de Natal 0/2, Cerca del Corazón 0/1, Bellas Oraciones 0/1 (novenas): todo ≤ 1 d.
 MX 2026-11-27 (mañana): nada que pase la vara; se barrió 10 operadores MX por page_id (Mente Académica, Planner Hoy Solo 3, Axo y Yo, Mapas Visuales PRO, Psicologia & Recursos, Editorial MD, 300 Mapas, Vida Práctica, Atril Estudio, Tus Clases Online): sin SKU nuevo con cohorte propia.
 
 **Señales del día MX 2026-11-27 (mañana)**
