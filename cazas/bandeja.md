@@ -26,6 +26,21 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 220 modelos de redação prontos — Amanda Redação BR · `redacao-modelos-prontos-amanda-br` · 2026-11-27 · sesión BR
+- **Qué es:** pack de modelos de redação («220 modelos prontos de redação ✅», antes «700 argumentos prontos para redação ✅»), BRL; formato (PDF) y precio no visibles por API.
+- **Por qué es ganador:** cohorte 7+ **15 / 21** activos, un solo page_id · ≥ 7 fechas de creación, el más viejo ≈ 120 d (2 ads de «700 argumentos»), 6 ads nuevos de ≈ 1 d (operador vivo) · mismo creativo repetido en tandas (220 modelos desde ≈ 11-13) · PT = 0 (ALL = 0).
+- **Qué hacer:** verificar en la PC embudo, precio y que «Amanda» no sea una cara que vende; si es PDF de bajo ticket, modelar «modelos/argumentos de redacción prontos» · destino: Portugal (PT = 0; redação/texto de opinião), Italia (tema scritto/tesina) y Francia (dissertation) · ángulo: «N modelos listos para copiar».
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=102704648504239>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL).
+- Score 2/4 · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+**Señales del día BR (2026-11-27, mañana, B perforar):**
+- A Concurseira (red 4.9★, ya con tarjeta 11-20) sigue vivo: 26/36 con 7+ d, el más nuevo ≈ 1 d; oferta aún sin confirmar.
+- Aprovado Bizurado (misma red, ya con tarjeta) cayó de 18/34 a 1/17: apagaron la tanda; la red se concentra en A Concurseira.
+- Elite Concurso 7/18 (USD, plantilla «⭐ 4,9/5,0»): tercer operador de la red 4.9★, no pasa la vara.
+- EJ Editora 0/50 de 149 est.: piso ciego (los 50 visibles son de ≤ 3 d; mapas por edital); Resumos Animados 3/19.
+
 ### 🎯 +100 Planilhas de exercícios para fisioterapia por lesão — Mapas Visuais & ilustrados BR · `planilhas-fisioterapia-mapas-visuais-br` · 2026-11-26 (tarde) · sesión BR
 - **Qué es:** planillas de ejercicios para fisioterapeutas organizadas por lesión («+100 PLANILHAS DE EXERCÍCIOS PARA FISIOTERAPIA, ORGANIZADAS POR LESÃO»), BRL; formato (PDF/Excel/Notion) y precio no visibles por API; el clon Facilitafisio dice «POR APENAS R$ 7,90» (precio piso probable).
 - **Por qué es ganador:** cohorte 7+ **≥ 43 / 133 est.** (piso: la API devuelve 50; 29 ads de creativos «⭐ 9.8/10» + 14 con el título nativo), un solo page_id sin persona · ≥ 8 tandas de creación entre ≈ 09-25 y 11-25, el más viejo ≈ 62 d y el más nuevo ≈ 1,9 d (operador vivo) · red de clones del mismo molde («+100 Planilhas de Fisioterapia/Fonoaudiologia Neurológica»): Camila Rodrigues ≈ 15/≥ 15, Sofía Martínez ≈ 7/40, Facilitafisio 0/3 · PT = 0 activos (2 ads viejos en ALL).
