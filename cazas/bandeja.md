@@ -951,6 +951,9 @@ FR 2026-11-19 (modo C operadores): nada nuevo que pase la vara; se midieron 11 o
 FR 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda FR vencidos; nada que pase la vara.
 
 <!-- TARJETAS-RO: la sesión RO inserta sus tarjetas del día justo debajo de esta línea -->
+RO 2026-11-27 (mañana): nada que pase la vara; se barrió fișe patologie, nutriție, logopedie, kinetoterapie (0), farmacologie, medicină, urgențe, stomatologie, ECG (0), anatomie (0) + conteos por page_id (Fișe de patologie 4/4, Espacio para Crecer 0/18, Digital solutions 0/5).
+Señales del día RO: Espacio para Crecer (1123168470875944) «ghid de gardă» para residentes, 18 ads de ≤3,2 d (re-medir ~12-01, mismo molde que Nova Skills); Digital solutions 5 ads de hoy «Admitere la Medicină −75 %».
+
 
 RO 2026-11-26 (tarde): nada que pase la vara; se barrió carte ilustrată meserie (0), atestat ghid, autorizare ANRE, examen permis auto pdf (0), manual examen autorizat (0), ilustrat cadou + conteos por page_id (Diagram Books 0/60 ALL, Learning Fast 0/44 ALL).
 Señales del día RO: Diagram Books y Learning Fast apagaron todo (0 activos); Klara Sundell (1280672098465149) 6 ads del 11-25 «Cumpărați 1 carte, primiți 3» (probable físico, <2 d); Emilia Zabala (825650823960909) kit profesores de chimie, clon Edulabs, cohorte ≈1.
