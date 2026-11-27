@@ -395,6 +395,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | RO (mañana) | B perforar (vie; virgen RO más viejo sin tocar en 7 d) | fise-patologie-multi-sku-ro | en curso | en curso | en curso |
 | 2026-11-27 | FR (mañana) | A huella (vie) | — | en curso | en curso | en curso |
 | 2026-11-27 | IT (mañana) | C operadores (vie) | operadores IT + re-mediciones vencidas | ninguna (modo C) + 8 conteos por page_id en IT (Metodo Universitario, Giulia Ferraresi, La casa dell'elfo, Acordes en Claro, Maestro Kaito, Martina Rossi, Crescere Giocando, Impulso Digital) | 1 tarjeta (Impulso Digital 19/23); señales: Giulia Ferraresi 36/50 piso, La casa dell'elfo 37/50 piso, Metodo Universitario 21/50 piso, Martina Rossi 50/50 con 2 fechas (posible zombi), Acordes en Claro 0/50, Maestro Kaito 0/50 | impulso-digital-ventilazione-it nodo nuevo (virgen) |
 | 2026-11-27 | BR (mañana) | B perforar (vie; red-concurseira, re-medición vencida hoy) | red-concurseira-4-9-br | português concurso apostila pdf, raciocínio lógico concurso resumo, redação concurso modelos, modelos de redação ENEM prontos + 7 conteos por page_id (A Concurseira, Aprovado Bizurado, Elite Concurso, EJ Editora, Resumos Animados, Amanda Redação + PT ALL) | 1 tarjeta (Amanda Redação 15/21); red 4.9★ se concentra en A Concurseira 26/36 | red-concurseira superficial + hijo redacao-modelos-prontos-amanda-br virgen |
