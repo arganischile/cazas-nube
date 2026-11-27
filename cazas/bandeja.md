@@ -374,6 +374,23 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Manual di Ventilazione Meccanica (guida per infermieri/operatori di terapia intensiva) — Impulso Digital IT · `impulso-digital-ventilazione-it` (nodo nuevo) · 2026-11-27 (mañana) · sesión IT
+- **Qué es:** manual/guía de ventilación mecánica para personal sanitario de terapia intensiva (PEEP, FiO2, gasometría en 4 pasos, lectura del monitor); ads en italiano con campo USD (operador hispano/extranjero que corre en IT); formato y precio no visibles por API.
+- **Por qué es ganador:** cohorte 7+ **19 / 23 activos** en IT (no es piso), un solo page_id sin persona (Impulso Digital, p. 1200804286458567) · 6 fechas de creación distintas, el más viejo ≈ 19,6 d y el más nuevo ≈ 2 d (operador vivo) · subió de 9/22 (11-21) a 19/23: la cohorte creció y se mantuvo.
+- **Qué hacer:** verificar en la PC embudo, formato y precio; modelar «guía visual de ventilación mecánica / terapia intensiva» (nicho profesional sanitario, ticket mínimo) · destino: Italia (ya corre), Portugal, Francia, Rumania; ligar con la línea enfermería (Pflegelernzettel DE, Martina Rossi IT).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1200804286458567>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL).
+- Score n/4 (no evaluado) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-27-it-C-operadores.md`
+
+**Señales del día IT (mañana, 2026-11-27)**
+- Giulia Ferraresi (1299765756564104) Kit Contabile Pratico 2027: 36/50 piso (152 est., USD, un solo SKU «7 quaderni + 8 bonus»), subió de 11/50 el 11-18; ya tiene tarjeta; verificar en la PC.
+- La casa dell'elfo (1483703581493623): 37/50 piso (71 est., EUR, un solo creativo «Kit dell'Elfo»); ya tiene tarjeta; estacional hasta 24-dic.
+- Metodo Universitario (1512954825682163): 21/50 piso (118 est.), ya tiene tarjeta; 14 ads de 9,7 d y 7 de ~11 d; 22 ads nuevos de <1 d (sesión invernal/Natale).
+- Martina Rossi (782531528270117): 50/50 con 7+ d pero solo 2 fechas de creación (≈ 13,5 d, multi-SKU: «200 Mappe Concettuali di Infermieristica» ≈ 28, Office ≈ 20, caso reale ≈ 12): no pasa el filtro de zombi (≥ 3 fechas); posible zombi, no tarjeta.
+- Acordes en Claro (1205940002609789): 0/50 (819 est., todos ≤ 3,6 d, USD); Maestro Kaito (1323428457528453): 0/50 (267 est., ≤ 4,4 d, título solo estrellas); re-medir ambos ~12-01.
+- Crescere Giocando (1009883552206401): 2/5 (EUR, «300 attività + 5 bonus»), bajó; sin cohorte.
+
 ### 🎯 160+ Mappe Visive di Neuroanatomia / 310 Mappe Mentali di Informatica — Mente Accademica IT · `mappe-visive-mente-accademica-it` · 2026-11-26 (tarde) · sesión IT
 - **Qué es:** mapas visuales/mentales de estudio universitario en PDF (probable): «160+ Mappe Visive di Neuroanatomia» y «310 Mappe Mentali di Informatica», ads en italiano con campo BRL (operador brasileño que corre en IT); formato y precio no visibles por API.
 - **Por qué es ganador:** cohorte 7+ **46 / 50 activos** (piso: tope de 50; 283 activos est.), un solo page_id sin persona (Mente Accademica, p. 874820029047521) · 2 SKU, tandas de creación ≈ 11-02, 11-05, 11-10, 11-16 y 11-25; el más viejo ≈ 24 d, 4 ads del 11-25 (operador vivo) · molde de mapas de BR (red de «mapas visuales/mentais») ya en IT con otros operadores de ≤ 1 d (Alice Ferrari «250 mappe contabilità», Concorsi in Mappe «200 mappe diritto amministrativo»).
