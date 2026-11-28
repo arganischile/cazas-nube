@@ -26,6 +26,23 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Fábrica «+100 mapas/guias visuais em PDF» multi-SKU — Tudo sobre unhas BR · `fabrica-100-mapas-guias-visuais-tudo-sobre-unhas-br` · 2026-11-28 (mañana) · sesión BR
+- **Qué es:** página con nombre ajeno (manicura) que corre una fábrica de packs «100 mapas / guias / protocolos visuais» en PDF por tema (Excel, desenho mecânico, direito, implantodontia, CFTV, APH, estrias, piercing, moldes de caixas, tabuada…), BRL; precio y entrega no verificados.
+- **Por qué es ganador:** cohorte 7+ **≥ 22 / 105** activos de un solo page_id (piso: 7 visibles en la lista general + 15 más que salen con `search_terms` `guia`/`moldes` + page_ids; el resto no se ve por el tope de 50) · ≥ 10 fechas de creación, el más viejo ≈ 96 d, tanda nueva de ≈ 0,8 d (operador vivo) · ojo: ningún SKU suelto pasa de 6 ads con 7+ d; el volumen es del operador, no de un producto.
+- **Qué hacer:** verificar en la PC el embudo y el precio de 2-3 SKUs (CFTV, APH, Desenho Mecânico) y que sea PDF de verdad; si se confirma, modelar «pack de 100 mapas visuais por oficio/concurso» · destino: Portugal, Italia, Francia, Rumania (PT/IT/FR/RO medir antes) · ángulo: «100 mapas visuales en PDF» por nicho técnico (oficios, exámenes).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=106958424923732>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL): verificar en la PC antes de decidir.
+- Score 2/4 · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-28-br-C-operadores.md`
+
+**Señales del día BR (2026-11-28, mañana, C operadores/agenda):**
+- Edital Master (125481670646964): 14/14 con 7+ d (apostilas EBSERH a R$ 67, 7 fechas de 11-15 y 11-01); ya tuvo tarjeta el 11-18: no repite.
+- Camila Maia (582679418253715): 0/44 con 7+ d (tandas TJSP/CETESB de 11-23 a 11-27: renovó todo); re-medir ~12-03.
+- Terapia das Cores (110206475291825): 10/10 pero una sola tanda del 11-12 (3,5 min entre ads, USD): no pasa el filtro de fechas; Fran Sabina Beauty (114852571578358): 10/10 del 11-03-04, una sola tanda (guía autismo): igual. Re-medir si aparece tanda nueva.
+- Mapas e Guias Visuais (1394868680373327): 6/24 (un SKU, «Teste antes de trocar a peça», USD); 2 ads cruzan 7 d hoy y 4 más el 12-02: re-medir ~12-03.
+- Arte Wisdom (1055208387665683): 11/23 (baja desde 14/29; ads sueltos de abril a nov, multi-SKU); Guia dos Benefícios Sociais 6/6; Bordado de Fe 2/2; Pérola 0/5; Riscos para Bordar 0 activos (muerto).
+- Ryu Nakamura (1237334109469401, agenda 11-24): 1.675 est., los 50 visibles de ≤ 2,4 d, marca personal; clones europeos no medidos por BR; agenda re-fechada a 12-08.
+
 ### 🎯 Kit de estudos para concursos R$ 19,90 — Professora Jaqueline Santos BR · `kit-estudos-concursos-professora-jaqueline-br` · 2026-11-27 (tarde) · sesión BR
 - **Qué es:** «kit de estudos» para concursos a R$ 19,90 (o 4x de R$ 20,66 en una variante mayor), BRL; formato (PDF) no verificado; la página lleva nombre de persona.
 - **Por qué es ganador:** cohorte 7+ **10 / 20** activos, un solo page_id (no es piso) · ≥ 5 fechas de creación, el más viejo ≈ 50 d, 2 tandas nuevas de ≈ 1,8 y 4,5 d (operador vivo) · ojo: solo 1 de los 10 viejos lleva el título del kit, los otros son «Mais informações ->» genéricos.

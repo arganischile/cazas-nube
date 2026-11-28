@@ -282,6 +282,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 - (2026-11-24 BR) `mapas mentais OAB` = cursos/suscripción (Decorando a Lei Seca, Estratégia OAB); `mapas mentais PRF` = lead de noticia (Águia Carreiras Policiais ~21 ads) y cursos; ENEM mapas = estacional, tanda única, posible zombi tras la prueba.
 
 - (2026-11-27 tarde CO) `diseño lencería` = tiendas y Temu (215 est.); `moldes bebé` mezcla cursos BR y personalizados 3D; `patrones bolsos` = crochet (ignorar); rinden `moldes bolsas`, `moldes mascotas`, `moldes lencería` + conteo por `page_ids`.
+- (2026-11-28 BR) En fábricas multi-SKU con > 50 ads, `page_ids` solo devuelve los 50 más nuevos; sumar `search_terms` genérico (`guia`, `moldes`, `mapas`) + `page_ids` revela ads viejos y permite un piso real de la cohorte 7+.
 - (2026-11-27 CO) `pdf $19.900` y `vista previa gratis pdf` = libros personalizados con foto (físicos); `guía completa pdf` = tandas de hoy de Aprende con Guias Profesionales; `imprime o edita` = apps/impresoras; rinde `acceso de por vida pdf` para leer nombres y contar con `page_ids` + `countries`.
 - (2026-11-25 CO) `plantillas fisioterapeutas` = plantillas ortopédicas (ALL 111); `kit abogados` = IA y cursos de peritaje; `plantillas odontólogos`/`veterinarios` casi vacíos; rinden `plantillas psicólogos`, `formatos recursos humanos`, `formatos consultorio`.
 - (2026-11-27 FR tarde) `Pretty Little Teacher` como palabra = 1.697 ads de novelas/short-drama (contar por page_id 398932843295914); `rituels classe` = novelas; `séquences clé en main` (1) y `programmation annuelle` (2) casi vacíos; `méthode de lecture CP` = editoriales con libro físico y apps; `AESH fiches` = 0. Rinden `activités maternelle imprimer` y `assistante maternelle activités`.
@@ -293,10 +294,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 
 | Operador | page_id | País | Por qué se lo sigue |
 |---|---|---|---|
-| Tudo sobre unhas (multi-SKU) | 106958424923732 | BR | 36 ads activos, 8+ SKU (mapas, moldes, proyectos); seguir SKUs nuevos |
-| Riscos para Bordar | 396283016894466 | BR | 7/16 el 2026-11-14; re-medir |
-| Mapas e Guias Visuais | 1394868680373327 | BR | 127 est. activos en una sola tanda; medir cohorte en 3-4 días |
-| Guia dos Benefícios Sociais | 1415031105033080 | BR | 0/7 el 2026-11-15, guía a R$ 19,90, página nueva; re-medir ~2026-11-22 |
+| Tudo sobre unhas (multi-SKU) | 106958424923732 | BR | 36 ads activos, 8+ SKU (mapas, moldes, proyectos); seguir SKUs nuevos · 2026-11-28: ≥22/105 con 7+ d (union de search_terms `guia`/`moldes` + page_ids; la lista general solo muestra 7 de 50); tarjeta en bandeja; re-medir ~12-05 |
+| Riscos para Bordar | 396283016894466 | BR | 7/16 el 2026-11-14; re-medir · 2026-11-28: 0 activos; muerto, sacar en el próximo lint |
+| Mapas e Guias Visuais | 1394868680373327 | BR | 127 est. activos en una sola tanda; medir cohorte en 3-4 días · 2026-11-28: 6/24 (un SKU); 2 ads cruzan 7 d el 11-28/29 y 4 el 12-02; re-medir ~12-03 |
+| Guia dos Benefícios Sociais | 1415031105033080 | BR | 0/7 el 2026-11-15, guía a R$ 19,90, página nueva; re-medir ~2026-11-22 · 2026-11-28: 6/6 (<10); re-medir ~12-05 |
 | Pretty Little Teacher (recursos docentes) | 398932843295914 | FR | 34/50 piso (75 est.) el 2026-11-26, 16 ads nuevos de promo fin de año (11-24/25); antes 36/46 (11-20, tarjeta en bandeja), ALL 586; re-medir ~2026-12-03 |
 | La Bible sur papier (52 histoires PDF 11,90 €) | 1460228643831963 | FR | 0 activos el 2026-11-23 (ALL 17): pausó todo; re-medir ~2026-11-30 |
 | Amélie Boissieu (Kit Comptable 2027) | 1363004406903385 | FR | ≥44/50 piso (est. 74) el 2026-11-23; seguir si se apaga o cambia de SKU; re-medir ~2026-11-30 |
@@ -380,16 +381,16 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Organize com Ju | 1022767074413574 | BR | 11/16 el 2026-11-18 (tarjeta); juzgar marca personal; re-medir ~2026-11-30 |
 | Caderno do Aprovado | 2320343421577880 | BR | 38/50 piso el 2026-11-18 (77 est.; tarjeta en bandeja); re-medir ~2026-11-30 |
 | WebHoje Learn Hub | 456919677509901 | BR | 11/11 el 2026-11-18 (tarjeta en bandeja), 681 ALL; seguir SKUs nuevos; re-medir ~2026-11-30 |
-| Fran Sabina Beauty | 114852571578358 | BR | 10/10 tanda única del 11-03 (guía autismo); re-medir ~2026-11-25 |
-| Pérola Designer de Marcas | 1175619362309032 | BR | 0/11 el 2026-11-18 (tanda 11-13); re-medir ~2026-11-21 |
+| Fran Sabina Beauty | 114852571578358 | BR | 10/10 tanda única del 11-03 (guía autismo); re-medir ~2026-11-25 · 2026-11-28: 10/10 tanda única 11-03/04; re-medir ~12-05 |
+| Pérola Designer de Marcas | 1175619362309032 | BR | 0/11 el 2026-11-18 (tanda 11-13); re-medir ~2026-11-21 · 2026-11-28: 0/5 (ads Notion 11-24); sin re-medir |
 | Tuformulaexactashop (fișe vizuale derecho/SSM) | 1332330876634506 | RO | 0 activos el 2026-11-21 (ALL 169, último creado ≈ 11-18); apagó todo desde 12/22 del 11-19; re-medir solo si reaparece |
 | Mente que sana (Dosarul Familiei) | 1090738757452147 | RO | 0 activos el 2026-11-25 (apagó todo; antes ≥20/67 el 11-21; tarjeta en bandeja); re-medir ~2026-12-07 por si vuelve |
 | Atlas Terapeutic Vizual | 1408033785736088 | RO | 35/50 piso (85 est.; ARS) el 2026-11-25 (tarjeta del 11-16; tanda nueva de hoy); re-medir ~2026-12-02 |
 | Kit Online (atlas «PRO™» multilingüe) | 694829257056991 | RO | 0 con 7+ d en rumano el 2026-11-19 (157 est., HU/CZ/PL/TR/HE); re-medir ~2026-11-24 |
-| Edital Master / Camila Maia | 125481670646964 / 582679418253715 | BR | 12/50 piso y 13/45 el 2026-11-18 (tarjetas); re-medir ~2026-11-24 |
-| Arte Wisdom (Bordados de Refúgio no Papel) | 1055208387665683 | BR | 9/16 el 2026-11-19 (BRL, multi-SKU); 2 ads cruzan 7 d el 11-21/22; re-medir ~2026-11-22 |
-| Bordado de Fe (versículos pra bordar no papel) | 1309870588884741 | BR | 8/17 el 2026-11-19 (USD); 9 ads de 11-18 cruzan 7 d ~11-25; re-medir ~2026-11-25 |
-| Terapia das Cores (600 riscos) | 110206475291825 | BR | 0/50 piso (80 est.) el 2026-11-19, tanda masiva 11-18 (USD); re-medir ~2026-11-25 |
+| Edital Master / Camila Maia | 125481670646964 / 582679418253715 | BR | 12/50 piso y 13/45 el 2026-11-18 (tarjetas); re-medir ~2026-11-24 · 2026-11-28: 14/14 y 0/44 (Camila renovó todo); re-medir ~12-03 |
+| Arte Wisdom (Bordados de Refúgio no Papel) | 1055208387665683 | BR | 9/16 el 2026-11-19 (BRL, multi-SKU); 2 ads cruzan 7 d el 11-21/22; re-medir ~2026-11-22 · 2026-11-28: 11/23 (baja desde 14/29); re-medir ~12-05 |
+| Bordado de Fe (versículos pra bordar no papel) | 1309870588884741 | BR | 8/17 el 2026-11-19 (USD); 9 ads de 11-18 cruzan 7 d ~11-25; re-medir ~2026-11-25 · 2026-11-28: 2/2 activos; baja; sin re-medir |
+| Terapia das Cores (600 riscos) | 110206475291825 | BR | 0/50 piso (80 est.) el 2026-11-19, tanda masiva 11-18 (USD); re-medir ~2026-11-25 · 2026-11-28: 10/10 una sola tanda del 11-12 (USD); re-medir ~12-05 |
 | Psicologia & Recursos 2025 (kits psicólogos) | 469568772899568 | MX | 16/16 el 2026-11-19 (tarjeta en bandeja); COP, 0 en CO; página hermana Psicología & Recursos 163465520189615 0/4 el 11-20 (SKU neuropsicología nuevo); 16/16 el 2026-11-27 (principal); re-medir ~2026-12-04 |
 | Inglés en Mapas | 1349240448283092 | MX | 0 activos el 2026-11-20 (apagado); sin re-medir salvo que reaparezca |
 | Tus Clases Online (megapack/moldes) | 103959345113295 | MX | 0/50 piso el 2026-11-20 (≤ 4,5 d, 102 est.); 0/50 piso el 2026-11-27 (202 est., tandas ≤ 2,6 d); re-medir ~2026-12-01 con `search_terms` por SKU |
@@ -413,7 +414,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-28 | BR (mañana) | C agenda/operadores (sáb) | operadores BR + agenda vencida | en curso | en curso | — |
+| 2026-11-28 | BR (mañana) | C agenda/operadores (sáb) | operadores BR + agenda Calistenia | 0 por keyword; 12 conteos por page_id (BR) + 2 con search_terms (Tudo sobre unhas) | 1 tarjeta (Tudo sobre unhas ≥22/105); Edital Master 14/14 (ya tarjeta); Terapia y Fran Sabina 10/10 tanda única | operadores re-medir ~12-03/05 |
 | 2026-11-28 | EU (mañana) | C operadores/agenda (sáb; EU sin agenda propia → operadores US vencidos) | operadores US | 0 búsquedas por keyword; 10 conteos por page_id en US (Fenix Library, Methodyco, Digital Accademy, RMKLY, Amen Core, Session Ready, Mapa do Inglês, Realifestation, Emily D, Bop Jazz) | 0 tarjetas; Digital Accademy 50/50 piso (sube), Realifestation ≥45/50, Bop Jazz 50/50, Amen Core 28/34 (todos ya con tarjeta); Methodyco/Fenix/Session Ready 0/50 (tandas ≤ 2,7 d); Mapa do Inglês baja a 21/26; Emily D ≈32/44 con copy en 1.ª persona (¿persona?). Informe RAW/cazas-auto/2026-11-28-eu-C-operadores-us.md | operadores US re-medir ~12-05 |
 | 2026-11-27 | CO (tarde) | B perforar (vie tarde; virgen CO más viejo sin perforar) | moldes-costura-pdf-co | moldes bebé, mascotas, patrones bolsos, moldes lencería, moldes novia vestidos, diseño lencería, moldes ropa deportiva + 9 conteos por page_id (CO) + cruce BR/IT/FR/RO/PT | 1 tarjeta (Mundo de La Costura 33/33); señales: Diseño de Lencería 10/10 (oferta n/i), Confección Ropa para Perros 9/9, Daniela Rodriguez 9/9 sandalitas (multi-SKU), Academia Esencia & Salud 0/9. Informe RAW/cazas-auto/2026-11-27-co-B-moldes-costura-pdf-co-tarde.md | moldes-costura-pdf-co superficial (con tarjeta); re-medir ~12-01 |
 | 2026-11-27 | MX (tarde) | B perforar (vie tarde; virgen MX con re-medición vencida y sin tocar en 7 d) | devocionales-oracion-luz-de-mi-angel-mx | page_id Luz de mi Ángel, oración de la mañana pdf, devocional diario guía, novena pdf, salmos oraciones libro digital, oraciones poderosas guía descargable (0), rosario guía imprimible (0), calendario de adviento imprimible niños + 4 conteos por page_id (Camino de Fe, Infancia Católica, María Fernanda, Emprende con Alma) + cruce BR/PT/IT/FR/RO adviento | 1 tarjeta (Infancia Católica 50/50 piso, combo Adviento y Navidad católico, destino IT/FR); señales: Luz de mi Ángel 10/10 con una sola fecha de creación (no pasa), María Fernanda 15/25 oferta n/i, Emprende con Alma 6/58, Camino de Fe 0/11; informe RAW/cazas-auto/2026-11-27-mx-B-devocionales-oracion-luz-de-mi-angel-mx-tarde.md | superficial; hijo nuevo kit-adviento-navidad-catolico-infancia-catolica-mx |
