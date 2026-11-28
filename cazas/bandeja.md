@@ -1291,6 +1291,22 @@ RO 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-MX: la sesión MX inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Aprende a usar tu péndulo en 7 días» (guía/mini-curso de péndulo) — Regarte MX · `esoterismo-pendulo-regarte-mx` · 2026-11-28 · sesión MX
+- **Qué es:** guía o mini-curso para aprender a usar el péndulo en 7 días (esoterismo/espiritualidad), moneda USD; formato (PDF/video) y precio no visibles por API. Un solo creativo-título repetido en todos los ads.
+- **Por qué es ganador:** cohorte 7+ **≥ 14 / 108 est.** en MX (piso: 14 ads creados 11-19, 11-20 y 11-21 a 7,3-9,5 d aparecen en la tanda de 50; por diferencia con los 44 más nuevos serían ≈ 64), un solo page_id con nombre de marca y sin cara · ≥ 8 fechas de creación distintas entre 11-19 y 11-27, el más nuevo con 1,3 d (operador vivo) · sin ficha ni tarjeta previas.
+- **Qué hacer:** verificar en la PC embudo, formato y precio; si es PDF/mini-curso, modelar «péndulo en 7 días» (radiestesia práctica para principiantes) llevándolo a **BR** (pêndulo), **IT** (pendolo), **FR** (pendule) y **RO** (pendul); PT y los demás destinos sin medir · ángulo: método de 7 días paso a paso a ticket mínimo (≈ US$ 10). Variante vista en AR: Manifiesta TU EXITO «Del día 1 al día 21 con tu péndulo» (0/2, ARS, no cuenta en MX).
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1342388312284290>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato, precio, escalera n/e). Snapshot: https://www.facebook.com/ads/library/?id=1799517967984300
+- Evidencia: API; snapshot y embudo no verificados desde la nube · Score 3/4 · escalera n/e · Decisión: —
+
+**Señales del día MX 2026-11-28**
+- Letras Vivas (1335342766338276): 10/10 (BRL, «500 actividades + 8 bonos por US$ 6,90», kit de lectoescritura, 22 d) pero los 10 ads se crearon el mismo día (11-06): no pasa el filtro de ≥ 3 fechas; re-medir ~12-05 por si sube una tanda nueva.
+- Imprime y Enseña (1201567266377705): 4/15 (USD, bingo navideño $99, inglés con pronunciación, «recíbelo primero y paga después»): bajo la vara.
+- Launch Pro (1470093116182579): 6/6 (MXN, 7,7 d, curso «vender con anuncios»): bajo la vara; formato no verificado.
+- Aprende con Guias Profesionales (1380966491766673): ≈ 45/50 de hoy (466 est.): red Aprendia, ya tiene tarjeta (fichas multi-tema).
+- Clones de «500 actividades» (terapia ocupacional / escritura / masajes): Sentidos en Juego 0/3, Helena Martins Lifestyle 0/11, Valentina Herrera 1/4, Aprende emprende y gana 0/1: todo ≤ 3 d.
+- Método HACER 0/6 (3 d, $5 hábitos/organización), Sofia Martins Club Mini Color 0/4, Método Puente 0/3: todo ≤ 3 d.
+
 ### 🎯 Combo de Adviento y Navidad católico para niños (195 págs, 6 materiales) — Infancia Católica MX · `devocionales-oracion-luz-de-mi-angel-mx` · 2026-11-27 · sesión MX (tarde)
 - **Qué es:** kit imprimible católico de Adviento y Navidad para familias con niños («195 páginas», «6 materiales», novena paso a paso, «Nueve noches ante el Nacimiento», colorear el Evangelio); moneda BRL; precio no visto.
 - **Por qué es ganador:** cohorte 50/50 piso en MX (todos de 19 a 23 d; la API no pasa de 50), 3 fechas de creación (11-04/05/08), un solo page_id con nombre de marca y sin cara; sin ficha ni tarjeta previas. Estacional: el Adviento empieza el 29-nov, ventana hasta el 24-dic.

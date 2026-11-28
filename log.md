@@ -270,3 +270,4 @@
 ## [2026-11-28] caza-auto | IT A huella — → 1 candidatos a bandeja
 ## [2026-11-28] caza-auto | FR B psicopatologia-fichas-visuales-fr → 1 candidatos a bandeja
 ## [2026-11-28] caza-auto | RO C operadores operadores-ro → 0 candidatos a bandeja
+## [2026-11-28] caza-auto | MX A huella → 1 candidatos a bandeja
