@@ -1598,6 +1598,11 @@ MX 2026-11-15: domingo, lint de la cola; sin nodos, operadores ni agenda MX venc
 
 <!-- TARJETAS-CO: la sesión CO inserta sus tarjetas del día justo debajo de esta línea -->
 
+CO 2026-11-28: nada que pase la vara; se barrió fichas de fotografía con celular (retratos, mascotas, producto, edición, viaje, pareja/bodas) + cruce BR/FR/RO/IT.
+**Señales del día CO**
+- Fichas Foto Pro 26/26 estable (ya con tarjeta del 11-20); clones nuevos de hoy todos ≤ 4,6 d: Disparo Claro ≈17 ads, Clara Montes «130 atajos» 5, Fotografía Resuelta 4, Modo M 1/4 (re-medir ~12-02).
+- Destino del molde: IT Scatto Sicuro (60 schede) apagado = cementerio; FR Fiches Photo Pro 5 ads; BR Lucas Ferreira 9/13; RO Tania Eva 1 ad — ventana ya probada por testers.
+
 ### 🎯 Packs de 50 moldes de costura por prenda (bolsas, mochilas, estuches, neceseres, bebé) — Mundo de La Costura CO · `moldes-costura-pdf-co` · 2026-11-27 · sesión CO
 - **Qué es:** packs de «50 moldes» por prenda de tela (50 Bolsas de Tela, 40 Mochilas, 50 Estuches, 50 Neceseres, 50 Piezas para Bebés); formato digital supuesto por el título «moldes»; precio no visible (BRL en los creativos, copy en español).
 - **Por qué es ganador:** cohorte 7+ de 33/33 activos en CO (p. 1349247861598328; 4 tandas creadas 11-sep, 16-sep, 23-oct y 17-nov, ninguna de hoy: operador vivo); longevidad por API 10-77 d; 5 SKU de un mismo molde; sin marca personal; 1 operador. En BR esta página no corre (0 ads).
