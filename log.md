@@ -268,3 +268,4 @@
 ## [2026-11-28] caza-auto | EU C operadores operadores-us → 0 candidatos a bandeja
 ## [2026-11-28] caza-auto | BR C operadores operadores-br+agenda → 1 candidatos a bandeja
 ## [2026-11-28] caza-auto | IT A huella — → 1 candidatos a bandeja
+## [2026-11-28] caza-auto | FR B psicopatologia-fichas-visuales-fr → 1 candidatos a bandeja

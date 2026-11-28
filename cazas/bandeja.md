@@ -693,6 +693,21 @@ IT 2026-11-15 (tarde): domingo, lint de la cola; sin nodos, operadores ni agenda
 
 <!-- TARJETAS-FR: la sesión FR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Fiches de revisión IFSI (estudiantes de enfermería) — SkillNova FR · `fiches-ifsi-skillnova-fr` (nodo nuevo, hijo de `psicopatologia-fichas-visuales-fr`) · 2026-11-28 · sesión FR
+- **Qué es:** fiches de colores para estudiantes de enfermería (IFSI), por las 15 UE del référentiel y de S1 a S6: «une maladie = une page», 130 fiches de pathologies, pharmacologie y calculs de doses, cas cliniques corrigés. Ángulos: «Prête pour tes partiels ?» y regalo («le cadeau qu'elle va vraiment utiliser»). El precio y el formato no se ven por API.
+- **Por qué es ganador:** 11/16 ads activos en FR con 7+ d, todos de un solo page_id (10 de la tanda 11-16 con el mismo molde «Prête pour tes partiels ?» y 1 del 11-20). El ad más viejo tiene ≈ 11 d. Hay 5 ads nuevos de hoy y 46 en ALL. El operador está vivo: corre tandas desde el 11-13 y apaga las que no rinden. Es una fábrica sin cara (MXN) que también testeó patchwork y ABA en FR y conservó solo IFSI. Hay más operadores con el mismo molde, pero ninguno con cohorte (PathoFiches 0/4, PharmaFiches 4/4, Kit Online).
+- **Qué hacer:** modelar «toda la carrera de enfermería en fiches PDF por materia/semestre» con el ángulo de los parciales de enero más el regalo. Destino **IT** (hueco: `schede infermieristiche` da 1 solo ad, de una escuela), después PT (PathoCards sin cohorte) y RO. Es el molde Pflegelernzettel de la agenda del hub.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1447903168404900&search_type=page&media_type=all>
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (precio, ¿PDF o fichas impresas? El ángulo «cadeau» puede ser objeto). Snapshots: https://www.facebook.com/ads/library/?id=1144564971398046 · https://www.facebook.com/ads/library/?id=1819692855938887 · https://www.facebook.com/ads/library/?id=2375371086621682
+- Score 1/4 (hueco IT/PT; longevidad ≈ 11 d, volumen < 50, duplicación sin cohorte) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-28-fr-B-psicopatologia-fichas-visuales-fr.md`
+
+**Señales del día FR (2026-11-28):**
+- Esprit Académique (1229441186928180): sigue dueña de todas las keywords de psicopatología en FR (34-47 resultados por keyword). Ya tiene tarjeta del 11-18; re-medir ~12-03.
+- Mesa Ligera (1219245414615500): SKU nuevo «Psychiatrie en fiches : de F00 à F98» (EUR), 2/4 con 7+ d, más ads del 11-24/27; re-medir ~12-02.
+- Psyacademy 5/14 y Bienestar Consciente 3/9 en FR corren creativos en inglés (no cuentan). Atlas Visuel de Psychopathologie, Education in Practice («+145 fiches psychiatrie») y Le Kit du Psychologue («275 documents») tienen 0 activos: se apagaron.
+- PharmaFiches (1458583803997791): 4/4, una sola tanda del 10-31 («Enfin retenir ses médicaments»). Révisions IFSI/PathoFiches (1429237553609730): 0/4 (11-23); re-medir ~12-02.
+
 ### 🎯 Activités d'éveil 0-3 ans «prêtes ce soir» para assistantes maternelles — L'Année d'Éveil Prête FR · `annee-eveil-prete-assmat-fr` (nodo nuevo) · 2026-11-27 (tarde) · sesión FR
 - **Qué es:** programa de actividades de despertar 0-3 años listo para usar («votre semaine d'éveil prête en 5 minutes», por edad, «repère sécurité inclus», «sans acheter un seul kit») vendido a la assistante maternelle/crèche con el miedo a la «visite de PMI» y a la «renouvellement d'agrément». Precio y formato no visibles por API.
 - **Por qué es ganador:** 10/21 ads activos en FR con 7+ d, un solo page_id (21 = total); 9 fechas de creación en la cohorte (10-30 → 11-19) y tandas nuevas 11-21/22/24/27 (operador vivo); ad más viejo ≈ 28 d. La página hermana L'Année Prête Maternelle (mismo molde «… prête dès lundi» para docentes de maternelle) suma 7/16 aparte (no se cuenta). 0 ads de las dos en IT/PT/BR/RO (ALL).
