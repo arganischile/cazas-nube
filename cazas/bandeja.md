@@ -1804,6 +1804,16 @@ CO 2026-11-17: nada que pase la vara; se barrió guía pdf acceso inmediato, pla
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+EU 2026-11-28 (mañana): nada que pase la vara; se re-midieron 10 operadores US (Digital Accademy, Realifestation, Bop Jazz, Amen Core, Mapa do Inglês, RMKLY, Methodyco, Fenix Library, Session Ready, Emily D), todos ya con tarjeta o con cohorte 0.
+
+**Señales del día EU (mañana) 2026-11-28**
+- Digital Accademy (p. 304351576094657, tarjeta 11-24): 50/50 piso (est. 83) con 7+ d, sube desde 12/50; multi-SKU de exámenes y trámites.
+- Realifestation (p. 1345136965345763, tarjeta 11-27): ≥45/50 piso, sube desde 39.
+- Mapa do Inglês (p. 1170077372866827, tarjeta 11-24): 21/26, baja desde 31/31.
+- Methodyco 0/50, Fenix Library 0/50 (est. 250) y Session Ready 0/50: tandas de ≤ 2,7 d; re-medir ~12-05.
+- Emily D (p. 992566507281610): ≈32/44 «100+ Spells», pero copy en 1.ª persona y página con nombre de persona: probable marca personal, sin tarjeta.
+
+
 ### 🎯 «The Jazz Standards Playbook» (PDF/libro de estándares de jazz + lead magnet PDF gratis) — Learn Jazz Standards.com US · `masterclass-guitarra-bop-jazz-us` · 2026-11-27 (tarde) · sesión EU
 - **Qué es:** playbook de estándares de jazz (formato probable PDF/ebook; no confirmado) vendido con 70 % off en Black Friday, alimentado con un PDF gratis («Free Super Jazz Standards PDF Download»); precio no visible; USD.
 - **Por qué es ganador:** 24 ads con 7+ d de 24 activos (est. 24, no es piso) de un solo page_id · ≥ 7 fechas de creación (10-27 → 11-13, el último hace 14 d) + 8 ads del lead magnet de ~121 d · mismo título «70% Off The Jazz Standards Playbook» en ~16 ads = molde afinado · nombre de página de marca sin persona · también llega a IT/FR/BR/PT/RO en inglés (676 ALL est.), sin molde nativo.
