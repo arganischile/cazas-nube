@@ -406,6 +406,20 @@ BR 2026-11-14: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-IT: la sesión IT inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «520 mappe mentali · dall'A1 al C2» — mapas mentales de idiomas en PDF (€12,90) — Lingua Chiara IT · `mappe-mentali-lingue-it` · 2026-11-28 · sesión IT
+- **Qué es:** pack de 520 mapas mentales para aprender idiomas (inglés, español, francés) de A1 a C2 + 5 bonus; €12,90 pago único, acceso inmediato (por títulos de los ads); formato probable PDF/imágenes, no visible por API.
+- **Por qué es ganador:** cohorte 7+ **29 / ≥50 activos** en IT (tanda inglés 11-20) + ≥26 de la tanda español 11-19 · un solo page_id (p. 1034177656443347) · creativos desde 11-03, tandas 11-10, 11-19, 11-20 y 11-27 (≥5 fechas, operador vivo ≥25 d) · marca de nicho sin cara · mismo molde en 3 idiomas (inglés, español, «Mappa del Francese™»).
+- **Qué hacer:** verificar en la PC embudo, formato y precio; modelar «mapas mentales de idioma por nivel» · destino: Italia ya corre; llevar a Portugal y Brasil (inglés para lusófonos; BR ya tiene Mapa do Inglês de otro operador), Francia y Rumania · ángulo «la scuola ti ha dato le regole, qui c'è la mappa» + errores típicos del hablante nativo.
+- **Ads Library:** <https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=1034177656443347>
+- **Landing:** embudo no verificado desde la nube (la API no trae URL).
+- Score 3/4 provisorio (cohorte, longevidad y precio OK; embudo sin verificar) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube; longevidad por API, snapshot no verificado. Informe: `RAW/cazas-auto/2026-11-28-it-A-huella.md`
+
+**Señales del día IT (mañana, 2026-11-28, huella)**
+- Luca Ferrari (p. 1275716428958044): ≥20/≥50 con 7+ d, título único «A SOLI €9,99», oferta no identificada (API sin cuerpo ni URL), nombre de persona: verificar en la PC; no tarjeta.
+- Formula DG (p. 1365224956675289): 17/36 con 7+ d pero repartidos en ≥5 temas y 2 idiomas (factoría multi-SKU); ningún eje llega a 10.
+- Redes nuevas sin cohorte aún, re-medir ~12-05: Inkora Digital 0/22 («X spiegato con i disegni»), Alessandro Ferrini 0/22 (manuales técnicos), Expert Guides 0/17, Udemia.IA ≥10 ads ≤2,8 d (curso de IA), Missione Inglese 50 missioni €14,90 (ads de 1,5 d).
+
 ### 🎯 «100+ progetti a €27» — planos de carpintería DIY en PDF (con medidas) — MrGeppetto IT · `dime-falegnameria` · 2026-11-27 (tarde) · sesión IT
 - **Qué es:** colección de 100+ proyectos de carpintería con fichas «al millimetro» (muebles, regalos, piezas por tablas) + «Manuale Furbo» de regalo; ticket €27 (-50 % Black Friday en el título); formato exacto no visible por API (planos/PDF probable).
 - **Por qué es ganador:** cohorte 7+ **34 / 34 activos** en IT (conteo exacto, total 34) · un solo page_id · creativos desde 2025-10 y tandas de 10-02, 10-23, 11-05, 11-16 y 11-20 (≥ 12 fechas, operador vivo, 7 meses seguidos) · títulos mascota/marca sin cara visible.

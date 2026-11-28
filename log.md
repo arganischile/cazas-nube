@@ -267,3 +267,4 @@
 ## [2026-11-27] caza-auto | CO B perforar moldes-costura-pdf-co (tarde) → 1 candidatos a bandeja
 ## [2026-11-28] caza-auto | EU C operadores operadores-us → 0 candidatos a bandeja
 ## [2026-11-28] caza-auto | BR C operadores operadores-br+agenda → 1 candidatos a bandeja
+## [2026-11-28] caza-auto | IT A huella — → 1 candidatos a bandeja
